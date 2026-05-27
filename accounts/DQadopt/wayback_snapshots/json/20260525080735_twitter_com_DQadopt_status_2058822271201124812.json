@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2058228249550049494",
+    "created_at": "2026-05-25T08:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T09:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058822271201124812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1730458100703064064",
+          "start": 0,
+          "username": "AngffaBang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058822271201124812",
+    "in_reply_to_user_id": "1730458100703064064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058228249550049494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AngffaBang 我不喜欢劝人活，因为我深刻明白有的人活着确实很无聊很没有意义，没有意义的一生应该尽快结束好好休息，有的人生来就是不幸的，所以我希望你顺利一次就成功"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058228215458750464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJBLqDEa4AA7bWk.jpg",
+        "width": 924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2058228249550049494",
+        "created_at": "2026-05-25T08:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058822271201124812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058822271201124812",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058228249550049494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 我不喜欢劝人活，因为我深刻明白有的人活着确实很无聊很没有意义，没有意义的一生应该尽快结束好好休息，有的人生来就是不幸的，所以我希望你顺利一次就成功"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058228215458750464"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "2058228249550049494",
+        "created_at": "2026-05-23T16:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T17:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058228249550049494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eNmgUAaZne",
+              "end": 105,
+              "expanded_url": "https://x.com/AngffaBang/status/2058228249550049494/photo/1",
+              "media_key": "3_2058228215458750464",
+              "start": 82,
+              "url": "https://t.co/eNmgUAaZne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058228249550049494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 10188,
+          "like_count": 112,
+          "quote_count": 0,
+          "reply_count": 53,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉还是烧炭最温柔的方式了，我没药磕又割不了手完完全全都逃避不了现实，我讨厌这世界上任何的东西，我活的好痛苦，好痛苦，好痛苦，等我东西到了我要打扮的漂漂亮亮死掉 https://t.co/eNmgUAaZne"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2347,
+          "following_count": 342,
+          "like_count": 3434,
+          "listed_count": 1,
+          "media_count": 370,
+          "tweet_count": 4154
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058505572014751744/qk1Jykyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8114,
+          "following_count": 616,
+          "like_count": 6528,
+          "listed_count": 7,
+          "media_count": 519,
+          "tweet_count": 2957
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

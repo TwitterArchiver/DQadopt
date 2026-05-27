@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2021457187575562444",
+    "created_at": "2026-02-11T05:32:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T06:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021457187575562444"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021457187575562444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "致幻剂是给幸福者的礼物，却是不幸者的毒药\n所谓「凡有的，还要加给他，叫他有余；凡没有的，连他所有的也要夺去」\n——《马太福音》第25章第29节\n太孤独所以吃致幻剂，清醒后加倍的返还痛苦，啊，真的很累了，我好想抱抱啊，我有多想抱抱就有多想死去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2021457187575562444",
+        "created_at": "2026-02-11T05:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T06:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021457187575562444"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021457187575562444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "致幻剂是给幸福者的礼物，却是不幸者的毒药\n所谓「凡有的，还要加给他，叫他有余；凡没有的，连他所有的也要夺去」\n——《马太福音》第25章第29节\n太孤独所以吃致幻剂，清醒后加倍的返还痛苦，啊，真的很累了，我好想抱抱啊，我有多想抱抱就有多想死去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 84,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 450
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

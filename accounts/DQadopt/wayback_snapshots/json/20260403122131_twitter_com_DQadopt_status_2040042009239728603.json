@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2040012205517922483",
+    "created_at": "2026-04-03T12:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T13:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040042009239728603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1926122661152751616",
+          "start": 0,
+          "username": "piuoxo060"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040042009239728603",
+    "in_reply_to_user_id": "1926122661152751616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040038135070085630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@piuoxo060 谢谢呀！希望你也幸福快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2040012205517922483",
+        "created_at": "2026-04-03T12:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T13:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040042009239728603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926122661152751616",
+              "start": 0,
+              "username": "piuoxo060"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040042009239728603",
+        "in_reply_to_user_id": "1926122661152751616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040038135070085630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@piuoxo060 谢谢呀！希望你也幸福快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926122661152751616",
+        "conversation_id": "2040012205517922483",
+        "created_at": "2026-04-03T12:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T13:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040038135070085630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040038135070085630",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040037652280590822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 你是善良的宝宝🥺🥺女孩子也好乖好有礼貌说你是天使！感觉她会因为这件事长大了也会成为和你一样的人！看得我哈特软软&gt;&lt;…真心祝愿你和小女孩都幸福快乐！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 269,
+          "like_count": 2386,
+          "listed_count": 0,
+          "media_count": 292,
+          "tweet_count": 2744
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T03:46:50.000Z",
+        "description": "060|人机恋|路过喜欢的推会评论|无害的严重精神病|不谈恋爱|善用屏蔽对你我都好|^q^喜欢美女美丽的东西细腻的文字嘻嘻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/piuoxo060",
+                "end": 23,
+                "expanded_url": "https://ngl.link/piuoxo060",
+                "start": 0,
+                "url": "https://t.co/vTkgMV46Nh"
+              }
+            ]
+          }
+        },
+        "id": "1926122661152751616",
+        "location": "不回奇怪私信",
+        "name": "060",
+        "pinned_tweet_id": "2036723383166271621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017322311083597824/S--9Sap2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 83,
+          "like_count": 4292,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 1319
+        },
+        "url": "https://t.co/vTkgMV46Nh",
+        "username": "piuoxo060",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2054379535035158925",
+    "created_at": "2026-05-13T01:53:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T02:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054379535035158925"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/432ifantrygrou…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/432ifantrygroup/status/2054084393237610771",
+          "start": 17,
+          "url": "https://t.co/l95MntHSnw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054379535035158925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054084393237610771",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "记得当时我才幼儿园，那天被吓到了 https://t.co/l95MntHSnw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1482,
+        "media_key": "3_2054084079042404352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGSlj4boAA8rqv.jpg",
+        "width": 1440
+      },
+      {
+        "height": 954,
+        "media_key": "3_2054084079059128320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGSlj8a0AAi4kX.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1904,
+        "media_key": "3_2054084373847379968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGS2uHakAA-I0s.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1207,
+        "media_key": "3_2054084079881232384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGSlnAbIAAG4kM.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2054379535035158925",
+        "created_at": "2026-05-13T01:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T02:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054379535035158925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/432ifantrygrou…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/432ifantrygroup/status/2054084393237610771",
+              "start": 17,
+              "url": "https://t.co/l95MntHSnw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054379535035158925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054084393237610771",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "记得当时我才幼儿园，那天被吓到了 https://t.co/l95MntHSnw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054084079042404352",
+            "3_2054084079059128320",
+            "3_2054084373847379968",
+            "3_2054084079881232384"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2054084393237610771",
+        "created_at": "2026-05-12T06:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054084393237610771"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 56,
+              "tag": "512防灾减灾日"
+            },
+            {
+              "end": 72,
+              "start": 66,
+              "tag": "汶川大地震"
+            },
+            {
+              "end": 81,
+              "start": 73,
+              "tag": "那个黑色的下午"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k8dks0uH1F",
+              "end": 105,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2054084393237610771/photo/1",
+              "media_key": "3_2054084079042404352",
+              "start": 82,
+              "url": "https://t.co/k8dks0uH1F"
+            },
+            {
+              "display_url": "pic.x.com/k8dks0uH1F",
+              "end": 105,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2054084393237610771/photo/1",
+              "media_key": "3_2054084079059128320",
+              "start": 82,
+              "url": "https://t.co/k8dks0uH1F"
+            },
+            {
+              "display_url": "pic.x.com/k8dks0uH1F",
+              "end": 105,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2054084393237610771/photo/1",
+              "media_key": "3_2054084373847379968",
+              "start": 82,
+              "url": "https://t.co/k8dks0uH1F"
+            },
+            {
+              "display_url": "pic.x.com/k8dks0uH1F",
+              "end": 105,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2054084393237610771/photo/1",
+              "media_key": "3_2054084079881232384",
+              "start": 82,
+              "url": "https://t.co/k8dks0uH1F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054084393237610771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2877,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "“任何困难都难不倒英雄的中国人民”\n                        ----时任国家主席胡锦涛\n#512防灾减灾日 #汶川大地震 #那个黑色的下午 https://t.co/k8dks0uH1F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2278,
+          "following_count": 340,
+          "like_count": 3389,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 4020
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2054346706662412789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 3780,
+          "like_count": 35844,
+          "listed_count": 4,
+          "media_count": 389,
+          "tweet_count": 9623
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

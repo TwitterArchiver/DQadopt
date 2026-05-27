@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2052319811846471711",
+    "created_at": "2026-05-08T07:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T08:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052651003607204027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "365350929",
+          "start": 0,
+          "username": "linqing0809"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052651003607204027",
+    "in_reply_to_user_id": "365350929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052357974765842799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linqing0809 对啊好吓人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2052319811846471711",
+        "created_at": "2026-05-08T07:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052651003607204027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "365350929",
+              "start": 0,
+              "username": "linqing0809"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052651003607204027",
+        "in_reply_to_user_id": "365350929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052357974765842799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linqing0809 对啊好吓人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "365350929",
+        "conversation_id": "2052319811846471711",
+        "created_at": "2026-05-07T12:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052357974765842799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052357974765842799",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052319811846471711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 我都不敢发了，要是发的话一下子就删了主要是老是有人看到就举报我上个号就是被举报没了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2267,
+          "following_count": 342,
+          "like_count": 3348,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 3935
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-31T08:56:33.000Z",
+        "description": "血珠滴落处 绽开一株彼岸花",
+        "id": "365350929",
+        "location": "switzerland🇨🇭",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2047013386999988365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051717237569097728/agyL9w8h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 46,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 96
+        },
+        "username": "linqing0809",
+        "verified": false
+      }
+    ]
+  }
+}

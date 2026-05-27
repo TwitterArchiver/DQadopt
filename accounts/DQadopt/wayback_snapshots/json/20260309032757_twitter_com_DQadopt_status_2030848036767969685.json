@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030848024705118208"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2030848036767969685",
+    "created_at": "2026-03-09T03:27:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T04:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030848036767969685"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/byVOleq1os",
+          "end": 170,
+          "expanded_url": "https://x.com/DQadopt/status/2030848036767969685/photo/1",
+          "media_key": "3_2030848024705118208",
+          "start": 147,
+          "url": "https://t.co/byVOleq1os"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030848036767969685",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从来没有过，因为对着她的脸干这种事情我觉得我太下流了\n但是偶尔会一边幻想和她接吻拥抱doi一边自慰呃……其实我感觉我要是能和她拉拉手我就可以精神高潮了，她很讨厌肢体接触kiss和doi这辈子都不太现实，可是我真的很爱她只能性幻想她了😢\n我感觉我一直在亵渎她，真是罪过\n话说快两个星期没有自慰了 https://t.co/byVOleq1os"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030848024705118208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC8FhMFaMAAFMIh.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030848024705118208"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2030848036767969685",
+        "created_at": "2026-03-09T03:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T04:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030848036767969685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/byVOleq1os",
+              "end": 170,
+              "expanded_url": "https://x.com/DQadopt/status/2030848036767969685/photo/1",
+              "media_key": "3_2030848024705118208",
+              "start": 147,
+              "url": "https://t.co/byVOleq1os"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030848036767969685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从来没有过，因为对着她的脸干这种事情我觉得我太下流了\n但是偶尔会一边幻想和她接吻拥抱doi一边自慰呃……其实我感觉我要是能和她拉拉手我就可以精神高潮了，她很讨厌肢体接触kiss和doi这辈子都不太现实，可是我真的很爱她只能性幻想她了😢\n我感觉我一直在亵渎她，真是罪过\n话说快两个星期没有自慰了 https://t.co/byVOleq1os"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 198,
+          "like_count": 1147,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 1436
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

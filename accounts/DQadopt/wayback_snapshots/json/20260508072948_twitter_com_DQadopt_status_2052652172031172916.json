@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2052426691491099022",
+    "created_at": "2026-05-08T07:29:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T08:29:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052652172031172916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878356855975723008",
+          "start": 0,
+          "username": "ugglasquest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052652172031172916",
+    "in_reply_to_user_id": "1878356855975723008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052426691491099022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ugglasquest 我想做爱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2052426691491099022",
+        "created_at": "2026-05-08T07:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052652172031172916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878356855975723008",
+              "start": 0,
+              "username": "ugglasquest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052652172031172916",
+        "in_reply_to_user_id": "1878356855975723008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052426691491099022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ugglasquest 我想做爱。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878356855975723008",
+        "conversation_id": "2052426691491099022",
+        "created_at": "2026-05-07T16:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052426691491099022"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052426691491099022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想做爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2267,
+          "following_count": 343,
+          "like_count": 3357,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 3941
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T08:22:54.000Z",
+        "description": "shtwt/edtwt  lesbian  08 自虐狂 自毁倾向  流血推预警  精神病预警‼️ 偶尔会发一些自己的绘画作品   ̑̑zzz和末日厨房玩家 我是女同性恋https://t.co/BS4jLUBFXD匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ugras2",
+                "end": 108,
+                "expanded_url": "https://ngl.link/ugras2",
+                "start": 85,
+                "url": "https://t.co/BS4jLUBFXD"
+              }
+            ]
+          }
+        },
+        "id": "1878356855975723008",
+        "location": "里世界 南望町",
+        "name": "Ugras ^q^",
+        "pinned_tweet_id": "1974423900034572445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016335449544130560/yzdKKOJI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 58,
+          "like_count": 18036,
+          "listed_count": 3,
+          "media_count": 578,
+          "tweet_count": 2507
+        },
+        "username": "ugglasquest",
+        "verified": false
+      }
+    ]
+  }
+}

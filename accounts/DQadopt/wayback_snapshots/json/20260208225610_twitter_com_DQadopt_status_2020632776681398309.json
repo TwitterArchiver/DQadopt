@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2020632776681398309",
+    "created_at": "2026-02-08T22:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T23:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020632776681398309"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/overdose_six/s…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/overdose_six/status/2018344885322137800",
+          "start": 10,
+          "url": "https://t.co/Bn1gH5Qx4H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020632776681398309",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018344885322137800",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2026是第五年🫡 https://t.co/Bn1gH5Qx4H"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2020632776681398309",
+        "created_at": "2026-02-08T22:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T23:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020632776681398309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdose_six/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/overdose_six/status/2018344885322137800",
+              "start": 10,
+              "url": "https://t.co/Bn1gH5Qx4H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020632776681398309",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018344885322137800",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2026是第五年🫡 https://t.co/Bn1gH5Qx4H"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "622036546",
+        "conversation_id": "2018344885322137800",
+        "created_at": "2026-02-02T15:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T16:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018344885322137800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018344885322137800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 45911,
+          "like_count": 239,
+          "quote_count": 24,
+          "reply_count": 54,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "嗑药的基本活不过五年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 76,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 384
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "太空极乐百科:https://t.co/yzGHPrJoAg  | 接受药物报告投稿 | 里账号:@fuck_8964 | 提问箱:https://t.co/b5c8bbntR6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 30,
+                "expanded_url": "http://taikong.mom",
+                "start": 7,
+                "url": "https://t.co/yzGHPrJoAg"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 89,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 66,
+                "url": "https://t.co/b5c8bbntR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "taikomg.mom",
+                "end": 23,
+                "expanded_url": "http://taikomg.mom",
+                "start": 0,
+                "url": "https://t.co/K8Wy74jyq7"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名#心宿二",
+        "pinned_tweet_id": "1982097076855996754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2697,
+          "following_count": 97,
+          "like_count": 11292,
+          "listed_count": 8,
+          "media_count": 639,
+          "tweet_count": 3793
+        },
+        "url": "https://t.co/K8Wy74jyq7",
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

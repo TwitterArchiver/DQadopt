@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2027576654575661334",
+    "created_at": "2026-02-28T02:48:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T03:48:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027576654575661334"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/freundis21/sta…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/freundis21/status/2027442856319668590",
+          "start": 29,
+          "url": "https://t.co/nZH1OuWUUA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027576654575661334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027442856319668590",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "dpt和pr联用成功惊恐发作最大化，然后有呼吸抑制的感觉 https://t.co/nZH1OuWUUA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027442849894084608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLsh7ZXsAAzM2B.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027442849873072128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLsh7UXEAATuIg.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2027576654575661334",
+        "created_at": "2026-02-28T02:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T03:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027576654575661334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/freundis21/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/freundis21/status/2027442856319668590",
+              "start": 29,
+              "url": "https://t.co/nZH1OuWUUA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027576654575661334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027442856319668590",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "dpt和pr联用成功惊恐发作最大化，然后有呼吸抑制的感觉 https://t.co/nZH1OuWUUA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027442849894084608",
+            "3_2027442849873072128"
+          ]
+        },
+        "author_id": "1975516163078594560",
+        "conversation_id": "2027442856319668590",
+        "created_at": "2026-02-27T17:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027442856319668590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d27WpHpAyy",
+              "end": 176,
+              "expanded_url": "https://x.com/Freundis21/status/2027442856319668590/photo/1",
+              "media_key": "3_2027442849894084608",
+              "start": 153,
+              "url": "https://t.co/d27WpHpAyy"
+            },
+            {
+              "display_url": "pic.x.com/d27WpHpAyy",
+              "end": 176,
+              "expanded_url": "https://x.com/Freundis21/status/2027442856319668590/photo/1",
+              "media_key": "3_2027442849873072128",
+              "start": 153,
+              "url": "https://t.co/d27WpHpAyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027442856319668590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 290,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1pr的镇静和认知钝化会完全稀释dpt视觉效果，而且dpt的副作用比如恶心这些也会被pr放大，bad trip率特别高，如果没控制好量容易身体痉挛或完全无法动弹，所以不建议尝试\np2🈚️但要注意如果里面添加了其他的成分注意一下会不会过敏和注意不要反复抽取防止感染，不过生理盐水有人专用的没必要去买兽用的 https://t.co/d27WpHpAyy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 141,
+          "like_count": 609,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 967
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T10:59:00.000Z",
+        "description": "=废物/Freundis。无言直关抱歉，查成分互fo。匿名提问https://t.co/8kDSGb7b5b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/Freundis",
+                "end": 54,
+                "expanded_url": "https://miyu.link/Freundis",
+                "start": 31,
+                "url": "https://t.co/8kDSGb7b5b"
+              }
+            ]
+          }
+        },
+        "id": "1975516163078594560",
+        "name": "Bokuwayakudatazudesu",
+        "pinned_tweet_id": "1986037851113373928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979709468096053248/NP6_6sIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 685,
+          "like_count": 7512,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 1104
+        },
+        "username": "Freundis21",
+        "verified": false
+      }
+    ]
+  }
+}

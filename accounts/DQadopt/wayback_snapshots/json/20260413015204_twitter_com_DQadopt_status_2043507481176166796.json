@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2043458686656631157",
+    "created_at": "2026-04-13T01:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T02:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043507481176166796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1871178347507834880",
+          "start": 0,
+          "username": "ya003021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043507481176166796",
+    "in_reply_to_user_id": "1871178347507834880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043458686656631157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ya003021 哇哇哇恭喜姐姐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2043458686656631157",
+        "created_at": "2026-04-13T01:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T02:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043507481176166796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1871178347507834880",
+              "start": 0,
+              "username": "ya003021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043507481176166796",
+        "in_reply_to_user_id": "1871178347507834880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043458686656631157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ya003021 哇哇哇恭喜姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871178347507834880",
+        "conversation_id": "2043458686656631157",
+        "created_at": "2026-04-12T22:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T23:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043458686656631157"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043458686656631157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 245,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近一直没更新是因为谈恋爱去了…o(^▽^)o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 316,
+          "like_count": 2848,
+          "listed_count": 0,
+          "media_count": 324,
+          "tweet_count": 3286
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-23T12:57:46.000Z",
+        "description": "一条狗而已.",
+        "id": "1871178347507834880",
+        "name": "huh puppy",
+        "pinned_tweet_id": "2025131305181331568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002822373301723136/yULvFrJH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 9,
+          "like_count": 531,
+          "listed_count": 4,
+          "media_count": 126,
+          "tweet_count": 539
+        },
+        "username": "ya003021",
+        "verified": false
+      }
+    ]
+  }
+}

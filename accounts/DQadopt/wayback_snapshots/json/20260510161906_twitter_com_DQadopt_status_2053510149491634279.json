@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2053487133235859676",
+    "created_at": "2026-05-10T16:19:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T17:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053510149491634279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1370779988157415427",
+          "start": 0,
+          "username": "Jade_vib"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053510149491634279",
+    "in_reply_to_user_id": "1370779988157415427",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053505743987290559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jade_vib 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2053487133235859676",
+        "created_at": "2026-05-10T16:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T17:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053510149491634279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1370779988157415427",
+              "start": 0,
+              "username": "Jade_vib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053510149491634279",
+        "in_reply_to_user_id": "1370779988157415427",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053505743987290559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jade_vib 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1370779988157415427",
+        "conversation_id": "2053487133235859676",
+        "created_at": "2026-05-10T16:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T17:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053505743987290559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053505743987290559",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053487133235859676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 小鸟的落款是个脚印欸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2271,
+          "following_count": 339,
+          "like_count": 3379,
+          "listed_count": 1,
+          "media_count": 365,
+          "tweet_count": 3989
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-13T16:53:25.000Z",
+        "description": "拉拉👩‍❤️‍💋‍👩这是我追星的地方，爱和女孩们聊天，想了解我就私信 ^ω^ 欢迎向我提问👏🏻⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lisa_j2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lisa_j2",
+                "start": 0,
+                "url": "https://t.co/gdwQvLhqjC"
+              }
+            ]
+          }
+        },
+        "id": "1370779988157415427",
+        "location": "BunniesCamp",
+        "name": "ViBE˗ˋˏ꒰ঌ ✝︎ ໒꒱ྀིˎˊ˗",
+        "pinned_tweet_id": "2049084555022483635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912016567790952449/lMoCcuip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 351,
+          "like_count": 20108,
+          "listed_count": 2,
+          "media_count": 490,
+          "tweet_count": 7032
+        },
+        "url": "https://t.co/gdwQvLhqjC",
+        "username": "Jade_vib",
+        "verified": false
+      }
+    ]
+  }
+}

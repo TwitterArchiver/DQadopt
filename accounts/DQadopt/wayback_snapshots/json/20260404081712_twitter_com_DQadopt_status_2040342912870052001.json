@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2040012205517922483",
+    "created_at": "2026-04-04T08:17:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T09:17:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040342912870052001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1987939256187465728",
+          "start": 0,
+          "username": "aoyeguigui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040342912870052001",
+    "in_reply_to_user_id": "1987939256187465728",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040321548972851602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoyeguigui 😇😇😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2040012205517922483",
+        "created_at": "2026-04-04T08:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T09:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040342912870052001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987939256187465728",
+              "start": 0,
+              "username": "aoyeguigui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040342912870052001",
+        "in_reply_to_user_id": "1987939256187465728",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040321548972851602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoyeguigui 😇😇😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987939256187465728",
+        "conversation_id": "2040012205517922483",
+        "created_at": "2026-04-04T06:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T07:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040321548972851602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040321548972851602",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040012205517922483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 天使姐姐治愈我一生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 269,
+          "like_count": 2395,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 2789
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T17:44:07.000Z",
+        "description": "",
+        "id": "1987939256187465728",
+        "name": "龟龟龟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987939339800899588/Fem4L05k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 186,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 48
+        },
+        "username": "aoyeguigui",
+        "verified": false
+      }
+    ]
+  }
+}

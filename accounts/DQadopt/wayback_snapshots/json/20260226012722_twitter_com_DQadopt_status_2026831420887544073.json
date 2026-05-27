@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026831410833801216"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2026831420887544073",
+    "created_at": "2026-02-26T01:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T02:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026831420887544073"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8dHZ7KAkr9",
+          "end": 118,
+          "expanded_url": "https://x.com/DQadopt/status/2026831420887544073/photo/1",
+          "media_key": "3_2026831410833801216",
+          "start": 95,
+          "url": "https://t.co/8dHZ7KAkr9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026831420887544073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和她，最特别的她\n昨晚给她过生日了，她看起来挺开心，真好，很认真的在拆礼物\n就是手写信后半部分我表达自己情感的地方她没怎么回应我，能理解毕竟回避型！她明白我的认真以及希望她好的心情就可以了 https://t.co/8dHZ7KAkr9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1424,
+        "media_key": "3_2026831410833801216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCDAbfZaQAAozbT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026831410833801216"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026831420887544073",
+        "created_at": "2026-02-26T01:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T02:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026831420887544073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8dHZ7KAkr9",
+              "end": 118,
+              "expanded_url": "https://x.com/DQadopt/status/2026831420887544073/photo/1",
+              "media_key": "3_2026831410833801216",
+              "start": 95,
+              "url": "https://t.co/8dHZ7KAkr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026831420887544073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和她，最特别的她\n昨晚给她过生日了，她看起来挺开心，真好，很认真的在拆礼物\n就是手写信后半部分我表达自己情感的地方她没怎么回应我，能理解毕竟回避型！她明白我的认真以及希望她好的心情就可以了 https://t.co/8dHZ7KAkr9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 111,
+          "like_count": 374,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 819
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

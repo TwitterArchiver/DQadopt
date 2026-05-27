@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023973978579275776",
+        "3_2023973978562555904",
+        "3_2023973978562568192"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2023973994886476253",
+    "created_at": "2026-02-18T04:12:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T05:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023973994886476253"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LnQUUZddBI",
+          "end": 171,
+          "expanded_url": "https://x.com/DQadopt/status/2023973994886476253/photo/1",
+          "media_key": "3_2023973978579275776",
+          "start": 148,
+          "url": "https://t.co/LnQUUZddBI"
+        },
+        {
+          "display_url": "pic.x.com/LnQUUZddBI",
+          "end": 171,
+          "expanded_url": "https://x.com/DQadopt/status/2023973994886476253/photo/1",
+          "media_key": "3_2023973978562555904",
+          "start": 148,
+          "url": "https://t.co/LnQUUZddBI"
+        },
+        {
+          "display_url": "pic.x.com/LnQUUZddBI",
+          "end": 171,
+          "expanded_url": "https://x.com/DQadopt/status/2023973994886476253/photo/1",
+          "media_key": "3_2023973978562568192",
+          "start": 148,
+          "url": "https://t.co/LnQUUZddBI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023973994886476253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1⃣️谢谢！你肯定也是个萌萌的小宝宝！\n2⃣️🤔🤔🤔好像没有恶俗或小众的，想帮女人口两个小时口到哭算吗，我这种执着应该算小众吧hhhh\n3⃣️可以呀我对外在没什么要求更看重内里，但我现在只喜欢比我矮10cm的心选姐啊啊昨天碰到个女生158cm我就在想她也是这么高一只呃呃呃无时无刻都是心选姐嗯对 https://t.co/LnQUUZddBI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023973978579275776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBaZnCvaEAAO0PN.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023973978562555904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBaZnCra8AAc3oA.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023973978562568192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBaZnCrbIAAo3dC.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023973978579275776",
+            "3_2023973978562555904",
+            "3_2023973978562568192"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2023973994886476253",
+        "created_at": "2026-02-18T04:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T05:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023973994886476253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LnQUUZddBI",
+              "end": 171,
+              "expanded_url": "https://x.com/DQadopt/status/2023973994886476253/photo/1",
+              "media_key": "3_2023973978579275776",
+              "start": 148,
+              "url": "https://t.co/LnQUUZddBI"
+            },
+            {
+              "display_url": "pic.x.com/LnQUUZddBI",
+              "end": 171,
+              "expanded_url": "https://x.com/DQadopt/status/2023973994886476253/photo/1",
+              "media_key": "3_2023973978562555904",
+              "start": 148,
+              "url": "https://t.co/LnQUUZddBI"
+            },
+            {
+              "display_url": "pic.x.com/LnQUUZddBI",
+              "end": 171,
+              "expanded_url": "https://x.com/DQadopt/status/2023973994886476253/photo/1",
+              "media_key": "3_2023973978562568192",
+              "start": 148,
+              "url": "https://t.co/LnQUUZddBI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023973994886476253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1⃣️谢谢！你肯定也是个萌萌的小宝宝！\n2⃣️🤔🤔🤔好像没有恶俗或小众的，想帮女人口两个小时口到哭算吗，我这种执着应该算小众吧hhhh\n3⃣️可以呀我对外在没什么要求更看重内里，但我现在只喜欢比我矮10cm的心选姐啊啊昨天碰到个女生158cm我就在想她也是这么高一只呃呃呃无时无刻都是心选姐嗯对 https://t.co/LnQUUZddBI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 92,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 656
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

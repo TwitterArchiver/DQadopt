@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029861457119301635",
+        "3_2029861457123557376",
+        "3_2029861457152856071",
+        "3_2029861457115127808"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2029861468146160007",
+    "created_at": "2026-03-06T10:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T11:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029861468146160007"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xOeg4HYsTn",
+          "end": 170,
+          "expanded_url": "https://x.com/DQadopt/status/2029861468146160007/photo/1",
+          "media_key": "3_2029861457119301635",
+          "start": 147,
+          "url": "https://t.co/xOeg4HYsTn"
+        },
+        {
+          "display_url": "pic.x.com/xOeg4HYsTn",
+          "end": 170,
+          "expanded_url": "https://x.com/DQadopt/status/2029861468146160007/photo/1",
+          "media_key": "3_2029861457123557376",
+          "start": 147,
+          "url": "https://t.co/xOeg4HYsTn"
+        },
+        {
+          "display_url": "pic.x.com/xOeg4HYsTn",
+          "end": 170,
+          "expanded_url": "https://x.com/DQadopt/status/2029861468146160007/photo/1",
+          "media_key": "3_2029861457152856071",
+          "start": 147,
+          "url": "https://t.co/xOeg4HYsTn"
+        },
+        {
+          "display_url": "pic.x.com/xOeg4HYsTn",
+          "end": 170,
+          "expanded_url": "https://x.com/DQadopt/status/2029861468146160007/photo/1",
+          "media_key": "3_2029861457115127808",
+          "start": 147,
+          "url": "https://t.co/xOeg4HYsTn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029861468146160007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1⃣️包月接每天晚上一个小时，精力有限，一个月31个小时666r，连麦另算2⃣️不聊黄色不擦边3⃣️其实不缺钱我存款有6位数但是还是很焦虑，因为我每个月开销太大了，有的还是做了长期投资，认识我那就有缘有缘4⃣️男性老板只接普陪，虚恋病恋不接\n除了单子其他时候还是随便找我玩不过我就比较自由了） https://t.co/xOeg4HYsTn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029861457119301635",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCuEPZbaUAMr8Cp.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029861457123557376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCuEPZcbQAAhs1s.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029861457152856071",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCuEPZjaUAcrBpz.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029861457115127808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCuEPZaaoAAcriJ.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029861457119301635",
+            "3_2029861457123557376",
+            "3_2029861457152856071",
+            "3_2029861457115127808"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2029861468146160007",
+        "created_at": "2026-03-06T10:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T11:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029861468146160007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xOeg4HYsTn",
+              "end": 170,
+              "expanded_url": "https://x.com/DQadopt/status/2029861468146160007/photo/1",
+              "media_key": "3_2029861457119301635",
+              "start": 147,
+              "url": "https://t.co/xOeg4HYsTn"
+            },
+            {
+              "display_url": "pic.x.com/xOeg4HYsTn",
+              "end": 170,
+              "expanded_url": "https://x.com/DQadopt/status/2029861468146160007/photo/1",
+              "media_key": "3_2029861457123557376",
+              "start": 147,
+              "url": "https://t.co/xOeg4HYsTn"
+            },
+            {
+              "display_url": "pic.x.com/xOeg4HYsTn",
+              "end": 170,
+              "expanded_url": "https://x.com/DQadopt/status/2029861468146160007/photo/1",
+              "media_key": "3_2029861457152856071",
+              "start": 147,
+              "url": "https://t.co/xOeg4HYsTn"
+            },
+            {
+              "display_url": "pic.x.com/xOeg4HYsTn",
+              "end": 170,
+              "expanded_url": "https://x.com/DQadopt/status/2029861468146160007/photo/1",
+              "media_key": "3_2029861457115127808",
+              "start": 147,
+              "url": "https://t.co/xOeg4HYsTn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029861468146160007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1⃣️包月接每天晚上一个小时，精力有限，一个月31个小时666r，连麦另算2⃣️不聊黄色不擦边3⃣️其实不缺钱我存款有6位数但是还是很焦虑，因为我每个月开销太大了，有的还是做了长期投资，认识我那就有缘有缘4⃣️男性老板只接普陪，虚恋病恋不接\n除了单子其他时候还是随便找我玩不过我就比较自由了） https://t.co/xOeg4HYsTn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 180,
+          "like_count": 1024,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1301
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

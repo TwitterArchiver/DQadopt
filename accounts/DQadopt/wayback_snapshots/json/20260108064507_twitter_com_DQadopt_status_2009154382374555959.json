@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2008818504959696981",
+    "created_at": "2026-01-08T06:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T07:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009154382374555959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1453792596816498689",
+          "start": 0,
+          "username": "stoyanovStoya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009154382374555959",
+    "in_reply_to_user_id": "1453792596816498689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008818504959696981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stoyanovStoya 谢谢兄弟我以后被晶哥抓了我就这样跑出来"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33069,
+        "height": 640,
+        "media_key": "7_2008818447845658624",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2008818447845658624/pu/img/K2yIq4ApRmpxgTUI.jpg",
+        "public_metrics": {
+          "view_count": 618589
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008818447845658624/pu/vid/avc1/326x270/7RVqndfgldYQID-K.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008818447845658624/pu/vid/avc1/436x360/gZVbRW1AB3S5RDEy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008818447845658624/pu/vid/avc1/776x640/5w7NMX3RBPd4D6_m.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2008818447845658624/pu/pl/6o3_nolSjVMO1tFW.m3u8"
+          }
+        ],
+        "width": 776
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2008818504959696981",
+        "created_at": "2026-01-08T06:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T07:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009154382374555959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1453792596816498689",
+              "start": 0,
+              "username": "stoyanovStoya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009154382374555959",
+        "in_reply_to_user_id": "1453792596816498689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008818504959696981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stoyanovStoya 谢谢兄弟我以后被晶哥抓了我就这样跑出来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2008818447845658624"
+          ]
+        },
+        "author_id": "1453792596816498689",
+        "conversation_id": "2008818504959696981",
+        "created_at": "2026-01-07T08:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T09:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008818504959696981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xmikBNa3L4",
+              "end": 38,
+              "expanded_url": "https://x.com/stoyanovStoya/status/2008818504959696981/video/1",
+              "media_key": "7_2008818447845658624",
+              "start": 15,
+              "url": "https://t.co/xmikBNa3L4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008818504959696981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 992,
+          "impression_count": 1115259,
+          "like_count": 2481,
+          "quote_count": 13,
+          "reply_count": 72,
+          "retweet_count": 246
+        },
+        "reply_settings": "everyone",
+        "text": "希望大家用不到、永遠用不到！ https://t.co/xmikBNa3L4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我重生了，这一次我要夺回属于我的一切丨23le🌈1丨喜欢和可爱漂亮的女生互动🥰🥰🥰丨有喜欢的人不色色丨自伤化学原料滥用碎碎念集中地",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8euxG"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 36,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 49
+        },
+        "url": "https://t.co/nFHbt8euxG",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-28T18:35:54.000Z",
+        "description": "信猫皇得冻干、得罐罐、得猫条、得水牛/\n分享一切美好、有趣的事物／\n早猫晚猫/猫睡时看人类/严格遵守陛下作息时间/大内总管李公公谨遵陛下圣旨发布推特/需要回关的请留言/找陛下请 問大厨小三花🐱“陛下在寢宮還是在禦膳房？”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCqJ90…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCqJ90PqCdy8Zskoq4JJErCA?si=soAVv5WR9ftQE1zr",
+                "start": 0,
+                "url": "https://t.co/5WCsrn8tJ1"
+              }
+            ]
+          }
+        },
+        "id": "1453792596816498689",
+        "location": "Taoyuan County, Taiwan",
+        "name": "🙇‍♀️貓皇陛下🙇‍♀️",
+        "pinned_tweet_id": "2009128579398017516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003713227243266048/bQm4-lwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14623,
+          "following_count": 1761,
+          "like_count": 78969,
+          "listed_count": 56,
+          "media_count": 5345,
+          "tweet_count": 10365
+        },
+        "url": "https://t.co/5WCsrn8tJ1",
+        "username": "stoyanovStoya",
+        "verified": true
+      }
+    ]
+  }
+}

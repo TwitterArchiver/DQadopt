@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10058164147",
+          "name": "ドロヘドロ"
+        }
+      }
+    ],
+    "conversation_id": "2047224627383111965",
+    "created_at": "2026-04-23T08:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T09:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047224627383111965"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/usabro10/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/usabro10/status/2047213704194953339",
+          "start": 6,
+          "url": "https://t.co/9tL7rxLKgW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047224627383111965",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047213704194953339",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "惠比寿萌萌 https://t.co/9tL7rxLKgW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047213646137479168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkp9u1bUAAaQFr.jpg",
+        "width": 1450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10058164147",
+              "name": "ドロヘドロ"
+            }
+          }
+        ],
+        "conversation_id": "2047224627383111965",
+        "created_at": "2026-04-23T08:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047224627383111965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usabro10/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/usabro10/status/2047213704194953339",
+              "start": 6,
+              "url": "https://t.co/9tL7rxLKgW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047224627383111965",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047213704194953339",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "惠比寿萌萌 https://t.co/9tL7rxLKgW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047213646137479168"
+          ]
+        },
+        "author_id": "2035655626286944256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10058164147",
+              "name": "ドロヘドロ"
+            }
+          }
+        ],
+        "conversation_id": "2047213704194953339",
+        "created_at": "2026-04-23T07:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T08:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047213704194953339"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 19,
+              "tag": "ドロヘドロ"
+            },
+            {
+              "end": 37,
+              "start": 26,
+              "tag": "dorohedoro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3fKW7LfzKC",
+              "end": 61,
+              "expanded_url": "https://x.com/usabro10/status/2047213704194953339/photo/1",
+              "media_key": "3_2047213646137479168",
+              "start": 38,
+              "url": "https://t.co/3fKW7LfzKC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047213704194953339",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 378,
+          "like_count": 96,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "memories of Ebisu\n\n#ドロヘドロ #dorohedoro https://t.co/3fKW7LfzKC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2102,
+          "following_count": 337,
+          "like_count": 3084,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 3695
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T09:51:55.000Z",
+        "description": "うさぶろ\nドロへ閲覧/煙ファミリー/時々落書き/二次\ndorohedoro",
+        "id": "2035655626286944256",
+        "name": "兎風呂",
+        "pinned_tweet_id": "2040693805578592560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042812642851721219/ESMVvY01_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 12,
+          "like_count": 512,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 446
+        },
+        "username": "usabro10",
+        "verified": false
+      }
+    ]
+  }
+}

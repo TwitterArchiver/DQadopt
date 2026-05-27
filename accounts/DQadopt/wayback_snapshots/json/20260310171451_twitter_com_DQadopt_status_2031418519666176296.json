@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2031378741595939154",
+    "created_at": "2026-03-10T17:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T18:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031418519666176296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1881345106512592897",
+          "start": 0,
+          "username": "gugugugu107905"
+        },
+        {
+          "end": 26,
+          "id": "2009619787799031808",
+          "start": 16,
+          "username": "sanyouruo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031418519666176296",
+    "in_reply_to_user_id": "1881345106512592897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031417784895484332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gugugugu107905 @sanyouruo 操他妈的全中国都应该来看我的作品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2031378741595939154",
+        "created_at": "2026-03-10T17:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T18:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031418519666176296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1881345106512592897",
+              "start": 0,
+              "username": "gugugugu107905"
+            },
+            {
+              "end": 26,
+              "id": "2009619787799031808",
+              "start": 16,
+              "username": "sanyouruo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031418519666176296",
+        "in_reply_to_user_id": "1881345106512592897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031417784895484332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gugugugu107905 @sanyouruo 操他妈的全中国都应该来看我的作品"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881345106512592897",
+        "conversation_id": "2031378741595939154",
+        "created_at": "2026-03-10T17:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T18:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031417784895484332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            },
+            {
+              "end": 19,
+              "id": "2009619787799031808",
+              "start": 9,
+              "username": "sanyouruo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031417784895484332",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031378741595939154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt @sanyouruo 太屌了太疯狂了你的血画，应该裱起来挂在天安门上。妈的什么时候我也能画出这么牛逼的作品"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 214,
+          "like_count": 1369,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 1593
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T14:16:55.000Z",
+        "description": "stuckInFuckinHell-人类观察所(Human Observation Organization HOO)前主任/极度厌蠢厌巨婴厌NPD/来自地狱的躁狂兼职典狱长/梦想是创立自己的宗教/不参与价值交换/不擅长发表暴论/喜好猎奇的嗜血观众/金牌鉴黄师",
+        "id": "1881345106512592897",
+        "location": "Human Observation Org",
+        "name": "Magni-Tanukyee🦝",
+        "pinned_tweet_id": "2028201481267294702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014709878275657728/mRlHFfpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 652,
+          "like_count": 1400,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1240
+        },
+        "username": "gugugugu107905",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T13:34:40.000Z",
+        "description": "廢話｜",
+        "id": "2009619787799031808",
+        "name": "口區吐牛勿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029474800456896512/5BJUta8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 106,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 146
+        },
+        "username": "sanyouruo",
+        "verified": false
+      }
+    ]
+  }
+}

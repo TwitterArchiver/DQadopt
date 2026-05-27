@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "1989671571443916895",
+    "created_at": "2025-11-16T09:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T10:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989981952934560055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1335620614984327168",
+          "start": 0,
+          "username": "Alvimint_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989981952934560055",
+    "in_reply_to_user_id": "1335620614984327168",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989671571443916895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alvimint_ It's so beautiful"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1379,
+        "media_key": "3_1989671567186595840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5y7v6XaEAA54dw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "1989671571443916895",
+        "created_at": "2025-11-16T09:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T10:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989981952934560055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1335620614984327168",
+              "start": 0,
+              "username": "Alvimint_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989981952934560055",
+        "in_reply_to_user_id": "1335620614984327168",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989671571443916895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alvimint_ It's so beautiful"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989671567186595840"
+          ]
+        },
+        "author_id": "1335620614984327168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339381554087223297",
+              "name": "Character design"
+            }
+          }
+        ],
+        "conversation_id": "1989671571443916895",
+        "created_at": "2025-11-15T12:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T13:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989671571443916895"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "Pink Flame",
+              "probability": 0.6887,
+              "start": 29,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 248,
+              "start": 238,
+              "tag": "adoptable"
+            },
+            {
+              "end": 255,
+              "start": 249,
+              "tag": "adopt"
+            },
+            {
+              "end": 259,
+              "start": 256,
+              "tag": "oc"
+            },
+            {
+              "end": 276,
+              "start": 260,
+              "tag": "characterdesign"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KBnSU85xpq",
+              "end": 300,
+              "expanded_url": "https://x.com/Alvimint_/status/1989671571443916895/photo/1",
+              "media_key": "3_1989671567186595840",
+              "start": 277,
+              "url": "https://t.co/KBnSU85xpq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989671571443916895",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 3224,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "—✦ [⚜️] Adoptable Auction✦—\n\nPink Flame Dragon Witch🔮🩷✨!\n\nThis is my first time doing adoptables! It wasn't very well polished;; Any support is appreciated!\n\n&lt;SB: $40\n&lt;MI: $5\n&lt;AB: $100 (Commercial use⭕)\n\nMore info below‼️⬇️⬇️⬇️\n\n#adoptable #adopt #oc #characterdesign https://t.co/KBnSU85xpq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "Character design丨silentoperaadopt@163.com",
+        "id": "1989965282799226880",
+        "name": "DQ🦋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989965450730725376/VuyFLuEA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-06T16:22:47.000Z",
+        "description": "🇮🇩IND/ENG | Asimov's personal lab rat",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "alvimint.carrd.co/?fbclid=PAY2xj…",
+                "end": 23,
+                "expanded_url": "https://alvimint.carrd.co/?fbclid=PAY2xjawI_N8JleHRuA2FlbQIxMQABpl2P0LdqJZEIlO1MBa_9uoG9eR-kMtKN6fsU",
+                "start": 0,
+                "url": "https://t.co/CXIALI4Vi0"
+              }
+            ]
+          }
+        },
+        "id": "1335620614984327168",
+        "name": "Alvi",
+        "pinned_tweet_id": "1916065651510460465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971969842841636866/hlB36Uuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 98,
+          "like_count": 9629,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 992
+        },
+        "url": "https://t.co/CXIALI4Vi0",
+        "username": "Alvimint_",
+        "verified": false
+      }
+    ]
+  }
+}

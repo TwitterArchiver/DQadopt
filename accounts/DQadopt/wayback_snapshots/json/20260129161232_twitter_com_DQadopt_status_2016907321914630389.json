@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2016511759121788941",
+    "created_at": "2026-01-29T16:12:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T17:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016907321914630389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1634944403872833536",
+          "start": 0,
+          "username": "wmy072011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016907321914630389",
+    "in_reply_to_user_id": "1634944403872833536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016511759121788941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmy072011 这个华浪老畜生了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2388,
+        "media_key": "3_2016511596168658944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wWnN8WwAAFeim.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2388,
+        "media_key": "3_2016511596617506816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wWnPnXoAAJoEz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2388,
+        "media_key": "3_2016511596500066305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wWnPLXoAERJiG.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2388,
+        "media_key": "3_2016511597686968320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wWnTmWUAApODn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2016511759121788941",
+        "created_at": "2026-01-29T16:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T17:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016907321914630389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1634944403872833536",
+              "start": 0,
+              "username": "wmy072011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016907321914630389",
+        "in_reply_to_user_id": "1634944403872833536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016511759121788941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmy072011 这个华浪老畜生了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016511596168658944",
+            "3_2016511596617506816",
+            "3_2016511596500066305",
+            "3_2016511597686968320"
+          ]
+        },
+        "author_id": "1634944403872833536",
+        "conversation_id": "2016511759121788941",
+        "created_at": "2026-01-28T14:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T15:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016511759121788941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k67ayEf0MA",
+              "end": 55,
+              "expanded_url": "https://x.com/wmy072011/status/2016511759121788941/photo/1",
+              "media_key": "3_2016511596168658944",
+              "start": 32,
+              "url": "https://t.co/k67ayEf0MA"
+            },
+            {
+              "display_url": "pic.x.com/k67ayEf0MA",
+              "end": 55,
+              "expanded_url": "https://x.com/wmy072011/status/2016511759121788941/photo/1",
+              "media_key": "3_2016511596617506816",
+              "start": 32,
+              "url": "https://t.co/k67ayEf0MA"
+            },
+            {
+              "display_url": "pic.x.com/k67ayEf0MA",
+              "end": 55,
+              "expanded_url": "https://x.com/wmy072011/status/2016511759121788941/photo/1",
+              "media_key": "3_2016511596500066305",
+              "start": 32,
+              "url": "https://t.co/k67ayEf0MA"
+            },
+            {
+              "display_url": "pic.x.com/k67ayEf0MA",
+              "end": 55,
+              "expanded_url": "https://x.com/wmy072011/status/2016511759121788941/photo/1",
+              "media_key": "3_2016511597686968320",
+              "start": 32,
+              "url": "https://t.co/k67ayEf0MA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016511759121788941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 37274,
+          "like_count": 269,
+          "quote_count": 8,
+          "reply_count": 94,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我的私信好难看。我服了你们这些男的了 真的拥有一颗完整的大脑吗 https://t.co/k67ayEf0MA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 57,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 194
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "碎碎念 有负能量\n聊骚的滚蛋 别跟我聊骚 我求你 别跟我聊骚\n对不起！发了一大堆负能量的东西\n感谢你看我讲废话 希望不会烦到你\n顺顺顺 我的生活一定会顺利下去的！希望你也是！^^",
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2005626901654843460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 80,
+          "like_count": 13672,
+          "listed_count": 0,
+          "media_count": 1013,
+          "tweet_count": 7942
+        },
+        "username": "wmy072011",
+        "verified": false
+      }
+    ]
+  }
+}

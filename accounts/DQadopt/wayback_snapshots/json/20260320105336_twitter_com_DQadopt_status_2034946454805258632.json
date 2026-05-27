@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034946429756874756",
+        "3_2034946429748477952",
+        "3_2034946429756813312",
+        "3_2034946429756821504"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2034946454805258632",
+    "created_at": "2026-03-20T10:53:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T11:53:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034946454805258632"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hJVmKuUTGU",
+          "end": 129,
+          "expanded_url": "https://x.com/DQadopt/status/2034946454805258632/photo/1",
+          "media_key": "3_2034946429756874756",
+          "start": 106,
+          "url": "https://t.co/hJVmKuUTGU"
+        },
+        {
+          "display_url": "pic.x.com/hJVmKuUTGU",
+          "end": 129,
+          "expanded_url": "https://x.com/DQadopt/status/2034946454805258632/photo/1",
+          "media_key": "3_2034946429748477952",
+          "start": 106,
+          "url": "https://t.co/hJVmKuUTGU"
+        },
+        {
+          "display_url": "pic.x.com/hJVmKuUTGU",
+          "end": 129,
+          "expanded_url": "https://x.com/DQadopt/status/2034946454805258632/photo/1",
+          "media_key": "3_2034946429756813312",
+          "start": 106,
+          "url": "https://t.co/hJVmKuUTGU"
+        },
+        {
+          "display_url": "pic.x.com/hJVmKuUTGU",
+          "end": 129,
+          "expanded_url": "https://x.com/DQadopt/status/2034946454805258632/photo/1",
+          "media_key": "3_2034946429756821504",
+          "start": 106,
+          "url": "https://t.co/hJVmKuUTGU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034946454805258632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天受到了福利院一个孩子的邀请🥺，邀请我这个姐姐去一起陪她过生日，现在刚刚分完了蛋糕，感觉一会我要被推上去唱歌））））\n太匆忙了去城里买了个玩偶和生日蛋糕还有一个小王子的小夜灯\n给福利院75个孩子定了好吃的！😌 https://t.co/hJVmKuUTGU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034946429756874756",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2U_wqboAQHLKx.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034946429748477952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2U_wobgAAobLf.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1477,
+        "media_key": "3_2034946429756813312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2U_wqasAAT2Qe.jpg",
+        "width": 1108
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034946429756821504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2U_wqa0AA4RBQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034946429756874756",
+            "3_2034946429748477952",
+            "3_2034946429756813312",
+            "3_2034946429756821504"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2034946454805258632",
+        "created_at": "2026-03-20T10:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T11:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034946454805258632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hJVmKuUTGU",
+              "end": 129,
+              "expanded_url": "https://x.com/DQadopt/status/2034946454805258632/photo/1",
+              "media_key": "3_2034946429756874756",
+              "start": 106,
+              "url": "https://t.co/hJVmKuUTGU"
+            },
+            {
+              "display_url": "pic.x.com/hJVmKuUTGU",
+              "end": 129,
+              "expanded_url": "https://x.com/DQadopt/status/2034946454805258632/photo/1",
+              "media_key": "3_2034946429748477952",
+              "start": 106,
+              "url": "https://t.co/hJVmKuUTGU"
+            },
+            {
+              "display_url": "pic.x.com/hJVmKuUTGU",
+              "end": 129,
+              "expanded_url": "https://x.com/DQadopt/status/2034946454805258632/photo/1",
+              "media_key": "3_2034946429756813312",
+              "start": 106,
+              "url": "https://t.co/hJVmKuUTGU"
+            },
+            {
+              "display_url": "pic.x.com/hJVmKuUTGU",
+              "end": 129,
+              "expanded_url": "https://x.com/DQadopt/status/2034946454805258632/photo/1",
+              "media_key": "3_2034946429756821504",
+              "start": 106,
+              "url": "https://t.co/hJVmKuUTGU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034946454805258632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天受到了福利院一个孩子的邀请🥺，邀请我这个姐姐去一起陪她过生日，现在刚刚分完了蛋糕，感觉一会我要被推上去唱歌））））\n太匆忙了去城里买了个玩偶和生日蛋糕还有一个小王子的小夜灯\n给福利院75个孩子定了好吃的！😌 https://t.co/hJVmKuUTGU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1371,
+          "following_count": 250,
+          "like_count": 1955,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 2274
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

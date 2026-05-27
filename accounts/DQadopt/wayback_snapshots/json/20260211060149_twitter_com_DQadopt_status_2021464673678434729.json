@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2020898581968990412",
+    "created_at": "2026-02-11T06:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T07:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021464673678434729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1477318961603637251",
+          "start": 0,
+          "username": "Lapetitecascade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021464673678434729",
+    "in_reply_to_user_id": "1477318961603637251",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020898581968990412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lapetitecascade 好漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020898573223915520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAusi5Aa8AANNTv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2020898581968990412",
+        "created_at": "2026-02-11T06:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T07:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021464673678434729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1477318961603637251",
+              "start": 0,
+              "username": "Lapetitecascade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021464673678434729",
+        "in_reply_to_user_id": "1477318961603637251",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020898581968990412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lapetitecascade 好漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020898573223915520"
+          ]
+        },
+        "author_id": "1477318961603637251",
+        "conversation_id": "2020898581968990412",
+        "created_at": "2026-02-09T16:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T17:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020898581968990412"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "le"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "女同"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "拉拉"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "wlw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NgbEfzaP0J",
+              "end": 56,
+              "expanded_url": "https://x.com/Lapetitecascade/status/2020898581968990412/photo/1",
+              "media_key": "3_2020898573223915520",
+              "start": 33,
+              "url": "https://t.co/NgbEfzaP0J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020898581968990412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 17587,
+          "like_count": 394,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "太可惜了 你根本不知道我多想要\n#le #女同 #拉拉 #wlw https://t.co/NgbEfzaP0J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 84,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 451
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T16:41:12.000Z",
+        "description": "🌈 0.4 长发 不希望留下太多痕迹 https://t.co/hP3ZbGIdwg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hunter65137",
+                "end": 42,
+                "expanded_url": "https://ngl.link/hunter65137",
+                "start": 19,
+                "url": "https://t.co/hP3ZbGIdwg"
+              }
+            ]
+          }
+        },
+        "id": "1477318961603637251",
+        "name": "oz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807741514719870976/1V3qaJaz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 26,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 25
+        },
+        "username": "Lapetitecascade",
+        "verified": false
+      }
+    ]
+  }
+}

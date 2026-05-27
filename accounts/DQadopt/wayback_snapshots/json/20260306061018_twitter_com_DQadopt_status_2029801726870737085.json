@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029801716838027264"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2029801726870737085",
+    "created_at": "2026-03-06T06:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T07:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029801726870737085"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dZxFIQUL2c",
+          "end": 165,
+          "expanded_url": "https://x.com/DQadopt/status/2029801726870737085/photo/1",
+          "media_key": "3_2029801716838027264",
+          "start": 142,
+          "url": "https://t.co/dZxFIQUL2c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029801726870737085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这条单独发一下\n想必你并没有仔细看我的推文，我的字里行间表达的爱意都是对心选姐，过往的情感只剩反胃与并不浓烈的仇恨，淡淡的或许是浓烈的，对她们怀有的感情只能以仇恨的方式存在，然后我想杀死我自己，把一切都抹掉\n心选姐是我想一直爱下去的人\n我喜欢和我一样病态的人，虽然她不是，她与我相反 https://t.co/dZxFIQUL2c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029801716838027264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCtN6Dib0AAcvUx.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029801716838027264"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2029801726870737085",
+        "created_at": "2026-03-06T06:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T07:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029801726870737085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dZxFIQUL2c",
+              "end": 165,
+              "expanded_url": "https://x.com/DQadopt/status/2029801726870737085/photo/1",
+              "media_key": "3_2029801716838027264",
+              "start": 142,
+              "url": "https://t.co/dZxFIQUL2c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029801726870737085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这条单独发一下\n想必你并没有仔细看我的推文，我的字里行间表达的爱意都是对心选姐，过往的情感只剩反胃与并不浓烈的仇恨，淡淡的或许是浓烈的，对她们怀有的感情只能以仇恨的方式存在，然后我想杀死我自己，把一切都抹掉\n心选姐是我想一直爱下去的人\n我喜欢和我一样病态的人，虽然她不是，她与我相反 https://t.co/dZxFIQUL2c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 179,
+          "like_count": 1009,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1281
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

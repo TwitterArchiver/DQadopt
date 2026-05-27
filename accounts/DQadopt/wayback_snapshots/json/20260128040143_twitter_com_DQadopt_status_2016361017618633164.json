@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2016361017618633164",
+    "created_at": "2026-01-28T04:01:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T05:01:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016361017618633164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "51904755",
+          "start": 3,
+          "username": "Morris_LT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2016…",
+          "end": 38,
+          "expanded_url": "http://x.com/i/article/2016314483824889856",
+          "start": 15,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2016314483824889856",
+          "url": "https://t.co/x60tJWcm2w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016361017618633164",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016315338930192630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Morris_LT: https://t.co/x60tJWcm2w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2016361017618633164",
+        "created_at": "2026-01-28T04:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T05:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016361017618633164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "51904755",
+              "start": 3,
+              "username": "Morris_LT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2016…",
+              "end": 38,
+              "expanded_url": "http://x.com/i/article/2016314483824889856",
+              "start": 15,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2016314483824889856",
+              "url": "https://t.co/x60tJWcm2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016361017618633164",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016315338930192630",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Morris_LT: https://t.co/x60tJWcm2w"
+      },
+      {
+        "article": {
+          "title": "中国教育中最隐蔽、也最具破坏性的伤害：制度性人格剥夺"
+        },
+        "attachments": {},
+        "author_id": "51904755",
+        "conversation_id": "2016315338930192630",
+        "created_at": "2026-01-28T01:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T02:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016315338930192630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2016…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2016314483824889856",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2016314483824889856",
+              "url": "https://t.co/x60tJWcm2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016315338930192630",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 296,
+          "impression_count": 33214,
+          "like_count": 307,
+          "quote_count": 5,
+          "reply_count": 15,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/x60tJWcm2w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 54,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 178
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-29T01:07:03.000Z",
+        "description": "某不知名Web3.0创业公司 - 创始人&CEO&首席擦屁股执行官！#Bitcoin 和 #Dogecoin 信仰者、老韭菜、囤币党。《旷野之心》作者，私信开放订购：https://t.co/W2fM1ccAiv",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "Bitcoin"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "tag": "Dogecoin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/Morris_LT/stat…",
+                "end": 106,
+                "expanded_url": "https://x.com/Morris_LT/status/1912318899540095446",
+                "start": 83,
+                "url": "https://t.co/W2fM1ccAiv"
+              }
+            ]
+          }
+        },
+        "id": "51904755",
+        "location": "𝕏Ɖ",
+        "name": "Morris",
+        "pinned_tweet_id": "2005466164672319635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661240746018754560/8Shwdpaj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181954,
+          "following_count": 412,
+          "like_count": 52559,
+          "listed_count": 1041,
+          "media_count": 7018,
+          "tweet_count": 71270
+        },
+        "username": "Morris_LT",
+        "verified": true
+      }
+    ]
+  }
+}

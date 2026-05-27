@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2040676837328859257",
+    "created_at": "2026-04-05T06:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T07:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040676837328859257"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040676837328859257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "铁打的xp就是下面有毛的女孩子🥺特别可爱特别性感谁懂，尤其是小阴唇明显且两侧都有毛毛的女孩子，太可爱了，我自慰的时候就找这种身体来冲，好爽\n符合以上➕乖➕水多➕喘的好听的黄推，我要关注一辈子不过真的没几个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2040676837328859257",
+        "created_at": "2026-04-05T06:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T07:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040676837328859257"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040676837328859257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "铁打的xp就是下面有毛的女孩子🥺特别可爱特别性感谁懂，尤其是小阴唇明显且两侧都有毛毛的女孩子，太可爱了，我自慰的时候就找这种身体来冲，好爽\n符合以上➕乖➕水多➕喘的好听的黄推，我要关注一辈子不过真的没几个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 269,
+          "like_count": 2399,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 2799
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

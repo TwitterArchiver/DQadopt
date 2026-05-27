@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2038851119011835962",
+    "created_at": "2026-03-31T06:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T07:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038868594537447856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1773714073676652544",
+          "start": 0,
+          "username": "9jy6op"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038868594537447856",
+    "in_reply_to_user_id": "1773714073676652544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038851119011835962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9jy6op 妙哉妙哉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2038851119011835962",
+        "created_at": "2026-03-31T06:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T07:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038868594537447856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1773714073676652544",
+              "start": 0,
+              "username": "9jy6op"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038868594537447856",
+        "in_reply_to_user_id": "1773714073676652544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038851119011835962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9jy6op 妙哉妙哉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773714073676652544",
+        "conversation_id": "2038851119011835962",
+        "created_at": "2026-03-31T05:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T06:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038851119011835962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038851119011835962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "穿戴姐是一个我在24年初认识的一位奇人，认识她源于她把学历写在推特简介上，把我迷的神魂颠倒，于是疯狂私信：看到姐姐学历差点高潮了（当时我也不是什么好鸟，低山臭水遇知音\n但是发现此人有一个癖好是戴穿戴病让女人口她的穿戴，并视频电话和我模仿女人在其胯下干呕的样子和翻白眼的表情，后来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 267,
+          "like_count": 2331,
+          "listed_count": 0,
+          "media_count": 286,
+          "tweet_count": 2624
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T14:09:39.000Z",
+        "description": "长发les\n对不起我抽象是因为我的职业\n奇怪的人我会取消你的关注",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%91%9C%E5%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%91%9C%E5%91%9C%E5%91%9C%E5%91%9C",
+                "start": 0,
+                "url": "https://t.co/7tBacyXZsD"
+              }
+            ]
+          }
+        },
+        "id": "1773714073676652544",
+        "location": "不认同你的观点但是维护你说话的权力",
+        "name": "甜美商务猫",
+        "pinned_tweet_id": "2031918534767554833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035885369783406592/ZBJvpGQN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 650,
+          "like_count": 8271,
+          "listed_count": 4,
+          "media_count": 1182,
+          "tweet_count": 24522
+        },
+        "url": "https://t.co/7tBacyXZsD",
+        "username": "9jy6op",
+        "verified": false
+      }
+    ]
+  }
+}

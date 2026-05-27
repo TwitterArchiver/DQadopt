@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034283351545430016"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2034283361485902173",
+    "created_at": "2026-03-18T14:58:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T15:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034283361485902173"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cyV3lrvfh1",
+          "end": 160,
+          "expanded_url": "https://x.com/DQadopt/status/2034283361485902173/photo/1",
+          "media_key": "3_2034283351545430016",
+          "start": 137,
+          "url": "https://t.co/cyV3lrvfh1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034283361485902173",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 125,
+      "like_count": 5,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小鸟\n有时候也会想要是你也能爱我一下该多好，我永远也不可能抓住，除我以外的任何人，我抓不住任何关系，不过你从未离开，是因为你爱我吗，和我不对你不一样的爱？然后我现在又哭了，我在哭什么呢\n所以你就算是吊着我我也认了，利用我我也认了，只要你允许我靠近你，我就甘之如饴，我爱你啊 https://t.co/cyV3lrvfh1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1696,
+        "media_key": "3_2034283351545430016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDs57h1bQAANGTG.jpg",
+        "width": 2014
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034283351545430016"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2034283361485902173",
+        "created_at": "2026-03-18T14:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T15:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034283361485902173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cyV3lrvfh1",
+              "end": 160,
+              "expanded_url": "https://x.com/DQadopt/status/2034283361485902173/photo/1",
+              "media_key": "3_2034283351545430016",
+              "start": 137,
+              "url": "https://t.co/cyV3lrvfh1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034283361485902173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小鸟\n有时候也会想要是你也能爱我一下该多好，我永远也不可能抓住，除我以外的任何人，我抓不住任何关系，不过你从未离开，是因为你爱我吗，和我不对你不一样的爱？然后我现在又哭了，我在哭什么呢\n所以你就算是吊着我我也认了，利用我我也认了，只要你允许我靠近你，我就甘之如饴，我爱你啊 https://t.co/cyV3lrvfh1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 248,
+          "like_count": 1831,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 2185
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

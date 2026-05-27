@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032376012345131008"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2032376021958430770",
+    "created_at": "2026-03-13T08:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T09:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032376021958430770"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uWrZMBboXf",
+          "end": 153,
+          "expanded_url": "https://x.com/DQadopt/status/2032376021958430770/photo/1",
+          "media_key": "3_2032376012345131008",
+          "start": 130,
+          "url": "https://t.co/uWrZMBboXf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032376021958430770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又捐了2000出去呃，唉，我总是\n今晚割手吧，为什么总有这么多莫名其妙的情感来困扰我，这种被牵扯的义务感很难受，为什么总是有这种义务感\n所以我活着很痛苦啊太多情感途径我而我总是要为他们流泪啊，可我明明连看杀人直播都会哈哈大笑啊，矛盾感让我恶心，我一定是伪善吧 https://t.co/uWrZMBboXf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 202,
+        "media_key": "3_2032376012345131008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDRzNxnbQAA07Ez.jpg",
+        "width": 904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032376012345131008"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2032376021958430770",
+        "created_at": "2026-03-13T08:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T09:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032376021958430770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uWrZMBboXf",
+              "end": 153,
+              "expanded_url": "https://x.com/DQadopt/status/2032376021958430770/photo/1",
+              "media_key": "3_2032376012345131008",
+              "start": 130,
+              "url": "https://t.co/uWrZMBboXf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032376021958430770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又捐了2000出去呃，唉，我总是\n今晚割手吧，为什么总有这么多莫名其妙的情感来困扰我，这种被牵扯的义务感很难受，为什么总是有这种义务感\n所以我活着很痛苦啊太多情感途径我而我总是要为他们流泪啊，可我明明连看杀人直播都会哈哈大笑啊，矛盾感让我恶心，我一定是伪善吧 https://t.co/uWrZMBboXf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 234,
+          "like_count": 1524,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 1824
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

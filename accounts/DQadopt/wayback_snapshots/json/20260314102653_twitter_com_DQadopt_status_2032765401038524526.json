@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2031918558578643142",
+    "created_at": "2026-03-14T10:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T11:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032765401038524526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1832482255266025473",
+          "start": 0,
+          "username": "TTtangz_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032765401038524526",
+    "in_reply_to_user_id": "1832482255266025473",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032514309851668621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTtangz_ 好啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2031918558578643142",
+        "created_at": "2026-03-14T10:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032765401038524526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1832482255266025473",
+              "start": 0,
+              "username": "TTtangz_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032765401038524526",
+        "in_reply_to_user_id": "1832482255266025473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032514309851668621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTtangz_ 好啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832482255266025473",
+        "conversation_id": "2031918558578643142",
+        "created_at": "2026-03-13T17:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T18:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032514309851668621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032514309851668621",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031918558578643142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 妈咪想互fo可以嘛🥺🤲！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 237,
+          "like_count": 1570,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 1864
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-07T18:13:22.000Z",
+        "description": "你好我素🍬/les🌈/sub/素自伤妹/我有🌟瘾/禁🚹（🏳️‍⚧️也不行哈补药关注我）/我有视奸癖👁️👁️",
+        "id": "1832482255266025473",
+        "name": "余棠",
+        "pinned_tweet_id": "1852530397839597988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832482501991792640/E_vKHSMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 55,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 148
+        },
+        "username": "TTtangz_",
+        "verified": false
+      }
+    ]
+  }
+}

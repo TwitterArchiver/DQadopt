@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2013437737861287936"
+      ],
+      "media_source_tweet_id": [
+        "2013437827804021199"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2016541907330220454",
+    "created_at": "2026-01-28T16:00:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T17:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016541907330220454"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 44,
+          "tag": "les"
+        },
+        {
+          "end": 54,
+          "start": 49,
+          "tag": "女同性恋"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1457390905778868230",
+          "start": 3,
+          "username": "onlyl00katme"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iKPLZlBcg8",
+          "end": 78,
+          "expanded_url": "https://x.com/onlyl00katme/status/2013437827804021199/video/1",
+          "media_key": "13_2013437737861287936",
+          "start": 55,
+          "url": "https://t.co/iKPLZlBcg8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016541907330220454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 196
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013437827804021199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @onlyl00katme: 惹姐姐生气就是一边笑着接受姐姐的巴掌一边猛猛给姐姐 #les #女同性恋 https://t.co/iKPLZlBcg8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2016541907330220454].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2016541907330220454",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2016541907330220454"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57136,
+        "height": 1280,
+        "media_key": "13_2013437737861287936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2013437737861287936/img/TWV8DYSxdEJgAUbk.jpg",
+        "public_metrics": {
+          "view_count": 46474
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013437737861287936/vid/avc1/320x568/ZwtJsYKfvOJ5cs0c.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013437737861287936/vid/avc1/480x852/YUMzvjuPWukZBQ07.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013437737861287936/vid/avc1/720x1280/CAupg9lkOUJILcPz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2013437737861287936/pl/q18PkuFUW-UBONYp.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013437737861287936"
+          ]
+        },
+        "author_id": "1457390905778868230",
+        "conversation_id": "2013437827804021199",
+        "created_at": "2026-01-20T02:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T03:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013437827804021199"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "les"
+            },
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "女同性恋"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iKPLZlBcg8",
+              "end": 60,
+              "expanded_url": "https://x.com/onlyl00katme/status/2013437827804021199/video/1",
+              "media_key": "13_2013437737861287936",
+              "start": 37,
+              "url": "https://t.co/iKPLZlBcg8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013437827804021199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 854,
+          "impression_count": 131094,
+          "like_count": 2731,
+          "quote_count": 8,
+          "reply_count": 12,
+          "retweet_count": 196
+        },
+        "reply_settings": "everyone",
+        "text": "惹姐姐生气就是一边笑着接受姐姐的巴掌一边猛猛给姐姐 #les #女同性恋 https://t.co/iKPLZlBcg8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 56,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 185
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-07T16:54:13.000Z",
+        "description": "we could be lovers on the moon",
+        "id": "1457390905778868230",
+        "name": "神经大条园艺家",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1457394958864838658/obFouzWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6293,
+          "following_count": 137,
+          "like_count": 156,
+          "listed_count": 4,
+          "media_count": 5,
+          "tweet_count": 51
+        },
+        "username": "onlyl00katme",
+        "verified": false
+      }
+    ]
+  }
+}

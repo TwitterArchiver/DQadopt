@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018342610298163200"
+      ],
+      "media_source_tweet_id": [
+        "2018342858995142996"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334945143208611841",
+          "name": "GL"
+        }
+      }
+    ],
+    "conversation_id": "2018529761711329622",
+    "created_at": "2026-02-03T03:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T04:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018529761711329622"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 36,
+          "tag": "創作百合"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1565981726878617600",
+          "start": 3,
+          "username": "sanbaizoo333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aNZyyDg337",
+          "end": 65,
+          "expanded_url": "https://x.com/sanbaizoo333/status/2018342858995142996/photo/1",
+          "media_key": "3_2018342610298163200",
+          "start": 42,
+          "url": "https://t.co/aNZyyDg337"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018529761711329622",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 371
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018342858995142996",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @sanbaizoo333: 殺人鬼×盲目ピアニストの例のミーム\n#創作百合 https://t.co/aNZyyDg337"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018342610298163200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAKX6RHbUAADbdA.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018342610298163200"
+          ],
+          "media_source_tweet_id": [
+            "2018342858995142996"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2018529761711329622",
+        "created_at": "2026-02-03T03:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T04:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018529761711329622"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "創作百合"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565981726878617600",
+              "start": 3,
+              "username": "sanbaizoo333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aNZyyDg337",
+              "end": 65,
+              "expanded_url": "https://x.com/sanbaizoo333/status/2018342858995142996/photo/1",
+              "media_key": "3_2018342610298163200",
+              "start": 42,
+              "url": "https://t.co/aNZyyDg337"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018529761711329622",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 371
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018342858995142996",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @sanbaizoo333: 殺人鬼×盲目ピアニストの例のミーム\n#創作百合 https://t.co/aNZyyDg337"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018342610298163200"
+          ]
+        },
+        "author_id": "1565981726878617600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2018342858995142996",
+        "created_at": "2026-02-02T15:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T16:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018342858995142996"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "創作百合"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aNZyyDg337",
+              "end": 47,
+              "expanded_url": "https://x.com/sanbaizoo333/status/2018342858995142996/photo/1",
+              "media_key": "3_2018342610298163200",
+              "start": 24,
+              "url": "https://t.co/aNZyyDg337"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018342858995142996",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1066,
+          "impression_count": 97218,
+          "like_count": 10371,
+          "quote_count": 16,
+          "reply_count": 0,
+          "retweet_count": 371
+        },
+        "reply_settings": "following",
+        "text": "殺人鬼×盲目ピアニストの例のミーム\n#創作百合 https://t.co/aNZyyDg337"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 61,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 252
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:29.000Z",
+        "description": "OC3L🤍本体▶@su3susu /Skeb(停止中)▶ https://t.co/NHejLuwet2 /つなぐ(準備中)▶https://t.co/Wi46yDLnQy /DM▶sususu3sanbaizoo333@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "su3susu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@sanbaizoo333",
+                "end": 52,
+                "expanded_url": "https://skeb.jp/@sanbaizoo333",
+                "start": 29,
+                "url": "https://t.co/NHejLuwet2"
+              },
+              {
+                "display_url": "tsunagu.cloud/users/sanbaisu…",
+                "end": 86,
+                "expanded_url": "https://tsunagu.cloud/users/sanbaisususu3",
+                "start": 63,
+                "url": "https://t.co/Wi46yDLnQy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/58945772",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/58945772",
+                "start": 0,
+                "url": "https://t.co/iFy8FGdeZW"
+              }
+            ]
+          }
+        },
+        "id": "1565981726878617600",
+        "location": "20↑",
+        "name": "三杯酢",
+        "pinned_tweet_id": "2007710629709357512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017925729619783680/XoV2DCo1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11355,
+          "following_count": 214,
+          "like_count": 57110,
+          "listed_count": 38,
+          "media_count": 2002,
+          "tweet_count": 46341
+        },
+        "url": "https://t.co/iFy8FGdeZW",
+        "username": "sanbaizoo333",
+        "verified": false
+      }
+    ]
+  }
+}

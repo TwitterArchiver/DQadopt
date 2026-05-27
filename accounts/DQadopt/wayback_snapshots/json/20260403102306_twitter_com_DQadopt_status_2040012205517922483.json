@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040012185917927424"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2040012205517922483",
+    "created_at": "2026-04-03T10:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T11:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040012205517922483"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PAIIY1SCMq",
+          "end": 167,
+          "expanded_url": "https://x.com/DQadopt/status/2040012205517922483/photo/1",
+          "media_key": "3_2040012185917927424",
+          "start": 144,
+          "url": "https://t.co/PAIIY1SCMq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040012205517922483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃饭的时候看到背后一个路边摊小贩的女儿在哭，观察了一下是喜欢旁边玩具店店门口摆的泡泡机，她爸一直不给买小女孩就在那哇哇哭，哭了一会就站在旁边看泡泡，哼哼哼这个时候我过去搭话了，不赘述了就是我买了个泡泡机送给她，小女孩说姐姐你是天使吗\n我说可能是吧\n39就可以让一个小朋友开心一天啊ovo https://t.co/PAIIY1SCMq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040012185917927424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-URk8bMAATvt1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040012185917927424"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2040012205517922483",
+        "created_at": "2026-04-03T10:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T11:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040012205517922483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PAIIY1SCMq",
+              "end": 167,
+              "expanded_url": "https://x.com/DQadopt/status/2040012205517922483/photo/1",
+              "media_key": "3_2040012185917927424",
+              "start": 144,
+              "url": "https://t.co/PAIIY1SCMq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040012205517922483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃饭的时候看到背后一个路边摊小贩的女儿在哭，观察了一下是喜欢旁边玩具店店门口摆的泡泡机，她爸一直不给买小女孩就在那哇哇哭，哭了一会就站在旁边看泡泡，哼哼哼这个时候我过去搭话了，不赘述了就是我买了个泡泡机送给她，小女孩说姐姐你是天使吗\n我说可能是吧\n39就可以让一个小朋友开心一天啊ovo https://t.co/PAIIY1SCMq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 269,
+          "like_count": 2383,
+          "listed_count": 0,
+          "media_count": 292,
+          "tweet_count": 2724
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

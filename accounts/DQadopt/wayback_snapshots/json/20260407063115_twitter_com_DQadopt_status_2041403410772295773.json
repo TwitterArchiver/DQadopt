@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2041403410772295773",
+    "created_at": "2026-04-07T06:31:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T07:31:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041403410772295773"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041403410772295773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "下个月生日，然后去深圳找小鸟，应该会是我最幸福的一个生日了，我完全不在意她会给我什么生日礼物，只希望她能多抱抱我就好了，可以多看着我吗虽然我很讨厌别人看我的眼睛，连血脉相连的亲人都未曾紧握我的手，我却希望小鸟能做到啊\n光是想想就觉得好温暖好幸福了，能和你在一起真是太好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2041403410772295773",
+        "created_at": "2026-04-07T06:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T07:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041403410772295773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041403410772295773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下个月生日，然后去深圳找小鸟，应该会是我最幸福的一个生日了，我完全不在意她会给我什么生日礼物，只希望她能多抱抱我就好了，可以多看着我吗虽然我很讨厌别人看我的眼睛，连血脉相连的亲人都未曾紧握我的手，我却希望小鸟能做到啊\n光是想想就觉得好温暖好幸福了，能和你在一起真是太好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 306,
+          "like_count": 2491,
+          "listed_count": 1,
+          "media_count": 299,
+          "tweet_count": 2912
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

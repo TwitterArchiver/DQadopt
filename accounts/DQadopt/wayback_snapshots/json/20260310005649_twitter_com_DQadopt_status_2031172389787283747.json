@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2031007823728119987",
+    "created_at": "2026-03-10T00:56:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T01:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031172389787283747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1923868374372581376",
+          "start": 0,
+          "username": "GNsweet_dreams"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031172389787283747",
+    "in_reply_to_user_id": "1923868374372581376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031085442029039675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GNsweet_dreams 没事的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2031007823728119987",
+        "created_at": "2026-03-10T00:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T01:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031172389787283747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1923868374372581376",
+              "start": 0,
+              "username": "GNsweet_dreams"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031172389787283747",
+        "in_reply_to_user_id": "1923868374372581376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031085442029039675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GNsweet_dreams 没事的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923868374372581376",
+        "conversation_id": "2031007823728119987",
+        "created_at": "2026-03-09T19:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T20:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031085442029039675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031085442029039675",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031007823728119987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 可是這樣不會很痛苦嗎 就這樣苦苦的單戀著一個人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 208,
+          "like_count": 1297,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 1515
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-17T22:29:17.000Z",
+        "description": "🌈03 p0m 杭州·香港 先睡觉吧。",
+        "id": "1923868374372581376",
+        "location": "Hong Kong",
+        "name": "枕头",
+        "pinned_tweet_id": "2015449953087414593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994828415988633600/rmR-Hz4-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 47,
+          "like_count": 109,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 114
+        },
+        "username": "GNsweet_dreams",
+        "verified": false
+      }
+    ]
+  }
+}

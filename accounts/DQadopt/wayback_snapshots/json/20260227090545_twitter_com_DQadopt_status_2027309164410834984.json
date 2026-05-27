@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027309153782464512"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2027309164410834984",
+    "created_at": "2026-02-27T09:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T10:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027309164410834984"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fJjL9vt9oi",
+          "end": 115,
+          "expanded_url": "https://x.com/DQadopt/status/2027309164410834984/photo/1",
+          "media_key": "3_2027309153782464512",
+          "start": 92,
+          "url": "https://t.co/fJjL9vt9oi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027309164410834984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是的，我们这种人就是喜欢在死亡边缘反复横跳\n高二有一次过马路看到辆货车朝我开过来，我就想试试最后一秒再躲开躲不开死了算了，然后最后那一秒同学把我扯回来了，抓住我肩膀问我不躲是在干什么 https://t.co/fJjL9vt9oi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2027309153782464512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJy7ykaAAARTPU.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027309153782464512"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2027309164410834984",
+        "created_at": "2026-02-27T09:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T10:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027309164410834984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fJjL9vt9oi",
+              "end": 115,
+              "expanded_url": "https://x.com/DQadopt/status/2027309164410834984/photo/1",
+              "media_key": "3_2027309153782464512",
+              "start": 92,
+              "url": "https://t.co/fJjL9vt9oi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027309164410834984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是的，我们这种人就是喜欢在死亡边缘反复横跳\n高二有一次过马路看到辆货车朝我开过来，我就想试试最后一秒再躲开躲不开死了算了，然后最后那一秒同学把我扯回来了，抓住我肩膀问我不躲是在干什么 https://t.co/fJjL9vt9oi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 132,
+          "like_count": 493,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 921
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

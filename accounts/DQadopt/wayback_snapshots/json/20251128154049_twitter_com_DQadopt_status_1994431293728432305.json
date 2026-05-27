@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994431282059812864"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1418358396516851713",
+          "name": "Ko-fi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1418358396516851713",
+          "name": "Ko-fi"
+        }
+      }
+    ],
+    "conversation_id": "1994431293728432305",
+    "created_at": "2025-11-28T15:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T16:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994431293728432305"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 81,
+          "normalized_text": "PayPal",
+          "probability": 0.728,
+          "start": 76,
+          "type": "Other"
+        },
+        {
+          "end": 85,
+          "normalized_text": "-",
+          "probability": 0.4867,
+          "start": 85,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oyzWPCbssh",
+          "end": 112,
+          "expanded_url": "https://x.com/DQadopt/status/1994431293728432305/photo/1",
+          "media_key": "3_1994431282059812864",
+          "start": 89,
+          "url": "https://t.co/oyzWPCbssh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994431293728432305",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "~ Adoptable character  ♡\n🪦Tombstone ghost rabbit🐇\n\nAB: 80$ \nPayment method: PayPal、ko-fi https://t.co/oyzWPCbssh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994431282059812864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G62kryAaIAAxu0R.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994431282059812864"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418358396516851713",
+              "name": "Ko-fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418358396516851713",
+              "name": "Ko-fi"
+            }
+          }
+        ],
+        "conversation_id": "1994431293728432305",
+        "created_at": "2025-11-28T15:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T16:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994431293728432305"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 81,
+              "normalized_text": "PayPal",
+              "probability": 0.728,
+              "start": 76,
+              "type": "Other"
+            },
+            {
+              "end": 85,
+              "normalized_text": "-",
+              "probability": 0.4867,
+              "start": 85,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oyzWPCbssh",
+              "end": 112,
+              "expanded_url": "https://x.com/DQadopt/status/1994431293728432305/photo/1",
+              "media_key": "3_1994431282059812864",
+              "start": 89,
+              "url": "https://t.co/oyzWPCbssh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994431293728432305",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "~ Adoptable character  ♡\n🪦Tombstone ghost rabbit🐇\n\nAB: 80$ \nPayment method: PayPal、ko-fi https://t.co/oyzWPCbssh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "Character design丨Slow learning☆*:.｡. o(≧▽≦)o .｡.:*☆",
+        "id": "1989965282799226880",
+        "name": "DQ🦋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989965450730725376/VuyFLuEA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 12,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 8
+        },
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

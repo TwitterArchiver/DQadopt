@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2041889963772670138",
+    "created_at": "2026-04-08T14:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T15:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041889963772670138"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041889963772670138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想在她面前自残，不喜欢她总是淡淡的模样，希望她一直看着我，如果我自残能让她流泪，她流泪的话就代表她在意我，但是我不能自残了，所以我怎么看得出来她喜欢我？不能让她感到和我一起很麻烦，不然她又要讨厌这种感情了\n好不安，没有她我总是掉眼泪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2041889963772670138",
+        "created_at": "2026-04-08T14:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041889963772670138"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041889963772670138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想在她面前自残，不喜欢她总是淡淡的模样，希望她一直看着我，如果我自残能让她流泪，她流泪的话就代表她在意我，但是我不能自残了，所以我怎么看得出来她喜欢我？不能让她感到和我一起很麻烦，不然她又要讨厌这种感情了\n好不安，没有她我总是掉眼泪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 309,
+          "like_count": 2614,
+          "listed_count": 0,
+          "media_count": 307,
+          "tweet_count": 3020
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

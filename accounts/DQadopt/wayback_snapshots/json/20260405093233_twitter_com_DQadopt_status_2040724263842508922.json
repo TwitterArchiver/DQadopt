@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2040713911008473239",
+    "created_at": "2026-04-05T09:32:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T10:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040724263842508922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912931209489080321",
+          "start": 0,
+          "username": "jiwi423736"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040724263842508922",
+    "in_reply_to_user_id": "1912931209489080321",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040713911008473239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiwi423736 我去好魅惑的女人！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040713907174813696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFISfIVasAAhoue.jpg",
+        "width": 1538
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040713906960896000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFISfHiakAAqNiD.jpg",
+        "width": 1538
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040713907388706816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFISfJIacAA15GN.jpg",
+        "width": 1538
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040713908034646016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFISfLiasAAWVGm.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2040713911008473239",
+        "created_at": "2026-04-05T09:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T10:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040724263842508922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912931209489080321",
+              "start": 0,
+              "username": "jiwi423736"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040724263842508922",
+        "in_reply_to_user_id": "1912931209489080321",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040713911008473239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiwi423736 我去好魅惑的女人！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040713907174813696",
+            "3_2040713906960896000",
+            "3_2040713907388706816",
+            "3_2040713908034646016"
+          ]
+        },
+        "author_id": "1912931209489080321",
+        "conversation_id": "2040713911008473239",
+        "created_at": "2026-04-05T08:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040713911008473239"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "le"
+            },
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "les"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "女同性恋"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VcQQiD4Ak0",
+              "end": 59,
+              "expanded_url": "https://x.com/jiwi423736/status/2040713911008473239/photo/1",
+              "media_key": "3_2040713907174813696",
+              "start": 36,
+              "url": "https://t.co/VcQQiD4Ak0"
+            },
+            {
+              "display_url": "pic.x.com/VcQQiD4Ak0",
+              "end": 59,
+              "expanded_url": "https://x.com/jiwi423736/status/2040713911008473239/photo/1",
+              "media_key": "3_2040713906960896000",
+              "start": 36,
+              "url": "https://t.co/VcQQiD4Ak0"
+            },
+            {
+              "display_url": "pic.x.com/VcQQiD4Ak0",
+              "end": 59,
+              "expanded_url": "https://x.com/jiwi423736/status/2040713911008473239/photo/1",
+              "media_key": "3_2040713907388706816",
+              "start": 36,
+              "url": "https://t.co/VcQQiD4Ak0"
+            },
+            {
+              "display_url": "pic.x.com/VcQQiD4Ak0",
+              "end": 59,
+              "expanded_url": "https://x.com/jiwi423736/status/2040713911008473239/photo/1",
+              "media_key": "3_2040713908034646016",
+              "start": 36,
+              "url": "https://t.co/VcQQiD4Ak0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040713911008473239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你已经被我催眠了 你现在最喜欢我 知道吗 #le #les #女同性恋 https://t.co/VcQQiD4Ak0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 269,
+          "like_count": 2404,
+          "listed_count": 1,
+          "media_count": 295,
+          "tweet_count": 2811
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T18:08:45.000Z",
+        "description": "女同 男的关注我死妈 🚪88纯绿\n恋姐 不加未成年\nhttps://t.co/egkYmaSQgY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shusuushu",
+                "end": 49,
+                "expanded_url": "https://ngl.link/shusuushu",
+                "start": 26,
+                "url": "https://t.co/egkYmaSQgY"
+              }
+            ]
+          }
+        },
+        "id": "1912931209489080321",
+        "name": "ÒωÓ",
+        "pinned_tweet_id": "2014071133939663137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020773323962249216/ov9VVprR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 46,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 135
+        },
+        "username": "jiwi423736",
+        "verified": false
+      }
+    ]
+  }
+}

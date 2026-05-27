@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022603308570214400"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2022603327822008750",
+    "created_at": "2026-02-14T09:26:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T10:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022603327822008750"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 51,
+          "tag": "光死去的夏天"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hl5zEodmaj",
+          "end": 82,
+          "expanded_url": "https://x.com/DQadopt/status/2022603327822008750/photo/1",
+          "media_key": "3_2022603308570214400",
+          "start": 59,
+          "url": "https://t.co/hl5zEodmaj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022603327822008750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好幸福，她偷偷送了我喜欢的产品的周边，要掉眼泪了\n产品看起来好幸福，我喜欢的她也要幸福\n永远爱你小鸟\n#光死去的夏天 https://t.co/hl5zEodmaj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022603308570214400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBG6_jDbgAARbpa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022603308570214400"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2022603327822008750",
+        "created_at": "2026-02-14T09:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T10:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022603327822008750"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 51,
+              "tag": "光死去的夏天"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hl5zEodmaj",
+              "end": 82,
+              "expanded_url": "https://x.com/DQadopt/status/2022603327822008750/photo/1",
+              "media_key": "3_2022603308570214400",
+              "start": 59,
+              "url": "https://t.co/hl5zEodmaj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022603327822008750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好幸福，她偷偷送了我喜欢的产品的周边，要掉眼泪了\n产品看起来好幸福，我喜欢的她也要幸福\n永远爱你小鸟\n#光死去的夏天 https://t.co/hl5zEodmaj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 87,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 565
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

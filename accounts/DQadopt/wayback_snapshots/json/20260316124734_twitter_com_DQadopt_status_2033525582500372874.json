@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033525568218738688",
+        "3_2033525568227201025",
+        "3_2033525568222932992",
+        "3_2033525568214593537"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2033525582500372874",
+    "created_at": "2026-03-16T12:47:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T13:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033525582500372874"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dlfhPgvfum",
+          "end": 108,
+          "expanded_url": "https://x.com/DQadopt/status/2033525582500372874/photo/1",
+          "media_key": "3_2033525568218738688",
+          "start": 85,
+          "url": "https://t.co/dlfhPgvfum"
+        },
+        {
+          "display_url": "pic.x.com/dlfhPgvfum",
+          "end": 108,
+          "expanded_url": "https://x.com/DQadopt/status/2033525582500372874/photo/1",
+          "media_key": "3_2033525568227201025",
+          "start": 85,
+          "url": "https://t.co/dlfhPgvfum"
+        },
+        {
+          "display_url": "pic.x.com/dlfhPgvfum",
+          "end": 108,
+          "expanded_url": "https://x.com/DQadopt/status/2033525582500372874/photo/1",
+          "media_key": "3_2033525568222932992",
+          "start": 85,
+          "url": "https://t.co/dlfhPgvfum"
+        },
+        {
+          "display_url": "pic.x.com/dlfhPgvfum",
+          "end": 108,
+          "expanded_url": "https://x.com/DQadopt/status/2033525582500372874/photo/1",
+          "media_key": "3_2033525568214593537",
+          "start": 85,
+          "url": "https://t.co/dlfhPgvfum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033525582500372874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "碰到一个孩子一直和我互动，我就主动掏蜡烛了，然后加好友上来就说白鸟丑😭心碎了呀其他白鸟一直在帮我说话，还说我23岁很老（大概是），10岁的小朋友真童言无忌啊恶语伤我心😭 https://t.co/dlfhPgvfum"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_2033525568218738688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDiIuu9aMAA9G8F.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1423,
+        "media_key": "3_2033525568227201025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDiIuu_bUAEzGCM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1423,
+        "media_key": "3_2033525568222932992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDiIuu-aMAAQ-rM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1423,
+        "media_key": "3_2033525568214593537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDiIuu8a8AEXRxy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033525568218738688",
+            "3_2033525568227201025",
+            "3_2033525568222932992",
+            "3_2033525568214593537"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033525582500372874",
+        "created_at": "2026-03-16T12:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T13:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033525582500372874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dlfhPgvfum",
+              "end": 108,
+              "expanded_url": "https://x.com/DQadopt/status/2033525582500372874/photo/1",
+              "media_key": "3_2033525568218738688",
+              "start": 85,
+              "url": "https://t.co/dlfhPgvfum"
+            },
+            {
+              "display_url": "pic.x.com/dlfhPgvfum",
+              "end": 108,
+              "expanded_url": "https://x.com/DQadopt/status/2033525582500372874/photo/1",
+              "media_key": "3_2033525568227201025",
+              "start": 85,
+              "url": "https://t.co/dlfhPgvfum"
+            },
+            {
+              "display_url": "pic.x.com/dlfhPgvfum",
+              "end": 108,
+              "expanded_url": "https://x.com/DQadopt/status/2033525582500372874/photo/1",
+              "media_key": "3_2033525568222932992",
+              "start": 85,
+              "url": "https://t.co/dlfhPgvfum"
+            },
+            {
+              "display_url": "pic.x.com/dlfhPgvfum",
+              "end": 108,
+              "expanded_url": "https://x.com/DQadopt/status/2033525582500372874/photo/1",
+              "media_key": "3_2033525568214593537",
+              "start": 85,
+              "url": "https://t.co/dlfhPgvfum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033525582500372874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "碰到一个孩子一直和我互动，我就主动掏蜡烛了，然后加好友上来就说白鸟丑😭心碎了呀其他白鸟一直在帮我说话，还说我23岁很老（大概是），10岁的小朋友真童言无忌啊恶语伤我心😭 https://t.co/dlfhPgvfum"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 238,
+          "like_count": 1747,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 1986
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

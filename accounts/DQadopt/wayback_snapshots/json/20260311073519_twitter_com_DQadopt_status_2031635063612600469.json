@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031635051428061184"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2031635063612600469",
+    "created_at": "2026-03-11T07:35:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T08:35:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031635063612600469"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LaluxVcH9D",
+          "end": 122,
+          "expanded_url": "https://x.com/DQadopt/status/2031635063612600469/photo/1",
+          "media_key": "3_2031635051428061184",
+          "start": 99,
+          "url": "https://t.co/LaluxVcH9D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031635063612600469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我后悔空间隐晦地暗示我要自杀了，她来质问我了，她明明那么恶心我还要来质问我，好奇怪的一只鸟\n我舍不得她，我舍不得很多事物，但是这些事物完全不在意我，妈妈和外婆可能会难过吧，大冰也会难过吧，我的小猫 https://t.co/LaluxVcH9D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031635051428061184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDHRULGaIAA7bi-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031635051428061184"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2031635063612600469",
+        "created_at": "2026-03-11T07:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T08:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031635063612600469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LaluxVcH9D",
+              "end": 122,
+              "expanded_url": "https://x.com/DQadopt/status/2031635063612600469/photo/1",
+              "media_key": "3_2031635051428061184",
+              "start": 99,
+              "url": "https://t.co/LaluxVcH9D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031635063612600469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我后悔空间隐晦地暗示我要自杀了，她来质问我了，她明明那么恶心我还要来质问我，好奇怪的一只鸟\n我舍不得她，我舍不得很多事物，但是这些事物完全不在意我，妈妈和外婆可能会难过吧，大冰也会难过吧，我的小猫 https://t.co/LaluxVcH9D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 226,
+          "like_count": 1380,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 1637
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

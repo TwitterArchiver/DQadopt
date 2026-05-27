@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2041545868390920465",
+    "created_at": "2026-04-07T15:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T16:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041546189649461565"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041546189649461565",
+    "in_reply_to_user_id": "1989965282799226880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041545868390920465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想起来银翼杀手2049，“执起爱人之手是什么感觉？相连”“他们有教过你指尖相连的感觉吗？相连”“你渴望心与心相连吗？相连”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2041545868390920465",
+        "created_at": "2026-04-07T15:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041546189649461565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041546189649461565",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041545868390920465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想起来银翼杀手2049，“执起爱人之手是什么感觉？相连”“他们有教过你指尖相连的感觉吗？相连”“你渴望心与心相连吗？相连”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2041545868390920465",
+        "created_at": "2026-04-07T15:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041545868390920465"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041545868390920465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要牵着她的手，一直\n我要让左边餐桌上吃饭的人看见\n我要让路过的那个下班回家的人看见\n我要让数以百计个与我们生命无关的人看见\n是我在牵着你的手\n你是被我这个人十字相扣\n让所有人看见，看见我可以牵你的左手，或者右手，看见我守在你身边，让所有人看见我选了这个位置"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1745,
+          "following_count": 305,
+          "like_count": 2528,
+          "listed_count": 0,
+          "media_count": 302,
+          "tweet_count": 2968
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

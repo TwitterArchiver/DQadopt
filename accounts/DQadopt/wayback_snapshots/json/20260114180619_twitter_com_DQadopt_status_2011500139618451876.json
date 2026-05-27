@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1867300707851960320"
+      ],
+      "media_source_tweet_id": [
+        "1867300820561408511"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2011500139618451876",
+    "created_at": "2026-01-14T18:06:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T19:06:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011500139618451876"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "keys",
+          "probability": 0.4026,
+          "start": 38,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1419424768722235393",
+          "start": 3,
+          "username": "6v6meowed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zSU2AvTWjk",
+          "end": 80,
+          "expanded_url": "https://x.com/nynkiiiiiiiiiii/status/1867300820561408511/video/1",
+          "media_key": "7_1867300707851960320",
+          "start": 57,
+          "url": "https://t.co/zSU2AvTWjk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011500139618451876",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 271
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010808924996604129",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @6v6meowed: This was what inspired keys hunter mv btw https://t.co/zSU2AvTWjk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 82152,
+        "height": 716,
+        "media_key": "7_1867300707851960320",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1867300707851960320/pu/img/Wi8NT32398h2wugz.jpg",
+        "public_metrics": {
+          "view_count": 19368
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1867300707851960320/pu/vid/avc1/482x270/hoxPouXmgCne0Bjo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1867300707851960320/pu/vid/avc1/642x360/CETdrii3n1rxfTzw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1867300707851960320/pu/vid/avc1/1280x716/wRbbynNu9toNO4As.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1867300707851960320/pu/pl/Ad9aJZey-HsL3YZx.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1867300707851960320"
+          ],
+          "media_source_tweet_id": [
+            "1867300820561408511"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2011500139618451876",
+        "created_at": "2026-01-14T18:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T19:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011500139618451876"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "keys",
+              "probability": 0.4026,
+              "start": 38,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1419424768722235393",
+              "start": 3,
+              "username": "6v6meowed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zSU2AvTWjk",
+              "end": 80,
+              "expanded_url": "https://x.com/nynkiiiiiiiiiii/status/1867300820561408511/video/1",
+              "media_key": "7_1867300707851960320",
+              "start": 57,
+              "url": "https://t.co/zSU2AvTWjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011500139618451876",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 271
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010808924996604129",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @6v6meowed: This was what inspired keys hunter mv btw https://t.co/zSU2AvTWjk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1867300707851960320"
+          ],
+          "media_source_tweet_id": [
+            "1867300820561408511"
+          ]
+        },
+        "author_id": "1419424768722235393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2010808924996604129",
+        "created_at": "2026-01-12T20:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T21:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010808924996604129"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "keys hunter",
+              "probability": 0.344,
+              "start": 23,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zSU2AvTWjk",
+              "end": 65,
+              "expanded_url": "https://x.com/nynkiiiiiiiiiii/status/1867300820561408511/video/1",
+              "media_key": "7_1867300707851960320",
+              "start": 42,
+              "url": "https://t.co/zSU2AvTWjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010808924996604129",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 507,
+          "impression_count": 30381,
+          "like_count": 2159,
+          "quote_count": 62,
+          "reply_count": 11,
+          "retweet_count": 271
+        },
+        "reply_settings": "everyone",
+        "text": "This was what inspired keys hunter mv btw https://t.co/zSU2AvTWjk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我重生了，这一次我要夺回属于我的一切丨23le🌈1丨喜欢和可爱漂亮的女生互动🥰🥰🥰丨有喜欢的人不色色丨自伤碎碎念集中地",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8euxG"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 46,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 115
+        },
+        "url": "https://t.co/nFHbt8euxG",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-25T22:30:25.000Z",
+        "description": "✩🐈‍⬛ ♺Bite me pink rabbit freak 18🩵Poet | Artist🩵 ^▽^ㅎㅅㅎ`ㅂ´ㅍ_ㅍ^^;;",
+        "id": "1419424768722235393",
+        "location": "5HINee World 💎 ༘⋆he|him .ೃ࿔*",
+        "name": "vˏ✎*ೃ˚| #TEMPO 12/15",
+        "pinned_tweet_id": "2001116944645198188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985643443616612352/CgZoweMH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1117,
+          "following_count": 962,
+          "like_count": 82802,
+          "listed_count": 8,
+          "media_count": 4626,
+          "tweet_count": 26848
+        },
+        "username": "6v6meowed",
+        "verified": false
+      }
+    ]
+  }
+}

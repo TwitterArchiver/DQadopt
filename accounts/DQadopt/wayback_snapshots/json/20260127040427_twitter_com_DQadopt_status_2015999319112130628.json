@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2015720096824803518",
+    "created_at": "2026-01-27T04:04:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T05:04:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015999319112130628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1877054397546668032",
+          "start": 0,
+          "username": "helloo33146993"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015999319112130628",
+    "in_reply_to_user_id": "1877054397546668032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015720096824803518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@helloo33146993 我操噩梦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2015720096824803518",
+        "created_at": "2026-01-27T04:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T05:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015999319112130628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1877054397546668032",
+              "start": 0,
+              "username": "helloo33146993"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015999319112130628",
+        "in_reply_to_user_id": "1877054397546668032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015720096824803518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@helloo33146993 我操噩梦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877054397546668032",
+        "conversation_id": "2015720096824803518",
+        "created_at": "2026-01-26T09:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T10:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015720096824803518"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015720096824803518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6921,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想起我之前喜欢一个女孩 感觉她特别的文艺b 她说她爱看点哲学啊什么虚无主义啊我看她的画也特别有个人风格 那几天她天天晚上还给我调晚安酒喝因为要见她我每天晚上都超心机打扮假装松弛感 呵呵 我送了她一本书之后发现这贱比压根不看书 哦哦后面我才知道她口中的前女友是男的 后来她官宣了 男的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我重生了，这一次我要夺回属于我的一切丨23le🌈1丨喜欢和可爱漂亮的女生互动🥰🥰🥰丨有喜欢的人不色色丨自伤碎碎念集中地",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8euxG"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 53,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 159
+        },
+        "url": "https://t.co/nFHbt8euxG",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T18:07:08.000Z",
+        "description": "姐姐有宇宙 我有姐姐",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovo33_o3o",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovo33_o3o",
+                "start": 0,
+                "url": "https://t.co/whqONA4wnA"
+              }
+            ]
+          }
+        },
+        "id": "1877054397546668032",
+        "name": "绝对的浪漫主义",
+        "pinned_tweet_id": "2015304616230240767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015631615800860672/Wx5DdTFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 34,
+          "like_count": 1292,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 1080
+        },
+        "url": "https://t.co/whqONA4wnA",
+        "username": "helloo33146993",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2040002373633106424",
+    "created_at": "2026-04-03T10:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T11:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040018300533670378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683159092800659458",
+          "start": 0,
+          "username": "shshjyhl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040018300533670378",
+    "in_reply_to_user_id": "1683159092800659458",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040002373633106424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shshjyhl 我超太炫酷了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1668,
+        "height": 870,
+        "media_key": "13_2040002352221208576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040002352221208576/img/wRrBXPJDi6ijgpAp.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040002352221208576/vid/avc1/320x386/pVaQ1j0zwwtNm9b8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040002352221208576/vid/avc1/480x580/pD48FI9-7GMqaggv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040002352221208576/vid/avc1/720x870/Bxnw1XmPYTH2tXq-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040002352221208576/pl/IlYA4cbInOjeE4NI.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2040002373633106424",
+        "created_at": "2026-04-03T10:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T11:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040018300533670378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683159092800659458",
+              "start": 0,
+              "username": "shshjyhl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040018300533670378",
+        "in_reply_to_user_id": "1683159092800659458",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040002373633106424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shshjyhl 我超太炫酷了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040002352221208576"
+          ]
+        },
+        "author_id": "1683159092800659458",
+        "conversation_id": "2040002373633106424",
+        "created_at": "2026-04-03T09:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040002373633106424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xnz2DuoGKq",
+              "end": 46,
+              "expanded_url": "https://x.com/shshjyhl/status/2040002373633106424/video/1",
+              "media_key": "13_2040002352221208576",
+              "start": 23,
+              "url": "https://t.co/Xnz2DuoGKq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040002373633106424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要笑死了。同事的诡秘老给她买这些抽象的东西 https://t.co/Xnz2DuoGKq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 269,
+          "like_count": 2383,
+          "listed_count": 0,
+          "media_count": 292,
+          "tweet_count": 2727
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T16:56:23.000Z",
+        "description": "les🌈正在调整各种事物接收程度中/有时候很能吵到别人眼睛，大部分时候不爱说话/看不起女人的男的自觉取关",
+        "id": "1683159092800659458",
+        "location": "一直在路上",
+        "name": "上火慎喝金银花露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911426222929616896/JDA-kX93_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10862,
+          "following_count": 1181,
+          "like_count": 2839,
+          "listed_count": 27,
+          "media_count": 149,
+          "tweet_count": 740
+        },
+        "username": "shshjyhl",
+        "verified": false
+      }
+    ]
+  }
+}

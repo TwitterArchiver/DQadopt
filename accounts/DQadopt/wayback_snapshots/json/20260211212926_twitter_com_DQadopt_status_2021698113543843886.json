@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2021698113543843886",
+    "created_at": "2026-02-11T21:29:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T22:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021698113543843886"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021698113543843886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "她动态又一直在思念梦里的哥哥了，在这些不属于我的时间里，这些被别人占走的时刻，我嫉妒的要死，嫉妒的要疯了\n缺乏镇定的布南色林让我一晚上醒了两次，烦死了，不过谢谢布南色林，我又梦到你了，梦到你趴我身边玩手机，我们抱抱了很多次\n五点半了，我该何去何从呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2021698113543843886",
+        "created_at": "2026-02-11T21:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T22:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021698113543843886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021698113543843886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "她动态又一直在思念梦里的哥哥了，在这些不属于我的时间里，这些被别人占走的时刻，我嫉妒的要死，嫉妒的要疯了\n缺乏镇定的布南色林让我一晚上醒了两次，烦死了，不过谢谢布南色林，我又梦到你了，梦到你趴我身边玩手机，我们抱抱了很多次\n五点半了，我该何去何从呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 86,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 477
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

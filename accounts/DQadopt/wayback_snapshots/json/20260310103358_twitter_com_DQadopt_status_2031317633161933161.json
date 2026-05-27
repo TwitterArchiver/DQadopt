@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031317617601032192",
+        "3_2031317617605226506",
+        "3_2031317617601040384",
+        "3_2031317617605300224"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2031317633161933161",
+    "created_at": "2026-03-10T10:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T11:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031317633161933161"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/43T2WVKRBO",
+          "end": 73,
+          "expanded_url": "https://x.com/DQadopt/status/2031317633161933161/photo/1",
+          "media_key": "3_2031317617601032192",
+          "start": 50,
+          "url": "https://t.co/43T2WVKRBO"
+        },
+        {
+          "display_url": "pic.x.com/43T2WVKRBO",
+          "end": 73,
+          "expanded_url": "https://x.com/DQadopt/status/2031317633161933161/photo/1",
+          "media_key": "3_2031317617605226506",
+          "start": 50,
+          "url": "https://t.co/43T2WVKRBO"
+        },
+        {
+          "display_url": "pic.x.com/43T2WVKRBO",
+          "end": 73,
+          "expanded_url": "https://x.com/DQadopt/status/2031317633161933161/photo/1",
+          "media_key": "3_2031317617601040384",
+          "start": 50,
+          "url": "https://t.co/43T2WVKRBO"
+        },
+        {
+          "display_url": "pic.x.com/43T2WVKRBO",
+          "end": 73,
+          "expanded_url": "https://x.com/DQadopt/status/2031317633161933161/photo/1",
+          "media_key": "3_2031317617605300224",
+          "start": 50,
+          "url": "https://t.co/43T2WVKRBO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031317633161933161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小鸟这两天给我买的东西😭😭😭\n她又乱花钱了，心疼她，给我买东西不如把钱拿去给自己多买点吃的长好一点 https://t.co/43T2WVKRBO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2031317617601032192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDCwnF8aMAANUvw.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031317617605226506",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDCwnF9aMAoI_XE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031317617601040384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDCwnF8aUAAqVoD.jpg",
+        "width": 1537
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031317617605300224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDCwnF9bUAAzPRW.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031317617601032192",
+            "3_2031317617605226506",
+            "3_2031317617601040384",
+            "3_2031317617605300224"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031317633161933161",
+        "created_at": "2026-03-10T10:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T11:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031317633161933161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/43T2WVKRBO",
+              "end": 73,
+              "expanded_url": "https://x.com/DQadopt/status/2031317633161933161/photo/1",
+              "media_key": "3_2031317617601032192",
+              "start": 50,
+              "url": "https://t.co/43T2WVKRBO"
+            },
+            {
+              "display_url": "pic.x.com/43T2WVKRBO",
+              "end": 73,
+              "expanded_url": "https://x.com/DQadopt/status/2031317633161933161/photo/1",
+              "media_key": "3_2031317617605226506",
+              "start": 50,
+              "url": "https://t.co/43T2WVKRBO"
+            },
+            {
+              "display_url": "pic.x.com/43T2WVKRBO",
+              "end": 73,
+              "expanded_url": "https://x.com/DQadopt/status/2031317633161933161/photo/1",
+              "media_key": "3_2031317617601040384",
+              "start": 50,
+              "url": "https://t.co/43T2WVKRBO"
+            },
+            {
+              "display_url": "pic.x.com/43T2WVKRBO",
+              "end": 73,
+              "expanded_url": "https://x.com/DQadopt/status/2031317633161933161/photo/1",
+              "media_key": "3_2031317617605300224",
+              "start": 50,
+              "url": "https://t.co/43T2WVKRBO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031317633161933161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小鸟这两天给我买的东西😭😭😭\n她又乱花钱了，心疼她，给我买东西不如把钱拿去给自己多买点吃的长好一点 https://t.co/43T2WVKRBO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 208,
+          "like_count": 1343,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 1536
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

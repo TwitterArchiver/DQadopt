@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2025198009819300136",
+    "created_at": "2026-02-21T13:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T14:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025198009819300136"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kundeoutuwu_/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/kundeoutuwu_/status/2025134100445888905",
+          "start": 4,
+          "url": "https://t.co/z5Ji73DoRA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025198009819300136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025134100445888905",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太帅了 https://t.co/z5Ji73DoRA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025134086608879621",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBq4uN7bgAU2fAj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2025134086596214784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBq4uN4aQAA9Ff0.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2025134086600491016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBq4uN5bgAgVjAB.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2025198009819300136",
+        "created_at": "2026-02-21T13:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T14:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025198009819300136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kundeoutuwu_/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/kundeoutuwu_/status/2025134100445888905",
+              "start": 4,
+              "url": "https://t.co/z5Ji73DoRA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025198009819300136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025134100445888905",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太帅了 https://t.co/z5Ji73DoRA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025134086608879621",
+            "3_2025134086596214784",
+            "3_2025134086600491016"
+          ]
+        },
+        "author_id": "1755230361250856960",
+        "conversation_id": "2025134100445888905",
+        "created_at": "2026-02-21T09:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T10:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025134100445888905"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 6,
+              "tag": "人皮扣"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "恋痛"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "穿刺"
+            },
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "piercing"
+            },
+            {
+              "end": 43,
+              "start": 30,
+              "tag": "playpiercing"
+            },
+            {
+              "end": 61,
+              "start": 44,
+              "tag": "bodymodification"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cyxYMza7YP",
+              "end": 85,
+              "expanded_url": "https://x.com/kundeoutuwu_/status/2025134100445888905/photo/1",
+              "media_key": "3_2025134086608879621",
+              "start": 62,
+              "url": "https://t.co/cyxYMza7YP"
+            },
+            {
+              "display_url": "pic.x.com/cyxYMza7YP",
+              "end": 85,
+              "expanded_url": "https://x.com/kundeoutuwu_/status/2025134100445888905/photo/1",
+              "media_key": "3_2025134086596214784",
+              "start": 62,
+              "url": "https://t.co/cyxYMza7YP"
+            },
+            {
+              "display_url": "pic.x.com/cyxYMza7YP",
+              "end": 85,
+              "expanded_url": "https://x.com/kundeoutuwu_/status/2025134100445888905/photo/1",
+              "media_key": "3_2025134086600491016",
+              "start": 62,
+              "url": "https://t.co/cyxYMza7YP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025134100445888905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5452,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "腐烂与新生\n#人皮扣 #恋痛 #穿刺 \n#piercing #playpiercing #bodymodification https://t.co/cyxYMza7YP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 91,
+          "like_count": 248,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 710
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T14:02:25.000Z",
+        "description": "堆人皮扣作品的号。接演出活动｜常驻重庆 3.7-3.11上海旅扎可预约｜S｜恋痛的宝宝我会溺爱^ ^｜欢迎绳师和我共创艺术品",
+        "id": "1755230361250856960",
+        "location": "穿刺师",
+        "name": "困的呕吐物",
+        "pinned_tweet_id": "2013240206539804674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003474166927003648/4u-8O_KF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 75,
+          "like_count": 360,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 82
+        },
+        "username": "kundeoutuwu_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034537913959305216"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2034537924742754679",
+    "created_at": "2026-03-19T07:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T08:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034537924742754679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 20,
+          "id": "1748064252521545731",
+          "start": 5,
+          "username": "mihuanhuanhuan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tQ41vRxS3I",
+          "end": 162,
+          "expanded_url": "https://x.com/DQadopt/status/2034537924742754679/photo/1",
+          "media_key": "3_2034537913959305216",
+          "start": 139,
+          "url": "https://t.co/tQ41vRxS3I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034537924742754679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和章鱼老师@mihuanhuanhuan 前几天进行的deeptalk，章鱼说想要被爱的人杀掉与被食用，今天重新翻看重新理解对话给章鱼写了这篇短诗\n性欲、食欲、爱欲、死欲在最强烈的时候高度一致，爱是一场沟壑难填罢了，触碰到了肌肤就想要食用血肉，到最后演变成独占欲的进食\n😋😋😋 https://t.co/tQ41vRxS3I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1789,
+        "media_key": "3_2034537913959305216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDwhdAub0AAzl-C.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034537913959305216"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2034537924742754679",
+        "created_at": "2026-03-19T07:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T08:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034537924742754679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1748064252521545731",
+              "start": 5,
+              "username": "mihuanhuanhuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tQ41vRxS3I",
+              "end": 162,
+              "expanded_url": "https://x.com/DQadopt/status/2034537924742754679/photo/1",
+              "media_key": "3_2034537913959305216",
+              "start": 139,
+              "url": "https://t.co/tQ41vRxS3I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034537924742754679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和章鱼老师@mihuanhuanhuan 前几天进行的deeptalk，章鱼说想要被爱的人杀掉与被食用，今天重新翻看重新理解对话给章鱼写了这篇短诗\n性欲、食欲、爱欲、死欲在最强烈的时候高度一致，爱是一场沟壑难填罢了，触碰到了肌肤就想要食用血肉，到最后演变成独占欲的进食\n😋😋😋 https://t.co/tQ41vRxS3I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1376,
+          "following_count": 248,
+          "like_count": 1844,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 2207
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T19:26:25.000Z",
+        "description": "intp紫色章鱼，mtx\n主业达人拍剪，常驻杭州的阴湿长发男m，\n懂点商业和心理学和哲学。\n欢迎xnn和4i爸比来踩我\n（目前绝赞变身中（变身……）\n\np站https://t.co/BCEf9rY5o6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/103103881",
+                "end": 101,
+                "expanded_url": "https://www.pixiv.net/users/103103881",
+                "start": 78,
+                "url": "https://t.co/BCEf9rY5o6"
+              }
+            ]
+          }
+        },
+        "id": "1748064252521545731",
+        "location": "杭州",
+        "name": "变质牛乳🍥",
+        "pinned_tweet_id": "1989603644577386680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756361529560064000/cWcrXvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 459,
+          "like_count": 2058,
+          "listed_count": 1,
+          "media_count": 278,
+          "tweet_count": 2365
+        },
+        "username": "mihuanhuanhuan",
+        "verified": false
+      }
+    ]
+  }
+}

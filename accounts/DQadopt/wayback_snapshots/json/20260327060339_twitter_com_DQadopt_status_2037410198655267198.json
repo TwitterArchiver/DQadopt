@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2037410198655267198",
+    "created_at": "2026-03-27T06:03:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T07:03:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037410198655267198"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/missugin_1010/…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/missugin_1010/status/2033619240809603322",
+          "start": 41,
+          "url": "https://t.co/55QVzhevRU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037410198655267198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033619240809603322",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们正常的逆水寒玩家不是这样的，这就是傻逼脑残弱智智障，不是我们逆水寒的错🥲🥲🥲 https://t.co/55QVzhevRU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2033619237894537216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDjd7BsawAAlPuB.jpg",
+        "width": 2256
+      },
+      {
+        "height": 955,
+        "media_key": "3_2033619235969331200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDjd66hacAAHxk1.jpg",
+        "width": 1132
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2037410198655267198",
+        "created_at": "2026-03-27T06:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037410198655267198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/missugin_1010/…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/missugin_1010/status/2033619240809603322",
+              "start": 41,
+              "url": "https://t.co/55QVzhevRU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037410198655267198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033619240809603322",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们正常的逆水寒玩家不是这样的，这就是傻逼脑残弱智智障，不是我们逆水寒的错🥲🥲🥲 https://t.co/55QVzhevRU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033619237894537216",
+            "3_2033619235969331200"
+          ]
+        },
+        "author_id": "1993095296998686720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033619240809603322",
+        "created_at": "2026-03-16T18:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T19:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033619240809603322"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 9,
+              "tag": "逆水寒手游"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mbgJF7klwV",
+              "end": 39,
+              "expanded_url": "https://x.com/JUMONJI_GIN/status/2033619240809603322/photo/1",
+              "media_key": "3_2033619237894537216",
+              "start": 16,
+              "url": "https://t.co/mbgJF7klwV"
+            },
+            {
+              "display_url": "pic.x.com/mbgJF7klwV",
+              "end": 39,
+              "expanded_url": "https://x.com/JUMONJI_GIN/status/2033619240809603322/photo/1",
+              "media_key": "3_2033619235969331200",
+              "start": 16,
+              "url": "https://t.co/mbgJF7klwV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033619240809603322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 349383,
+          "like_count": 529,
+          "quote_count": 23,
+          "reply_count": 76,
+          "retweet_count": 8
+        },
+        "reply_settings": "following",
+        "text": "水一期母狗叠叠乐 #逆水寒手游 https://t.co/mbgJF7klwV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是明恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 262,
+          "like_count": 2244,
+          "listed_count": 0,
+          "media_count": 275,
+          "tweet_count": 2498
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-24T23:12:17.000Z",
+        "description": "别再封我了💦不加lxfs不月❗️❗️\nxp猎奇随缘更新无意打扰圈外，但要是谁顺着味搜过来贴脸找骂就别怪我嘴脏😋",
+        "id": "1993095296998686720",
+        "name": "十完夜。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993096520124841985/gYiLxDuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 60,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 21
+        },
+        "username": "MissUGIN_1010",
+        "verified": false
+      }
+    ]
+  }
+}

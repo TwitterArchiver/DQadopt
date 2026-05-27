@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016914984404733956"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2016914994848518482",
+    "created_at": "2026-01-29T16:43:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T17:43:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016914994848518482"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/41CrEzXlr0",
+          "end": 68,
+          "expanded_url": "https://x.com/DQadopt/status/2016914994848518482/photo/1",
+          "media_key": "3_2016914984404733956",
+          "start": 45,
+          "url": "https://t.co/41CrEzXlr0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016914994848518482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原本想点外卖送个刀在酒店割的，和她说了说话又好了很多，好了我要睡觉了\n给你们看别人画的我 https://t.co/41CrEzXlr0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016914984404733956",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_2FfgObUAQdbxY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016914984404733956"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2016914994848518482",
+        "created_at": "2026-01-29T16:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T17:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016914994848518482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/41CrEzXlr0",
+              "end": 68,
+              "expanded_url": "https://x.com/DQadopt/status/2016914994848518482/photo/1",
+              "media_key": "3_2016914984404733956",
+              "start": 45,
+              "url": "https://t.co/41CrEzXlr0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016914994848518482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原本想点外卖送个刀在酒店割的，和她说了说话又好了很多，好了我要睡觉了\n给你们看别人画的我 https://t.co/41CrEzXlr0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 57,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 195
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

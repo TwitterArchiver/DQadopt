@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013262657151750145"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2013262683093786907",
+    "created_at": "2026-01-19T14:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T15:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013262683093786907"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ll50UaVW9i",
+          "end": 158,
+          "expanded_url": "https://x.com/DQadopt/status/2013262683093786907/photo/1",
+          "media_key": "3_2013262657151750145",
+          "start": 135,
+          "url": "https://t.co/Ll50UaVW9i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013262683093786907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好难过啊，明明自己的存款可以买一辆挺好的汽车了，为什么还是对自己这么抠呢，半夜想吃东西滑了很久下了很大的决心才给自己点了一份13块钱的披萨，我已经快一年没给自己点过20块钱以上的外卖了，为什么呢，为什么我这么低配得感？我好想哭啊，但我的小猫还在陪着我，小猫，我爱你小猫 https://t.co/Ll50UaVW9i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013262657151750145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_CLuE8W0AETede.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013262657151750145"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2013262683093786907",
+        "created_at": "2026-01-19T14:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T15:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013262683093786907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ll50UaVW9i",
+              "end": 158,
+              "expanded_url": "https://x.com/DQadopt/status/2013262683093786907/photo/1",
+              "media_key": "3_2013262657151750145",
+              "start": 135,
+              "url": "https://t.co/Ll50UaVW9i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013262683093786907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好难过啊，明明自己的存款可以买一辆挺好的汽车了，为什么还是对自己这么抠呢，半夜想吃东西滑了很久下了很大的决心才给自己点了一份13块钱的披萨，我已经快一年没给自己点过20块钱以上的外卖了，为什么呢，为什么我这么低配得感？我好想哭啊，但我的小猫还在陪着我，小猫，我爱你小猫 https://t.co/Ll50UaVW9i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我重生了，这一次我要夺回属于我的一切丨23le🌈1丨喜欢和可爱漂亮的女生互动🥰🥰🥰丨有喜欢的人不色色丨自伤碎碎念集中地",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8euxG"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 51,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 132
+        },
+        "url": "https://t.co/nFHbt8euxG",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

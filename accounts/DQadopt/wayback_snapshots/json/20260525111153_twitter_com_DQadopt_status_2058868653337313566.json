@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2058866255214305343",
+    "created_at": "2026-05-25T11:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T12:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058868653337313566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1630946419187277827",
+          "start": 0,
+          "username": "fksad_life"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058868653337313566",
+    "in_reply_to_user_id": "1630946419187277827",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058866255214305343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fksad_life 男的臭🐔脏死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2058866255214305343",
+        "created_at": "2026-05-25T11:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058868653337313566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1630946419187277827",
+              "start": 0,
+              "username": "fksad_life"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058868653337313566",
+        "in_reply_to_user_id": "1630946419187277827",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058866255214305343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fksad_life 男的臭🐔脏死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630946419187277827",
+        "conversation_id": "2058866255214305343",
+        "created_at": "2026-05-25T11:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058866255214305343"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "les"
+            },
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "wlw"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "女同"
+            },
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "ttl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058866255214305343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就是喜欢短发t啊 望周知喜欢短发t≠喜欢男人 区别就是我喜欢吃短发t的b 不喜欢吃♂的🐔#les #wlw #女同 #ttl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2351,
+          "following_count": 343,
+          "like_count": 3438,
+          "listed_count": 1,
+          "media_count": 370,
+          "tweet_count": 4166
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-01T15:01:58.000Z",
+        "description": "这里是 宇宙中心 （喜欢女人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fksad_life",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fksad_life",
+                "start": 0,
+                "url": "https://t.co/UGUaTnEsYf"
+              }
+            ]
+          }
+        },
+        "id": "1630946419187277827",
+        "location": "蝴蝶谷",
+        "name": "₍^._.^₎⟆",
+        "pinned_tweet_id": "2049592362717102285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034680899875508224/mT5iZmRr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 32,
+          "like_count": 685,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 270
+        },
+        "url": "https://t.co/UGUaTnEsYf",
+        "username": "fksad_life",
+        "verified": false
+      }
+    ]
+  }
+}

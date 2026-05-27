@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029030313821913097",
+        "3_2029030313809281024",
+        "3_2029030313859665920",
+        "3_2029030313805127680"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2029030324701958320",
+    "created_at": "2026-03-04T03:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T04:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029030324701958320"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EsEbMFMAWV",
+          "end": 169,
+          "expanded_url": "https://x.com/DQadopt/status/2029030324701958320/photo/1",
+          "media_key": "3_2029030313821913097",
+          "start": 146,
+          "url": "https://t.co/EsEbMFMAWV"
+        },
+        {
+          "display_url": "pic.x.com/EsEbMFMAWV",
+          "end": 169,
+          "expanded_url": "https://x.com/DQadopt/status/2029030324701958320/photo/1",
+          "media_key": "3_2029030313809281024",
+          "start": 146,
+          "url": "https://t.co/EsEbMFMAWV"
+        },
+        {
+          "display_url": "pic.x.com/EsEbMFMAWV",
+          "end": 169,
+          "expanded_url": "https://x.com/DQadopt/status/2029030324701958320/photo/1",
+          "media_key": "3_2029030313859665920",
+          "start": 146,
+          "url": "https://t.co/EsEbMFMAWV"
+        },
+        {
+          "display_url": "pic.x.com/EsEbMFMAWV",
+          "end": 169,
+          "expanded_url": "https://x.com/DQadopt/status/2029030324701958320/photo/1",
+          "media_key": "3_2029030313805127680",
+          "start": 146,
+          "url": "https://t.co/EsEbMFMAWV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029030324701958320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "二月读完了16本书！说着再也不读书了还是断断续续在微信读书看完了快400本书）其中300本都是西方哲学啊哈哈哈\n会很佩服读书量广的书友，感觉谈吐的境界完全不是我这种人能所企及的，点开主页都是阅读时长1万小时以上的老师，而我才3752小时\n唉！再接再厉吧，还是感觉自己太空洞匮乏，学无止境啊！ https://t.co/EsEbMFMAWV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 844,
+        "media_key": "3_2029030313821913097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCiQUfXawAkrbKg.jpg",
+        "width": 578
+      },
+      {
+        "height": 1498,
+        "media_key": "3_2029030313809281024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCiQUfUaAAABzZh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1972,
+        "media_key": "3_2029030313859665920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCiQUfga0AAT1cP.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029030313805127680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCiQUfTaoAAWOd0.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029030313821913097",
+            "3_2029030313809281024",
+            "3_2029030313859665920",
+            "3_2029030313805127680"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2029030324701958320",
+        "created_at": "2026-03-04T03:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T04:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029030324701958320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EsEbMFMAWV",
+              "end": 169,
+              "expanded_url": "https://x.com/DQadopt/status/2029030324701958320/photo/1",
+              "media_key": "3_2029030313821913097",
+              "start": 146,
+              "url": "https://t.co/EsEbMFMAWV"
+            },
+            {
+              "display_url": "pic.x.com/EsEbMFMAWV",
+              "end": 169,
+              "expanded_url": "https://x.com/DQadopt/status/2029030324701958320/photo/1",
+              "media_key": "3_2029030313809281024",
+              "start": 146,
+              "url": "https://t.co/EsEbMFMAWV"
+            },
+            {
+              "display_url": "pic.x.com/EsEbMFMAWV",
+              "end": 169,
+              "expanded_url": "https://x.com/DQadopt/status/2029030324701958320/photo/1",
+              "media_key": "3_2029030313859665920",
+              "start": 146,
+              "url": "https://t.co/EsEbMFMAWV"
+            },
+            {
+              "display_url": "pic.x.com/EsEbMFMAWV",
+              "end": 169,
+              "expanded_url": "https://x.com/DQadopt/status/2029030324701958320/photo/1",
+              "media_key": "3_2029030313805127680",
+              "start": 146,
+              "url": "https://t.co/EsEbMFMAWV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029030324701958320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "二月读完了16本书！说着再也不读书了还是断断续续在微信读书看完了快400本书）其中300本都是西方哲学啊哈哈哈\n会很佩服读书量广的书友，感觉谈吐的境界完全不是我这种人能所企及的，点开主页都是阅读时长1万小时以上的老师，而我才3752小时\n唉！再接再厉吧，还是感觉自己太空洞匮乏，学无止境啊！ https://t.co/EsEbMFMAWV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 163,
+          "like_count": 801,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 1085
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

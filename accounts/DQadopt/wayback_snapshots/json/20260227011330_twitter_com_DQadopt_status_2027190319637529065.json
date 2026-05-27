@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027190310917558272",
+        "3_2027190310909124608"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2027190319637529065",
+    "created_at": "2026-02-27T01:13:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T02:13:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027190319637529065"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bga8ONVzX5",
+          "end": 115,
+          "expanded_url": "https://x.com/DQadopt/status/2027190319637529065/photo/1",
+          "media_key": "3_2027190310917558272",
+          "start": 92,
+          "url": "https://t.co/bga8ONVzX5"
+        },
+        {
+          "display_url": "pic.x.com/bga8ONVzX5",
+          "end": 115,
+          "expanded_url": "https://x.com/DQadopt/status/2027190319637529065/photo/1",
+          "media_key": "3_2027190310909124608",
+          "start": 92,
+          "url": "https://t.co/bga8ONVzX5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027190319637529065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1⃣️我去主播其实是个原始人啊基本上不联用，以及“控制”幻觉我从来没做到过2⃣️我去听了一下！非常好，我是因为很喜欢尼采的《查拉图斯特拉如是说》这本书所以取的这个名字，感谢您的推荐！ https://t.co/bga8ONVzX5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027190310917558272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIG2OZa0AAAH0w.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027190310909124608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIG2OXaIAA9mo0.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027190310917558272",
+            "3_2027190310909124608"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2027190319637529065",
+        "created_at": "2026-02-27T01:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T02:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027190319637529065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bga8ONVzX5",
+              "end": 115,
+              "expanded_url": "https://x.com/DQadopt/status/2027190319637529065/photo/1",
+              "media_key": "3_2027190310917558272",
+              "start": 92,
+              "url": "https://t.co/bga8ONVzX5"
+            },
+            {
+              "display_url": "pic.x.com/bga8ONVzX5",
+              "end": 115,
+              "expanded_url": "https://x.com/DQadopt/status/2027190319637529065/photo/1",
+              "media_key": "3_2027190310909124608",
+              "start": 92,
+              "url": "https://t.co/bga8ONVzX5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027190319637529065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1⃣️我去主播其实是个原始人啊基本上不联用，以及“控制”幻觉我从来没做到过2⃣️我去听了一下！非常好，我是因为很喜欢尼采的《查拉图斯特拉如是说》这本书所以取的这个名字，感谢您的推荐！ https://t.co/bga8ONVzX5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 127,
+          "like_count": 451,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 884
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

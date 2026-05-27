@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2057701357768016361",
+    "created_at": "2026-05-23T13:51:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T14:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058184056618233939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1292830464223240200",
+          "start": 0,
+          "username": "JSrcn7UtctuYEP4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058184056618233939",
+    "in_reply_to_user_id": "1292830464223240200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057701357768016361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JSrcn7UtctuYEP4 不会，只要是我喜欢的女生就行，我女朋友是泛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2057701357768016361",
+        "created_at": "2026-05-23T13:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058184056618233939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1292830464223240200",
+              "start": 0,
+              "username": "JSrcn7UtctuYEP4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058184056618233939",
+        "in_reply_to_user_id": "1292830464223240200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057701357768016361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JSrcn7UtctuYEP4 不会，只要是我喜欢的女生就行，我女朋友是泛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1292830464223240200",
+        "conversation_id": "2057701357768016361",
+        "created_at": "2026-05-22T05:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057701357768016361"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "les"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057701357768016361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3514,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女同会介意和双做爱吗 求解答。#les"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2328,
+          "following_count": 341,
+          "like_count": 3420,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 4100
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-10T14:29:48.000Z",
+        "description": "isfp双子 可以称呼我唛唛 06 165/50 颜控sub bisexual 喜欢我请给我打钱",
+        "id": "1292830464223240200",
+        "name": "给我一个小唛种子",
+        "pinned_tweet_id": "2038804510609756244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036375242386583552/QmatUi8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 1241,
+          "like_count": 18338,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 4652
+        },
+        "username": "JSrcn7UtctuYEP4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027437823616552961",
+        "3_2027437823834669056",
+        "3_2027437823813726208"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2027437835121529142",
+    "created_at": "2026-02-27T17:37:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T18:37:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027437835121529142"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EGEScewYkF",
+          "end": 50,
+          "expanded_url": "https://x.com/DQadopt/status/2027437835121529142/photo/1",
+          "media_key": "3_2027437823616552961",
+          "start": 27,
+          "url": "https://t.co/EGEScewYkF"
+        },
+        {
+          "display_url": "pic.x.com/EGEScewYkF",
+          "end": 50,
+          "expanded_url": "https://x.com/DQadopt/status/2027437835121529142/photo/1",
+          "media_key": "3_2027437823834669056",
+          "start": 27,
+          "url": "https://t.co/EGEScewYkF"
+        },
+        {
+          "display_url": "pic.x.com/EGEScewYkF",
+          "end": 50,
+          "expanded_url": "https://x.com/DQadopt/status/2027437835121529142/photo/1",
+          "media_key": "3_2027437823813726208",
+          "start": 27,
+          "url": "https://t.co/EGEScewYkF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027437835121529142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "周传雄的歌都很好听\n最近在单曲循环宋冬野的《郭源潮》 https://t.co/EGEScewYkF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 868,
+        "media_key": "3_2027437823616552961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLn9XDbEAERru6.jpg",
+        "width": 1000
+      },
+      {
+        "height": 986,
+        "media_key": "3_2027437823834669056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLn9X3bQAAdHTG.jpg",
+        "width": 1001
+      },
+      {
+        "height": 721,
+        "media_key": "3_2027437823813726208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLn9XybsAAsl04.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027437823616552961",
+            "3_2027437823834669056",
+            "3_2027437823813726208"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2027437835121529142",
+        "created_at": "2026-02-27T17:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027437835121529142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EGEScewYkF",
+              "end": 50,
+              "expanded_url": "https://x.com/DQadopt/status/2027437835121529142/photo/1",
+              "media_key": "3_2027437823616552961",
+              "start": 27,
+              "url": "https://t.co/EGEScewYkF"
+            },
+            {
+              "display_url": "pic.x.com/EGEScewYkF",
+              "end": 50,
+              "expanded_url": "https://x.com/DQadopt/status/2027437835121529142/photo/1",
+              "media_key": "3_2027437823834669056",
+              "start": 27,
+              "url": "https://t.co/EGEScewYkF"
+            },
+            {
+              "display_url": "pic.x.com/EGEScewYkF",
+              "end": 50,
+              "expanded_url": "https://x.com/DQadopt/status/2027437835121529142/photo/1",
+              "media_key": "3_2027437823813726208",
+              "start": 27,
+              "url": "https://t.co/EGEScewYkF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027437835121529142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "周传雄的歌都很好听\n最近在单曲循环宋冬野的《郭源潮》 https://t.co/EGEScewYkF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 138,
+          "like_count": 595,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 948
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

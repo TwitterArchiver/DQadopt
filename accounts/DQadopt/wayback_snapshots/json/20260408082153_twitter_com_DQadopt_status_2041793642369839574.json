@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2041702297009574034",
+    "created_at": "2026-04-08T08:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T09:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041793642369839574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1575435708361314304",
+          "start": 0,
+          "username": "bailandecha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041793642369839574",
+    "in_reply_to_user_id": "1575435708361314304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041792160077676975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bailandecha 她有啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2041702297009574034",
+        "created_at": "2026-04-08T08:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041793642369839574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1575435708361314304",
+              "start": 0,
+              "username": "bailandecha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041793642369839574",
+        "in_reply_to_user_id": "1575435708361314304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041792160077676975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bailandecha 她有啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1575435708361314304",
+        "conversation_id": "2041702297009574034",
+        "created_at": "2026-04-08T08:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041792160077676975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041792160077676975",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041702297009574034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 数位板？画笔？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1751,
+          "following_count": 307,
+          "like_count": 2579,
+          "listed_count": 0,
+          "media_count": 303,
+          "tweet_count": 2995
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-29T10:42:09.000Z",
+        "description": "日记本",
+        "id": "1575435708361314304",
+        "location": "未知",
+        "name": "给你邦邦两拳",
+        "pinned_tweet_id": "1799507127226278196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028159072248512513/SChzgGwY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3309,
+          "following_count": 14,
+          "like_count": 76,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 154
+        },
+        "username": "bailandecha",
+        "verified": false
+      }
+    ]
+  }
+}

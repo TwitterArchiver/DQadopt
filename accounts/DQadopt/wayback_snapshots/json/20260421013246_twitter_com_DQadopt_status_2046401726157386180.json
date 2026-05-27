@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2045871434149294209",
+    "created_at": "2026-04-21T01:32:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T02:32:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046401726157386180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2027989651022299136",
+          "start": 0,
+          "username": "angelhood01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046401726157386180",
+    "in_reply_to_user_id": "2027989651022299136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045871434149294209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angelhood01 震撼美味"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 270366,
+        "height": 720,
+        "media_key": "13_2045870774842535936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045870774842535936/img/tpMUcOPOWwVoNHcQ.jpg",
+        "public_metrics": {
+          "view_count": 33348
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045870774842535936/vid/avc1/480x270/sbN4NNoXLikSuNvn.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045870774842535936/vid/avc1/640x360/jgvPc0ZxZyU7a6GV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045870774842535936/vid/avc1/1280x720/nPC-MrHWJmiVJLmI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045870774842535936/pl/n246HfWA2msKRc1s.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2045871434149294209",
+        "created_at": "2026-04-21T01:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T02:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046401726157386180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2027989651022299136",
+              "start": 0,
+              "username": "angelhood01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046401726157386180",
+        "in_reply_to_user_id": "2027989651022299136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045871434149294209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angelhood01 震撼美味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045870774842535936"
+          ]
+        },
+        "author_id": "2027989651022299136",
+        "conversation_id": "2045871434149294209",
+        "created_at": "2026-04-19T14:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045871434149294209"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "le"
+            },
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "les"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "女同"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "wlw"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "拉拉"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ttkA84Oshs",
+              "end": 50,
+              "expanded_url": "https://x.com/angelhood01/status/2045871434149294209/video/1",
+              "media_key": "13_2045870774842535936",
+              "start": 27,
+              "url": "https://t.co/ttkA84Oshs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045871434149294209",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3463,
+          "impression_count": 48612,
+          "like_count": 7443,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 495
+        },
+        "reply_settings": "everyone",
+        "text": "美味夜宵 #le #les #女同 #wlw #拉拉 https://t.co/ttkA84Oshs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2075,
+          "following_count": 333,
+          "like_count": 3029,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 3628
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-01T06:10:08.000Z",
+        "description": "",
+        "id": "2027989651022299136",
+        "name": "Echo",
+        "pinned_tweet_id": "2038630164620599696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027990568756994048/aQBArxcJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8029,
+          "following_count": 6,
+          "like_count": 21,
+          "listed_count": 12,
+          "media_count": 13,
+          "tweet_count": 20
+        },
+        "username": "angelhood01",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2026404814809346418",
+    "created_at": "2026-02-24T21:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T22:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026404814809346418"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026404814809346418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "幻觉太普遍了，dpt的幻觉算是新颖的那一批，但不再过多赘述，我只看到了心选姐，她就在我的面前，没有看我也没有看其他地方（好神奇），然后我抚上了她鼻子上的痣和眼角下方的痣，最后俯身在她嘴角亲了一下，太真实了我靠简直跟他妈现实一样\n中途有段时间特别痛苦特别想醒过来想抓住些什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2026404814809346418",
+        "created_at": "2026-02-24T21:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T22:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026404814809346418"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026404814809346418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "幻觉太普遍了，dpt的幻觉算是新颖的那一批，但不再过多赘述，我只看到了心选姐，她就在我的面前，没有看我也没有看其他地方（好神奇），然后我抚上了她鼻子上的痣和眼角下方的痣，最后俯身在她嘴角亲了一下，太真实了我靠简直跟他妈现实一样\n中途有段时间特别痛苦特别想醒过来想抓住些什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 108,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 793
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

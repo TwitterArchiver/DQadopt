@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2042193516038889564",
+    "created_at": "2026-04-10T09:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T10:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042534758253748671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1550153850015084545",
+          "start": 0,
+          "username": "YAYOI_IZAYOII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042534758253748671",
+    "in_reply_to_user_id": "1550153850015084545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042511442390503723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YAYOI_IZAYOII 谢谢老师🥺🥺🥺唉太难了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2042193516038889564",
+        "created_at": "2026-04-10T09:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042534758253748671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1550153850015084545",
+              "start": 0,
+              "username": "YAYOI_IZAYOII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042534758253748671",
+        "in_reply_to_user_id": "1550153850015084545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042511442390503723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YAYOI_IZAYOII 谢谢老师🥺🥺🥺唉太难了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550153850015084545",
+        "conversation_id": "2042193516038889564",
+        "created_at": "2026-04-10T07:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042511442390503723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042511442390503723",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042193516038889564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 天哪恭喜恭喜。。。一直安安静静地看着你们终于成真了你们一定要幸福，，，，看得我眼睛热热的真好啊。。。真好。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1843,
+          "following_count": 313,
+          "like_count": 2784,
+          "listed_count": 0,
+          "media_count": 317,
+          "tweet_count": 3148
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-21T16:21:15.000Z",
+        "description": "遙/Haruka/はるか‖20+‖女‖🇨🇳‖中文 日本語/English 少し/a little‖低浮上   \n彷徨在不知何處的透明賽博電子飛鳥。",
+        "id": "1550153850015084545",
+        "location": "春日的最后一场梦",
+        "name": "⊹たしかな春だった⊹",
+        "pinned_tweet_id": "1944196016926019783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899909731382181888/9u3VW9I8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 437,
+          "like_count": 15839,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 556
+        },
+        "username": "YAYOI_IZAYOII",
+        "verified": false
+      }
+    ]
+  }
+}

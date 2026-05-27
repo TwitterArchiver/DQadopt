@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2039764785231958087",
+    "created_at": "2026-04-03T00:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T01:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039860208323969203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1962445765269471232",
+          "start": 0,
+          "username": "zlyc6112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039860208323969203",
+    "in_reply_to_user_id": "1962445765269471232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039765349814734927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zlyc6112 不太像"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2039764785231958087",
+        "created_at": "2026-04-03T00:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T01:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039860208323969203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1962445765269471232",
+              "start": 0,
+              "username": "zlyc6112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039860208323969203",
+        "in_reply_to_user_id": "1962445765269471232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039765349814734927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zlyc6112 不太像"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962445765269471232",
+        "conversation_id": "2039764785231958087",
+        "created_at": "2026-04-02T18:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T19:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039765349814734927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039765349814734927",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039764785231958087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 可能是傲娇（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 268,
+          "like_count": 2384,
+          "listed_count": 0,
+          "media_count": 291,
+          "tweet_count": 2720
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T09:22:08.000Z",
+        "description": "也可以叫我三文鱼｜ intp ｜皮下男｜双 性恋｜ oc人｜文明六重度依赖｜一些吐槽、碎碎念或者转发（作息失调（喜欢有意思的东西（偶尔小头控制大头（经常偶尔（全自动安慰机器（请来找我聊天，请不要给我发屌，谢谢",
+        "id": "1962445765269471232",
+        "location": "新加坡",
+        "name": "弓也也也（三文鱼重度依赖",
+        "pinned_tweet_id": "2036998574609977825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035593084176932864/ADHib0o4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 300,
+          "like_count": 2159,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1073
+        },
+        "username": "zlyc6112",
+        "verified": false
+      }
+    ]
+  }
+}

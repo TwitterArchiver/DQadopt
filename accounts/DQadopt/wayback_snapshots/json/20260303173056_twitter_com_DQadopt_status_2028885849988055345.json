@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2028885849988055345",
+    "created_at": "2026-03-03T17:30:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T18:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028885849988055345"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dqadopt/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/dqadopt/status/2027011940799873085",
+          "start": 9,
+          "url": "https://t.co/epw8bxZV8T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028885849988055345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027011940799873085",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以有人来夸我吗 https://t.co/epw8bxZV8T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2027011926539345921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFkm4zboAEkp0L.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2028885849988055345",
+        "created_at": "2026-03-03T17:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028885849988055345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dqadopt/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/dqadopt/status/2027011940799873085",
+              "start": 9,
+              "url": "https://t.co/epw8bxZV8T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028885849988055345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027011940799873085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以有人来夸我吗 https://t.co/epw8bxZV8T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027011926539345921"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2027011940799873085",
+        "created_at": "2026-02-26T13:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T14:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027011940799873085"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "自残"
+            },
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "自傷行為"
+            },
+            {
+              "end": 28,
+              "start": 22,
+              "tag": "shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2PQnGrXpnK",
+              "end": 52,
+              "expanded_url": "https://x.com/DQadopt/status/2027011940799873085/photo/1",
+              "media_key": "3_2027011926539345921",
+              "start": 29,
+              "url": "https://t.co/2PQnGrXpnK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027011940799873085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1082,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "还是血画的\n快夸我牛逼\n#自残 #自傷行為 #shtwt https://t.co/2PQnGrXpnK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 155,
+          "like_count": 785,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1068
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

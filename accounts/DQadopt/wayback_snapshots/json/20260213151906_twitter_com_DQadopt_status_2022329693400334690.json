@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022329678636453889"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2022329693400334690",
+    "created_at": "2026-02-13T15:19:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T16:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022329693400334690"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hOCIyslZ2z",
+          "end": 147,
+          "expanded_url": "https://x.com/DQadopt/status/2022329693400334690/photo/1",
+          "media_key": "3_2022329678636453889",
+          "start": 124,
+          "url": "https://t.co/hOCIyslZ2z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022329693400334690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刷到这个我一直在掉眼泪，我觉得她以后就该是这样的，太阳强烈水波温柔，有个情绪稳定的人陪着她一起去很多地方，或许能拍很多好看的照片\n不该是我，我讨厌阳光讨厌视线，不该是我，我也活不久，写到这里我又感觉我肺那里不舒服了，肺变的具体起来了，这是怎么回事 https://t.co/hOCIyslZ2z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022329678636453889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDCIMHbEAEPMdA.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022329678636453889"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2022329693400334690",
+        "created_at": "2026-02-13T15:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022329693400334690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hOCIyslZ2z",
+              "end": 147,
+              "expanded_url": "https://x.com/DQadopt/status/2022329693400334690/photo/1",
+              "media_key": "3_2022329678636453889",
+              "start": 124,
+              "url": "https://t.co/hOCIyslZ2z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022329693400334690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷到这个我一直在掉眼泪，我觉得她以后就该是这样的，太阳强烈水波温柔，有个情绪稳定的人陪着她一起去很多地方，或许能拍很多好看的照片\n不该是我，我讨厌阳光讨厌视线，不该是我，我也活不久，写到这里我又感觉我肺那里不舒服了，肺变的具体起来了，这是怎么回事 https://t.co/hOCIyslZ2z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 84,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 546
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

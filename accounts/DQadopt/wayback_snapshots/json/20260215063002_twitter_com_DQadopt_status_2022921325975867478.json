@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022921318489034752"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2022921325975867478",
+    "created_at": "2026-02-15T06:30:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T07:30:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022921325975867478"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pZAqG2XZTb",
+          "end": 143,
+          "expanded_url": "https://x.com/DQadopt/status/2022921325975867478/photo/1",
+          "media_key": "3_2022921318489034752",
+          "start": 120,
+          "url": "https://t.co/pZAqG2XZTb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022921325975867478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "能和我做的人一定是我特别爱的且我认为我能对她负责的人，二者缺一不可\n能服务我的爱人就是我的目标，占有欲和成就感满足了我会精神高潮\n我不能接受当下位者，身份认同太割裂ovo所以我只能当纯1，可能我看起来很好反但我真的会恶心自己当下位者的样子 https://t.co/pZAqG2XZTb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2022921318489034752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLcOKUakAAMVOd.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022921318489034752"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2022921325975867478",
+        "created_at": "2026-02-15T06:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T07:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022921325975867478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pZAqG2XZTb",
+              "end": 143,
+              "expanded_url": "https://x.com/DQadopt/status/2022921325975867478/photo/1",
+              "media_key": "3_2022921318489034752",
+              "start": 120,
+              "url": "https://t.co/pZAqG2XZTb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022921325975867478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能和我做的人一定是我特别爱的且我认为我能对她负责的人，二者缺一不可\n能服务我的爱人就是我的目标，占有欲和成就感满足了我会精神高潮\n我不能接受当下位者，身份认同太割裂ovo所以我只能当纯1，可能我看起来很好反但我真的会恶心自己当下位者的样子 https://t.co/pZAqG2XZTb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 88,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 588
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

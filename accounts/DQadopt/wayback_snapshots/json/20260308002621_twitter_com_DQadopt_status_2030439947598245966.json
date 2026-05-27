@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030439935367688192"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2030439947598245966",
+    "created_at": "2026-03-08T00:26:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T01:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030439947598245966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ekm3zjB2Kb",
+          "end": 127,
+          "expanded_url": "https://x.com/DQadopt/status/2030439947598245966/photo/1",
+          "media_key": "3_2030439935367688192",
+          "start": 104,
+          "url": "https://t.co/Ekm3zjB2Kb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030439947598245966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我知道了，你是嘉嘉姐姐，因为沉思录只加了姐姐你一个人的联系方式，最近状态不太好面对你的消息不知道从哪说起，所以微信和qq都没有回你，姐姐私聊我和我互关吧ovo，谢谢姐姐\n我状态好点了捋一下思路想想怎么跟你说 https://t.co/Ekm3zjB2Kb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030439935367688192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC2SXQ1bsAAFA1F.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030439935367688192"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2030439947598245966",
+        "created_at": "2026-03-08T00:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T01:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030439947598245966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ekm3zjB2Kb",
+              "end": 127,
+              "expanded_url": "https://x.com/DQadopt/status/2030439947598245966/photo/1",
+              "media_key": "3_2030439935367688192",
+              "start": 104,
+              "url": "https://t.co/Ekm3zjB2Kb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030439947598245966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我知道了，你是嘉嘉姐姐，因为沉思录只加了姐姐你一个人的联系方式，最近状态不太好面对你的消息不知道从哪说起，所以微信和qq都没有回你，姐姐私聊我和我互关吧ovo，谢谢姐姐\n我状态好点了捋一下思路想想怎么跟你说 https://t.co/Ekm3zjB2Kb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 189,
+          "like_count": 1100,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 1381
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

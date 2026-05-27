@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2033843116479025415",
+    "created_at": "2026-03-17T16:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T17:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033942864225571294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1675305417751302144",
+          "start": 0,
+          "username": "XxxXiao888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033942864225571294",
+    "in_reply_to_user_id": "1675305417751302144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033942585698619784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XxxXiao888 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2033843116479025415",
+        "created_at": "2026-03-17T16:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T17:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033942864225571294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1675305417751302144",
+              "start": 0,
+              "username": "XxxXiao888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033942864225571294",
+        "in_reply_to_user_id": "1675305417751302144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033942585698619784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XxxXiao888 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675305417751302144",
+        "conversation_id": "2033843116479025415",
+        "created_at": "2026-03-17T16:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T17:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033942585698619784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033942585698619784",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033843116479025415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 抱抱\n要活下去啊\n再难我们都要活下去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 243,
+          "like_count": 1812,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 2143
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T00:48:42.000Z",
+        "description": "ENFP｜医学在读｜缚手｜DDLG｜crypto｜外汇黄金 ｜德州扑克｜欢迎互fo交朋友～",
+        "id": "1675305417751302144",
+        "location": "Singapore",
+        "name": "阿水_shibari",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765968007569027073/vdhzIOhj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 3034,
+          "like_count": 2412,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 847
+        },
+        "username": "XxxXiao888",
+        "verified": false
+      }
+    ]
+  }
+}

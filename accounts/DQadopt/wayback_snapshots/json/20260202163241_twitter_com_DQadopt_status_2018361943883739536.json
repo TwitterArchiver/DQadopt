@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2018361835754508296",
+    "created_at": "2026-02-02T16:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T17:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018361943883739536"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2018361943883739536",
+    "in_reply_to_user_id": "1989965282799226880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018361835754508296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得小穴有毛真的特别性感特别可爱啊！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 808,
+        "media_key": "3_2018361826837491712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAKpY0TbcAA4CIp.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2018361835754508296",
+        "created_at": "2026-02-02T16:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T17:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018361943883739536"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018361943883739536",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018361835754508296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得小穴有毛真的特别性感特别可爱啊！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018361826837491712"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2018361835754508296",
+        "created_at": "2026-02-02T16:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T17:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018361835754508296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0x4TYCbzex",
+              "end": 92,
+              "expanded_url": "https://x.com/DQadopt/status/2018361835754508296/photo/1",
+              "media_key": "3_2018361826837491712",
+              "start": 69,
+              "url": "https://t.co/0x4TYCbzex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018361835754508296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一个提问我的人😭😭😭🥰🥰🥰\n其实没什么xp哎，因为我是纯1所以很喜欢听话的乖乖的女生，看片的时候喜欢看下面有毛毛的、喘的好听的0））） https://t.co/0x4TYCbzex"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 61,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 246
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

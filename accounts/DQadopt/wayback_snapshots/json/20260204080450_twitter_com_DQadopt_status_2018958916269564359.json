@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2018958916269564359",
+    "created_at": "2026-02-04T08:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T09:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018958916269564359"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/leonard4593242…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/leonard45932429/status/2016374453303902285",
+          "start": 11,
+          "url": "https://t.co/5nd3y38ZF7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018958916269564359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016374453303902285",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "帮帮这个宝宝呀ovo https://t.co/5nd3y38ZF7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016374182897188865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_uZotnbAAELkUa.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 12033,
+        "height": 2880,
+        "media_key": "13_2016374182851051520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016374182851051520/img/86l0jp4TZdpx3ERI.jpg",
+        "public_metrics": {
+          "view_count": 5760
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016374182851051520/vid/avc1/320x426/xcdZL9j8PZEn_Xaa.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016374182851051520/vid/avc1/480x640/-ijgvsYK4k3PH7x7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016374182851051520/vid/avc1/720x960/QxtkLpa7Tk99xqQj.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016374182851051520/pl/o5O_tFPpdIrXLkct.m3u8?tag=14"
+          }
+        ],
+        "width": 2160
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016374251566333954",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_uZstbbAAIKsYY.jpg",
+        "width": 1130
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2016374313939832832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_uZwVybEAAkI8q.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2018958916269564359",
+        "created_at": "2026-02-04T08:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T09:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018958916269564359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/leonard4593242…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/leonard45932429/status/2016374453303902285",
+              "start": 11,
+              "url": "https://t.co/5nd3y38ZF7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018958916269564359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016374453303902285",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帮帮这个宝宝呀ovo https://t.co/5nd3y38ZF7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016374182897188865",
+            "13_2016374182851051520",
+            "3_2016374251566333954",
+            "3_2016374313939832832"
+          ]
+        },
+        "author_id": "1385046676302229505",
+        "conversation_id": "2016374453303902285",
+        "created_at": "2026-01-28T04:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T05:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016374453303902285"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "门槛"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 95,
+              "start": 90,
+              "tag": "电子女友"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "反差"
+            },
+            {
+              "end": 105,
+              "start": 100,
+              "tag": "小狗日记"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "包养"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "肉腿"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "巨乳"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "女大"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tGK4gQKOpX",
+              "end": 145,
+              "expanded_url": "https://x.com/Leonard45932429/status/2016374453303902285/video/1",
+              "media_key": "3_2016374182897188865",
+              "start": 122,
+              "url": "https://t.co/tGK4gQKOpX"
+            },
+            {
+              "display_url": "pic.x.com/tGK4gQKOpX",
+              "end": 145,
+              "expanded_url": "https://x.com/Leonard45932429/status/2016374453303902285/video/1",
+              "media_key": "13_2016374182851051520",
+              "start": 122,
+              "url": "https://t.co/tGK4gQKOpX"
+            },
+            {
+              "display_url": "pic.x.com/tGK4gQKOpX",
+              "end": 145,
+              "expanded_url": "https://x.com/Leonard45932429/status/2016374453303902285/video/1",
+              "media_key": "3_2016374251566333954",
+              "start": 122,
+              "url": "https://t.co/tGK4gQKOpX"
+            },
+            {
+              "display_url": "pic.x.com/tGK4gQKOpX",
+              "end": 145,
+              "expanded_url": "https://x.com/Leonard45932429/status/2016374453303902285/video/1",
+              "media_key": "3_2016374313939832832",
+              "start": 122,
+              "url": "https://t.co/tGK4gQKOpX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016374453303902285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 18863,
+          "like_count": 44,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "reply_settings": "following",
+        "text": "我是小夜\n已成年操我不犯法\n过88🚪接纯绿半绿非绿\n一个问题五块钱验证十块钱可以抵门槛\n可以给我钱吗我想吃吉野家萨莉亚达美乐好利来窑鸡王杀猪粉铜锅涮肉\n#门槛妹 #门槛 #爸爸活 #电子女友 #反差 #小狗日记 #包养 #肉腿 #巨乳 #女大 https://t.co/tGK4gQKOpX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 64,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 285
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-22T01:44:22.000Z",
+        "description": "我想od但是一od金主就生气🚪88.188.333.520.1314钱越多爱越多我会一直一直一直缠着你直到死亡也不会把我们分离",
+        "id": "1385046676302229505",
+        "name": "老公玩3p不带我的那个雨夜",
+        "pinned_tweet_id": "2016374453303902285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016370869757411328/InTwTl0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 98,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 143
+        },
+        "username": "Leonard45932429",
+        "verified": false
+      }
+    ]
+  }
+}

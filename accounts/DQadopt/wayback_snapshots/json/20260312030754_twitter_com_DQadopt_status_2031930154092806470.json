@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031930142566858752",
+        "3_2031930142562598912",
+        "3_2031930142554271744"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2031930154092806470",
+    "created_at": "2026-03-12T03:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T04:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031930154092806470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1hGCQBZ1r0",
+          "end": 168,
+          "expanded_url": "https://x.com/DQadopt/status/2031930154092806470/photo/1",
+          "media_key": "3_2031930142566858752",
+          "start": 145,
+          "url": "https://t.co/1hGCQBZ1r0"
+        },
+        {
+          "display_url": "pic.x.com/1hGCQBZ1r0",
+          "end": 168,
+          "expanded_url": "https://x.com/DQadopt/status/2031930154092806470/photo/1",
+          "media_key": "3_2031930142562598912",
+          "start": 145,
+          "url": "https://t.co/1hGCQBZ1r0"
+        },
+        {
+          "display_url": "pic.x.com/1hGCQBZ1r0",
+          "end": 168,
+          "expanded_url": "https://x.com/DQadopt/status/2031930154092806470/photo/1",
+          "media_key": "3_2031930142554271744",
+          "start": 145,
+          "url": "https://t.co/1hGCQBZ1r0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031930154092806470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "2月份我究竟是怎么活下来的\n我他妈喝了大概100g亚硝酸钠啊🤔🤔🤔基本上全被我吐出来了\n所以止吐和增效剂很重要，而且要空腹，别学我，朝家瓦舍拌饭太他妈好吃了涨了一肚子，喝了亚硝酸钠全吐出来了\n醒来已是icu，洗胃的管子抽出来的时候好舒服，晶哥看起来好凶\n喝亚硝酸钠前不要吃朝家瓦舍拌饭嗯对 https://t.co/1hGCQBZ1r0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031930142566858752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLdsvQbQAAgU2q.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031930142562598912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLdsvPaQAACuhz.jpg",
+        "width": 946
+      },
+      {
+        "height": 1645,
+        "media_key": "3_2031930142554271744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLdsvNbMAA19C1.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031930142566858752",
+            "3_2031930142562598912",
+            "3_2031930142554271744"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2031930154092806470",
+        "created_at": "2026-03-12T03:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T04:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031930154092806470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1hGCQBZ1r0",
+              "end": 168,
+              "expanded_url": "https://x.com/DQadopt/status/2031930154092806470/photo/1",
+              "media_key": "3_2031930142566858752",
+              "start": 145,
+              "url": "https://t.co/1hGCQBZ1r0"
+            },
+            {
+              "display_url": "pic.x.com/1hGCQBZ1r0",
+              "end": 168,
+              "expanded_url": "https://x.com/DQadopt/status/2031930154092806470/photo/1",
+              "media_key": "3_2031930142562598912",
+              "start": 145,
+              "url": "https://t.co/1hGCQBZ1r0"
+            },
+            {
+              "display_url": "pic.x.com/1hGCQBZ1r0",
+              "end": 168,
+              "expanded_url": "https://x.com/DQadopt/status/2031930154092806470/photo/1",
+              "media_key": "3_2031930142554271744",
+              "start": 145,
+              "url": "https://t.co/1hGCQBZ1r0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031930154092806470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2月份我究竟是怎么活下来的\n我他妈喝了大概100g亚硝酸钠啊🤔🤔🤔基本上全被我吐出来了\n所以止吐和增效剂很重要，而且要空腹，别学我，朝家瓦舍拌饭太他妈好吃了涨了一肚子，喝了亚硝酸钠全吐出来了\n醒来已是icu，洗胃的管子抽出来的时候好舒服，晶哥看起来好凶\n喝亚硝酸钠前不要吃朝家瓦舍拌饭嗯对 https://t.co/1hGCQBZ1r0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 232,
+          "like_count": 1417,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 1720
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2012514567344034058",
+    "created_at": "2026-01-18T09:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T10:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012813957778518136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1387085006707757061",
+          "start": 0,
+          "username": "LUMO64bt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012813957778518136",
+    "in_reply_to_user_id": "1387085006707757061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012514567344034058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LUMO64bt 特别爱闻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2012514567344034058",
+        "created_at": "2026-01-18T09:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T10:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012813957778518136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1387085006707757061",
+              "start": 0,
+              "username": "LUMO64bt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012813957778518136",
+        "in_reply_to_user_id": "1387085006707757061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012514567344034058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LUMO64bt 特别爱闻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1387085006707757061",
+        "conversation_id": "2012514567344034058",
+        "created_at": "2026-01-17T13:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T14:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012514567344034058"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012514567344034058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 11918,
+          "like_count": 104,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "猫的脚滂臭！一股狡诈的体育生汗脚味儿，闻一闻，臭味儿从鼻腔钻到天灵盖，令人不敢置信，把猫爪掰开，一股包着酸味的脚臭袭来，简直把我的鼻炎都冲通了，现在太阳穴突突的，一下子躯体化了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我重生了，这一次我要夺回属于我的一切丨23le🌈1丨喜欢和可爱漂亮的女生互动🥰🥰🥰丨有喜欢的人不色色丨自伤碎碎念集中地",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8euxG"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 51,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 128
+        },
+        "url": "https://t.co/nFHbt8euxG",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-27T16:43:42.000Z",
+        "description": "定期驱魔",
+        "id": "1387085006707757061",
+        "name": "树上到底几个猴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713442102825144320/g9IVCkMJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3104,
+          "following_count": 399,
+          "like_count": 19337,
+          "listed_count": 12,
+          "media_count": 542,
+          "tweet_count": 7190
+        },
+        "username": "LUMO64bt",
+        "verified": false
+      }
+    ]
+  }
+}

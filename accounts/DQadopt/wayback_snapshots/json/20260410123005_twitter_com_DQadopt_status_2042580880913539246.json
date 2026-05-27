@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2042193516038889564",
+    "created_at": "2026-04-10T12:30:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T13:30:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042580880913539246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033316131772170240",
+          "start": 0,
+          "username": "siliang481"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042580880913539246",
+    "in_reply_to_user_id": "2033316131772170240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042565430477492732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siliang481 谢谢老师！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2042193516038889564",
+        "created_at": "2026-04-10T12:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042580880913539246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033316131772170240",
+              "start": 0,
+              "username": "siliang481"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042580880913539246",
+        "in_reply_to_user_id": "2033316131772170240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042565430477492732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siliang481 谢谢老师！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033316131772170240",
+        "conversation_id": "2042193516038889564",
+        "created_at": "2026-04-10T11:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042565430477492732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042565430477492732",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042193516038889564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 在一起了呀！！你们要很幸福！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 313,
+          "like_count": 2783,
+          "listed_count": 0,
+          "media_count": 317,
+          "tweet_count": 3160
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T22:55:26.000Z",
+        "description": "女同 0.8p\n推止于推 发言很跳脱 主页要素过多。\n女权主义 欢迎互fo",
+        "id": "2033316131772170240",
+        "name": "你眼睛的面積一定小於湖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033407398208274432/2gam8L9Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 37,
+          "like_count": 438,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 117
+        },
+        "username": "siliang481",
+        "verified": false
+      }
+    ]
+  }
+}

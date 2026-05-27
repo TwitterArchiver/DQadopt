@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2043732232708440186",
+    "created_at": "2026-04-14T05:56:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T06:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043931477168271661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1449455413322125317",
+          "start": 0,
+          "username": "ying44589750"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043931477168271661",
+    "in_reply_to_user_id": "1449455413322125317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043926225836761438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ying44589750 好，谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2043732232708440186",
+        "created_at": "2026-04-14T05:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043931477168271661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1449455413322125317",
+              "start": 0,
+              "username": "ying44589750"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043931477168271661",
+        "in_reply_to_user_id": "1449455413322125317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043926225836761438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ying44589750 好，谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1449455413322125317",
+        "conversation_id": "2043732232708440186",
+        "created_at": "2026-04-14T05:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043926225836761438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043926225836761438",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043732232708440186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 我以前也会觉得明明自己是女同，但有时候就是看bg向比较多，是一个朋友改变我的思绪\n其实看什么向都无妨，因为你才是她喜欢的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1895,
+          "following_count": 316,
+          "like_count": 2863,
+          "listed_count": 0,
+          "media_count": 326,
+          "tweet_count": 3334
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-16T19:21:23.000Z",
+        "description": "🏳️‍🌈les.@malisorn00男性滾，請註明性別不然一概把你當男的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "malisorn00"
+              }
+            ]
+          }
+        },
+        "id": "1449455413322125317",
+        "name": "小寞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036163618484658178/HfUhtjAH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 130,
+          "like_count": 1104,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 966
+        },
+        "username": "ying44589750",
+        "verified": false
+      }
+    ]
+  }
+}

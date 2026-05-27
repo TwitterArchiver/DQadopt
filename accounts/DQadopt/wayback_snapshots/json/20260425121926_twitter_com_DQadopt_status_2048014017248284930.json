@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2048007849356521980",
+    "created_at": "2026-04-25T12:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T13:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048014017248284930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1476452594608336901",
+          "start": 0,
+          "username": "huxin66759348"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048014017248284930",
+    "in_reply_to_user_id": "1476452594608336901",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048012361416728904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huxin66759348 哦哦"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2048012361416728904].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2048012361416728904",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2048012361416728904"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2048007849356521980",
+        "created_at": "2026-04-25T12:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048014017248284930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1476452594608336901",
+              "start": 0,
+              "username": "huxin66759348"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048014017248284930",
+        "in_reply_to_user_id": "1476452594608336901",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048012361416728904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huxin66759348 哦哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2110,
+          "following_count": 337,
+          "like_count": 3138,
+          "listed_count": 0,
+          "media_count": 350,
+          "tweet_count": 3765
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-30T07:18:45.000Z",
+        "description": "呀，老年人不会用推\n草稿狂魔，喜欢囤草图，慎关慎关\n主坑异兽魔都开曼二阶堂相关，公嬷一体机且杂食",
+        "id": "1476452594608336901",
+        "name": "焦鸟||极地烧烤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718139003395043328/9gIsmTYS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 206,
+          "like_count": 6682,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1193
+        },
+        "username": "huxin66759348",
+        "verified": false
+      }
+    ]
+  }
+}

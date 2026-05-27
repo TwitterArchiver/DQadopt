@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033843105544474629"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2033843116479025415",
+    "created_at": "2026-03-17T09:49:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T10:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033843116479025415"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8rQYfRI5Z7",
+          "end": 153,
+          "expanded_url": "https://x.com/DQadopt/status/2033843116479025415/photo/1",
+          "media_key": "3_2033843105544474629",
+          "start": 130,
+          "url": "https://t.co/8rQYfRI5Z7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033843116479025415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "回答一下之前匿名提问\n我想起来高二学校放假就去别人婚礼上弹钢琴，一次150左右，那个还不错\n但自从我外公死后我就再也不碰钢琴\n总有太多令我痛苦的事情\n幸好我会死，这真是万幸，如果有一天我看到一辆车向我驶来，我大概不会避开吧，能不带任何负罪感的结束一切就是理想 https://t.co/8rQYfRI5Z7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1817,
+        "media_key": "3_2033843105544474629",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDmph1rbEAUuMFX.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033843105544474629"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2033843116479025415",
+        "created_at": "2026-03-17T09:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T10:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033843116479025415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8rQYfRI5Z7",
+              "end": 153,
+              "expanded_url": "https://x.com/DQadopt/status/2033843116479025415/photo/1",
+              "media_key": "3_2033843105544474629",
+              "start": 130,
+              "url": "https://t.co/8rQYfRI5Z7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033843116479025415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回答一下之前匿名提问\n我想起来高二学校放假就去别人婚礼上弹钢琴，一次150左右，那个还不错\n但自从我外公死后我就再也不碰钢琴\n总有太多令我痛苦的事情\n幸好我会死，这真是万幸，如果有一天我看到一辆车向我驶来，我大概不会避开吧，能不带任何负罪感的结束一切就是理想 https://t.co/8rQYfRI5Z7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 241,
+          "like_count": 1794,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 2063
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

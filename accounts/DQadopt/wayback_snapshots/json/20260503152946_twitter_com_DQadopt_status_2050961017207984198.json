@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050928367164411904"
+      ],
+      "media_source_tweet_id": [
+        "2050929222823313438"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050961017207984198",
+    "created_at": "2026-05-03T15:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T16:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050961017207984198"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ps2YcTMFri",
+          "end": 30,
+          "expanded_url": "https://x.com/ChiYan2020/status/2050929222823313438/video/1",
+          "media_key": "13_2050928367164411904",
+          "start": 7,
+          "url": "https://t.co/Ps2YcTMFri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050961017207984198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "经典中的经典 https://t.co/Ps2YcTMFri"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2050961017207984198].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2050961017207984198",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2050961017207984198"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 378044,
+        "height": 1080,
+        "media_key": "13_2050928367164411904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050928367164411904/img/rb5kPEAForMYxo-T.jpg",
+        "public_metrics": {
+          "view_count": 50928
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050928367164411904/vid/avc1/640x270/BoqeiwbBh_uNuoCk.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050928367164411904/vid/avc1/852x360/EXxseXhoxBLrf3IP.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050928367164411904/vid/avc1/1706x720/qFJOO1xSfQTMPYAu.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050928367164411904/pl/1WXw_fCc9_9RpbbF.m3u8?tag=14"
+          }
+        ],
+        "width": 2560
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2200,
+          "following_count": 336,
+          "like_count": 3167,
+          "listed_count": 1,
+          "media_count": 354,
+          "tweet_count": 3802
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

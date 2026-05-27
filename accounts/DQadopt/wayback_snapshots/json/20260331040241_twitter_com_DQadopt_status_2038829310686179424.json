@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2038639509722763377",
+    "created_at": "2026-03-31T04:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T05:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038829310686179424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1953045479018905605",
+          "start": 0,
+          "username": "Amaranta0000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038829310686179424",
+    "in_reply_to_user_id": "1953045479018905605",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038812785543647694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amaranta0000 好👌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2038639509722763377",
+        "created_at": "2026-03-31T04:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T05:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038829310686179424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1953045479018905605",
+              "start": 0,
+              "username": "Amaranta0000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038829310686179424",
+        "in_reply_to_user_id": "1953045479018905605",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038812785543647694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amaranta0000 好👌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953045479018905605",
+        "conversation_id": "2038639509722763377",
+        "created_at": "2026-03-31T02:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T03:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038812785543647694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038812785543647694",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038639509722763377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 去找给你做手术的医生，或者疼痛科，神经内科应该也行吧，上去就抱着医生大腿喊疼，疼得受不了疼得满地打滚疼得痛哭流涕疼得睡不着觉疼得想跳楼，描述得严重一点应该会给你开点有用的药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 267,
+          "like_count": 2321,
+          "listed_count": 0,
+          "media_count": 286,
+          "tweet_count": 2603
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-06T10:48:31.000Z",
+        "description": "直到死神大發慈悲將我從塵世間解放",
+        "id": "1953045479018905605",
+        "name": "艾咪修",
+        "pinned_tweet_id": "2030551504051155313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024091332558585856/7vra-1FK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 37,
+          "like_count": 2699,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1415
+        },
+        "username": "Amaranta0000",
+        "verified": false
+      }
+    ]
+  }
+}

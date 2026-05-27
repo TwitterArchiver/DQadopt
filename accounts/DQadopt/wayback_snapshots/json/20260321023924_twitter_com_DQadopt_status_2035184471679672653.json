@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2035015464129298792",
+    "created_at": "2026-03-21T02:39:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T03:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035184471679672653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1405573550208073731",
+          "start": 0,
+          "username": "Sambkq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035184471679672653",
+    "in_reply_to_user_id": "1405573550208073731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035075433532989756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sambkq 或许是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2035015464129298792",
+        "created_at": "2026-03-21T02:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T03:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035184471679672653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1405573550208073731",
+              "start": 0,
+              "username": "Sambkq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035184471679672653",
+        "in_reply_to_user_id": "1405573550208073731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035075433532989756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sambkq 或许是吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1405573550208073731",
+        "conversation_id": "2035015464129298792",
+        "created_at": "2026-03-20T19:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T20:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035075433532989756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035075433532989756",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035015464129298792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 未来某某难以预料，当下你们彼此相连，她的幸福与你息息相关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 252,
+          "like_count": 1978,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 2331
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-17T17:10:32.000Z",
+        "description": "就让念头浸染这片天。一片幻想及废话拼凑的角落。",
+        "id": "1405573550208073731",
+        "location": "蟾圆",
+        "name": "李涌",
+        "pinned_tweet_id": "1902358564800475363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941913448297746432/T4AoKvlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 5,
+          "like_count": 144,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 1061
+        },
+        "username": "Sambkq",
+        "verified": false
+      }
+    ]
+  }
+}

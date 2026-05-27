@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2043732232708440186",
+    "created_at": "2026-04-19T16:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T17:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045902689880682520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1450731584676458496",
+          "start": 0,
+          "username": "twilight8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045902689880682520",
+    "in_reply_to_user_id": "1450731584676458496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045902345478000944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twilight8964 好🥺🥺🥺🥺😢😢😢😢😢😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2043732232708440186",
+        "created_at": "2026-04-19T16:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045902689880682520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1450731584676458496",
+              "start": 0,
+              "username": "twilight8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045902689880682520",
+        "in_reply_to_user_id": "1450731584676458496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045902345478000944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twilight8964 好🥺🥺🥺🥺😢😢😢😢😢😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450731584676458496",
+        "conversation_id": "2043732232708440186",
+        "created_at": "2026-04-19T16:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045902345478000944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045902345478000944",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043732232708440186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 老师是这样的，你的女朋友虽然是泛性恋但是依旧在所有地球人里只选择了那个唯一的你，这件事就足以说明她对你的爱了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 327,
+          "like_count": 2979,
+          "listed_count": 0,
+          "media_count": 339,
+          "tweet_count": 3568
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-20T07:52:49.000Z",
+        "description": "🌸🦋黄泉の国の亡霊姫🦋🌸/反出生主义/強迫性障害/うつ病/ftx/小号：@aka_yun123/术力口/百合/bi-les /poly/好亲友：@twilightmisty2 /奴莉：@Lily38931983/多边恋中：大老婆不喜欢上推 二老婆@nayuki_leung 三老婆 @RyousangataRei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "aka_yun123"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "twilightmisty2"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "Lily38931983"
+              },
+              {
+                "end": 136,
+                "start": 123,
+                "username": "nayuki_leung"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "RyousangataRei"
+              }
+            ]
+          }
+        },
+        "id": "1450731584676458496",
+        "location": "幻想乡",
+        "name": "红尘寄雪( 死人微活版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027395927905058818/QvwBsff1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 2190,
+          "like_count": 190554,
+          "listed_count": 0,
+          "media_count": 316,
+          "tweet_count": 10322
+        },
+        "username": "twilight8964",
+        "verified": false
+      }
+    ]
+  }
+}

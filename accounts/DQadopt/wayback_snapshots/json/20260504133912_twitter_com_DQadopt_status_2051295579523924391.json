@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2050949401695203509",
+    "created_at": "2026-05-04T13:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T14:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051295579523924391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1997136870250311680",
+          "start": 0,
+          "username": "yzglloveya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051295579523924391",
+    "in_reply_to_user_id": "1997136870250311680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050949401695203509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yzglloveya 爽看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2050949396385140736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZvnA_WkAAtnK4.jpg",
+        "width": 602
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2050949401695203509",
+        "created_at": "2026-05-04T13:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051295579523924391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1997136870250311680",
+              "start": 0,
+              "username": "yzglloveya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051295579523924391",
+        "in_reply_to_user_id": "1997136870250311680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050949401695203509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yzglloveya 爽看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050949396385140736"
+          ]
+        },
+        "author_id": "1997136870250311680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Los Angeles",
+              "id": "856860708847222784",
+              "name": "Los Angeles"
+            }
+          }
+        ],
+        "conversation_id": "2050949401695203509",
+        "created_at": "2026-05-03T14:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050949401695203509"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "le"
+            },
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "wlw"
+            },
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "女同"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "拉拉"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "la"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LUO50CGD9t",
+              "end": 105,
+              "expanded_url": "https://x.com/yzglloveya/status/2050949401695203509/photo/1",
+              "media_key": "3_2050949396385140736",
+              "start": 82,
+              "url": "https://t.co/LUO50CGD9t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050949401695203509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 10596,
+          "like_count": 428,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "相信主人好吗，主人会做好前戏和aftercare，好好引导小宝宝，给你最专业的技术指导和最猛烈的巴掌，操烂小宝宝的嫩穴。\n#le #wlw #女同 #拉拉 #la https://t.co/LUO50CGD9t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230,
+          "following_count": 341,
+          "like_count": 3253,
+          "listed_count": 1,
+          "media_count": 355,
+          "tweet_count": 3820
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T02:52:06.000Z",
+        "description": "🌈lesbian/p/m/sub 0\n不约 后续会持续写文 长短篇都会有 偏好短篇随笔\n💌https://t.co/XuJ03ONwwA\n只接受生理性别女性提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%9D%A8%E6%9…",
+                "end": 68,
+                "expanded_url": "https://ngl.link/%E6%9D%A8%E6%9E%9D%E7%94%98%E9%9C%B2reya",
+                "start": 45,
+                "url": "https://t.co/XuJ03ONwwA"
+              }
+            ]
+          }
+        },
+        "id": "1997136870250311680",
+        "name": "杨枝甘露Reya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050336803194855424/mkciDLHs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 3,
+          "like_count": 250,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 40
+        },
+        "username": "yzglloveya",
+        "verified": false
+      }
+    ]
+  }
+}

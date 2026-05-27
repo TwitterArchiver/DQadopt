@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2019620537341997575",
+    "created_at": "2026-02-06T06:30:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T07:30:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019659999514096020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1899265417828249600",
+          "start": 0,
+          "username": "wzc1450037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019659999514096020",
+    "in_reply_to_user_id": "1899265417828249600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019620537341997575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wzc1450037 这么帅！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019620512562044928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAciJ-BaYAAz58t.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2019620512557854725",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAciJ-AacAUycIw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2019620512557879296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAciJ-Aa0AAd-1x.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2019620512553660418",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAciJ9_acAI1jnu.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2019620537341997575",
+        "created_at": "2026-02-06T06:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T07:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019659999514096020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1899265417828249600",
+              "start": 0,
+              "username": "wzc1450037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019659999514096020",
+        "in_reply_to_user_id": "1899265417828249600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019620537341997575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wzc1450037 这么帅！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019620512562044928",
+            "3_2019620512557854725",
+            "3_2019620512557879296",
+            "3_2019620512553660418"
+          ]
+        },
+        "author_id": "1899265417828249600",
+        "conversation_id": "2019620537341997575",
+        "created_at": "2026-02-06T03:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T04:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019620537341997575"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "女同性恋"
+            },
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "wlw"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "les"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FbQNMOrsdd",
+              "end": 46,
+              "expanded_url": "https://x.com/wzc1450037/status/2019620537341997575/photo/1",
+              "media_key": "3_2019620512562044928",
+              "start": 23,
+              "url": "https://t.co/FbQNMOrsdd"
+            },
+            {
+              "display_url": "pic.x.com/FbQNMOrsdd",
+              "end": 46,
+              "expanded_url": "https://x.com/wzc1450037/status/2019620537341997575/photo/1",
+              "media_key": "3_2019620512557854725",
+              "start": 23,
+              "url": "https://t.co/FbQNMOrsdd"
+            },
+            {
+              "display_url": "pic.x.com/FbQNMOrsdd",
+              "end": 46,
+              "expanded_url": "https://x.com/wzc1450037/status/2019620537341997575/photo/1",
+              "media_key": "3_2019620512557879296",
+              "start": 23,
+              "url": "https://t.co/FbQNMOrsdd"
+            },
+            {
+              "display_url": "pic.x.com/FbQNMOrsdd",
+              "end": 46,
+              "expanded_url": "https://x.com/wzc1450037/status/2019620537341997575/photo/1",
+              "media_key": "3_2019620512553660418",
+              "start": 23,
+              "url": "https://t.co/FbQNMOrsdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019620537341997575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1425,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "点开看宝宝 #女同性恋 #wlw  #les https://t.co/FbQNMOrsdd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 69,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 325
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-11T01:05:52.000Z",
+        "description": "可以叫我棉花(｡ì _ í｡)｜04｜m｜0.6？｜想讲话可以来私信我 ｜宝贝 你可能在dy刷到过我 我们就当不知道 拉勾^-^｜我真的不约｜https://t.co/1MxnKnkO4k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cotton58084",
+                "end": 94,
+                "expanded_url": "https://ngl.link/cotton58084",
+                "start": 71,
+                "url": "https://t.co/1MxnKnkO4k"
+              }
+            ]
+          }
+        },
+        "id": "1899265417828249600",
+        "name": "cotton",
+        "pinned_tweet_id": "2018699222493602067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899882091497570305/0P3QCMWY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 28,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 199
+        },
+        "username": "wzc1450037",
+        "verified": false
+      }
+    ]
+  }
+}

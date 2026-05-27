@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2042078099794489788",
+    "created_at": "2026-04-09T03:13:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T04:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042078478531809602"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042078478531809602",
+    "in_reply_to_user_id": "1989965282799226880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042078099794489788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去查拉图斯特拉有点难杀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042078089174523904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFbrM-TbIAAbxNR.jpg",
+        "width": 946
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2042078089195483140",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFbrM-Ya8AQl4Br.jpg",
+        "width": 1419
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2042078089166123011",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFbrM-Ra8AM_oi4.jpg",
+        "width": 1419
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2042078089170370560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFbrM-SbwAA8_mW.jpg",
+        "width": 1419
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2042078099794489788",
+        "created_at": "2026-04-09T03:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042078478531809602"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042078478531809602",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042078099794489788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去查拉图斯特拉有点难杀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042078089174523904",
+            "3_2042078089195483140",
+            "3_2042078089166123011",
+            "3_2042078089170370560"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042078099794489788",
+        "created_at": "2026-04-09T03:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042078099794489788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UHYMKYiOYH",
+              "end": 175,
+              "expanded_url": "https://x.com/DQadopt/status/2042078099794489788/photo/1",
+              "media_key": "3_2042078089174523904",
+              "start": 152,
+              "url": "https://t.co/UHYMKYiOYH"
+            },
+            {
+              "display_url": "pic.x.com/UHYMKYiOYH",
+              "end": 175,
+              "expanded_url": "https://x.com/DQadopt/status/2042078099794489788/photo/1",
+              "media_key": "3_2042078089195483140",
+              "start": 152,
+              "url": "https://t.co/UHYMKYiOYH"
+            },
+            {
+              "display_url": "pic.x.com/UHYMKYiOYH",
+              "end": 175,
+              "expanded_url": "https://x.com/DQadopt/status/2042078099794489788/photo/1",
+              "media_key": "3_2042078089166123011",
+              "start": 152,
+              "url": "https://t.co/UHYMKYiOYH"
+            },
+            {
+              "display_url": "pic.x.com/UHYMKYiOYH",
+              "end": 175,
+              "expanded_url": "https://x.com/DQadopt/status/2042078099794489788/photo/1",
+              "media_key": "3_2042078089170370560",
+              "start": 152,
+              "url": "https://t.co/UHYMKYiOYH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042078099794489788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一个：1⃣️2018年拿了根绳子去后山上吊，结果树断了。2⃣️2023年因为睡不着，放动脉血自杀，身体太牛逼了早上起来自己止住了，全身失血休克被送去icu抢救3⃣️今年一月底喝100g亚硝酸钠，但是吃朝家瓦舍拌饭吃太饱了，喝下去基本全吐了，喜提icu抢救两天恢复7天，医生说再晚一会就死了亚硝酸钠牛逼 https://t.co/UHYMKYiOYH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 308,
+          "like_count": 2634,
+          "listed_count": 0,
+          "media_count": 309,
+          "tweet_count": 3035
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

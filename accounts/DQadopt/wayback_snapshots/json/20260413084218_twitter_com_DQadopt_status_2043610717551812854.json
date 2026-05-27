@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2041202079545597988",
+    "created_at": "2026-04-13T08:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T09:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043610717551812854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1960209366310944768",
+          "start": 0,
+          "username": "ACun1202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043610717551812854",
+    "in_reply_to_user_id": "1960209366310944768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041202079545597988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ACun1202 我也受不了这种…..感觉还是st哄着做双方都愉快"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2041202079545597988",
+        "created_at": "2026-04-13T08:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T09:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043610717551812854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1960209366310944768",
+              "start": 0,
+              "username": "ACun1202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043610717551812854",
+        "in_reply_to_user_id": "1960209366310944768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041202079545597988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ACun1202 我也受不了这种…..感觉还是st哄着做双方都愉快"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960209366310944768",
+        "conversation_id": "2041202079545597988",
+        "created_at": "2026-04-06T17:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T18:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041202079545597988"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "les"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "wlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041202079545597988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 193728,
+          "like_count": 1613,
+          "quote_count": 12,
+          "reply_count": 61,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢凶一点的sweet talk 那种满视频操你妈 母狗 贱畜的听起来太要命了 做个爱老冯上天了 #les #wlw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1887,
+          "following_count": 315,
+          "like_count": 2848,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 3308
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T05:16:24.000Z",
+        "description": "les 只喜欢有姐感的 婉拒4i和双 男勿扰｜日记本 随便发 屏蔽自由 想干嘛干嘛 不吃压力之人｜我是互联网宠物 你摔碎手机我就消失在你面前了好吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/181594",
+                "end": 23,
+                "expanded_url": "https://ngl.link/181594",
+                "start": 0,
+                "url": "https://t.co/lDDnlRFOOa"
+              }
+            ]
+          }
+        },
+        "id": "1960209366310944768",
+        "name": "哇 是亮晶晶的！",
+        "pinned_tweet_id": "2043366483204665757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996565696608935936/y3whP0zs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 23,
+          "like_count": 3727,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 324
+        },
+        "url": "https://t.co/lDDnlRFOOa",
+        "username": "ACun1202",
+        "verified": false
+      }
+    ]
+  }
+}

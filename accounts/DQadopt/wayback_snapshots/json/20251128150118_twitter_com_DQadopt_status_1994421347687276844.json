@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994421334819184640"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1418358396516851713",
+          "name": "Ko-fi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1418358396516851713",
+          "name": "Ko-fi"
+        }
+      }
+    ],
+    "conversation_id": "1994421347687276844",
+    "created_at": "2025-11-28T15:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T16:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994421347687276844"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 77,
+          "normalized_text": "PayPal",
+          "probability": 0.67,
+          "start": 72,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XuUygLbzim",
+          "end": 108,
+          "expanded_url": "https://x.com/DQadopt/status/1994421347687276844/photo/1",
+          "media_key": "3_1994421334819184640",
+          "start": 85,
+          "url": "https://t.co/XuUygLbzim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994421347687276844",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "~ Adoptable character  ♡\n🖤Shibuya Spice Girl🖤\n\nAB: 80$ \nPayment method: PayPal、ko-fi https://t.co/XuUygLbzim"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994421334819184640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G62boxpboAAAm9l.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994421334819184640"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418358396516851713",
+              "name": "Ko-fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418358396516851713",
+              "name": "Ko-fi"
+            }
+          }
+        ],
+        "conversation_id": "1994421347687276844",
+        "created_at": "2025-11-28T15:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T16:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994421347687276844"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 77,
+              "normalized_text": "PayPal",
+              "probability": 0.67,
+              "start": 72,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XuUygLbzim",
+              "end": 108,
+              "expanded_url": "https://x.com/DQadopt/status/1994421347687276844/photo/1",
+              "media_key": "3_1994421334819184640",
+              "start": 85,
+              "url": "https://t.co/XuUygLbzim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994421347687276844",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "~ Adoptable character  ♡\n🖤Shibuya Spice Girl🖤\n\nAB: 80$ \nPayment method: PayPal、ko-fi https://t.co/XuUygLbzim"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "Character design丨🥰",
+        "id": "1989965282799226880",
+        "name": "DQ🦋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989965450730725376/VuyFLuEA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 11,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033554680593432577",
+        "3_2033554680572477440",
+        "3_2033554680576610305",
+        "3_2033554680580911105"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2033554691288858655",
+    "created_at": "2026-03-16T14:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T15:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033554691288858655"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jilnPRL1qE",
+          "end": 165,
+          "expanded_url": "https://x.com/DQadopt/status/2033554691288858655/photo/1",
+          "media_key": "3_2033554680593432577",
+          "start": 142,
+          "url": "https://t.co/jilnPRL1qE"
+        },
+        {
+          "display_url": "pic.x.com/jilnPRL1qE",
+          "end": 165,
+          "expanded_url": "https://x.com/DQadopt/status/2033554691288858655/photo/1",
+          "media_key": "3_2033554680572477440",
+          "start": 142,
+          "url": "https://t.co/jilnPRL1qE"
+        },
+        {
+          "display_url": "pic.x.com/jilnPRL1qE",
+          "end": 165,
+          "expanded_url": "https://x.com/DQadopt/status/2033554691288858655/photo/1",
+          "media_key": "3_2033554680576610305",
+          "start": 142,
+          "url": "https://t.co/jilnPRL1qE"
+        },
+        {
+          "display_url": "pic.x.com/jilnPRL1qE",
+          "end": 165,
+          "expanded_url": "https://x.com/DQadopt/status/2033554691288858655/photo/1",
+          "media_key": "3_2033554680580911105",
+          "start": 142,
+          "url": "https://t.co/jilnPRL1qE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033554691288858655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "回答一下你的匿名提问，看的时候不知道怎么给你回复\n小鸟今晚给我发了测试，得出来的结果让我去回顾了我几年前写的书评，正好那篇书评里面有我想说的答案\n真如我写的那样，有人捧着手中的果坚定前行，有人在无尽的比较里空了掌心，而他从一开始，就认准了那枚苹果独有的纹路\n所以我或许是堂吉柯德吧😎 https://t.co/jilnPRL1qE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1478,
+        "media_key": "3_2033554680593432577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDijNTAawAE7IZq.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1333,
+        "media_key": "3_2033554680572477440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDijNS7bAAA68_f.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1475,
+        "media_key": "3_2033554680576610305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDijNS8aEAEhAsw.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1116,
+        "media_key": "3_2033554680580911105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDijNS9bsAEjpbn.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033554680593432577",
+            "3_2033554680572477440",
+            "3_2033554680576610305",
+            "3_2033554680580911105"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2033554691288858655",
+        "created_at": "2026-03-16T14:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T15:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033554691288858655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jilnPRL1qE",
+              "end": 165,
+              "expanded_url": "https://x.com/DQadopt/status/2033554691288858655/photo/1",
+              "media_key": "3_2033554680593432577",
+              "start": 142,
+              "url": "https://t.co/jilnPRL1qE"
+            },
+            {
+              "display_url": "pic.x.com/jilnPRL1qE",
+              "end": 165,
+              "expanded_url": "https://x.com/DQadopt/status/2033554691288858655/photo/1",
+              "media_key": "3_2033554680572477440",
+              "start": 142,
+              "url": "https://t.co/jilnPRL1qE"
+            },
+            {
+              "display_url": "pic.x.com/jilnPRL1qE",
+              "end": 165,
+              "expanded_url": "https://x.com/DQadopt/status/2033554691288858655/photo/1",
+              "media_key": "3_2033554680576610305",
+              "start": 142,
+              "url": "https://t.co/jilnPRL1qE"
+            },
+            {
+              "display_url": "pic.x.com/jilnPRL1qE",
+              "end": 165,
+              "expanded_url": "https://x.com/DQadopt/status/2033554691288858655/photo/1",
+              "media_key": "3_2033554680580911105",
+              "start": 142,
+              "url": "https://t.co/jilnPRL1qE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033554691288858655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回答一下你的匿名提问，看的时候不知道怎么给你回复\n小鸟今晚给我发了测试，得出来的结果让我去回顾了我几年前写的书评，正好那篇书评里面有我想说的答案\n真如我写的那样，有人捧着手中的果坚定前行，有人在无尽的比较里空了掌心，而他从一开始，就认准了那枚苹果独有的纹路\n所以我或许是堂吉柯德吧😎 https://t.co/jilnPRL1qE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 238,
+          "like_count": 1747,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 1998
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2030674172696047917",
+    "created_at": "2026-04-18T11:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T12:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045462845778014239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2002331491733491712",
+          "start": 0,
+          "username": "Cc251120"
+        },
+        {
+          "end": 21,
+          "id": "2029236799013568516",
+          "start": 10,
+          "username": "Dwand11783"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045462845778014239",
+    "in_reply_to_user_id": "2002331491733491712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030674172696047917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cc251120 @Dwand11783 别当着小猫做这些！顺带一提水声好色喘的好乖…..看爽了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 288015,
+        "height": 720,
+        "media_key": "13_2030673603638005760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030673603638005760/img/WhhYbCsRezUIFSg9.jpg",
+        "public_metrics": {
+          "view_count": 108768
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030673603638005760/vid/avc1/480x270/uLyhnOUg0g_gZV98.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030673603638005760/vid/avc1/640x360/FRZJ2YOJHHpRaWvD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030673603638005760/vid/avc1/1280x720/qtGVHo4gvr0czY_7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030673603638005760/pl/YwTqz-o_8x98oo14.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2030674172696047917",
+        "created_at": "2026-04-18T11:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T12:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045462845778014239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2002331491733491712",
+              "start": 0,
+              "username": "Cc251120"
+            },
+            {
+              "end": 21,
+              "id": "2029236799013568516",
+              "start": 10,
+              "username": "Dwand11783"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045462845778014239",
+        "in_reply_to_user_id": "2002331491733491712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030674172696047917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cc251120 @Dwand11783 别当着小猫做这些！顺带一提水声好色喘的好乖…..看爽了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030673603638005760"
+          ]
+        },
+        "author_id": "2002331491733491712",
+        "conversation_id": "2030674172696047917",
+        "created_at": "2026-03-08T15:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T16:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030674172696047917"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "les"
+            },
+            {
+              "end": 101,
+              "start": 96,
+              "tag": "拉拉女同"
+            },
+            {
+              "end": 108,
+              "start": 102,
+              "tag": "doi日记"
+            },
+            {
+              "end": 115,
+              "start": 109,
+              "tag": "情侣doi"
+            },
+            {
+              "end": 121,
+              "start": 116,
+              "tag": "强制高潮"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "潮吹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 89,
+              "id": "2029236799013568516",
+              "start": 78,
+              "username": "Dwand11783"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fOAJ1PPeRZ",
+              "end": 149,
+              "expanded_url": "https://x.com/Cc251120/status/2030674172696047917/video/1",
+              "media_key": "13_2030673603638005760",
+              "start": 126,
+              "url": "https://t.co/fOAJ1PPeRZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030674172696047917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1336,
+          "impression_count": 206358,
+          "like_count": 3084,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 195
+        },
+        "reply_settings": "everyone",
+        "text": "两个人颠鸾倒凤不知天地为何物了完全没注意小猫一直在看。\n这次更是喷了一床，床头的插排上都是水。\n但是很可惜没拍出来，求助一下大家怎么能把到处喷的水拍出来😢\n@Dwand11783 \n#les #拉拉女同 #doi日记 #情侣doi #强制高潮 #潮吹 https://t.co/fOAJ1PPeRZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1968,
+          "following_count": 319,
+          "like_count": 2956,
+          "listed_count": 0,
+          "media_count": 333,
+          "tweet_count": 3504
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T10:53:31.000Z",
+        "description": "🏳️‍🌈le switch 0.4 entp/intp 可能日更，纯瘾大 已婚@Dwand11783 男的别关注我 推广请私信 不卖号，卖号的不用私信我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "Dwand11783"
+              }
+            ]
+          }
+        },
+        "id": "2002331491733491712",
+        "name": "Cc",
+        "pinned_tweet_id": "2039726564850741447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002331785057939456/7M-14RX-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27319,
+          "following_count": 24,
+          "like_count": 10,
+          "listed_count": 66,
+          "media_count": 53,
+          "tweet_count": 162
+        },
+        "username": "Cc251120",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T16:46:32.000Z",
+        "description": "我重生了…已婚有狗@Cc251120｜匿名提问https://t.co/321svhYubn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Cc251120"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/wandrelievi",
+                "end": 46,
+                "expanded_url": "https://ngl.link/wandrelievi",
+                "start": 23,
+                "url": "https://t.co/321svhYubn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.tz86.vip/#/register?code=BT0hqpoB",
+                "start": 0,
+                "url": "https://t.co/B3Bbjt9TuB"
+              }
+            ]
+          }
+        },
+        "id": "2029236799013568516",
+        "location": "自用🪜分享",
+        "name": "D豌豆！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029237593674792963/7PlpOLt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2971,
+          "following_count": 16,
+          "like_count": 33,
+          "listed_count": 5,
+          "media_count": 9,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/B3Bbjt9TuB",
+        "username": "Dwand11783",
+        "verified": false
+      }
+    ]
+  }
+}

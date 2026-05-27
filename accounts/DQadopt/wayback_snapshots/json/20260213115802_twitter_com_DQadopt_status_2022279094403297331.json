@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022279078272012288"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2022279094403297331",
+    "created_at": "2026-02-13T11:58:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T12:58:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022279094403297331"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KARQt6dN1Q",
+          "end": 114,
+          "expanded_url": "https://x.com/DQadopt/status/2022279094403297331/photo/1",
+          "media_key": "3_2022279078272012288",
+          "start": 91,
+          "url": "https://t.co/KARQt6dN1Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022279094403297331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自杀前建议大家做好退无可退的准备，喝农药➕跳楼确实是我能想到的最成功的一种方式，可是那天我看了看楼好高我真的没有勇气，所以我还是回家拿了亚硝酸钠草草结束，没有做好准备的结局就是醒来 https://t.co/KARQt6dN1Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1603,
+        "media_key": "3_2022279078272012288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBCUG3EbkAAGt1r.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022279078272012288"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2022279094403297331",
+        "created_at": "2026-02-13T11:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022279094403297331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KARQt6dN1Q",
+              "end": 114,
+              "expanded_url": "https://x.com/DQadopt/status/2022279094403297331/photo/1",
+              "media_key": "3_2022279078272012288",
+              "start": 91,
+              "url": "https://t.co/KARQt6dN1Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022279094403297331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自杀前建议大家做好退无可退的准备，喝农药➕跳楼确实是我能想到的最成功的一种方式，可是那天我看了看楼好高我真的没有勇气，所以我还是回家拿了亚硝酸钠草草结束，没有做好准备的结局就是醒来 https://t.co/KARQt6dN1Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 83,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 527
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

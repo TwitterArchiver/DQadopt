@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990750198256238592"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339381554087223297",
+          "name": "Character design"
+        }
+      }
+    ],
+    "conversation_id": "1990750207945101751",
+    "created_at": "2025-11-18T11:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T12:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990750207945101751"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 180,
+          "normalized_text": "Vtuber",
+          "probability": 0.785,
+          "start": 175,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 124,
+          "start": 118,
+          "tag": "adopt"
+        },
+        {
+          "end": 135,
+          "start": 125,
+          "tag": "adoptable"
+        },
+        {
+          "end": 147,
+          "start": 136,
+          "tag": "adoptables"
+        },
+        {
+          "end": 164,
+          "start": 148,
+          "tag": "characterdesign"
+        },
+        {
+          "end": 173,
+          "start": 165,
+          "tag": "auction"
+        },
+        {
+          "end": 181,
+          "start": 174,
+          "tag": "Vtuber"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yEBWgPfviV",
+          "end": 205,
+          "expanded_url": "https://x.com/DQadopt/status/1990750207945101751/photo/1",
+          "media_key": "3_1990750198256238592",
+          "start": 182,
+          "url": "https://t.co/yEBWgPfviV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990750207945101751",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ADOPTABLE ( Auction )\n🌸 Messenger of spring🌸\n\nAB : $30( Personal use )\nAB2 : $50( commercial use )\n\nPayment : PayPal\n\n#adopt #adoptable #adoptables\n#characterdesign #auction #Vtuber https://t.co/yEBWgPfviV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990750198256238592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6CQwgOaAAAA7Qb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990750198256238592"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339381554087223297",
+              "name": "Character design"
+            }
+          }
+        ],
+        "conversation_id": "1990750207945101751",
+        "created_at": "2025-11-18T11:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T12:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990750207945101751"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 180,
+              "normalized_text": "Vtuber",
+              "probability": 0.785,
+              "start": 175,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 118,
+              "tag": "adopt"
+            },
+            {
+              "end": 135,
+              "start": 125,
+              "tag": "adoptable"
+            },
+            {
+              "end": 147,
+              "start": 136,
+              "tag": "adoptables"
+            },
+            {
+              "end": 164,
+              "start": 148,
+              "tag": "characterdesign"
+            },
+            {
+              "end": 173,
+              "start": 165,
+              "tag": "auction"
+            },
+            {
+              "end": 181,
+              "start": 174,
+              "tag": "Vtuber"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yEBWgPfviV",
+              "end": 205,
+              "expanded_url": "https://x.com/DQadopt/status/1990750207945101751/photo/1",
+              "media_key": "3_1990750198256238592",
+              "start": 182,
+              "url": "https://t.co/yEBWgPfviV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990750207945101751",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ADOPTABLE ( Auction )\n🌸 Messenger of spring🌸\n\nAB : $30( Personal use )\nAB2 : $50( commercial use )\n\nPayment : PayPal\n\n#adopt #adoptable #adoptables\n#characterdesign #auction #Vtuber https://t.co/yEBWgPfviV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "Character design丨silentoperaadopt@163.com丨https://t.co/fTXmaZDXdE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vgen.co/DQ1111",
+                "end": 65,
+                "expanded_url": "https://vgen.co/DQ1111",
+                "start": 42,
+                "url": "https://t.co/fTXmaZDXdE"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "name": "DQ🦋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989965450730725376/VuyFLuEA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

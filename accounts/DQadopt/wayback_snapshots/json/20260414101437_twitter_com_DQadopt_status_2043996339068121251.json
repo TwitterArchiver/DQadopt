@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2043970873573699688",
+    "created_at": "2026-04-14T10:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T11:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043996339068121251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1632762457604395010",
+          "start": 0,
+          "username": "Jimmywypp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043996339068121251",
+    "in_reply_to_user_id": "1632762457604395010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043970873573699688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jimmywypp 很帅的姐姐！我觉得很适合"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043970862723018758",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2kq5PasAYIu2n.jpg",
+        "width": 1572
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043970862718824449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2kq5OasAE4jQp.jpg",
+        "width": 1620
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043970862714630145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2kq5NasAEJTwt.jpg",
+        "width": 1654
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2043970873573699688",
+        "created_at": "2026-04-14T10:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043996339068121251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1632762457604395010",
+              "start": 0,
+              "username": "Jimmywypp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043996339068121251",
+        "in_reply_to_user_id": "1632762457604395010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043970873573699688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jimmywypp 很帅的姐姐！我觉得很适合"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043970862723018758",
+            "3_2043970862718824449",
+            "3_2043970862714630145"
+          ]
+        },
+        "author_id": "1632762457604395010",
+        "conversation_id": "2043970873573699688",
+        "created_at": "2026-04-14T08:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043970873573699688"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "wlw"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "le"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "les"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "女同"
+            },
+            {
+              "end": 32,
+              "start": 30,
+              "tag": "t"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tmW3DbWMSW",
+              "end": 56,
+              "expanded_url": "https://x.com/Jimmywypp/status/2043970873573699688/photo/1",
+              "media_key": "3_2043970862723018758",
+              "start": 33,
+              "url": "https://t.co/tmW3DbWMSW"
+            },
+            {
+              "display_url": "pic.x.com/tmW3DbWMSW",
+              "end": 56,
+              "expanded_url": "https://x.com/Jimmywypp/status/2043970873573699688/photo/1",
+              "media_key": "3_2043970862718824449",
+              "start": 33,
+              "url": "https://t.co/tmW3DbWMSW"
+            },
+            {
+              "display_url": "pic.x.com/tmW3DbWMSW",
+              "end": 56,
+              "expanded_url": "https://x.com/Jimmywypp/status/2043970873573699688/photo/1",
+              "media_key": "3_2043970862714630145",
+              "start": 33,
+              "url": "https://t.co/tmW3DbWMSW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043970873573699688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老婆们我适合戴眼镜吗？\n#wlw #le #les #女同 #t https://t.co/tmW3DbWMSW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1897,
+          "following_count": 316,
+          "like_count": 2883,
+          "listed_count": 0,
+          "media_count": 329,
+          "tweet_count": 3347
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-06T15:18:08.000Z",
+        "description": "les ｜长发0.7 ｜喜欢m0 ｜isfp ｜男的别来沾边，私信烂屌哈",
+        "id": "1632762457604395010",
+        "name": "sherly kids",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971045192909410304/maw8OLKV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 1,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 69
+        },
+        "username": "Jimmywypp",
+        "verified": false
+      }
+    ]
+  }
+}

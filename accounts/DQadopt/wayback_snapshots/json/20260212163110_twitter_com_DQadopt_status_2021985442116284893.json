@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021985420524105731",
+        "3_2021985420528300033",
+        "3_2021985420524044288",
+        "3_2021985420519862273"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2021985442116284893",
+    "created_at": "2026-02-12T16:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T17:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021985442116284893"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jKc5sRY8kO",
+          "end": 162,
+          "expanded_url": "https://x.com/DQadopt/status/2021985442116284893/photo/1",
+          "media_key": "3_2021985420524105731",
+          "start": 139,
+          "url": "https://t.co/jKc5sRY8kO"
+        },
+        {
+          "display_url": "pic.x.com/jKc5sRY8kO",
+          "end": 162,
+          "expanded_url": "https://x.com/DQadopt/status/2021985442116284893/photo/1",
+          "media_key": "3_2021985420528300033",
+          "start": 139,
+          "url": "https://t.co/jKc5sRY8kO"
+        },
+        {
+          "display_url": "pic.x.com/jKc5sRY8kO",
+          "end": 162,
+          "expanded_url": "https://x.com/DQadopt/status/2021985442116284893/photo/1",
+          "media_key": "3_2021985420524044288",
+          "start": 139,
+          "url": "https://t.co/jKc5sRY8kO"
+        },
+        {
+          "display_url": "pic.x.com/jKc5sRY8kO",
+          "end": 162,
+          "expanded_url": "https://x.com/DQadopt/status/2021985442116284893/photo/1",
+          "media_key": "3_2021985420519862273",
+          "start": 139,
+          "url": "https://t.co/jKc5sRY8kO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021985442116284893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一开始自残是拔头发，小学五年级开始家里给的压力太大了，每天都会被打呃每天都在恐惧被打，然后开始拔头发开始对内啡肽上瘾，割手放血是22年被第一个女朋友断崖式分手\n嗯嗯正常毕业了现在也在上班，学的会计\n我以后会多更新大冰美照的\n谢谢你们陪我说话呀虽然我感觉这三个问题是一个人问的 https://t.co/jKc5sRY8kO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021985420524105731",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA-JButbsAMKEqo.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021985420528300033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA-JBuubsAEtzwS.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021985420524044288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA-JButawAA0DNs.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021985420519862273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA-JBusa8AE1wA8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021985420524105731",
+            "3_2021985420528300033",
+            "3_2021985420524044288",
+            "3_2021985420519862273"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2021985442116284893",
+        "created_at": "2026-02-12T16:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T17:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021985442116284893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jKc5sRY8kO",
+              "end": 162,
+              "expanded_url": "https://x.com/DQadopt/status/2021985442116284893/photo/1",
+              "media_key": "3_2021985420524105731",
+              "start": 139,
+              "url": "https://t.co/jKc5sRY8kO"
+            },
+            {
+              "display_url": "pic.x.com/jKc5sRY8kO",
+              "end": 162,
+              "expanded_url": "https://x.com/DQadopt/status/2021985442116284893/photo/1",
+              "media_key": "3_2021985420528300033",
+              "start": 139,
+              "url": "https://t.co/jKc5sRY8kO"
+            },
+            {
+              "display_url": "pic.x.com/jKc5sRY8kO",
+              "end": 162,
+              "expanded_url": "https://x.com/DQadopt/status/2021985442116284893/photo/1",
+              "media_key": "3_2021985420524044288",
+              "start": 139,
+              "url": "https://t.co/jKc5sRY8kO"
+            },
+            {
+              "display_url": "pic.x.com/jKc5sRY8kO",
+              "end": 162,
+              "expanded_url": "https://x.com/DQadopt/status/2021985442116284893/photo/1",
+              "media_key": "3_2021985420519862273",
+              "start": 139,
+              "url": "https://t.co/jKc5sRY8kO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021985442116284893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一开始自残是拔头发，小学五年级开始家里给的压力太大了，每天都会被打呃每天都在恐惧被打，然后开始拔头发开始对内啡肽上瘾，割手放血是22年被第一个女朋友断崖式分手\n嗯嗯正常毕业了现在也在上班，学的会计\n我以后会多更新大冰美照的\n谢谢你们陪我说话呀虽然我感觉这三个问题是一个人问的 https://t.co/jKc5sRY8kO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女孩子可以来找我互fo，女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 83,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 503
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

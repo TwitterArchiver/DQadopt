@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2023211852017328241",
+    "created_at": "2026-02-16T01:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T02:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023211852017328241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mydeardiablova…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/mydeardiablovan/status/2023049759548940663",
+          "start": 14,
+          "url": "https://t.co/HEHFFENKmg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023211852017328241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023049759548940663",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不吃槟榔但被这弱智图笑喷了 https://t.co/HEHFFENKmg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 830,
+        "media_key": "3_2023049756633870336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBNRCPsaMAAS5At.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2023211852017328241",
+        "created_at": "2026-02-16T01:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T02:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023211852017328241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mydeardiablova…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/mydeardiablovan/status/2023049759548940663",
+              "start": 14,
+              "url": "https://t.co/HEHFFENKmg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023211852017328241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023049759548940663",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不吃槟榔但被这弱智图笑喷了 https://t.co/HEHFFENKmg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023049756633870336"
+          ]
+        },
+        "author_id": "1342840788779151362",
+        "conversation_id": "2023049759548940663",
+        "created_at": "2026-02-15T15:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T16:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023049759548940663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QrztnmtkGI",
+              "end": 23,
+              "expanded_url": "https://x.com/MyDearDiabloVan/status/2023049759548940663/photo/1",
+              "media_key": "3_2023049756633870336",
+              "start": 0,
+              "url": "https://t.co/QrztnmtkGI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023049759548940663",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 31644,
+          "like_count": 883,
+          "quote_count": 3,
+          "reply_count": 23,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QrztnmtkGI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 89,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 605
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-26T14:33:00.000Z",
+        "description": "既要互为人间，又要自成宇宙",
+        "id": "1342840788779151362",
+        "location": "星露谷",
+        "name": "鸽 AKIIA🐦",
+        "pinned_tweet_id": "1994730019386761627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000511917484638208/7OIYewYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 1122,
+          "like_count": 7473,
+          "listed_count": 5,
+          "media_count": 1368,
+          "tweet_count": 6159
+        },
+        "username": "MyDearDiabloVan",
+        "verified": false
+      }
+    ]
+  }
+}

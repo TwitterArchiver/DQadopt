@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2038185964733087776",
+    "created_at": "2026-03-30T00:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T01:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038416639620972572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2035695469452840960",
+          "start": 0,
+          "username": "Tboy170"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038416639620972572",
+    "in_reply_to_user_id": "2035695469452840960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038185964733087776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tboy170 看到你这个帖子我释然了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2038185964733087776",
+        "created_at": "2026-03-30T00:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T01:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038416639620972572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2035695469452840960",
+              "start": 0,
+              "username": "Tboy170"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038416639620972572",
+        "in_reply_to_user_id": "2035695469452840960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038185964733087776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tboy170 看到你这个帖子我释然了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035695469452840960",
+        "conversation_id": "2038185964733087776",
+        "created_at": "2026-03-29T09:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T10:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038185964733087776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038185964733087776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11365,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "很多Les吐槽T为什么约男\n我想说不管是t还是p\n在我手里全都是枕头公主 \n不管是对象还是约炮 就真的没一个反攻我的 而且全都在我手里解锁第一次喷、高潮\n反复约我出来当工具人 \n当T太累了 经济上、情绪价值上还要做一直付出\n就当我双了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片绿色的荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 265,
+          "like_count": 2273,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 2570
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T12:30:04.000Z",
+        "description": "爷T",
+        "id": "2035695469452840960",
+        "name": "Sun",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 26,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 23
+        },
+        "username": "Tboy170",
+        "verified": false
+      }
+    ]
+  }
+}

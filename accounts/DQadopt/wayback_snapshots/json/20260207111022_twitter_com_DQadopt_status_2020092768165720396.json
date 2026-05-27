@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2020033720183582896",
+    "created_at": "2026-02-07T11:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T12:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020092768165720396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1938562084570370048",
+          "start": 0,
+          "username": "redtempera"
+        },
+        {
+          "end": 24,
+          "id": "1974865605204586498",
+          "start": 12,
+          "username": "Krktmk_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020092768165720396",
+    "in_reply_to_user_id": "1938562084570370048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020041355851182390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@redtempera @Krktmk_8964 这他妈不怕被铁拳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2120,
+        "media_key": "3_2020041352172748800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAig6DvbQAAumEA.jpg",
+        "width": 1620
+      },
+      {
+        "height": 562,
+        "media_key": "3_2020041313341829121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAig3zFacAEqWFj.jpg",
+        "width": 637
+      },
+      {
+        "height": 2120,
+        "media_key": "3_2020041351233171456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAig6APacAAm7Ve.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2020033720183582896",
+        "created_at": "2026-02-07T11:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T12:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020092768165720396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1938562084570370048",
+              "start": 0,
+              "username": "redtempera"
+            },
+            {
+              "end": 24,
+              "id": "1974865605204586498",
+              "start": 12,
+              "username": "Krktmk_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020092768165720396",
+        "in_reply_to_user_id": "1938562084570370048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020041355851182390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@redtempera @Krktmk_8964 这他妈不怕被铁拳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020041352172748800",
+            "3_2020041313341829121",
+            "3_2020041351233171456"
+          ]
+        },
+        "author_id": "1938562084570370048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020033720183582896",
+        "created_at": "2026-02-07T07:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T08:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020041355851182390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "Krktmk_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mMATw9HAe9",
+              "end": 44,
+              "expanded_url": "https://x.com/redtempera/status/2020041355851182390/photo/1",
+              "media_key": "3_2020041352172748800",
+              "start": 21,
+              "url": "https://t.co/mMATw9HAe9"
+            },
+            {
+              "display_url": "pic.x.com/mMATw9HAe9",
+              "end": 44,
+              "expanded_url": "https://x.com/redtempera/status/2020041355851182390/photo/1",
+              "media_key": "3_2020041313341829121",
+              "start": 21,
+              "url": "https://t.co/mMATw9HAe9"
+            },
+            {
+              "display_url": "pic.x.com/mMATw9HAe9",
+              "end": 44,
+              "expanded_url": "https://x.com/redtempera/status/2020041355851182390/photo/1",
+              "media_key": "3_2020041351233171456",
+              "start": 21,
+              "url": "https://t.co/mMATw9HAe9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020041355851182390",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020033720183582896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Krktmk_8964 不如快手🤡🇨🇳 https://t.co/mMATw9HAe9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 74,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 343
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-27T11:37:27.000Z",
+        "description": "〔安康〕o(≧▽≦)o    炮轰司令部    枪毙当权派                                                              欢迎互fo😎",
+        "id": "1938562084570370048",
+        "name": "ZzphzZ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019065362793574401/HrsYkG0W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 42,
+          "like_count": 37783,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 305
+        },
+        "username": "redtempera",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "我是天照大神⛩",
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2016628139888431137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016867499816693760/cgM-POhS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 1486,
+          "like_count": 26103,
+          "listed_count": 2,
+          "media_count": 172,
+          "tweet_count": 2791
+        },
+        "username": "Krktmk_8964",
+        "verified": false
+      }
+    ]
+  }
+}

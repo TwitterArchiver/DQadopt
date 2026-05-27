@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041867382709424128"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2041867406004695397",
+    "created_at": "2026-04-08T13:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T14:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041867406004695397"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lNBqgC02G1",
+          "end": 165,
+          "expanded_url": "https://x.com/DQadopt/status/2041867406004695397/photo/1",
+          "media_key": "3_2041867382709424128",
+          "start": 142,
+          "url": "https://t.co/lNBqgC02G1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041867406004695397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又把一个药换成了仿制药，好贵啊舍不得给自己吃那么贵的原研，原研要50只能吃10天，这种30可以吃20天，其余药也是，比如原研文拉法辛，原价七八十盒，猜猜我买的仿制多少一盒，7块哈哈哈\n我吃药就没想过能痊愈，能让我活下去就行，那些钱不如给在意的人买东西\n我操就是感觉自己活的好没意思呃 https://t.co/lNBqgC02G1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041867382709424128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYrkPjaEAAJP7a.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041867382709424128"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2041867406004695397",
+        "created_at": "2026-04-08T13:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041867406004695397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lNBqgC02G1",
+              "end": 165,
+              "expanded_url": "https://x.com/DQadopt/status/2041867406004695397/photo/1",
+              "media_key": "3_2041867382709424128",
+              "start": 142,
+              "url": "https://t.co/lNBqgC02G1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041867406004695397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又把一个药换成了仿制药，好贵啊舍不得给自己吃那么贵的原研，原研要50只能吃10天，这种30可以吃20天，其余药也是，比如原研文拉法辛，原价七八十盒，猜猜我买的仿制多少一盒，7块哈哈哈\n我吃药就没想过能痊愈，能让我活下去就行，那些钱不如给在意的人买东西\n我操就是感觉自己活的好没意思呃 https://t.co/lNBqgC02G1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 308,
+          "like_count": 2610,
+          "listed_count": 0,
+          "media_count": 307,
+          "tweet_count": 3013
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2019471259302502822",
+    "created_at": "2026-02-13T13:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T14:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022297253059436958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1871178347507834880",
+          "start": 0,
+          "username": "ya003021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022297253059436958",
+    "in_reply_to_user_id": "1871178347507834880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019471259302502822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ya003021 我宣布我今晚就听这个了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 56588,
+        "height": 1280,
+        "media_key": "13_2019471153111371776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019471153111371776/img/NhYQMxFwP5U1hTxM.jpg",
+        "public_metrics": {
+          "view_count": 2398
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019471153111371776/vid/avc1/320x694/H4KDOK_wDX4vGJYX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019471153111371776/vid/avc1/480x1040/kvnVfujfNFrXKbqZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019471153111371776/vid/avc1/590x1280/uGvTq5s97VrCO9fj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019471153111371776/pl/STAq3NwHu9Pxp5Ui.m3u8?v=cfc"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2019471259302502822",
+        "created_at": "2026-02-13T13:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T14:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022297253059436958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1871178347507834880",
+              "start": 0,
+              "username": "ya003021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022297253059436958",
+        "in_reply_to_user_id": "1871178347507834880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019471259302502822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ya003021 我宣布我今晚就听这个了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2019471153111371776"
+          ]
+        },
+        "author_id": "1871178347507834880",
+        "conversation_id": "2019471259302502822",
+        "created_at": "2026-02-05T18:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T19:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019471259302502822"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "le"
+            },
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "wlw"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "女同"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "女喘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aO8P4IkYRz",
+              "end": 95,
+              "expanded_url": "https://x.com/ya003021/status/2019471259302502822/video/1",
+              "media_key": "13_2019471153111371776",
+              "start": 72,
+              "url": "https://t.co/aO8P4IkYRz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019471259302502822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 8190,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "趴姿脸捂在枕头上揉穴 一边扭屁股小穴一直在收缩但是没有进去 因为窒息感喘到流口水（离手机太近声音有点大 ;ㅅ;#le #wlw #女同 #女喘 https://t.co/aO8P4IkYRz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 84,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 536
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-23T12:57:46.000Z",
+        "description": "一条狗而已.",
+        "id": "1871178347507834880",
+        "name": "huh puppy",
+        "pinned_tweet_id": "2013101114816925954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002822373301723136/yULvFrJH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 9,
+          "like_count": 386,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 361
+        },
+        "username": "ya003021",
+        "verified": false
+      }
+    ]
+  }
+}

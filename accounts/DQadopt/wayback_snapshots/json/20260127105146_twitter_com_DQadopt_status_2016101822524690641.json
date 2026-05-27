@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2015426078387695616"
+      ],
+      "media_source_tweet_id": [
+        "2015426132611666089"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2016101822524690641",
+    "created_at": "2026-01-27T10:51:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T11:51:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016101822524690641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2006709697131520000",
+          "start": 3,
+          "username": "tpdbswldn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TG2l8c0In2",
+          "end": 75,
+          "expanded_url": "https://x.com/tpdbswldn/status/2015426132611666089/video/1",
+          "media_key": "7_2015426078387695616",
+          "start": 52,
+          "url": "https://t.co/TG2l8c0In2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016101822524690641",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2930
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015426132611666089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tpdbswldn: 와 브금없이 보니까 연하 진짜 참는소리가 더 잘들려서 미치겠음.. https://t.co/TG2l8c0In2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36437,
+        "height": 720,
+        "media_key": "7_2015426078387695616",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2015426078387695616/pu/img/QnqCvZRxA9ibvMK6.jpg",
+        "public_metrics": {
+          "view_count": 983912
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015426078387695616/pu/vid/avc1/480x270/cJVCVprG9HUDsDAs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015426078387695616/pu/vid/avc1/640x360/hQhoxpe08EcX-WRr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015426078387695616/pu/vid/avc1/1280x720/OX3deuhAwbvGDG5P.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2015426078387695616/pu/pl/7i30IJjcF7YV5A5d.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2015426078387695616"
+          ],
+          "media_source_tweet_id": [
+            "2015426132611666089"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2016101822524690641",
+        "created_at": "2026-01-27T10:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T11:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016101822524690641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2006709697131520000",
+              "start": 3,
+              "username": "tpdbswldn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TG2l8c0In2",
+              "end": 75,
+              "expanded_url": "https://x.com/tpdbswldn/status/2015426132611666089/video/1",
+              "media_key": "7_2015426078387695616",
+              "start": 52,
+              "url": "https://t.co/TG2l8c0In2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016101822524690641",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2930
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015426132611666089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tpdbswldn: 와 브금없이 보니까 연하 진짜 참는소리가 더 잘들려서 미치겠음.. https://t.co/TG2l8c0In2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2015426078387695616"
+          ]
+        },
+        "author_id": "2006709697131520000",
+        "conversation_id": "2015426132611666089",
+        "created_at": "2026-01-25T14:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T15:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015426132611666089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TG2l8c0In2",
+              "end": 60,
+              "expanded_url": "https://x.com/tpdbswldn/status/2015426132611666089/video/1",
+              "media_key": "7_2015426078387695616",
+              "start": 37,
+              "url": "https://t.co/TG2l8c0In2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015426132611666089",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16556,
+          "impression_count": 1959462,
+          "like_count": 43766,
+          "quote_count": 342,
+          "reply_count": 162,
+          "retweet_count": 2930
+        },
+        "reply_settings": "everyone",
+        "text": "와 브금없이 보니까 연하 진짜 참는소리가 더 잘들려서 미치겠음.. https://t.co/TG2l8c0In2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 53,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 168
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-01T12:51:14.000Z",
+        "description": "세윤(윤쮸)에 빠져서 같이 오랫동안 좋아하려고 굴리는 첫 계정!!❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/Dbswb",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/Dbswb",
+                "start": 0,
+                "url": "https://t.co/w1BEAxpUI8"
+              }
+            ]
+          }
+        },
+        "id": "2006709697131520000",
+        "name": "h.J",
+        "pinned_tweet_id": "2015753026527756685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012383149402251264/HrbdiYP1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149,
+          "following_count": 82,
+          "like_count": 385,
+          "listed_count": 6,
+          "media_count": 28,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/w1BEAxpUI8",
+        "username": "tpdbswldn",
+        "verified": false
+      }
+    ]
+  }
+}

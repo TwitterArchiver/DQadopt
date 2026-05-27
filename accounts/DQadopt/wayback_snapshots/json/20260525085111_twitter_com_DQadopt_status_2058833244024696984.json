@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2058784289391775795",
+    "created_at": "2026-05-25T08:51:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T09:51:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058833244024696984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1812332654521618432",
+          "start": 0,
+          "username": "Milifo363999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058833244024696984",
+    "in_reply_to_user_id": "1812332654521618432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058830926663258513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Milifo363999 喜欢她"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2058784289391775795",
+        "created_at": "2026-05-25T08:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058833244024696984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1812332654521618432",
+              "start": 0,
+              "username": "Milifo363999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058833244024696984",
+        "in_reply_to_user_id": "1812332654521618432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058830926663258513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Milifo363999 喜欢她"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812332654521618432",
+        "conversation_id": "2058784289391775795",
+        "created_at": "2026-05-25T08:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058830926663258513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058830926663258513",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058784289391775795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 并非交配，而是泄欲🤫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2349,
+          "following_count": 342,
+          "like_count": 3435,
+          "listed_count": 1,
+          "media_count": 370,
+          "tweet_count": 4157
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T03:45:58.000Z",
+        "description": "戒政/男女平等（有时候会串！）/恋同癖/人道主义/万物明码标价的社会是可悲的/友跨顺男/车万/术术人/多元的社会应当容得下保守派/欣赏美好的人与世界/观le致歉补药b我😭",
+        "id": "1812332654521618432",
+        "location": "沉溺在一些过去的幻想乡中",
+        "name": "Milifo 咲樂团",
+        "pinned_tweet_id": "2033803913355559271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812333831287894016/qfYoOBMj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 581,
+          "like_count": 3604,
+          "listed_count": 2,
+          "media_count": 431,
+          "tweet_count": 4502
+        },
+        "username": "Milifo363999",
+        "verified": false
+      }
+    ]
+  }
+}

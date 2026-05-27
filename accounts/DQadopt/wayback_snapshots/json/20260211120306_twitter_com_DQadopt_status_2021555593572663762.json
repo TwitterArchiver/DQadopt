@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021555582696902656",
+        "3_2021555582688493568",
+        "3_2021555582696869888",
+        "3_2021555582692683776"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2021555593572663762",
+    "created_at": "2026-02-11T12:03:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T13:03:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021555593572663762"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/V5yDdmQtWS",
+          "end": 113,
+          "expanded_url": "https://x.com/DQadopt/status/2021555593572663762/photo/1",
+          "media_key": "3_2021555582696902656",
+          "start": 90,
+          "url": "https://t.co/V5yDdmQtWS"
+        },
+        {
+          "display_url": "pic.x.com/V5yDdmQtWS",
+          "end": 113,
+          "expanded_url": "https://x.com/DQadopt/status/2021555593572663762/photo/1",
+          "media_key": "3_2021555582688493568",
+          "start": 90,
+          "url": "https://t.co/V5yDdmQtWS"
+        },
+        {
+          "display_url": "pic.x.com/V5yDdmQtWS",
+          "end": 113,
+          "expanded_url": "https://x.com/DQadopt/status/2021555593572663762/photo/1",
+          "media_key": "3_2021555582696869888",
+          "start": 90,
+          "url": "https://t.co/V5yDdmQtWS"
+        },
+        {
+          "display_url": "pic.x.com/V5yDdmQtWS",
+          "end": 113,
+          "expanded_url": "https://x.com/DQadopt/status/2021555593572663762/photo/1",
+          "media_key": "3_2021555582692683776",
+          "start": 90,
+          "url": "https://t.co/V5yDdmQtWS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021555593572663762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "咋今天这么多人提问我，为了防止刷屏统一这条答复\n没有年上年下的喜好，准确来说我没有理想型，我喜欢过姐姐也喜欢过妹妹，不过我不太看年龄🤔这是后置的\n身体168cm我不高，是intj https://t.co/V5yDdmQtWS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021555582696902656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4CF4BbUAAbmuL.jpg",
+        "width": 1892
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021555582688493568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4CF3_bAAA7JZp.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021555582696869888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4CF4Ba0AA_bgi.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021555582692683776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4CF4Aa8AAkq9p.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021555582696902656",
+            "3_2021555582688493568",
+            "3_2021555582696869888",
+            "3_2021555582692683776"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2021555593572663762",
+        "created_at": "2026-02-11T12:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T13:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021555593572663762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V5yDdmQtWS",
+              "end": 113,
+              "expanded_url": "https://x.com/DQadopt/status/2021555593572663762/photo/1",
+              "media_key": "3_2021555582696902656",
+              "start": 90,
+              "url": "https://t.co/V5yDdmQtWS"
+            },
+            {
+              "display_url": "pic.x.com/V5yDdmQtWS",
+              "end": 113,
+              "expanded_url": "https://x.com/DQadopt/status/2021555593572663762/photo/1",
+              "media_key": "3_2021555582688493568",
+              "start": 90,
+              "url": "https://t.co/V5yDdmQtWS"
+            },
+            {
+              "display_url": "pic.x.com/V5yDdmQtWS",
+              "end": 113,
+              "expanded_url": "https://x.com/DQadopt/status/2021555593572663762/photo/1",
+              "media_key": "3_2021555582696869888",
+              "start": 90,
+              "url": "https://t.co/V5yDdmQtWS"
+            },
+            {
+              "display_url": "pic.x.com/V5yDdmQtWS",
+              "end": 113,
+              "expanded_url": "https://x.com/DQadopt/status/2021555593572663762/photo/1",
+              "media_key": "3_2021555582692683776",
+              "start": 90,
+              "url": "https://t.co/V5yDdmQtWS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021555593572663762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咋今天这么多人提问我，为了防止刷屏统一这条答复\n没有年上年下的喜好，准确来说我没有理想型，我喜欢过姐姐也喜欢过妹妹，不过我不太看年龄🤔这是后置的\n身体168cm我不高，是intj https://t.co/V5yDdmQtWS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 85,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 461
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

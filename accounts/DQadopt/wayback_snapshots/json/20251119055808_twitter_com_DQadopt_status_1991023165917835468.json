@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1418358396516851713",
+          "name": "Ko-fi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1418358396516851713",
+          "name": "Ko-fi"
+        }
+      }
+    ],
+    "conversation_id": "1991023165917835468",
+    "created_at": "2025-11-19T05:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T06:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991023165917835468"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 127,
+          "normalized_text": "Ko-fi",
+          "probability": 0.4693,
+          "start": 123,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1305133360147320833",
+          "start": 3,
+          "username": "hiemsmoon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991023165917835468",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990898560733196669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hiemsmoon: Adopt designs! Cute magical ladies ^^\nEach is 195$ and waiting for a loving home 🤍\n\nYou can grab them on my Ko-fi, link belo…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1990897883051089920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6EXE49WYAAc9y1.jpg",
+        "width": 2767
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1990897883080478720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6EXE5EW0AAeW1k.jpg",
+        "width": 2767
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418358396516851713",
+              "name": "Ko-fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418358396516851713",
+              "name": "Ko-fi"
+            }
+          }
+        ],
+        "conversation_id": "1991023165917835468",
+        "created_at": "2025-11-19T05:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T06:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991023165917835468"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 127,
+              "normalized_text": "Ko-fi",
+              "probability": 0.4693,
+              "start": 123,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1305133360147320833",
+              "start": 3,
+              "username": "hiemsmoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991023165917835468",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990898560733196669",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hiemsmoon: Adopt designs! Cute magical ladies ^^\nEach is 195$ and waiting for a loving home 🤍\n\nYou can grab them on my Ko-fi, link belo…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990897883051089920",
+            "3_1990897883080478720"
+          ]
+        },
+        "author_id": "1305133360147320833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418358396516851713",
+              "name": "Ko-fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418358396516851713",
+              "name": "Ko-fi"
+            }
+          }
+        ],
+        "conversation_id": "1990898560733196669",
+        "created_at": "2025-11-18T21:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T22:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990898560733196669"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 112,
+              "normalized_text": "Ko-fi",
+              "probability": 0.4885,
+              "start": 108,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I3Mj5IkAuP",
+              "end": 149,
+              "expanded_url": "https://x.com/hiemsmoon/status/1990898560733196669/photo/1",
+              "media_key": "3_1990897883051089920",
+              "start": 126,
+              "url": "https://t.co/I3Mj5IkAuP"
+            },
+            {
+              "display_url": "pic.x.com/I3Mj5IkAuP",
+              "end": 149,
+              "expanded_url": "https://x.com/hiemsmoon/status/1990898560733196669/photo/1",
+              "media_key": "3_1990897883080478720",
+              "start": 126,
+              "url": "https://t.co/I3Mj5IkAuP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990898560733196669",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 3870,
+          "like_count": 80,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "Adopt designs! Cute magical ladies ^^\nEach is 195$ and waiting for a loving home 🤍\n\nYou can grab them on my Ko-fi, link below https://t.co/I3Mj5IkAuP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "Character design丨silentoperaadopt@163.com",
+        "id": "1989965282799226880",
+        "name": "DQ🦋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989965450730725376/VuyFLuEA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 8
+        },
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-13T13:17:27.000Z",
+        "description": "┊maria┊23 y.o.┊she/her・rus/eng┊character designer・comm status: 𝗰𝗹𝗼𝘀𝗲🍵  pfp🎨jamkonyan(tg) | banner🎨 @iddr021",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 99,
+                "username": "iddr021"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hiemsmoon.crd.co/#",
+                "end": 23,
+                "expanded_url": "https://hiemsmoon.crd.co/#",
+                "start": 0,
+                "url": "https://t.co/RFX8Xq4w6X"
+              }
+            ]
+          }
+        },
+        "id": "1305133360147320833",
+        "location": "GE",
+        "name": "hiems🍒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884577758631649281/NmKfmQhp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9367,
+          "following_count": 1993,
+          "like_count": 11618,
+          "listed_count": 60,
+          "media_count": 1192,
+          "tweet_count": 6063
+        },
+        "url": "https://t.co/RFX8Xq4w6X",
+        "username": "hiemsmoon",
+        "verified": false
+      }
+    ]
+  }
+}

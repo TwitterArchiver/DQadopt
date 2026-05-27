@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2039319420410208376",
+    "created_at": "2026-04-02T00:19:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T01:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039497967963672790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1797866138107531264",
+          "start": 0,
+          "username": "FFFLLLUG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039497967963672790",
+    "in_reply_to_user_id": "1797866138107531264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039433284795654523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FFFLLLUG 谢谢老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2039319420410208376",
+        "created_at": "2026-04-02T00:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T01:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039497967963672790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1797866138107531264",
+              "start": 0,
+              "username": "FFFLLLUG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039497967963672790",
+        "in_reply_to_user_id": "1797866138107531264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039433284795654523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FFFLLLUG 谢谢老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797866138107531264",
+        "conversation_id": "2039319420410208376",
+        "created_at": "2026-04-01T20:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T21:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039433284795654523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039433284795654523",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039319420410208376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 哇哇哇…！很漂亮的花束！相信收到它的人一定会很开心的！！祝福你们！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1538,
+          "following_count": 269,
+          "like_count": 2358,
+          "listed_count": 0,
+          "media_count": 290,
+          "tweet_count": 2690
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T05:42:09.000Z",
+        "description": "",
+        "id": "1797866138107531264",
+        "name": "FFFFF",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021560972314611713/ZZ3XONUq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 334,
+          "like_count": 3055,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 11758
+        },
+        "username": "FFFLLLUG",
+        "verified": false
+      }
+    ]
+  }
+}

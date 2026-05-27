@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2029472366527758614",
+    "created_at": "2026-03-05T08:21:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T09:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029472366527758614"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029472366527758614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不想问她为什么不爱我或者怎么样才能爱我，抱着这种目的去问她是一场灾难，我和她根本不在一间屋子里，我砸掉所有玻璃制品，只会让她惶恐无措，我不想绝望到捂着脸问她“为什么”\n因为她是个爱情的盲人，根本看不到我这场铺天盖地的问"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2029472366527758614",
+        "created_at": "2026-03-05T08:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T09:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029472366527758614"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029472366527758614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想问她为什么不爱我或者怎么样才能爱我，抱着这种目的去问她是一场灾难，我和她根本不在一间屋子里，我砸掉所有玻璃制品，只会让她惶恐无措，我不想绝望到捂着脸问她“为什么”\n因为她是个爱情的盲人，根本看不到我这场铺天盖地的问"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 176,
+          "like_count": 980,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 1227
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

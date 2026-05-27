@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2021196356002644103",
+    "created_at": "2026-02-10T12:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T13:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021196356002644103"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/linaqing2/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/linaqing2/status/2019847184808894657",
+          "start": 7,
+          "url": "https://t.co/vRMpKCAGZ8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021196356002644103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019847184808894657",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么这么会写 https://t.co/vRMpKCAGZ8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1172,
+        "media_key": "3_2019847174906171392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAfwTdDb0AA3Pfc.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2021196356002644103",
+        "created_at": "2026-02-10T12:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T13:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021196356002644103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linaqing2/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/linaqing2/status/2019847184808894657",
+              "start": 7,
+              "url": "https://t.co/vRMpKCAGZ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021196356002644103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019847184808894657",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么这么会写 https://t.co/vRMpKCAGZ8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019847174906171392"
+          ]
+        },
+        "author_id": "1493813474824429569",
+        "conversation_id": "2019847184808894657",
+        "created_at": "2026-02-06T18:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T19:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019847184808894657"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "le"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "les"
+            },
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "wlw"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "女同"
+            },
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "女同性恋"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BQRx8pofw5",
+              "end": 63,
+              "expanded_url": "https://x.com/linaqing2/status/2019847184808894657/photo/1",
+              "media_key": "3_2019847174906171392",
+              "start": 40,
+              "url": "https://t.co/BQRx8pofw5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019847184808894657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 14226,
+          "like_count": 250,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "看着你的脸会让我更加想要欺负你 #le #les #wlw #女同 #女同性恋 https://t.co/BQRx8pofw5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 80,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 427
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-16T05:04:30.000Z",
+        "description": "长发t｜恋妹｜比较s ｜ip西安｜喜欢吃妹妹的嘴子 男❌男装妹❌4i也❌｜欢迎妹妹来找我玩",
+        "id": "1493813474824429569",
+        "location": "我在花开的地方等你",
+        "name": "春日宴",
+        "pinned_tweet_id": "1978761997383532957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875252250257612800/Tqb7_mOd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 15,
+          "like_count": 312,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 317
+        },
+        "username": "linaqing2",
+        "verified": false
+      }
+    ]
+  }
+}

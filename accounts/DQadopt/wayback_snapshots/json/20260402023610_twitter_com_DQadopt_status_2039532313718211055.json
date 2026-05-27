@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039532303110881280"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2039532313718211055",
+    "created_at": "2026-04-02T02:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T03:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039532313718211055"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tokWA72buc",
+          "end": 162,
+          "expanded_url": "https://x.com/DQadopt/status/2039532313718211055/photo/1",
+          "media_key": "3_2039532303110881280",
+          "start": 139,
+          "url": "https://t.co/tokWA72buc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039532313718211055",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前天晚上梦到和小鸟kiss了，在窗台边，她嘴唇冰冰凉凉的咬起来很舒服🥺🥺🥺好喜欢这种感觉，梦里的小鸟抱起来温润如玉，昨晚的话忘记梦到什么了反正还是和小鸟一起，很开心地在一起\n我仿佛是带着一种饥饿降生，终日寻找食物与爱情，幻想某一天同一根脊骨上会缠上两个灵魂，而这个灵魂只能是你 https://t.co/tokWA72buc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1383,
+        "media_key": "3_2039532303110881280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3f0uLbwAAuO88.jpg",
+        "width": 1004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039532303110881280"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2039532313718211055",
+        "created_at": "2026-04-02T02:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T03:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039532313718211055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tokWA72buc",
+              "end": 162,
+              "expanded_url": "https://x.com/DQadopt/status/2039532313718211055/photo/1",
+              "media_key": "3_2039532303110881280",
+              "start": 139,
+              "url": "https://t.co/tokWA72buc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039532313718211055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前天晚上梦到和小鸟kiss了，在窗台边，她嘴唇冰冰凉凉的咬起来很舒服🥺🥺🥺好喜欢这种感觉，梦里的小鸟抱起来温润如玉，昨晚的话忘记梦到什么了反正还是和小鸟一起，很开心地在一起\n我仿佛是带着一种饥饿降生，终日寻找食物与爱情，幻想某一天同一根脊骨上会缠上两个灵魂，而这个灵魂只能是你 https://t.co/tokWA72buc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 268,
+          "like_count": 2372,
+          "listed_count": 0,
+          "media_count": 291,
+          "tweet_count": 2694
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

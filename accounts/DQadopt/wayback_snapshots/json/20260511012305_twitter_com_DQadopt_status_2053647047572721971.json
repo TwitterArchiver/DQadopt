@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2053487133235859676",
+    "created_at": "2026-05-11T01:23:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T02:23:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053647047572721971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1557924986026729472",
+          "start": 0,
+          "username": "TNT12787527"
+        },
+        {
+          "end": 29,
+          "id": "1919258003427196928",
+          "start": 13,
+          "username": "VZSAYpDdYN54930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053647047572721971",
+    "in_reply_to_user_id": "1557924986026729472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053645658939441297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TNT12787527 @VZSAYpDdYN54930 我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 257,
+        "media_key": "3_2053645655793639424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAD1-AaoAA-GQX.jpg",
+        "width": 270
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2053487133235859676",
+        "created_at": "2026-05-11T01:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T02:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053647047572721971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1557924986026729472",
+              "start": 0,
+              "username": "TNT12787527"
+            },
+            {
+              "end": 29,
+              "id": "1919258003427196928",
+              "start": 13,
+              "username": "VZSAYpDdYN54930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053647047572721971",
+        "in_reply_to_user_id": "1557924986026729472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053645658939441297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TNT12787527 @VZSAYpDdYN54930 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053645655793639424"
+          ]
+        },
+        "author_id": "1557924986026729472",
+        "conversation_id": "2053487133235859676",
+        "created_at": "2026-05-11T01:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T02:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053645658939441297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1919258003427196928",
+              "start": 0,
+              "username": "VZSAYpDdYN54930"
+            },
+            {
+              "end": 25,
+              "id": "1989965282799226880",
+              "start": 17,
+              "username": "DQadopt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U4GprpfB4x",
+              "end": 90,
+              "expanded_url": "https://x.com/TNT12787527/status/2053645658939441297/photo/1",
+              "media_key": "3_2053645655793639424",
+              "start": 67,
+              "url": "https://t.co/U4GprpfB4x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053645658939441297",
+        "in_reply_to_user_id": "1919258003427196928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053488552038768805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VZSAYpDdYN54930 @DQadopt 我已经想象到小鸟受到欺负，然后小查抽着烟举着大花臂就冲上去，这画面就很大姐大了🤔 https://t.co/U4GprpfB4x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2267,
+          "following_count": 338,
+          "like_count": 3381,
+          "listed_count": 1,
+          "media_count": 365,
+          "tweet_count": 4003
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-12T03:01:08.000Z",
+        "description": "哇偶",
+        "id": "1557924986026729472",
+        "location": "地球",
+        "name": "麦钟灵",
+        "pinned_tweet_id": "1844072409818968418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803333329636433923/Kp64_4U2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 70,
+          "like_count": 869,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 48
+        },
+        "username": "TNT12787527",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T05:09:35.000Z",
+        "description": "🍎🍎🍎",
+        "id": "1919258003427196928",
+        "name": "我是苹果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015864592711483393/prcOA6fd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 19,
+          "like_count": 316,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 295
+        },
+        "username": "VZSAYpDdYN54930",
+        "verified": false
+      }
+    ]
+  }
+}

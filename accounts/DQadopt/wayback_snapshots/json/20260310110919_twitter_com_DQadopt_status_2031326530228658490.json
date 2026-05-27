@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2031326530228658490",
+    "created_at": "2026-03-10T11:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T12:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031326530228658490"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/laferatott3961…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/laferatott39616/status/2031315773533335881",
+          "start": 35,
+          "url": "https://t.co/Ytpn02EJc3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031326530228658490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031315773533335881",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "快来看我的女神。。。我命令你们来看我的女神。。。你们必须来看我的女神 https://t.co/Ytpn02EJc3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2031315716503371776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDCu4bzaAAAEY7w.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031315715077353472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDCu4WfasAAVkVF.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 5595,
+        "height": 1280,
+        "media_key": "7_2031315713563176960",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2031315713563176960/pu/img/DO5YosDsmEgzrHWu.jpg",
+        "public_metrics": {
+          "view_count": 25
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2031315713563176960/pu/vid/avc1/320x568/gZNiWuf5Jlk8YktW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2031315713563176960/pu/vid/avc1/480x852/2wew8KE-jcYg26dF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2031315713563176960/pu/vid/avc1/720x1280/2ApENq2dAytboW__.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2031315713563176960/pu/pl/Y7YSig8fZ6rqx8vv.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 8893,
+        "height": 1280,
+        "media_key": "7_2031315717841383424",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2031315717841383424/pu/img/RTw3ePaSprAwkMm2.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2031315717841383424/pu/vid/avc1/320x568/PMiIHxQs4tyCGEKc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2031315717841383424/pu/vid/avc1/480x852/yPlnfaAUDzQ4NSsv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2031315717841383424/pu/vid/avc1/720x1280/YpdYDUu9qO02ZJ6T.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2031315717841383424/pu/pl/u6WpS08XYu0o6ZCu.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2031326530228658490",
+        "created_at": "2026-03-10T11:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T12:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031326530228658490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/laferatott3961…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/laferatott39616/status/2031315773533335881",
+              "start": 35,
+              "url": "https://t.co/Ytpn02EJc3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031326530228658490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031315773533335881",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "快来看我的女神。。。我命令你们来看我的女神。。。你们必须来看我的女神 https://t.co/Ytpn02EJc3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031315716503371776",
+            "3_2031315715077353472",
+            "7_2031315713563176960",
+            "7_2031315717841383424"
+          ]
+        },
+        "author_id": "2030314738442440704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2031315773533335881",
+        "created_at": "2026-03-10T10:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T11:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031315773533335881"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 44,
+              "tag": "shtwt"
+            },
+            {
+              "end": 59,
+              "start": 51,
+              "tag": "drugtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lPKdbc9uSI",
+              "end": 97,
+              "expanded_url": "https://x.com/LaferaTott39616/status/2031315773533335881/video/1",
+              "media_key": "3_2031315716503371776",
+              "start": 74,
+              "url": "https://t.co/lPKdbc9uSI"
+            },
+            {
+              "display_url": "pic.x.com/lPKdbc9uSI",
+              "end": 97,
+              "expanded_url": "https://x.com/LaferaTott39616/status/2031315773533335881/video/1",
+              "media_key": "3_2031315715077353472",
+              "start": 74,
+              "url": "https://t.co/lPKdbc9uSI"
+            },
+            {
+              "display_url": "pic.x.com/lPKdbc9uSI",
+              "end": 97,
+              "expanded_url": "https://x.com/LaferaTott39616/status/2031315773533335881/video/1",
+              "media_key": "7_2031315713563176960",
+              "start": 74,
+              "url": "https://t.co/lPKdbc9uSI"
+            },
+            {
+              "display_url": "pic.x.com/lPKdbc9uSI",
+              "end": 97,
+              "expanded_url": "https://x.com/LaferaTott39616/status/2031315773533335881/video/1",
+              "media_key": "7_2031315717841383424",
+              "start": 74,
+              "url": "https://t.co/lPKdbc9uSI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031315773533335881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 9,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我是枭儿，我以前的号@CABR_Lies因为忘记续舰长被警察直播毁号，这个是我的新号\n #shtwt #drugtwt\n亲爱的 我想与你们再度缠绵 https://t.co/lPKdbc9uSI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 208,
+          "like_count": 1348,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 1546
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T16:09:17.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学 | ⚠️营业右上角搜索 #shtwt #drugtwt | 我是DizzyRichter可以叫我枭儿 | he/them | 你说我的爱如石滚ᴵ'ᵐ ʸᵒᵘʳ ᵗᵘʳᵇᵒ ˡᵒᵛᵉʳ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 60,
+                "tag": "shtwt"
+              },
+              {
+                "end": 75,
+                "start": 67,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "2030314738442440704",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2030752914487349701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030742724194992128/Ncd1XhKm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 31,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 84
+        },
+        "username": "LaferaTott39616",
+        "verified": false
+      }
+    ]
+  }
+}

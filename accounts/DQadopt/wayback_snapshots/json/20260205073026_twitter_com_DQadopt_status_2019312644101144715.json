@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2019255220065431755",
+    "created_at": "2026-02-05T07:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T08:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019312644101144715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1865932221032349696",
+          "start": 0,
+          "username": "dhskjssn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019312644101144715",
+    "in_reply_to_user_id": "1865932221032349696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019255220065431755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dhskjssn 好漂亮宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019255208916983808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAXV6f5aoAAwSEZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2019255220065431755",
+        "created_at": "2026-02-05T07:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T08:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019312644101144715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1865932221032349696",
+              "start": 0,
+              "username": "dhskjssn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019312644101144715",
+        "in_reply_to_user_id": "1865932221032349696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019255220065431755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dhskjssn 好漂亮宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019255208916983808"
+          ]
+        },
+        "author_id": "1865932221032349696",
+        "conversation_id": "2019255220065431755",
+        "created_at": "2026-02-05T03:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T04:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019255220065431755"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "les"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "wlw"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "女同"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WRMnLnnibp",
+              "end": 48,
+              "expanded_url": "https://x.com/dhskjssn/status/2019255220065431755/photo/1",
+              "media_key": "3_2019255208916983808",
+              "start": 25,
+              "url": "https://t.co/WRMnLnnibp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019255220065431755",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1089,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "姐姐真的不喜欢人家嘛\n#les #wlw #女同 https://t.co/WRMnLnnibp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 66,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 310
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T01:31:34.000Z",
+        "description": "les/男的再给我发信息就去切了  提问 https://t.co/CRJyTGTyW1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gjnv27013",
+                "end": 44,
+                "expanded_url": "https://ngl.link/gjnv27013",
+                "start": 21,
+                "url": "https://t.co/CRJyTGTyW1"
+              }
+            ]
+          }
+        },
+        "id": "1865932221032349696",
+        "name": "现实是只小猫",
+        "pinned_tweet_id": "2015801405781799157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015797657072197632/5TY2Mxp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 14,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 13
+        },
+        "username": "dhskjssn",
+        "verified": false
+      }
+    ]
+  }
+}

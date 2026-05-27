@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2031631972590825859",
+    "created_at": "2026-03-11T07:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T08:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031633170970587310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1871178347507834880",
+          "start": 0,
+          "username": "ya003021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031633170970587310",
+    "in_reply_to_user_id": "1871178347507834880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031631972590825859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ya003021 抱抱安安，姐姐发生什么事情了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2031631972590825859",
+        "created_at": "2026-03-11T07:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T08:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031633170970587310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1871178347507834880",
+              "start": 0,
+              "username": "ya003021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031633170970587310",
+        "in_reply_to_user_id": "1871178347507834880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031631972590825859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ya003021 抱抱安安，姐姐发生什么事情了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871178347507834880",
+        "conversation_id": "2031631972590825859",
+        "created_at": "2026-03-11T07:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T08:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031631972590825859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031631972590825859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又难以承受了…一直被困住 眼泪止不住的流 已经连续哭好多天数不清多少次 不想进食或者暴食 好压抑 能不能让我好好休息一次 不要有任何事情再发生了 好想休息 我想睡个好觉 我的脑袋一刻都得不到停歇 感知也变得模糊 好想自由 马上变成苦瓜大王了TvT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 226,
+          "like_count": 1380,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 1636
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-23T12:57:46.000Z",
+        "description": "一条狗而已.",
+        "id": "1871178347507834880",
+        "name": "huh puppy",
+        "pinned_tweet_id": "2025131305181331568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002822373301723136/yULvFrJH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 9,
+          "like_count": 531,
+          "listed_count": 4,
+          "media_count": 122,
+          "tweet_count": 513
+        },
+        "username": "ya003021",
+        "verified": false
+      }
+    ]
+  }
+}

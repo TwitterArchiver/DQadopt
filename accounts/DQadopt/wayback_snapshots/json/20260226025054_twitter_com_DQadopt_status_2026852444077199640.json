@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2026852444077199640",
+    "created_at": "2026-02-26T02:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T03:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026852444077199640"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026852444077199640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想见她，好想和她拥抱，好想和她拉手，好想闻闻她脖颈的味道，好想和她一起散步，好想和她一起吃好吃的，好想和她一起摸勾勾，好想和她一起干很多很多事情\n手上疤好多，头发也拔掉很多，皮肤也不好，精神状态也差，这样的我怎么有脸来见你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2026852444077199640",
+        "created_at": "2026-02-26T02:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T03:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026852444077199640"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026852444077199640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想见她，好想和她拥抱，好想和她拉手，好想闻闻她脖颈的味道，好想和她一起散步，好想和她一起吃好吃的，好想和她一起摸勾勾，好想和她一起干很多很多事情\n手上疤好多，头发也拔掉很多，皮肤也不好，精神状态也差，这样的我怎么有脸来见你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 111,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 824
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2022550908626964679",
+    "created_at": "2026-02-14T05:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T06:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022550908626964679"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022550908626964679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "草，她说又给我买了我产品的周边，我想起来上次她给我买的两本本子，把我家攻受搞反了，她应该是不知道她呆呆的\n然后打开翻了一下就是我家1被家0干，好崩溃啊，但由于是她送的我还是好好珍藏了只不过没有看下去，也没有告诉她\n这个鸟呆呆的……还说自己不呆…..嗯….."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2022550908626964679",
+        "created_at": "2026-02-14T05:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T06:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022550908626964679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022550908626964679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草，她说又给我买了我产品的周边，我想起来上次她给我买的两本本子，把我家攻受搞反了，她应该是不知道她呆呆的\n然后打开翻了一下就是我家1被家0干，好崩溃啊，但由于是她送的我还是好好珍藏了只不过没有看下去，也没有告诉她\n这个鸟呆呆的……还说自己不呆…..嗯….."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 85,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 563
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

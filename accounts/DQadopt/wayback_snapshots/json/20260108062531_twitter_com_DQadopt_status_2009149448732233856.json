@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2008548594467696930",
+    "created_at": "2026-01-08T06:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T07:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009149448732233856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1258409534046924800",
+          "start": 0,
+          "username": "allen27410505"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009149448732233856",
+    "in_reply_to_user_id": "1258409534046924800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008548594467696930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allen27410505 我烫烟疤就这样被误会🤣🤣🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1274,
+        "media_key": "3_2008548097086095360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9_L2kEagAAmvc0.jpg",
+        "width": 970
+      },
+      {
+        "height": 1368,
+        "media_key": "3_2008548182989635584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9_L7kFagAAVf_w.jpg",
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2008548594467696930",
+        "created_at": "2026-01-08T06:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T07:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009149448732233856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1258409534046924800",
+              "start": 0,
+              "username": "allen27410505"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009149448732233856",
+        "in_reply_to_user_id": "1258409534046924800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008548594467696930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allen27410505 我烫烟疤就这样被误会🤣🤣🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008548097086095360",
+            "3_2008548182989635584"
+          ]
+        },
+        "author_id": "1258409534046924800",
+        "conversation_id": "2008548594467696930",
+        "created_at": "2026-01-06T14:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T15:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008548594467696930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2tF8Tz7MUf",
+              "end": 59,
+              "expanded_url": "https://x.com/allen27410505/status/2008548594467696930/photo/1",
+              "media_key": "3_2008548097086095360",
+              "start": 36,
+              "url": "https://t.co/2tF8Tz7MUf"
+            },
+            {
+              "display_url": "pic.x.com/2tF8Tz7MUf",
+              "end": 59,
+              "expanded_url": "https://x.com/allen27410505/status/2008548594467696930/photo/1",
+              "media_key": "3_2008548182989635584",
+              "start": 36,
+              "url": "https://t.co/2tF8Tz7MUf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008548594467696930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 716,
+          "impression_count": 2045914,
+          "like_count": 4523,
+          "quote_count": 269,
+          "reply_count": 391,
+          "retweet_count": 200
+        },
+        "reply_settings": "everyone",
+        "text": "我勒個去，日本這是什麼變態民族啊，長梅毒了居然還拿出來炫耀，真是瘋了。 https://t.co/2tF8Tz7MUf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我重生了，这一次我要夺回属于我的一切丨23le🌈1丨喜欢和可爱漂亮的女生互动🥰🥰🥰丨有喜欢的人不色色丨自伤化学原料滥用碎碎念集中地",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8euxG"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 36,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 46
+        },
+        "url": "https://t.co/nFHbt8euxG",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-07T14:53:21.000Z",
+        "description": "Love China,Love the world.\n一起正能量，一起愛國，一起講好中國故事。共同傳遞中國聲音。（allen唯一賬號）",
+        "id": "1258409534046924800",
+        "name": "allen",
+        "pinned_tweet_id": "1594204327270236160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995284793043660801/9uWsm8C8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213220,
+          "following_count": 314,
+          "like_count": 41912,
+          "listed_count": 241,
+          "media_count": 5910,
+          "tweet_count": 8752
+        },
+        "username": "allen27410505",
+        "verified": false
+      }
+    ]
+  }
+}

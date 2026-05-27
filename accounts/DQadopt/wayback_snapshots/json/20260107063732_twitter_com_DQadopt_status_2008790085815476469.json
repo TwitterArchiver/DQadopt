@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2008535418128797977",
+    "created_at": "2026-01-07T06:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T07:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008790085815476469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1989935347317575681",
+          "start": 0,
+          "username": "realhkprincess"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008790085815476469",
+    "in_reply_to_user_id": "1989935347317575681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008535418128797977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realhkprincess 男的女的都是傻逼，这么随便一点底线都没有"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008535394720378882",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9_ATMEbcAIWz3-.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2008535394703544320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9_ATMAakAAiS0c.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2008535394779099136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9_ATMSbcAATEAH.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2008535418128797977",
+        "created_at": "2026-01-07T06:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T07:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008790085815476469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1989935347317575681",
+              "start": 0,
+              "username": "realhkprincess"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008790085815476469",
+        "in_reply_to_user_id": "1989935347317575681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008535418128797977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realhkprincess 男的女的都是傻逼，这么随便一点底线都没有"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008535394720378882",
+            "3_2008535394703544320",
+            "3_2008535394779099136"
+          ]
+        },
+        "author_id": "1989935347317575681",
+        "conversation_id": "2008535418128797977",
+        "created_at": "2026-01-06T13:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T14:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008535418128797977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dPbrAjnO4h",
+              "end": 97,
+              "expanded_url": "https://x.com/realhkprincess/status/2008535418128797977/photo/1",
+              "media_key": "3_2008535394720378882",
+              "start": 74,
+              "url": "https://t.co/dPbrAjnO4h"
+            },
+            {
+              "display_url": "pic.x.com/dPbrAjnO4h",
+              "end": 97,
+              "expanded_url": "https://x.com/realhkprincess/status/2008535418128797977/photo/1",
+              "media_key": "3_2008535394703544320",
+              "start": 74,
+              "url": "https://t.co/dPbrAjnO4h"
+            },
+            {
+              "display_url": "pic.x.com/dPbrAjnO4h",
+              "end": 97,
+              "expanded_url": "https://x.com/realhkprincess/status/2008535418128797977/photo/1",
+              "media_key": "3_2008535394779099136",
+              "start": 74,
+              "url": "https://t.co/dPbrAjnO4h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008535418128797977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 128217,
+          "like_count": 348,
+          "quote_count": 3,
+          "reply_count": 60,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "答应大家的瓜来了，我朋友差点被男网黄骗炮的全过程\n全程是她线下给我口述，为了方便我就写第一人称了，注意一下不是本人自己的经历，我也不知道男网黄是谁 https://t.co/dPbrAjnO4h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我重生了，这一次我要夺回属于我的一切丨le🌈1丨喜欢和可爱漂亮的女生互动🥰🥰🥰丨有喜欢的人不色色丨自伤化学原料滥用碎碎念集中地",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8euxG"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 31,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 18
+        },
+        "url": "https://t.co/nFHbt8euxG",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T05:55:48.000Z",
+        "description": "estp 双/每天能不能涨两个粉/是废话很多的一个女大/会发擦边+日常碎碎念+讲瓜/文科在读/提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/realhkprincess",
+                "end": 23,
+                "expanded_url": "https://ngl.link/realhkprincess",
+                "start": 0,
+                "url": "https://t.co/7NCyR9gIKo"
+              }
+            ]
+          }
+        },
+        "id": "1989935347317575681",
+        "name": "kk小猫派",
+        "pinned_tweet_id": "1996929784274887153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989937055665983490/yOqLlTmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 76,
+          "like_count": 1464,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1352
+        },
+        "url": "https://t.co/7NCyR9gIKo",
+        "username": "realhkprincess",
+        "verified": false
+      }
+    ]
+  }
+}

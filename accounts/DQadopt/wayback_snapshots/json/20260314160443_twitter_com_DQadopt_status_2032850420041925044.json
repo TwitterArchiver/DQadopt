@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032850408947982336",
+        "3_2032850408927035392",
+        "3_2032850408927092736",
+        "3_2032850408935403522"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2032850420041925044",
+    "created_at": "2026-03-14T16:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T17:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032850420041925044"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RZEdwi2GkK",
+          "end": 64,
+          "expanded_url": "https://x.com/DQadopt/status/2032850420041925044/photo/1",
+          "media_key": "3_2032850408947982336",
+          "start": 41,
+          "url": "https://t.co/RZEdwi2GkK"
+        },
+        {
+          "display_url": "pic.x.com/RZEdwi2GkK",
+          "end": 64,
+          "expanded_url": "https://x.com/DQadopt/status/2032850420041925044/photo/1",
+          "media_key": "3_2032850408927035392",
+          "start": 41,
+          "url": "https://t.co/RZEdwi2GkK"
+        },
+        {
+          "display_url": "pic.x.com/RZEdwi2GkK",
+          "end": 64,
+          "expanded_url": "https://x.com/DQadopt/status/2032850420041925044/photo/1",
+          "media_key": "3_2032850408927092736",
+          "start": 41,
+          "url": "https://t.co/RZEdwi2GkK"
+        },
+        {
+          "display_url": "pic.x.com/RZEdwi2GkK",
+          "end": 64,
+          "expanded_url": "https://x.com/DQadopt/status/2032850420041925044/photo/1",
+          "media_key": "3_2032850408935403522",
+          "start": 41,
+          "url": "https://t.co/RZEdwi2GkK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032850420041925044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老师们你们不要太抬举我啊啊啊啊啊\n为什么匿名总是这么多人\n可以来找我聊天的啊？！ https://t.co/RZEdwi2GkK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2032850408947982336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYirSraIAAFX6h.jpg",
+        "width": 946
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2032850408927035392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYirSmagAAQ775.jpg",
+        "width": 1419
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2032850408927092736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYirSmbYAAcgeh.jpg",
+        "width": 1419
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2032850408935403522",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYirSoaMAIk2Z_.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032850408947982336",
+            "3_2032850408927035392",
+            "3_2032850408927092736",
+            "3_2032850408935403522"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2032850420041925044",
+        "created_at": "2026-03-14T16:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T17:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032850420041925044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RZEdwi2GkK",
+              "end": 64,
+              "expanded_url": "https://x.com/DQadopt/status/2032850420041925044/photo/1",
+              "media_key": "3_2032850408947982336",
+              "start": 41,
+              "url": "https://t.co/RZEdwi2GkK"
+            },
+            {
+              "display_url": "pic.x.com/RZEdwi2GkK",
+              "end": 64,
+              "expanded_url": "https://x.com/DQadopt/status/2032850420041925044/photo/1",
+              "media_key": "3_2032850408927035392",
+              "start": 41,
+              "url": "https://t.co/RZEdwi2GkK"
+            },
+            {
+              "display_url": "pic.x.com/RZEdwi2GkK",
+              "end": 64,
+              "expanded_url": "https://x.com/DQadopt/status/2032850420041925044/photo/1",
+              "media_key": "3_2032850408927092736",
+              "start": 41,
+              "url": "https://t.co/RZEdwi2GkK"
+            },
+            {
+              "display_url": "pic.x.com/RZEdwi2GkK",
+              "end": 64,
+              "expanded_url": "https://x.com/DQadopt/status/2032850420041925044/photo/1",
+              "media_key": "3_2032850408935403522",
+              "start": 41,
+              "url": "https://t.co/RZEdwi2GkK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032850420041925044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老师们你们不要太抬举我啊啊啊啊啊\n为什么匿名总是这么多人\n可以来找我聊天的啊？！ https://t.co/RZEdwi2GkK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 237,
+          "like_count": 1624,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 1900
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

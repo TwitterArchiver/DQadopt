@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2028739055933083785",
+    "created_at": "2026-03-04T06:49:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T07:49:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029086757799772350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2020942606788853762",
+          "start": 0,
+          "username": "erish1110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029086757799772350",
+    "in_reply_to_user_id": "2020942606788853762",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029060989308846586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@erish1110 兄弟我女的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2028739055933083785",
+        "created_at": "2026-03-04T06:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T07:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029086757799772350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2020942606788853762",
+              "start": 0,
+              "username": "erish1110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029086757799772350",
+        "in_reply_to_user_id": "2020942606788853762",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029060989308846586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@erish1110 兄弟我女的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020942606788853762",
+        "conversation_id": "2028739055933083785",
+        "created_at": "2026-03-04T05:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T06:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029060989308846586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029060989308846586",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028739055933083785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 爱我哥哥不解释"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 163,
+          "like_count": 828,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1097
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-09T19:27:31.000Z",
+        "description": "等老公回家的妻子。",
+        "id": "2020942606788853762",
+        "name": "venrispring",
+        "pinned_tweet_id": "2022723463325368540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026954427274514432/K0LJfcEd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 12,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 109
+        },
+        "username": "erish1110",
+        "verified": false
+      }
+    ]
+  }
+}

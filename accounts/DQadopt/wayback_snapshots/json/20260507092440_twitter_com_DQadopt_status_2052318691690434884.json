@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2052318691690434884",
+    "created_at": "2026-05-07T09:24:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:24:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052318691690434884"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sukixi_ovo/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/sukixi_ovo/status/1960312056030298586",
+          "start": 4,
+          "url": "https://t.co/17C66x2Y1P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052318691690434884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960312056030298586",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好浪漫 https://t.co/17C66x2Y1P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1960312049571135488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzRtbEObAAAoo6U.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2052318691690434884",
+        "created_at": "2026-05-07T09:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052318691690434884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sukixi_ovo/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/sukixi_ovo/status/1960312056030298586",
+              "start": 4,
+              "url": "https://t.co/17C66x2Y1P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052318691690434884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960312056030298586",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好浪漫 https://t.co/17C66x2Y1P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960312049571135488"
+          ]
+        },
+        "author_id": "1569966034035134464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1960312056030298586",
+        "created_at": "2025-08-26T12:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T12:39:56.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960306213423563194",
+          "1960306739183784037",
+          "1960311304381718791",
+          "1960312056030298586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9YLaFodJAY",
+              "end": 27,
+              "expanded_url": "https://x.com/sukixi_ovo/status/1960312056030298586/photo/1",
+              "media_key": "3_1960312049571135488",
+              "start": 4,
+              "url": "https://t.co/9YLaFodJAY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960312056030298586",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1230,
+          "impression_count": 170289,
+          "like_count": 9994,
+          "quote_count": 87,
+          "reply_count": 50,
+          "retweet_count": 2327
+        },
+        "reply_settings": "everyone",
+        "text": "愛は何 https://t.co/9YLaFodJAY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2266,
+          "following_count": 339,
+          "like_count": 3347,
+          "listed_count": 1,
+          "media_count": 360,
+          "tweet_count": 3907
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T08:27:37.000Z",
+        "description": "小惜/セキ丨東京丨病み垢丨承認欲求｜shtwt丨我只想變成透明消失在這個世界和所有人的視線裡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/70514062Sd9aZ",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/70514062Sd9aZ",
+                "start": 0,
+                "url": "https://t.co/W6VG0bHf1j"
+              }
+            ]
+          }
+        },
+        "id": "1569966034035134464",
+        "location": "地獄の靈魂擺渡人",
+        "name": "可塑性人格",
+        "pinned_tweet_id": "1951721325242024277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024145896255156224/xHJ5RTev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10156,
+          "following_count": 163,
+          "like_count": 1226,
+          "listed_count": 11,
+          "media_count": 186,
+          "tweet_count": 933
+        },
+        "url": "https://t.co/W6VG0bHf1j",
+        "username": "sukixi_ovo",
+        "verified": true
+      }
+    ]
+  }
+}

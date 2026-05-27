@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2020148622948479222",
+    "created_at": "2026-02-07T14:52:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T15:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020148622948479222"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 58,
+          "tag": "les"
+        },
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "拉拉"
+        },
+        {
+          "end": 71,
+          "start": 67,
+          "tag": "wlw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020148622948479222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太喜欢看奶子是一种病，贫乳正常乳巨乳我都爱，黑种人黄种人白种人都好看，没有不爱奶子的义务，我将称赞每一个女性的奶子 #les #拉拉 #wlw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2020148622948479222",
+        "created_at": "2026-02-07T14:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T15:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020148622948479222"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "les"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "拉拉"
+            },
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "wlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020148622948479222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太喜欢看奶子是一种病，贫乳正常乳巨乳我都爱，黑种人黄种人白种人都好看，没有不爱奶子的义务，我将称赞每一个女性的奶子 #les #拉拉 #wlw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 74,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 352
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

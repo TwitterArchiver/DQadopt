@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "1994015035744752030",
+    "created_at": "2025-11-27T12:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T13:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994015854628110531"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "ADOPTABLE 🖤A boy in a black skirt. AB : $100( Personal use ) AB2 : $150( commercial use )",
+          "display_url": "ko-fi.com/s/1a2ef5a284",
+          "end": 23,
+          "expanded_url": "https://ko-fi.com/s/1a2ef5a284",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://pbs.twimg.com/news_img/1994015856079286272/aDOXd4hA?format=jpg&name=orig",
+              "width": 480
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1994015856079286272/aDOXd4hA?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "🖤A boy in a black skirt. - DQ.'s Ko-fi Shop",
+          "unwound_url": "https://ko-fi.com/s/1a2ef5a284",
+          "url": "https://t.co/O87YZTAnnV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994015854628110531",
+    "in_reply_to_user_id": "1989965282799226880",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994015035744752030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/O87YZTAnnV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994015024164294658",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wqGYga0AIP1Rj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "1994015035744752030",
+        "created_at": "2025-11-27T12:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T13:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994015854628110531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "ADOPTABLE 🖤A boy in a black skirt. AB : $100( Personal use ) AB2 : $150( commercial use )",
+              "display_url": "ko-fi.com/s/1a2ef5a284",
+              "end": 23,
+              "expanded_url": "https://ko-fi.com/s/1a2ef5a284",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/1994015856079286272/aDOXd4hA?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1994015856079286272/aDOXd4hA?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "🖤A boy in a black skirt. - DQ.'s Ko-fi Shop",
+              "unwound_url": "https://ko-fi.com/s/1a2ef5a284",
+              "url": "https://t.co/O87YZTAnnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994015854628110531",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994015035744752030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/O87YZTAnnV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994015024164294658"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418358396516851713",
+              "name": "Ko-fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418358396516851713",
+              "name": "Ko-fi"
+            }
+          }
+        ],
+        "conversation_id": "1994015035744752030",
+        "created_at": "2025-11-27T12:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T13:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994015035744752030"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 108,
+              "normalized_text": "PayPal",
+              "probability": 0.7212,
+              "start": 103,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Pu93rgJfU",
+              "end": 139,
+              "expanded_url": "https://x.com/DQadopt/status/1994015035744752030/photo/1",
+              "media_key": "3_1994015024164294658",
+              "start": 116,
+              "url": "https://t.co/4Pu93rgJfU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994015035744752030",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ADOPTABLE \n🖤A boy in a black skirt.\n\nAB : $100( Personal use )\nAB2 : $150( commercial use )\n\nPayment : PayPal，ko-fi https://t.co/4Pu93rgJfU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "Character design丨🥰",
+        "id": "1989965282799226880",
+        "name": "DQ🦋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989965450730725376/VuyFLuEA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 9,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 9
+        },
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

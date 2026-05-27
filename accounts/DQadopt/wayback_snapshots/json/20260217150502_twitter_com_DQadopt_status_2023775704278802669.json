@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2023775704278802669",
+    "created_at": "2026-02-17T15:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T16:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023775704278802669"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yaowubaike/sta…",
+          "end": 112,
+          "expanded_url": "https://twitter.com/yaowubaike/status/2023730083731828929",
+          "start": 89,
+          "url": "https://t.co/eV7kKnK4Rl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023775704278802669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023730083731828929",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "阿普确实牛逼，不过我现在都尽量不吃了，副作用太大了吃了我工作里的精准度会大幅度下降跟痴呆一样，但这挡不住阿普确实牛逼，吃下去感觉内心一片宁静了我常年保持的125+心跳也忽略掉了 https://t.co/eV7kKnK4Rl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2023775704278802669",
+        "created_at": "2026-02-17T15:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T16:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023775704278802669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yaowubaike/sta…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/yaowubaike/status/2023730083731828929",
+              "start": 89,
+              "url": "https://t.co/eV7kKnK4Rl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023775704278802669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023730083731828929",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "阿普确实牛逼，不过我现在都尽量不吃了，副作用太大了吃了我工作里的精准度会大幅度下降跟痴呆一样，但这挡不住阿普确实牛逼，吃下去感觉内心一片宁静了我常年保持的125+心跳也忽略掉了 https://t.co/eV7kKnK4Rl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2023730083731828929",
+        "created_at": "2026-02-17T12:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T13:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023730083731828929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023730083731828929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1432,
+          "like_count": 26,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "沐雨生前极其推崇Xanax 也就是阿普唑仑 确实是有道理的\n作为抗焦虑抗惊恐药物Xanax爆发性极强 可以瞬间压制惊恐和焦虑\n可见沐雨生前的焦虑与惊恐问题有多严重 他常规服用剂量为8mg\n习惯性服用后可以用来OD 是会有欣快感\n但代价也非常之大 最高级别的成瘾性与神经记忆损伤\n我建议按需服用 尽量不要滥用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 92,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 649
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | wiki主:凌雪@ |副wiki主小鸮:@Manglesuki｜提供免费药物咨询｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "Manglesuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2021588174720360802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2783,
+          "following_count": 31,
+          "like_count": 407,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 232
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

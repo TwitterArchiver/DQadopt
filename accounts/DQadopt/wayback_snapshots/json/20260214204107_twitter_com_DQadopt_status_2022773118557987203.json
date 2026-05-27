@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2022712027442024503",
+    "created_at": "2026-02-14T20:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T21:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022773118557987203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1817630074478505984",
+          "start": 0,
+          "username": "wiiai434027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022773118557987203",
+    "in_reply_to_user_id": "1817630074478505984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022765648561279238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wiiai434027 摸摸宝宝呀，希望你幸运"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2022712027442024503",
+        "created_at": "2026-02-14T20:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T21:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022773118557987203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1817630074478505984",
+              "start": 0,
+              "username": "wiiai434027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022773118557987203",
+        "in_reply_to_user_id": "1817630074478505984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022765648561279238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wiiai434027 摸摸宝宝呀，希望你幸运"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817630074478505984",
+        "conversation_id": "2022712027442024503",
+        "created_at": "2026-02-14T20:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T21:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022765648561279238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022765648561279238",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022712027442024503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 什么时候我也能遇到这么爱我的人每次付出真心然后对面就跟男的跑了出轨了狠狠的诋毁我 呃这个世界是虚假的吧怎么有人会这么惨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 88,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 584
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T18:36:02.000Z",
+        "description": "辜负我的人s、亡、故、卒、弱、逝、殁、殪、毙、殂、徂、殒、薨、死亡、丧亡、亡故、身故、物故、物化、去世、逝世、弃世、过世、下世、就世、谢世、凋谢、死灭、毙命、毕命、殒命、殒灭、捐背、捐馆、捐生、殂落、徂落、殂谢、徂谢、迁化、恒化、疾终、长逝、永诀、永别、永眠、长眠、就木、故去、逝、死、断气、咽气、合眼、闭眼、没了、挺腿",
+        "id": "1817630074478505984",
+        "location": "地狱",
+        "name": "克莱因蓝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022765931936780290/Td7woJ1G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 96,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 251
+        },
+        "username": "wiiai434027",
+        "verified": false
+      }
+    ]
+  }
+}

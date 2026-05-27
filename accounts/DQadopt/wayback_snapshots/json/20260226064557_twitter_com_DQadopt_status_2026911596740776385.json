@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026911589383962624"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2026911596740776385",
+    "created_at": "2026-02-26T06:45:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T07:45:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026911596740776385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cL7kMdfVA3",
+          "end": 160,
+          "expanded_url": "https://x.com/DQadopt/status/2026911596740776385/photo/1",
+          "media_key": "3_2026911589383962624",
+          "start": 137,
+          "url": "https://t.co/cL7kMdfVA3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026911596740776385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "特别好。。。这是她第一次发语音，听着很幸福，虽然只是一秒钟的晚安，但感觉她又具象化了一部分\n要是能和她打电话就好了，什么也不说也行，只是想听到她的呼吸声就很心安吧\n也只敢这样想想了，有时候太在乎反而会让关系变坏，我一直是掌握不好力度的人，抓的太紧，你会疼，放手，又真的走了 https://t.co/cL7kMdfVA3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2026911589383962624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEJWfxagAAHXCh.jpg",
+        "width": 893
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026911589383962624"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2026911596740776385",
+        "created_at": "2026-02-26T06:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T07:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026911596740776385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cL7kMdfVA3",
+              "end": 160,
+              "expanded_url": "https://x.com/DQadopt/status/2026911596740776385/photo/1",
+              "media_key": "3_2026911589383962624",
+              "start": 137,
+              "url": "https://t.co/cL7kMdfVA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026911596740776385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "特别好。。。这是她第一次发语音，听着很幸福，虽然只是一秒钟的晚安，但感觉她又具象化了一部分\n要是能和她打电话就好了，什么也不说也行，只是想听到她的呼吸声就很心安吧\n也只敢这样想想了，有时候太在乎反而会让关系变坏，我一直是掌握不好力度的人，抓的太紧，你会疼，放手，又真的走了 https://t.co/cL7kMdfVA3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 111,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 828
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

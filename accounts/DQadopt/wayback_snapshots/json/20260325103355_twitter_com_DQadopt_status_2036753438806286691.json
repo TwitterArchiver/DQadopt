@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2036746856223625540",
+    "created_at": "2026-03-25T10:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T11:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036753438806286691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683159092800659458",
+          "start": 0,
+          "username": "shshjyhl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036753438806286691",
+    "in_reply_to_user_id": "1683159092800659458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036753001646624775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shshjyhl 那我假如一直对她好陪着她爱她她会好一点吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036752987075629056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQADPHb0AAK80r.jpg",
+        "width": 282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2036746856223625540",
+        "created_at": "2026-03-25T10:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T11:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036753438806286691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683159092800659458",
+              "start": 0,
+              "username": "shshjyhl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036753438806286691",
+        "in_reply_to_user_id": "1683159092800659458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036753001646624775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shshjyhl 那我假如一直对她好陪着她爱她她会好一点吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036752987075629056"
+          ]
+        },
+        "author_id": "1683159092800659458",
+        "conversation_id": "2036746856223625540",
+        "created_at": "2026-03-25T10:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T11:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036753001646624775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a2SQuGPdC2",
+              "end": 102,
+              "expanded_url": "https://x.com/shshjyhl/status/2036753001646624775/photo/1",
+              "media_key": "3_2036752987075629056",
+              "start": 79,
+              "url": "https://t.co/a2SQuGPdC2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036753001646624775",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036752349352558751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt “不开始就不会结束”“预演失败结局”其实最终都有答案，回避型的防御机制就是这样，因为我之前也是回避型依恋人格，这跟成长过程中遇到的事有关。 https://t.co/a2SQuGPdC2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 259,
+          "like_count": 2145,
+          "listed_count": 0,
+          "media_count": 271,
+          "tweet_count": 2458
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T16:56:23.000Z",
+        "description": "les🌈正在调整各种事物接收程度中/有时候很能吵到别人眼睛，大部分时候不爱说话/看不起女人的男的请自觉取关",
+        "id": "1683159092800659458",
+        "location": "一直在路上",
+        "name": "上火慎喝金银花露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911426222929616896/JDA-kX93_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10951,
+          "following_count": 1159,
+          "like_count": 2094,
+          "listed_count": 28,
+          "media_count": 115,
+          "tweet_count": 509
+        },
+        "username": "shshjyhl",
+        "verified": false
+      }
+    ]
+  }
+}

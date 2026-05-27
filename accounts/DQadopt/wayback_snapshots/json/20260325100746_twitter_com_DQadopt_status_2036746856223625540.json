@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036746847608537088"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2036746856223625540",
+    "created_at": "2026-03-25T10:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T11:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036746856223625540"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gM2wk3KHVX",
+          "end": 152,
+          "expanded_url": "https://x.com/DQadopt/status/2036746856223625540/photo/1",
+          "media_key": "3_2036746847608537088",
+          "start": 129,
+          "url": "https://t.co/gM2wk3KHVX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036746856223625540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "讨厌小鸟说“我可能也对你有恋爱情感吧”，明明只要她说一句我喜欢你我就什么也不会再想了，哪怕我假装蒙蔽自己我也要和她在一起，我讨厌小鸟，讨厌她总是末尾带个“吧”，讨厌她，讨厌她\n讨厌她叫我去喜欢别人，如果她真的喜欢我，怎么可能让我去喜欢别人\n你就继续折磨我吧 https://t.co/gM2wk3KHVX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1747,
+        "media_key": "3_2036746847608537088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEP6d30agAAmUnD.jpg",
+        "width": 1001
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036746847608537088"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2036746856223625540",
+        "created_at": "2026-03-25T10:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T11:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036746856223625540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gM2wk3KHVX",
+              "end": 152,
+              "expanded_url": "https://x.com/DQadopt/status/2036746856223625540/photo/1",
+              "media_key": "3_2036746847608537088",
+              "start": 129,
+              "url": "https://t.co/gM2wk3KHVX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036746856223625540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌小鸟说“我可能也对你有恋爱情感吧”，明明只要她说一句我喜欢你我就什么也不会再想了，哪怕我假装蒙蔽自己我也要和她在一起，我讨厌小鸟，讨厌她总是末尾带个“吧”，讨厌她，讨厌她\n讨厌她叫我去喜欢别人，如果她真的喜欢我，怎么可能让我去喜欢别人\n你就继续折磨我吧 https://t.co/gM2wk3KHVX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 259,
+          "like_count": 2139,
+          "listed_count": 0,
+          "media_count": 271,
+          "tweet_count": 2442
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

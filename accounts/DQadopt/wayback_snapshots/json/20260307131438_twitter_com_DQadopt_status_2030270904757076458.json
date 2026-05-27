@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030270893348544512"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2030270904757076458",
+    "created_at": "2026-03-07T13:14:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T14:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030270904757076458"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/z5pFKmcLUX",
+          "end": 165,
+          "expanded_url": "https://x.com/DQadopt/status/2030270904757076458/photo/1",
+          "media_key": "3_2030270893348544512",
+          "start": 142,
+          "url": "https://t.co/z5pFKmcLUX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030270904757076458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是她刚发的图片，她今天哭了一天我他妈心疼的想死啊，感觉头皮都在放大，肩膀两边的皮在层层递进，如果她的一切不幸与苦难，生理心理上的苦痛可以尽数转移到我身上该多好？而不是我只能隔着手机屏幕说些废话\n操他妈我想吸毒了，我一这副死样我就想要极致的最沉醉的幻觉\n所以你们快去给我上一条投票啊 https://t.co/z5pFKmcLUX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1542,
+        "media_key": "3_2030270893348544512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCz4nuPa4AAanL_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030270893348544512"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030270904757076458",
+        "created_at": "2026-03-07T13:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T14:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030270904757076458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z5pFKmcLUX",
+              "end": 165,
+              "expanded_url": "https://x.com/DQadopt/status/2030270904757076458/photo/1",
+              "media_key": "3_2030270893348544512",
+              "start": 142,
+              "url": "https://t.co/z5pFKmcLUX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030270904757076458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是她刚发的图片，她今天哭了一天我他妈心疼的想死啊，感觉头皮都在放大，肩膀两边的皮在层层递进，如果她的一切不幸与苦难，生理心理上的苦痛可以尽数转移到我身上该多好？而不是我只能隔着手机屏幕说些废话\n操他妈我想吸毒了，我一这副死样我就想要极致的最沉醉的幻觉\n所以你们快去给我上一条投票啊 https://t.co/z5pFKmcLUX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 186,
+          "like_count": 1103,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1365
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

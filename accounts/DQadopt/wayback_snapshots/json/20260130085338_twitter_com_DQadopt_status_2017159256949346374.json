@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2016786042414928073",
+    "created_at": "2026-01-30T08:53:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T09:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017159256949346374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1811888010088316932",
+          "start": 0,
+          "username": "cuichenghao7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017159256949346374",
+    "in_reply_to_user_id": "1811888010088316932",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016786042414928073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuichenghao7 想吃坦克了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28866,
+        "height": 1920,
+        "media_key": "13_2016785894481752064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016785894481752064/img/ndoOksyGNf2g6QyY.jpg",
+        "public_metrics": {
+          "view_count": 589966
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016785894481752064/vid/avc1/720x1556/94qnkBZZMgejzzfO.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016785894481752064/vid/avc1/320x690/J9gmcjPB2xewLQ58.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016785894481752064/pl/ZH_Tyi123M83LvIt.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016785894481752064/vid/avc1/480x1036/miWQppwLq5en4bqb.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016785894481752064/vid/avc1/888x1920/XG1RPpEwE_NIls3O.mp4"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2016786042414928073",
+        "created_at": "2026-01-30T08:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T09:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017159256949346374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811888010088316932",
+              "start": 0,
+              "username": "cuichenghao7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017159256949346374",
+        "in_reply_to_user_id": "1811888010088316932",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016786042414928073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuichenghao7 想吃坦克了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016785894481752064"
+          ]
+        },
+        "author_id": "1811888010088316932",
+        "conversation_id": "2016786042414928073",
+        "created_at": "2026-01-29T08:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T09:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016786042414928073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UBcB0apPFC",
+              "end": 43,
+              "expanded_url": "https://x.com/cuichenghao7/status/2016786042414928073/video/1",
+              "media_key": "13_2016785894481752064",
+              "start": 20,
+              "url": "https://t.co/UBcB0apPFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016786042414928073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 495,
+          "impression_count": 1008106,
+          "like_count": 2709,
+          "quote_count": 20,
+          "reply_count": 151,
+          "retweet_count": 189
+        },
+        "reply_settings": "everyone",
+        "text": "玩具厂流出视频，网友看了连呼“解压”。 https://t.co/UBcB0apPFC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 57,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 199
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78394,
+          "following_count": 594,
+          "like_count": 4384,
+          "listed_count": 270,
+          "media_count": 2016,
+          "tweet_count": 2161
+        },
+        "username": "cuichenghao7",
+        "verified": true
+      }
+    ]
+  }
+}

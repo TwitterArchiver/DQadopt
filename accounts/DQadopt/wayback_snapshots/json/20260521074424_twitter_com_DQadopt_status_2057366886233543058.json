@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2057161297356366093",
+    "created_at": "2026-05-21T07:44:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T08:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057366886233543058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2023656752202608641",
+          "start": 0,
+          "username": "Yoooookii0617"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057366886233543058",
+    "in_reply_to_user_id": "2023656752202608641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057319858166223308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yoooookii0617 那这种不算女人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2057161297356366093",
+        "created_at": "2026-05-21T07:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057366886233543058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2023656752202608641",
+              "start": 0,
+              "username": "Yoooookii0617"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057366886233543058",
+        "in_reply_to_user_id": "2023656752202608641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057319858166223308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yoooookii0617 那这种不算女人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023656752202608641",
+        "conversation_id": "2057161297356366093",
+        "created_at": "2026-05-21T04:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057319858166223308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057319858166223308",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057161297356366093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 正常纯1完全没问题!主要是怕有些精神男人…之前就遇到过这种人，会拿男性对女性开的那种黄腔跟我开。。好吓人的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2286,
+          "following_count": 339,
+          "like_count": 3419,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 4067
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T07:12:34.000Z",
+        "description": "les/p0m/ip天津/喜欢好听的声音/完全当朋友圈发/互动大欢迎，喜欢并且完全溺爱所有小女孩🥺🤲❤️男的绝对NG 关注我的男的都死了",
+        "id": "2023656752202608641",
+        "name": "Yoooookii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023656932570218496/ZUE3aRgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 48,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 65
+        },
+        "username": "Yoooookii0617",
+        "verified": false
+      }
+    ]
+  }
+}

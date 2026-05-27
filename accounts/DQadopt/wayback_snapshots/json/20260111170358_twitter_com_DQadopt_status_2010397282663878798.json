@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010397272031608832"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2010397282663878798",
+    "created_at": "2026-01-11T17:03:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T18:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010397282663878798"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MyOlzVnPHA",
+          "end": 104,
+          "expanded_url": "https://x.com/DQadopt/status/2010397282663878798/photo/1",
+          "media_key": "3_2010397272031608832",
+          "start": 81,
+          "url": "https://t.co/MyOlzVnPHA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010397282663878798",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想把这个崽子的眼珠挖出来捏爆，然后用刀背把脑袋拍碎把脑浆拍的四溅\n还有一种玩法和吃猴脑一样，活着的时候把颅骨打开，大脑露出来，浇上热油\n但是我对吃人肉不感兴趣 https://t.co/MyOlzVnPHA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010397272031608832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ZdqtjbwAA72m5.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010397272031608832"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2010397282663878798",
+        "created_at": "2026-01-11T17:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T18:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010397282663878798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MyOlzVnPHA",
+              "end": 104,
+              "expanded_url": "https://x.com/DQadopt/status/2010397282663878798/photo/1",
+              "media_key": "3_2010397272031608832",
+              "start": 81,
+              "url": "https://t.co/MyOlzVnPHA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010397282663878798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想把这个崽子的眼珠挖出来捏爆，然后用刀背把脑袋拍碎把脑浆拍的四溅\n还有一种玩法和吃猴脑一样，活着的时候把颅骨打开，大脑露出来，浇上热油\n但是我对吃人肉不感兴趣 https://t.co/MyOlzVnPHA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我重生了，这一次我要夺回属于我的一切丨23le🌈1丨喜欢和可爱漂亮的女生互动🥰🥰🥰丨有喜欢的人不色色丨自伤碎碎念集中地",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8euxG"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 45,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 99
+        },
+        "url": "https://t.co/nFHbt8euxG",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2043248331208761767",
+    "created_at": "2026-04-12T12:48:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T13:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043310267271200933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1544787164289835008",
+          "start": 0,
+          "username": "sucmydickbungie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043310267271200933",
+    "in_reply_to_user_id": "1544787164289835008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043291538768494701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sucmydickbungie 禁止自残！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1090,
+        "media_key": "3_2043291534955880448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFs600GboAAvqFk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2043248331208761767",
+        "created_at": "2026-04-12T12:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043310267271200933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1544787164289835008",
+              "start": 0,
+              "username": "sucmydickbungie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043310267271200933",
+        "in_reply_to_user_id": "1544787164289835008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043291538768494701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sucmydickbungie 禁止自残！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043291534955880448"
+          ]
+        },
+        "author_id": "1544787164289835008",
+        "conversation_id": "2043248331208761767",
+        "created_at": "2026-04-12T11:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043291538768494701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yeeCNKJsdZ",
+              "end": 45,
+              "expanded_url": "https://x.com/sucmydickbungie/status/2043291538768494701/photo/1",
+              "media_key": "3_2043291534955880448",
+              "start": 22,
+              "url": "https://t.co/yeeCNKJsdZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043291538768494701",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043248331208761767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 我能进去跟你们一起放血吗 https://t.co/yeeCNKJsdZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1881,
+          "following_count": 318,
+          "like_count": 2832,
+          "listed_count": 0,
+          "media_count": 323,
+          "tweet_count": 3260
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-06T20:56:03.000Z",
+        "description": "你这不是棒鸡啊🙌，这是你全家的古灰盒，体积小方便携带👍，拆开一包✋😀，放水里就散开，怎么找都找不回来，用来泡水😋😋，冲厕所，拖地都是很好用的😋😋，你看打开以后像奶茶粉一样碎👍✋，放在水里遇水溶解不见，溶解性很强的。冲开以后，是一杯强效加量的洁厕灵，你看它怎么用都用不完👍👍，不伤手不伤地，用一辈子都行",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mi.com",
+                "end": 23,
+                "expanded_url": "http://mi.com",
+                "start": 0,
+                "url": "https://t.co/aKzKeMhZPj"
+              }
+            ]
+          }
+        },
+        "id": "1544787164289835008",
+        "location": "Chuo-ku, Tokyo",
+        "name": "RNovS🖕🏻",
+        "pinned_tweet_id": "1918443775564890589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744754722513555456/ugh26Axg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 268,
+          "like_count": 6035,
+          "listed_count": 1,
+          "media_count": 3450,
+          "tweet_count": 10024
+        },
+        "url": "https://t.co/aKzKeMhZPj",
+        "username": "sucmydickbungie",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2042501140210991366",
+    "created_at": "2026-04-10T11:26:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T12:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042564903513555005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "766245800695431168",
+          "start": 0,
+          "username": "Qling_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042564903513555005",
+    "in_reply_to_user_id": "766245800695431168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042554856989462811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qling_ 嘿嘿嘿谢谢老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2042501140210991366",
+        "created_at": "2026-04-10T11:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042564903513555005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "766245800695431168",
+              "start": 0,
+              "username": "Qling_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042564903513555005",
+        "in_reply_to_user_id": "766245800695431168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042554856989462811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qling_ 嘿嘿嘿谢谢老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "766245800695431168",
+        "conversation_id": "2042501140210991366",
+        "created_at": "2026-04-10T10:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042554856989462811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042554856989462811",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042501140210991366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 萌宝！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1844,
+          "following_count": 313,
+          "like_count": 2782,
+          "listed_count": 0,
+          "media_count": 317,
+          "tweet_count": 3156
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-18T12:10:09.000Z",
+        "description": "絵を描く人、だいたい自分と生活を描く|Do not use my art.|日語中国語EnglishOK",
+        "id": "766245800695431168",
+        "location": "転載禁止、AI學習禁止🚫",
+        "name": "歲川細數",
+        "pinned_tweet_id": "2024840585778278689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017584441280081920/v_Y29wLZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 231,
+          "like_count": 1689,
+          "listed_count": 12,
+          "media_count": 146,
+          "tweet_count": 853
+        },
+        "username": "Qling_",
+        "verified": false
+      }
+    ]
+  }
+}

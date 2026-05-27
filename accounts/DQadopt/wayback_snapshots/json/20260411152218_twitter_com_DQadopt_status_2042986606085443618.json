@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2042861861637623880",
+    "created_at": "2026-04-11T15:22:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T16:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042986606085443618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2029965726359166976",
+          "start": 0,
+          "username": "1111ONEONE1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042986606085443618",
+    "in_reply_to_user_id": "2029965726359166976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042980228591686110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1111ONEONE1111 哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2042861861637623880",
+        "created_at": "2026-04-11T15:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042986606085443618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029965726359166976",
+              "start": 0,
+              "username": "1111ONEONE1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042986606085443618",
+        "in_reply_to_user_id": "2029965726359166976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042980228591686110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1111ONEONE1111 哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029965726359166976",
+        "conversation_id": "2042861861637623880",
+        "created_at": "2026-04-11T14:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042980228591686110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042980228591686110",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042861861637623880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 和博主正好相反也算是找到组织了（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1859,
+          "following_count": 316,
+          "like_count": 2817,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 3223
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T17:02:39.000Z",
+        "description": "=万万。165/92。应该算t0吧（？\n最好只是女孩子和我聊天。\n日本語おk •DMお気軽にどうぞ🥰\n七月から東京に住んでいます",
+        "id": "2029965726359166976",
+        "location": "杭州",
+        "name": "ONEONE",
+        "pinned_tweet_id": "2031287152525586808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038324299216609280/oycD1JU0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 19,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 359
+        },
+        "username": "1111ONEONE1111",
+        "verified": false
+      }
+    ]
+  }
+}

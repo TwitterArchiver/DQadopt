@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2046507507842154589",
+    "created_at": "2026-04-21T09:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T10:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046528340795011355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1989174896870715394",
+          "start": 0,
+          "username": "Tiaozicunxi737"
+        },
+        {
+          "end": 30,
+          "id": "1776337633431740416",
+          "start": 16,
+          "username": "langlang_nami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046528340795011355",
+    "in_reply_to_user_id": "1989174896870715394",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046507507842154589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tiaozicunxi737 @langlang_nami 好萌啊！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19735,
+        "height": 720,
+        "media_key": "13_2046507379827859456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046507379827859456/img/dQ3wPQ8duUnguwWo.jpg",
+        "public_metrics": {
+          "view_count": 192
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046507379827859456/vid/avc1/370x270/CdwbCg5CE3-zDF_k.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046507379827859456/vid/avc1/494x360/l6Yq9Bf1Ami-xRMx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046507379827859456/vid/avc1/988x720/4C2zRg86gd9eTMJ2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046507379827859456/pl/IcPQev96MnKE1Jxk.m3u8"
+          }
+        ],
+        "width": 988
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2046507507842154589",
+        "created_at": "2026-04-21T09:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046528340795011355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1989174896870715394",
+              "start": 0,
+              "username": "Tiaozicunxi737"
+            },
+            {
+              "end": 30,
+              "id": "1776337633431740416",
+              "start": 16,
+              "username": "langlang_nami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046528340795011355",
+        "in_reply_to_user_id": "1989174896870715394",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046507507842154589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tiaozicunxi737 @langlang_nami 好萌啊！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046507379827859456"
+          ]
+        },
+        "author_id": "1989174896870715394",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10058164147",
+              "name": "ドロヘドロ"
+            }
+          }
+        ],
+        "conversation_id": "2046507507842154589",
+        "created_at": "2026-04-21T08:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046507507842154589"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "dorohedoro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LnoMwng3y9",
+              "end": 53,
+              "expanded_url": "https://x.com/Tiaozicunxi737/status/2046507507842154589/video/1",
+              "media_key": "13_2046507379827859456",
+              "start": 30,
+              "url": "https://t.co/LnoMwng3y9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046507507842154589",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 515,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "#dorohedoro\nBangBangBang meme https://t.co/LnoMwng3y9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2079,
+          "following_count": 335,
+          "like_count": 3046,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 3669
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T03:33:58.000Z",
+        "description": "20⬆️｜中文/English｜🚫AI學習\n轉贊評都請隨意，我喜歡互動！",
+        "id": "1989174896870715394",
+        "name": "木寸夕🥟",
+        "pinned_tweet_id": "2042935881632485861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041207044326518784/sI32SIVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 109,
+          "like_count": 825,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 156
+        },
+        "username": "Tiaozicunxi737",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-05T19:54:37.000Z",
+        "description": "18↑||\n谨慎关注……🧎||\n不安，无色无味无实感||\n我喜欢鸟烟鸟，可拆||\n無言フォロ失礼します||\n女朋友芒酱 @ray1147234146",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "ray1147234146"
+              }
+            ]
+          }
+        },
+        "id": "1776337633431740416",
+        "location": "杂多＋杂食，非常杂食。||🏳️‍🌈",
+        "name": "浪",
+        "pinned_tweet_id": "1821641094712717655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039501735975358464/3mZzGfQH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 269,
+          "like_count": 16984,
+          "listed_count": 2,
+          "media_count": 591,
+          "tweet_count": 9843
+        },
+        "username": "langlang_nami",
+        "verified": false
+      }
+    ]
+  }
+}

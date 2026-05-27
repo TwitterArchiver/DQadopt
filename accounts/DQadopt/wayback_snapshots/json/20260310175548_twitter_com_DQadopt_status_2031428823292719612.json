@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2031428823292719612",
+    "created_at": "2026-03-10T17:55:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T18:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031428823292719612"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ymioy1098/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/ymioy1098/status/2031427879779856670",
+          "start": 4,
+          "url": "https://t.co/YgKtlqsx8W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031428823292719612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031427879779856670",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢！ https://t.co/YgKtlqsx8W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031427849220141060",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDEU3auaMAQMPOb.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031427849224335361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDEU3avaMAEBdWy.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2031428823292719612",
+        "created_at": "2026-03-10T17:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T18:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031428823292719612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ymioy1098/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/ymioy1098/status/2031427879779856670",
+              "start": 4,
+              "url": "https://t.co/YgKtlqsx8W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031428823292719612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031427879779856670",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢！ https://t.co/YgKtlqsx8W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031427849220141060",
+            "3_2031427849224335361"
+          ]
+        },
+        "author_id": "1922184590422376449",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031427879779856670",
+        "created_at": "2026-03-10T17:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T18:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031427879779856670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1989965282799226880",
+              "start": 27,
+              "username": "DQadopt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dooyAjNv2M",
+              "end": 59,
+              "expanded_url": "https://x.com/Ymioy1098/status/2031427879779856670/photo/1",
+              "media_key": "3_2031427849220141060",
+              "start": 36,
+              "url": "https://t.co/dooyAjNv2M"
+            },
+            {
+              "display_url": "pic.x.com/dooyAjNv2M",
+              "end": 59,
+              "expanded_url": "https://x.com/Ymioy1098/status/2031427879779856670/photo/1",
+              "media_key": "3_2031427849224335361",
+              "start": 36,
+              "url": "https://t.co/dooyAjNv2M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031427879779856670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在飞机上写完了 飞机还在滑行我就迫不及待开加速器发出来@DQadopt https://t.co/dooyAjNv2M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 216,
+          "like_count": 1370,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 1615
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T06:58:47.000Z",
+        "description": "les/0.5/生理心理性别皆为女/欢迎私信/钱性恋/sub",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angla49057",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angla49057",
+                "start": 0,
+                "url": "https://t.co/8FPhgUZZfM"
+              }
+            ]
+          }
+        },
+        "id": "1922184590422376449",
+        "name": "Y mi mo",
+        "pinned_tweet_id": "2020856551762801129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017322494550806529/7SXazNpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 43,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 156
+        },
+        "url": "https://t.co/8FPhgUZZfM",
+        "username": "Ymioy1098",
+        "verified": false
+      }
+    ]
+  }
+}

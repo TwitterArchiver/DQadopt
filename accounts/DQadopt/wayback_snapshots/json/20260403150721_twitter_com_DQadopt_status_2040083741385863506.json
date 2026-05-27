@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2040082366321091027",
+    "created_at": "2026-04-03T15:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T16:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040083741385863506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1733714608500969472",
+          "start": 0,
+          "username": "FT_Changyi1644"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040083741385863506",
+    "in_reply_to_user_id": "1733714608500969472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040082366321091027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FT_Changyi1644 我穷穷的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2040082366321091027",
+        "created_at": "2026-04-03T15:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T16:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040083741385863506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1733714608500969472",
+              "start": 0,
+              "username": "FT_Changyi1644"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040083741385863506",
+        "in_reply_to_user_id": "1733714608500969472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040082366321091027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FT_Changyi1644 我穷穷的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733714608500969472",
+        "conversation_id": "2040082366321091027",
+        "created_at": "2026-04-03T15:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T16:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040082366321091027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dqadopt/status…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/dqadopt/status/2040012205517922483",
+              "start": 20,
+              "url": "https://t.co/5eTCwQ4Tev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040082366321091027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040012205517922483",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有钱，尤其是善良的人有钱真的是一件好事 https://t.co/5eTCwQ4Tev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 269,
+          "like_count": 2386,
+          "listed_count": 0,
+          "media_count": 292,
+          "tweet_count": 2753
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-10T05:05:56.000Z",
+        "description": "📕💐🚩熬夜革命伴侣@xiangjiaogo🚩💐📕 永昌天子~；此人没有经历过大风大浪，以后要补课；讨论欢迎你，吵架我给你跪了；志愿是吃饱喝足；明威；黑五类分子；墙头草；战无不胜的刘建龙主义万岁🙌；小号@jingyuntian 黑话，爆论，骂人，爆典",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "xiangjiaogo"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "jingyuntian"
+              }
+            ]
+          }
+        },
+        "id": "1733714608500969472",
+        "location": "北京市东城区景山前街4号",
+        "name": "景运崇天",
+        "pinned_tweet_id": "2035350308638064895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035227582304854016/XF09UVX-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 713,
+          "like_count": 17620,
+          "listed_count": 5,
+          "media_count": 827,
+          "tweet_count": 12564
+        },
+        "username": "FT_Changyi1644",
+        "verified": false
+      }
+    ]
+  }
+}

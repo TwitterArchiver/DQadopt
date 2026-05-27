@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022912945253208064",
+        "3_2022912945248985088"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2022912954803622270",
+    "created_at": "2026-02-15T05:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T06:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022912954803622270"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p4aPoAMqPR",
+          "end": 89,
+          "expanded_url": "https://x.com/DQadopt/status/2022912954803622270/photo/1",
+          "media_key": "3_2022912945253208064",
+          "start": 66,
+          "url": "https://t.co/p4aPoAMqPR"
+        },
+        {
+          "display_url": "pic.x.com/p4aPoAMqPR",
+          "end": 89,
+          "expanded_url": "https://x.com/DQadopt/status/2022912954803622270/photo/1",
+          "media_key": "3_2022912945248985088",
+          "start": 66,
+          "url": "https://t.co/p4aPoAMqPR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022912954803622270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "到陕西了，好大的平原？！\n以前出远门都是坐飞机，第一次坐高铁，好奇妙的地貌和四川完全不一样，感觉看过的书里的知识一点点变具体起来了 https://t.co/p4aPoAMqPR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022912945253208064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLUmxlbUAAFI4e.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022912945248985088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLUmxka4AAgWAv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022912945253208064",
+            "3_2022912945248985088"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2022912954803622270",
+        "created_at": "2026-02-15T05:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T06:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022912954803622270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p4aPoAMqPR",
+              "end": 89,
+              "expanded_url": "https://x.com/DQadopt/status/2022912954803622270/photo/1",
+              "media_key": "3_2022912945253208064",
+              "start": 66,
+              "url": "https://t.co/p4aPoAMqPR"
+            },
+            {
+              "display_url": "pic.x.com/p4aPoAMqPR",
+              "end": 89,
+              "expanded_url": "https://x.com/DQadopt/status/2022912954803622270/photo/1",
+              "media_key": "3_2022912945248985088",
+              "start": 66,
+              "url": "https://t.co/p4aPoAMqPR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022912954803622270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到陕西了，好大的平原？！\n以前出远门都是坐飞机，第一次坐高铁，好奇妙的地貌和四川完全不一样，感觉看过的书里的知识一点点变具体起来了 https://t.co/p4aPoAMqPR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 88,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 587
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

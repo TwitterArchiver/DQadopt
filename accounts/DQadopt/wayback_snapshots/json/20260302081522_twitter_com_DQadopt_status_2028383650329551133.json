@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028383640607170560"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2028383650329551133",
+    "created_at": "2026-03-02T08:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T09:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028383650329551133"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dj9Wr8DKX7",
+          "end": 36,
+          "expanded_url": "https://x.com/DQadopt/status/2028383650329551133/photo/1",
+          "media_key": "3_2028383640607170560",
+          "start": 13,
+          "url": "https://t.co/dj9Wr8DKX7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028383650329551133",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我服了心选姐咋恁好。。。 https://t.co/dj9Wr8DKX7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1032,
+        "media_key": "3_2028383640607170560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZELJ6aoAAXX87.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028383640607170560"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2028383650329551133",
+        "created_at": "2026-03-02T08:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T09:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028383650329551133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dj9Wr8DKX7",
+              "end": 36,
+              "expanded_url": "https://x.com/DQadopt/status/2028383650329551133/photo/1",
+              "media_key": "3_2028383640607170560",
+              "start": 13,
+              "url": "https://t.co/dj9Wr8DKX7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028383650329551133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我服了心选姐咋恁好。。。 https://t.co/dj9Wr8DKX7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 148,
+          "like_count": 728,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 1008
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

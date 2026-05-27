@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2041431590467940422",
+    "created_at": "2026-04-07T23:49:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T00:49:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041664777571987882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1630946419187277827",
+          "start": 0,
+          "username": "fksad_life"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041664777571987882",
+    "in_reply_to_user_id": "1630946419187277827",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041607033124962338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fksad_life 是的姐姐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2041431590467940422",
+        "created_at": "2026-04-07T23:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T00:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041664777571987882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1630946419187277827",
+              "start": 0,
+              "username": "fksad_life"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041664777571987882",
+        "in_reply_to_user_id": "1630946419187277827",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041607033124962338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fksad_life 是的姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630946419187277827",
+        "conversation_id": "2041431590467940422",
+        "created_at": "2026-04-07T20:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T21:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041607033124962338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041607033124962338",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041431590467940422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 当我真的对一切失去兴趣之后 他们又希望我别死 活的普通甚至差一点也没关系 我有点悟了 其实他们好像只是嘴上说说 我又有点悟了 其实我变成这样是他们欠我的 就这样想吧 所有人都对不起我🤗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1746,
+          "following_count": 305,
+          "like_count": 2553,
+          "listed_count": 0,
+          "media_count": 302,
+          "tweet_count": 2976
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-01T15:01:58.000Z",
+        "description": "这里是 宇宙中心  t 0.5 m",
+        "id": "1630946419187277827",
+        "location": "蝴蝶谷",
+        "name": "₍^._.^₎⟆",
+        "pinned_tweet_id": "1800404247705792992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034680899875508224/mT5iZmRr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 32,
+          "like_count": 576,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 174
+        },
+        "username": "fksad_life",
+        "verified": false
+      }
+    ]
+  }
+}

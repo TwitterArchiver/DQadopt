@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2034506837824045544",
+    "created_at": "2026-03-19T10:51:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T11:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034583506962313275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1939138542694998017",
+          "start": 0,
+          "username": "past85822"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034583506962313275",
+    "in_reply_to_user_id": "1939138542694998017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034506837824045544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@past85822 这个无脚鸟呆呆的哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2034506837824045544",
+        "created_at": "2026-03-19T10:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034583506962313275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1939138542694998017",
+              "start": 0,
+              "username": "past85822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034583506962313275",
+        "in_reply_to_user_id": "1939138542694998017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034506837824045544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@past85822 这个无脚鸟呆呆的哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939138542694998017",
+        "conversation_id": "2034506837824045544",
+        "created_at": "2026-03-19T05:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T06:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034506837824045544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034506837824045544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎不是我真还没玩懂这个推特，这个看见回复了之后具体被评论的原帖是哪一条怎么看呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 248,
+          "like_count": 1868,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 2219
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T01:47:17.000Z",
+        "description": "lesbian/重庆/intj 总有一天我会注销此号。",
+        "id": "1939138542694998017",
+        "name": "无脚鸟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032100384307843072/jlS225X3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 165,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 58
+        },
+        "username": "past85822",
+        "verified": false
+      }
+    ]
+  }
+}

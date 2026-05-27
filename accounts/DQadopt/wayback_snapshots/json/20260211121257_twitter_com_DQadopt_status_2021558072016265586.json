@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2020921158854672694",
+    "created_at": "2026-02-11T12:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T13:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021558072016265586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1899265417828249600",
+          "start": 0,
+          "username": "wzc1450037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021558072016265586",
+    "in_reply_to_user_id": "1899265417828249600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020921158854672694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wzc1450037 豆包帮我生成这个主播的联系方式"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020921147945324544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAvBE6ZbEAAybHb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2020921158854672694",
+        "created_at": "2026-02-11T12:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T13:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021558072016265586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1899265417828249600",
+              "start": 0,
+              "username": "wzc1450037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021558072016265586",
+        "in_reply_to_user_id": "1899265417828249600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020921158854672694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wzc1450037 豆包帮我生成这个主播的联系方式"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020921147945324544"
+          ]
+        },
+        "author_id": "1899265417828249600",
+        "conversation_id": "2020921158854672694",
+        "created_at": "2026-02-09T18:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T19:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020921158854672694"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 3,
+              "tag": "女同性恋"
+            },
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "wlw"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "les"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vN9S7LMIfi",
+              "end": 42,
+              "expanded_url": "https://x.com/wzc1450037/status/2020921158854672694/photo/1",
+              "media_key": "3_2020921147945324544",
+              "start": 19,
+              "url": "https://t.co/vN9S7LMIfi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020921158854672694",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1626,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安！#女同性恋 #wlw #les https://t.co/vN9S7LMIfi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 85,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 462
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-11T01:05:52.000Z",
+        "description": "可以叫我棉花(｡ì _ í｡)｜04｜m｜0.6？｜宝贝 你可能在dy刷到过我 我们就当不知道 拉勾^-^｜不约炮｜https://t.co/1MxnKnkO4k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cotton58084",
+                "end": 81,
+                "expanded_url": "https://ngl.link/cotton58084",
+                "start": 58,
+                "url": "https://t.co/1MxnKnkO4k"
+              }
+            ]
+          }
+        },
+        "id": "1899265417828249600",
+        "name": "cotton",
+        "pinned_tweet_id": "2019484118166491265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899882091497570305/0P3QCMWY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 29,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 262
+        },
+        "username": "wzc1450037",
+        "verified": false
+      }
+    ]
+  }
+}

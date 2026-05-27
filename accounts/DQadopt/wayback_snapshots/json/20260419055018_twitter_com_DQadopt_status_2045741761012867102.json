@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2041478511253471360",
+    "created_at": "2026-04-19T05:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T06:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045741761012867102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1563797970822348800",
+          "start": 0,
+          "username": "chenyuwant"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045741761012867102",
+    "in_reply_to_user_id": "1563797970822348800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045735374954135606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenyuwant 嗯哼哼我已经两个月没有自残od了哦，后面发的照片都是库存"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2041478511253471360",
+        "created_at": "2026-04-19T05:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T06:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045741761012867102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1563797970822348800",
+              "start": 0,
+              "username": "chenyuwant"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045741761012867102",
+        "in_reply_to_user_id": "1563797970822348800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045735374954135606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenyuwant 嗯哼哼我已经两个月没有自残od了哦，后面发的照片都是库存"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563797970822348800",
+        "conversation_id": "2041478511253471360",
+        "created_at": "2026-04-19T05:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T06:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045735374954135606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045735374954135606",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045734120177971555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 小鸟还和你在一起就不要自残了阿——已经发过保证书了不是吗T T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2001,
+          "following_count": 324,
+          "like_count": 2964,
+          "listed_count": 0,
+          "media_count": 337,
+          "tweet_count": 3538
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-28T07:58:00.000Z",
+        "description": "I wish I can have a good sleep.",
+        "id": "1563797970822348800",
+        "location": "Florida, USA",
+        "name": "good sleep",
+        "pinned_tweet_id": "1741048338387190250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027736090099019776/D_u_XfCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 19,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "chenyuwant",
+        "verified": false
+      }
+    ]
+  }
+}

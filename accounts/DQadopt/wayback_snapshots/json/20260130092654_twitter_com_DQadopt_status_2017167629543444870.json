@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2016529411798110261",
+    "created_at": "2026-01-30T09:26:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T10:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017167629543444870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1911478763646230528",
+          "start": 0,
+          "username": "urnovying"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017167629543444870",
+    "in_reply_to_user_id": "1911478763646230528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016529411798110261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@urnovying 强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2016529340570402816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wmwE_aAAAm8hT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2016529411798110261",
+        "created_at": "2026-01-30T09:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T10:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017167629543444870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1911478763646230528",
+              "start": 0,
+              "username": "urnovying"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017167629543444870",
+        "in_reply_to_user_id": "1911478763646230528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016529411798110261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@urnovying 强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016529340570402816"
+          ]
+        },
+        "author_id": "1911478763646230528",
+        "conversation_id": "2016529411798110261",
+        "created_at": "2026-01-28T15:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T16:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016529411798110261"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "le"
+            },
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "女同"
+            },
+            {
+              "end": 14,
+              "start": 12,
+              "tag": "m"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VBzgdT2fxn",
+              "end": 38,
+              "expanded_url": "https://x.com/urnovying/status/2016529411798110261/photo/1",
+              "media_key": "3_2016529340570402816",
+              "start": 15,
+              "url": "https://t.co/VBzgdT2fxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016529411798110261",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9319,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯.. #le #女同 #m https://t.co/VBzgdT2fxn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 57,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 201
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T17:57:21.000Z",
+        "description": "le｜我陈述无处安置的情感",
+        "id": "1911478763646230528",
+        "name": "Alcoholallergy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949180462032977920/R57HSsAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 48,
+          "like_count": 1378,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 100
+        },
+        "username": "urnovying",
+        "verified": false
+      }
+    ]
+  }
+}

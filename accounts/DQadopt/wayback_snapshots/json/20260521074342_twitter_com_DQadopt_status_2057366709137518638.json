@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2057161297356366093",
+    "created_at": "2026-05-21T07:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T08:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057366709137518638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680375638161756161",
+          "start": 0,
+          "username": "zhangmanti1385"
+        },
+        {
+          "end": 28,
+          "id": "1914399940811362305",
+          "start": 16,
+          "username": "bedrotter4l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057366709137518638",
+    "in_reply_to_user_id": "1680375638161756161",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057336375419252740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangmanti1385 @bedrotter4l 哦哦哦哦哦哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2057161297356366093",
+        "created_at": "2026-05-21T07:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057366709137518638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680375638161756161",
+              "start": 0,
+              "username": "zhangmanti1385"
+            },
+            {
+              "end": 28,
+              "id": "1914399940811362305",
+              "start": 16,
+              "username": "bedrotter4l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057366709137518638",
+        "in_reply_to_user_id": "1680375638161756161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057336375419252740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangmanti1385 @bedrotter4l 哦哦哦哦哦哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680375638161756161",
+        "conversation_id": "2057161297356366093",
+        "created_at": "2026-05-21T05:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057336375419252740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            },
+            {
+              "end": 21,
+              "id": "1914399940811362305",
+              "start": 9,
+              "username": "bedrotter4l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057336375419252740",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057167684706672720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt @bedrotter4l 应该是s开头的那位"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2286,
+          "following_count": 338,
+          "like_count": 3419,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 4063
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T00:35:57.000Z",
+        "description": "",
+        "id": "1680375638161756161",
+        "name": "ting",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680375707531358208/zsDll_W__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "zhangmanti1385",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-21T19:24:59.000Z",
+        "description": "",
+        "id": "1914399940811362305",
+        "name": "₍˄•༝•˄₎◞✩︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057145009506275328/9Up0XUJ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 32,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 260
+        },
+        "username": "bedrotter4l",
+        "verified": false
+      }
+    ]
+  }
+}

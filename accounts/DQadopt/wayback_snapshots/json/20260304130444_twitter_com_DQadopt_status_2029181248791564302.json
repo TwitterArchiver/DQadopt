@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2029030324701958320",
+    "created_at": "2026-03-04T13:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T14:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029181248791564302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1761775667430191104",
+          "start": 0,
+          "username": "FallenF58682"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029181248791564302",
+    "in_reply_to_user_id": "1761775667430191104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029178380583641350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FallenF58682 我是普通上班族"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2029030324701958320",
+        "created_at": "2026-03-04T13:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T14:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029181248791564302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1761775667430191104",
+              "start": 0,
+              "username": "FallenF58682"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029181248791564302",
+        "in_reply_to_user_id": "1761775667430191104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029178380583641350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FallenF58682 我是普通上班族"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761775667430191104",
+        "conversation_id": "2029030324701958320",
+        "created_at": "2026-03-04T12:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T13:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029178380583641350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029178380583641350",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029030324701958320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 能有这么多精力充沛且不被打扰的大块空闲时间的人，所处环境想必也不一般吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 170,
+          "like_count": 880,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 1160
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T15:30:35.000Z",
+        "description": "一串🍇。对人类感兴趣。",
+        "id": "1761775667430191104",
+        "name": "残夜🍇",
+        "pinned_tweet_id": "2004189980395295042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776160737943252992/jkyJSbq9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 432,
+          "like_count": 5039,
+          "listed_count": 3,
+          "media_count": 87,
+          "tweet_count": 2032
+        },
+        "username": "FallenF58682",
+        "verified": false
+      }
+    ]
+  }
+}

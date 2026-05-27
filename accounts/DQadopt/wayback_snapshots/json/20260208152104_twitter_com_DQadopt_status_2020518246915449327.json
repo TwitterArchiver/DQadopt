@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020518239550558208"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2020518246915449327",
+    "created_at": "2026-02-08T15:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T16:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020518246915449327"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q2rUewA4Ft",
+          "end": 67,
+          "expanded_url": "https://x.com/DQadopt/status/2020518246915449327/photo/1",
+          "media_key": "3_2020518239550558208",
+          "start": 44,
+          "url": "https://t.co/q2rUewA4Ft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020518246915449327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在我眼里不能接受极端反社会/反人类事物的人，都不够纯粹，还对这个世界的本质看的不够彻底 https://t.co/q2rUewA4Ft"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1174,
+        "media_key": "3_2020518239550558208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApSojqb0AAdeEP.jpg",
+        "width": 1005
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020518239550558208"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2020518246915449327",
+        "created_at": "2026-02-08T15:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T16:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020518246915449327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q2rUewA4Ft",
+              "end": 67,
+              "expanded_url": "https://x.com/DQadopt/status/2020518246915449327/photo/1",
+              "media_key": "3_2020518239550558208",
+              "start": 44,
+              "url": "https://t.co/q2rUewA4Ft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020518246915449327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在我眼里不能接受极端反社会/反人类事物的人，都不够纯粹，还对这个世界的本质看的不够彻底 https://t.co/q2rUewA4Ft"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 75,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 374
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

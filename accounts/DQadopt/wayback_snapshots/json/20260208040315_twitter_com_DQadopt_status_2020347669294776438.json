@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2018133610042384780",
+    "created_at": "2026-02-08T04:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T05:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020347669294776438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1939742406842470400",
+          "start": 0,
+          "username": "t234lhey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020347669294776438",
+    "in_reply_to_user_id": "1939742406842470400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020345325593186528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@t234lhey 男的勿扰，我已经找到了，谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2018133610042384780",
+        "created_at": "2026-02-08T04:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T05:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020347669294776438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1939742406842470400",
+              "start": 0,
+              "username": "t234lhey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020347669294776438",
+        "in_reply_to_user_id": "1939742406842470400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020345325593186528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@t234lhey 男的勿扰，我已经找到了，谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939742406842470400",
+        "conversation_id": "2018133610042384780",
+        "created_at": "2026-02-08T03:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T04:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020345325593186528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020345325593186528",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018133610042384780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 有一些呢, 希望我可以给你一些帮助..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 74,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 364
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T17:46:53.000Z",
+        "description": "欲望和情绪的容器. 赛博露阴癖. 精致利己自私鬼. 擅长/讨好/示弱/放弃/被放弃/逃避/.  \n172/130. 25.  男m. 喜欢姐姐.",
+        "id": "1939742406842470400",
+        "name": "ttt",
+        "pinned_tweet_id": "1968527587459682362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966704378854993920/YiKr6kj5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 67,
+          "like_count": 1040,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 311
+        },
+        "username": "t234lhey",
+        "verified": false
+      }
+    ]
+  }
+}

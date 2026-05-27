@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2044418657187733577",
+    "created_at": "2026-04-16T06:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T07:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044667452760694955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1841532463807389696",
+          "start": 0,
+          "username": "lily92398996361"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044667452760694955",
+    "in_reply_to_user_id": "1841532463807389696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044418657187733577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lily92398996361 用高逼真的假牛子我不相信不是男性崇拜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2044418657187733577",
+        "created_at": "2026-04-16T06:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T07:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044667452760694955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1841532463807389696",
+              "start": 0,
+              "username": "lily92398996361"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044667452760694955",
+        "in_reply_to_user_id": "1841532463807389696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044418657187733577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lily92398996361 用高逼真的假牛子我不相信不是男性崇拜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841532463807389696",
+        "conversation_id": "2044418657187733577",
+        "created_at": "2026-04-15T14:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044418657187733577"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "拉拉"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "百合"
+            },
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "女同性恋"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044418657187733577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 20341,
+          "like_count": 145,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "看片看到太过逼真的假🐮  可以瞬间萎掉\n#拉拉 #百合 #女同性恋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1925,
+          "following_count": 316,
+          "like_count": 2900,
+          "listed_count": 0,
+          "media_count": 331,
+          "tweet_count": 3421
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T17:35:36.000Z",
+        "description": "Les0.7长发|ip闽|老辈子抽象圣体|不回主页空白私密账号\n激情短打性幻想\n🚫男🚫4i🚫侄女装姬\n欢迎女宝贴贴https://t.co/ehu5VZXl3t",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lily9239899636…",
+                "end": 80,
+                "expanded_url": "https://ngl.link/lily923989963611",
+                "start": 57,
+                "url": "https://t.co/ehu5VZXl3t"
+              }
+            ]
+          }
+        },
+        "id": "1841532463807389696",
+        "location": "死都要死女人胸上",
+        "name": "？？？",
+        "pinned_tweet_id": "2024667265745244305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966753580297121792/tsYeKRKx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 166,
+          "like_count": 780,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 391
+        },
+        "username": "lily92398996361",
+        "verified": false
+      }
+    ]
+  }
+}

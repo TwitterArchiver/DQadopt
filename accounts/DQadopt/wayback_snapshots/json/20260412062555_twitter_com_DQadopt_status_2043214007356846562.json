@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2043209269848506878",
+    "created_at": "2026-04-12T06:25:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T07:25:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043214007356846562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1970921429010087941",
+          "start": 0,
+          "username": "AirWiaAir"
+        },
+        {
+          "end": 19,
+          "id": "1821560692140544000",
+          "start": 11,
+          "username": "Numiouo"
+        },
+        {
+          "end": 34,
+          "id": "1986291014370545665",
+          "start": 20,
+          "username": "pleasehelp070"
+        },
+        {
+          "end": 51,
+          "id": "1749323865875173376",
+          "start": 35,
+          "username": "chnfifi57861469"
+        },
+        {
+          "end": 62,
+          "id": "2007104134466736129",
+          "start": 52,
+          "username": "peipeimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043214007356846562",
+    "in_reply_to_user_id": "1970921429010087941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043209269848506878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AirWiaAir @Numiouo @pleasehelp070 @chnfifi57861469 @peipeimao 妈妈我来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2043209267000590336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFrwAMFbQAAVDeG.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2043209269848506878",
+        "created_at": "2026-04-12T06:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T07:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043214007356846562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1970921429010087941",
+              "start": 0,
+              "username": "AirWiaAir"
+            },
+            {
+              "end": 19,
+              "id": "1821560692140544000",
+              "start": 11,
+              "username": "Numiouo"
+            },
+            {
+              "end": 34,
+              "id": "1986291014370545665",
+              "start": 20,
+              "username": "pleasehelp070"
+            },
+            {
+              "end": 51,
+              "id": "1749323865875173376",
+              "start": 35,
+              "username": "chnfifi57861469"
+            },
+            {
+              "end": 62,
+              "id": "2007104134466736129",
+              "start": 52,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043214007356846562",
+        "in_reply_to_user_id": "1970921429010087941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043209269848506878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AirWiaAir @Numiouo @pleasehelp070 @chnfifi57861469 @peipeimao 妈妈我来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043209267000590336"
+          ]
+        },
+        "author_id": "1970921429010087941",
+        "conversation_id": "2043209269848506878",
+        "created_at": "2026-04-12T06:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T07:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043209269848506878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1821560692140544000",
+              "start": 22,
+              "username": "Numiouo"
+            },
+            {
+              "end": 45,
+              "id": "1986291014370545665",
+              "start": 31,
+              "username": "pleasehelp070"
+            },
+            {
+              "end": 68,
+              "id": "1749323865875173376",
+              "start": 52,
+              "username": "chnfifi57861469"
+            },
+            {
+              "end": 83,
+              "id": "1989965282799226880",
+              "start": 75,
+              "username": "DQadopt"
+            },
+            {
+              "end": 94,
+              "id": "2007104134466736129",
+              "start": 84,
+              "username": "peipeimao"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 122,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2041813655159980032/2f2ZYYcE?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2041813655159980032/2f2ZYYcE?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 99,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/RdRMtTZbAd"
+            },
+            {
+              "display_url": "pic.x.com/uT1m7NAfBQ",
+              "end": 146,
+              "expanded_url": "https://x.com/AirWiaAir/status/2043209269848506878/photo/1",
+              "media_key": "3_2043209267000590336",
+              "start": 123,
+              "url": "https://t.co/uT1m7NAfBQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043209269848506878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @Numiouo @pleasehelp070\n👰 配偶: @chnfifi57861469\n👶 孩子: @DQadopt @peipeimao\n\n➡️ https://t.co/RdRMtTZbAd https://t.co/uT1m7NAfBQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 318,
+          "like_count": 2824,
+          "listed_count": 0,
+          "media_count": 321,
+          "tweet_count": 3234
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T18:42:11.000Z",
+        "description": "双/凉席妹⭕️/od❌/精神状态不稳定/文艺比/消肿比/纯血铜仁钕/交友大欢迎/LGBTQ+全肯定/",
+        "id": "1970921429010087941",
+        "name": "凜冬的長青樹",
+        "pinned_tweet_id": "2032361120674283949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016339692372033538/65f5IrcB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 111,
+          "like_count": 1240,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 355
+        },
+        "username": "AirWiaAir",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护互关们(っ˘зʕ•̫͡•ʔ纯血精神病-同类fo随缘回-ban也随缘回-爱点赞评论-讨厌私信闲聊♡喜欢sex & drug @Numiouo1备用我上号就会回fo♡除推文外 不提供咨询解答⚠️请勿私信⚠️♡non-binary友全部🏳️‍🌈🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 65,
+                "username": "Numiouo1"
+              }
+            ]
+          }
+        },
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ（别fo了回不过来了orz）",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998372144540164096/6L5oLwea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3193,
+          "following_count": 2200,
+          "like_count": 9431,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 7795
+        },
+        "username": "Numiouo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊メンヘラ/双极性障碍/交流障碍社交苦手🙇实在没精力/想成为互联网天使✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 143,
+          "like_count": 1740,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 414
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-22T06:51:33.000Z",
+        "description": "币圈小韭菜",
+        "id": "1749323865875173376",
+        "name": "chen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039618610793160704/34q-swfU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 37,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 85
+        },
+        "username": "chnfifi57861469",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "所以请求所有人保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/158陪聊/188解锁线下接cos委托",
+        "name": "小颦好吗",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043207181223481344/PMPoY0RM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4589,
+          "following_count": 173,
+          "like_count": 615,
+          "listed_count": 11,
+          "media_count": 105,
+          "tweet_count": 1699
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

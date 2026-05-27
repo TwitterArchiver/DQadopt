@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "1990792007930057037",
+    "created_at": "2025-11-18T14:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T15:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990792106944950780"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "ADOPTABLE ( Auction ) 🌸 Messenger of spring🌸 AB : $30( Personal use ) AB2 : $50( commercial use )",
+          "display_url": "ko-fi.com/s/54aa8b9391",
+          "end": 23,
+          "expanded_url": "https://ko-fi.com/s/54aa8b9391",
+          "images": [
+            {
+              "height": 480,
+              "url": "https://pbs.twimg.com/news_img/1990792108677189632/eC0dLmqP?format=jpg&name=orig",
+              "width": 480
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1990792108677189632/eC0dLmqP?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Adopt💚 - DQ.'s Ko-fi Shop",
+          "unwound_url": "https://ko-fi.com/s/54aa8b9391",
+          "url": "https://t.co/jcfcnXGWWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990792106944950780",
+    "in_reply_to_user_id": "1989965282799226880",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990792007930057037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/jcfcnXGWWQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990791996999675904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6C2xgrbMAAErq4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "1990792007930057037",
+        "created_at": "2025-11-18T14:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T15:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990792106944950780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "ADOPTABLE ( Auction ) 🌸 Messenger of spring🌸 AB : $30( Personal use ) AB2 : $50( commercial use )",
+              "display_url": "ko-fi.com/s/54aa8b9391",
+              "end": 23,
+              "expanded_url": "https://ko-fi.com/s/54aa8b9391",
+              "images": [
+                {
+                  "height": 480,
+                  "url": "https://pbs.twimg.com/news_img/1990792108677189632/eC0dLmqP?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1990792108677189632/eC0dLmqP?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Adopt💚 - DQ.'s Ko-fi Shop",
+              "unwound_url": "https://ko-fi.com/s/54aa8b9391",
+              "url": "https://t.co/jcfcnXGWWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990792106944950780",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990792007930057037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/jcfcnXGWWQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990791996999675904"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418358396516851713",
+              "name": "Ko-fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339381554087223297",
+              "name": "Character design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418358396516851713",
+              "name": "Ko-fi"
+            }
+          }
+        ],
+        "conversation_id": "1990792007930057037",
+        "created_at": "2025-11-18T14:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T15:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990792007930057037"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 115,
+              "normalized_text": "PayPal",
+              "probability": 0.6107,
+              "start": 110,
+              "type": "Other"
+            },
+            {
+              "end": 121,
+              "normalized_text": "-fi",
+              "probability": 0.4982,
+              "start": 119,
+              "type": "Other"
+            },
+            {
+              "end": 187,
+              "normalized_text": "Vtuber",
+              "probability": 0.8504,
+              "start": 182,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 125,
+              "tag": "adopt"
+            },
+            {
+              "end": 142,
+              "start": 132,
+              "tag": "adoptable"
+            },
+            {
+              "end": 154,
+              "start": 143,
+              "tag": "adoptables"
+            },
+            {
+              "end": 171,
+              "start": 155,
+              "tag": "characterdesign"
+            },
+            {
+              "end": 180,
+              "start": 172,
+              "tag": "auction"
+            },
+            {
+              "end": 188,
+              "start": 181,
+              "tag": "Vtuber"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n79wPoKBBn",
+              "end": 212,
+              "expanded_url": "https://x.com/DQadopt/status/1990792007930057037/photo/1",
+              "media_key": "3_1990791996999675904",
+              "start": 189,
+              "url": "https://t.co/n79wPoKBBn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990792007930057037",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ADOPTABLE ( Auction )\n🌸 Messenger of spring🌸\n\nAB : $30( Personal use )\nAB2 : $50( commercial use )\n\nPayment : PayPal,ko-fi \n\n#adopt #adoptable #adoptables\n#characterdesign #auction #Vtuber https://t.co/n79wPoKBBn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "Character design丨silentoperaadopt@163.com",
+        "id": "1989965282799226880",
+        "name": "DQ🦋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989965450730725376/VuyFLuEA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 4
+        },
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

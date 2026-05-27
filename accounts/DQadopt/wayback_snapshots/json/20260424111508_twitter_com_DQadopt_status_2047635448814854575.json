@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2047629044926292163",
+    "created_at": "2026-04-24T11:15:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T12:15:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047635448814854575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1887888518975995904",
+          "start": 0,
+          "username": "S5KGtwJgwt10297"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047635448814854575",
+    "in_reply_to_user_id": "1887888518975995904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047629044926292163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S5KGtwJgwt10297 随机抓点人塞铁轨上"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 224,
+        "media_key": "3_2047628988751994880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqjt2pa4AAW-S2.jpg",
+        "width": 224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2047629044926292163",
+        "created_at": "2026-04-24T11:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047635448814854575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1887888518975995904",
+              "start": 0,
+              "username": "S5KGtwJgwt10297"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047635448814854575",
+        "in_reply_to_user_id": "1887888518975995904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047629044926292163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S5KGtwJgwt10297 随机抓点人塞铁轨上"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047628988751994880"
+          ]
+        },
+        "author_id": "1887888518975995904",
+        "conversation_id": "2047629044926292163",
+        "created_at": "2026-04-24T10:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047629044926292163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WNKQY1m7Fn",
+              "end": 23,
+              "expanded_url": "https://x.com/S5KGtwJgwt10297/status/2047629044926292163/photo/1",
+              "media_key": "3_2047628988751994880",
+              "start": 0,
+              "url": "https://t.co/WNKQY1m7Fn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047629044926292163",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WNKQY1m7Fn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 336,
+          "like_count": 3119,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 3734
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T15:38:06.000Z",
+        "description": "完全废话连篇之人。珍爱生命远离吸毒药品乱用。",
+        "id": "1887888518975995904",
+        "location": "天堂",
+        "name": "里世界见",
+        "pinned_tweet_id": "2041578578144588266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046150398634053632/YwrJRfW6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 63,
+          "like_count": 441,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 298
+        },
+        "username": "S5KGtwJgwt10297",
+        "verified": false
+      }
+    ]
+  }
+}

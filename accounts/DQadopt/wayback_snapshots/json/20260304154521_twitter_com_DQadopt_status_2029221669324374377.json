@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029221656435277829"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2029221669324374377",
+    "created_at": "2026-03-04T15:45:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T16:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029221669324374377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Je4GxIKHN3",
+          "end": 119,
+          "expanded_url": "https://x.com/DQadopt/status/2029221669324374377/photo/1",
+          "media_key": "3_2029221656435277829",
+          "start": 96,
+          "url": "https://t.co/Je4GxIKHN3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029221669324374377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好多关于阅读的提问！我想说的是，从做笔记开始吧！阅读不思考等于没读\n我22年刚开始读书的时候，就逼自己思考写笔记，到现在已经有点病态审视一切了）\n但我很满意现在的自己，因为我一直在向前走啊！ https://t.co/Je4GxIKHN3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029221656435277829",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCk-WGJawAUG9Oy.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029221656435277829"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2029221669324374377",
+        "created_at": "2026-03-04T15:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T16:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029221669324374377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Je4GxIKHN3",
+              "end": 119,
+              "expanded_url": "https://x.com/DQadopt/status/2029221669324374377/photo/1",
+              "media_key": "3_2029221656435277829",
+              "start": 96,
+              "url": "https://t.co/Je4GxIKHN3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029221669324374377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好多关于阅读的提问！我想说的是，从做笔记开始吧！阅读不思考等于没读\n我22年刚开始读书的时候，就逼自己思考写笔记，到现在已经有点病态审视一切了）\n但我很满意现在的自己，因为我一直在向前走啊！ https://t.co/Je4GxIKHN3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 173,
+          "like_count": 909,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 1186
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

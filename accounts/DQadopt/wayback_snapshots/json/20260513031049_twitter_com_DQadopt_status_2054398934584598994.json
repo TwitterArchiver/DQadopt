@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2054398934584598994",
+    "created_at": "2026-05-13T03:10:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T04:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054398934584598994"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sorcerer198964…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/sorcerer198964/status/2054140373220389241",
+          "start": 16,
+          "url": "https://t.co/XOHrVLhezV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054398934584598994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054140373220389241",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "娜娜你鼻子有问题，明明是香料味 https://t.co/XOHrVLhezV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1952,
+        "media_key": "3_2054140155783471104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHFlqBW4AA-_fN.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2054398934584598994",
+        "created_at": "2026-05-13T03:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054398934584598994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sorcerer198964…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/sorcerer198964/status/2054140373220389241",
+              "start": 16,
+              "url": "https://t.co/XOHrVLhezV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054398934584598994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054140373220389241",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "娜娜你鼻子有问题，明明是香料味 https://t.co/XOHrVLhezV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054140155783471104"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2054140373220389241",
+        "created_at": "2026-05-12T10:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054140373220389241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VGXVGaSDxo",
+              "end": 74,
+              "expanded_url": "https://x.com/Sorcerer198964/status/2054140373220389241/photo/1",
+              "media_key": "3_2054140155783471104",
+              "start": 51,
+              "url": "https://t.co/VGXVGaSDxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054140373220389241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 9480,
+          "like_count": 102,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "娜娜警官大麻你肯定是闻错了，大麻主调：浓重木质香和樟木香，还有紫苏，花香，泥土，奶油香（尾调且极淡） https://t.co/VGXVGaSDxo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2278,
+          "following_count": 340,
+          "like_count": 3391,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 4023
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 498,
+          "like_count": 392,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 1301
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      }
+    ]
+  }
+}

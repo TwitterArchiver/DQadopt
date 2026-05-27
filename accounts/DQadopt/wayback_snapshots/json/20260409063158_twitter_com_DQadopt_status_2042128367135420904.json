@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2042128367135420904",
+    "created_at": "2026-04-09T06:31:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T07:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042128367135420904"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fengzhengs00/s…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/fengzhengs00/status/2041117233901080693",
+          "start": 26,
+          "url": "https://t.co/5UyVVvX9Hq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042128367135420904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041117233901080693",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好乖的0哎呀我对乖的0没有抵抗力🥺🥺🥺🥺好听话好乖 https://t.co/5UyVVvX9Hq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 551404,
+        "height": 720,
+        "media_key": "13_2041112564898357248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041112564898357248/img/w8DBUAEUvcKkA38I.jpg",
+        "public_metrics": {
+          "view_count": 80568
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041112564898357248/vid/avc1/320x566/9sJr-6vqbxFhhhZw.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041112564898357248/vid/avc1/406x720/itNrfFNbGPWFsaLV.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041112564898357248/pl/4HLwarwvk2CPNcYu.m3u8?tag=14"
+          }
+        ],
+        "width": 406
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2042128367135420904",
+        "created_at": "2026-04-09T06:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042128367135420904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fengzhengs00/s…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/fengzhengs00/status/2041117233901080693",
+              "start": 26,
+              "url": "https://t.co/5UyVVvX9Hq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042128367135420904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041117233901080693",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好乖的0哎呀我对乖的0没有抵抗力🥺🥺🥺🥺好听话好乖 https://t.co/5UyVVvX9Hq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041112564898357248"
+          ]
+        },
+        "author_id": "1879521565861376000",
+        "conversation_id": "2041117233901080693",
+        "created_at": "2026-04-06T11:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041117233901080693"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "女同"
+            },
+            {
+              "end": 125,
+              "start": 121,
+              "tag": "les"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "le"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "百合"
+            },
+            {
+              "end": 142,
+              "start": 134,
+              "tag": "lesbian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hpyPPwSI7Y",
+              "end": 166,
+              "expanded_url": "https://x.com/fengzhengs00/status/2041117233901080693/video/1",
+              "media_key": "13_2041112564898357248",
+              "start": 143,
+              "url": "https://t.co/hpyPPwSI7Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041117233901080693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4286,
+          "impression_count": 68077,
+          "like_count": 7586,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 424
+        },
+        "reply_settings": "everyone",
+        "text": "看片笔记（韩国女同sm博主Object_01第一部分）     \n这个片段火了超级长的一段时间，但是应该很少有人看过8分钟完整版的。\n上下位的构图视角太完美了，指奸时掰屁股、吐口水时努力仰头，m的小细节也做的相当无敌。\n必看经典！！\n#女同 #les #le #百合 #lesbian https://t.co/hpyPPwSI7Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1758,
+          "following_count": 311,
+          "like_count": 2674,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 3050
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T13:31:40.000Z",
+        "description": "",
+        "id": "1879521565861376000",
+        "name": "fengzhengs00",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886062114378493952/JuLaYL-U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5168,
+          "following_count": 206,
+          "like_count": 158,
+          "listed_count": 7,
+          "media_count": 34,
+          "tweet_count": 53
+        },
+        "username": "fengzhengs00",
+        "verified": false
+      }
+    ]
+  }
+}

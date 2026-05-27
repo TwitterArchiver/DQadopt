@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2028823625894343116",
+    "created_at": "2026-03-05T08:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T09:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029475306709655700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1955590810030014464",
+          "start": 0,
+          "username": "Liang_hui_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029475306709655700",
+    "in_reply_to_user_id": "1955590810030014464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029474704000729604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liang_hui_ 注意身体啊，必要的时候建议去看精神科的物质依赖门诊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2028823625894343116",
+        "created_at": "2026-03-05T08:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T09:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029475306709655700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1955590810030014464",
+              "start": 0,
+              "username": "Liang_hui_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029475306709655700",
+        "in_reply_to_user_id": "1955590810030014464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029474704000729604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liang_hui_ 注意身体啊，必要的时候建议去看精神科的物质依赖门诊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955590810030014464",
+        "conversation_id": "2028823625894343116",
+        "created_at": "2026-03-05T08:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T09:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029474704000729604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029474704000729604",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029472877960151246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 真的很令人痛苦。权衡利弊后（在我还能权衡的时候），我选择每天抽烟，并向NCSF的管理员发骚扰邮件。我酗酒变少了，因为太小的时候就因为酗酒过度被送到急诊。我现在喝点就想吐。酗酒时时千万不要一起喝咖啡。血的教训"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 176,
+          "like_count": 981,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 1230
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T11:22:50.000Z",
+        "description": "lesbian🏳️‍🌈/sub/m/0.3\n此账号纯用来发牢骚和记录生活。请多关照。",
+        "id": "1955590810030014464",
+        "name": "Liang.. :-I",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955602082251309056/gVgo6kCo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 49,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 33
+        },
+        "username": "Liang_hui_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2015394006172323844",
+    "created_at": "2026-01-26T16:48:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T17:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015829109331697937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1996635053972156417",
+          "start": 0,
+          "username": "xijinpingbaby"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015829109331697937",
+    "in_reply_to_user_id": "1996635053972156417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015394006172323844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijinpingbaby 我去不早说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2015394006172323844",
+        "created_at": "2026-01-26T16:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T17:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015829109331697937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1996635053972156417",
+              "start": 0,
+              "username": "xijinpingbaby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015829109331697937",
+        "in_reply_to_user_id": "1996635053972156417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015394006172323844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinpingbaby 我去不早说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996635053972156417",
+        "conversation_id": "2015394006172323844",
+        "created_at": "2026-01-25T11:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T12:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015394006172323844"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015394006172323844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 92672,
+          "like_count": 1029,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "男生超级➕分的行为，快来看看自己中了几条： \n1.天生神力，扛两百斤麦子不换肩\n2. 大粪净化者，被大粪喷满全脸面不改色\n3.内冷外热，对自己人吝啬，对非洲兄弟慷慨解囊\n4.关爱老人，在胡锦涛开会不适时主动叫人搀扶他去看病\n5.韩系神颜，长得像都敏俊\n6.医学担当，以一己之力拉动中国器官移植行业"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我重生了，这一次我要夺回属于我的一切丨23le🌈1丨喜欢和可爱漂亮的女生互动🥰🥰🥰丨有喜欢的人不色色丨自伤碎碎念集中地",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8euxG"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 53,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 156
+        },
+        "url": "https://t.co/nFHbt8euxG",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-04T17:38:47.000Z",
+        "description": "爱毛tv  全x最尊重毛泽东之人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "习近平操你妈.com",
+                "end": 23,
+                "expanded_url": "http://xn--vjq3xy7v35ek6izl1e.com",
+                "start": 0,
+                "url": "https://t.co/tTAUWV49mU"
+              }
+            ]
+          }
+        },
+        "id": "1996635053972156417",
+        "location": "中南海",
+        "name": "夹边沟扛麦之神",
+        "pinned_tweet_id": "2015394006172323844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997657825921966080/mEA3Gh20_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 111,
+          "like_count": 3667,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 1671
+        },
+        "url": "https://t.co/tTAUWV49mU",
+        "username": "xijinpingbaby",
+        "verified": false
+      }
+    ]
+  }
+}

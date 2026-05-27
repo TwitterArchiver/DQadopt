@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2032041026391826664",
+    "created_at": "2026-03-12T10:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T11:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032041026391826664"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0ccultbot/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/0ccultbot/status/2031701722968527001",
+          "start": 7,
+          "url": "https://t.co/774616faie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032041026391826664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031701722968527001",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想吃dmt https://t.co/774616faie"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 476,
+        "media_key": "3_2031701678383345665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDIN6X2asAEEBjg.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2032041026391826664",
+        "created_at": "2026-03-12T10:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032041026391826664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0ccultbot/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/0ccultbot/status/2031701722968527001",
+              "start": 7,
+              "url": "https://t.co/774616faie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032041026391826664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031701722968527001",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想吃dmt https://t.co/774616faie"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031701678383345665"
+          ]
+        },
+        "author_id": "4606670113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031701722968527001",
+        "created_at": "2026-03-11T12:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T13:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031701722968527001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H4VAA99Osg",
+              "end": 23,
+              "expanded_url": "https://x.com/0ccultbot/status/2031701722968527001/photo/1",
+              "media_key": "3_2031701678383345665",
+              "start": 0,
+              "url": "https://t.co/H4VAA99Osg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031701722968527001",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 735,
+          "impression_count": 211754,
+          "like_count": 2883,
+          "quote_count": 55,
+          "reply_count": 75,
+          "retweet_count": 242
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/H4VAA99Osg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 233,
+          "like_count": 1434,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 1763
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-19T21:47:37.000Z",
+        "description": "Hidden symbols.",
+        "id": "4606670113",
+        "name": "occultbot",
+        "pinned_tweet_id": "1706131154460660001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969368583387168768/oYZmK0lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504294,
+          "following_count": 222,
+          "like_count": 0,
+          "listed_count": 1342,
+          "media_count": 100758,
+          "tweet_count": 186432
+        },
+        "username": "0ccultbot",
+        "verified": true
+      }
+    ]
+  }
+}

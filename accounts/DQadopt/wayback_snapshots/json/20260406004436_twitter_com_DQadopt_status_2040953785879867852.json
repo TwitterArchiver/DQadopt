@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2040728024837177347",
+    "created_at": "2026-04-06T00:44:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T01:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040953785879867852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1669940227165818880",
+          "start": 0,
+          "username": "LuWeiLiBei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040953785879867852",
+    "in_reply_to_user_id": "1669940227165818880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040843874189643781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuWeiLiBei 当然"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2040728024837177347",
+        "created_at": "2026-04-06T00:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T01:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040953785879867852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1669940227165818880",
+              "start": 0,
+              "username": "LuWeiLiBei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040953785879867852",
+        "in_reply_to_user_id": "1669940227165818880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040843874189643781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuWeiLiBei 当然"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669940227165818880",
+        "conversation_id": "2040728024837177347",
+        "created_at": "2026-04-05T17:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T18:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040843874189643781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040843874189643781",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040728024837177347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 可以吗🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1721,
+          "following_count": 305,
+          "like_count": 2434,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 2847
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-17T05:29:47.000Z",
+        "description": "社恐➕超爱焦虑版 啥都喜欢发｜INFJ- T｜搞艺术的乞丐｜无性恋",
+        "id": "1669940227165818880",
+        "name": "獭獭濑濑",
+        "pinned_tweet_id": "2038269154822848805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1669940695086551040/LdVoI2is_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 57,
+          "like_count": 952,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 293
+        },
+        "username": "LuWeiLiBei",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2009233751470129474",
+    "created_at": "2026-01-10T13:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T14:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009976616970272885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1977177887850872838",
+          "start": 0,
+          "username": "YUENWJ"
+        },
+        {
+          "end": 17,
+          "id": "1376813917561757702",
+          "start": 8,
+          "username": "TaoTie_s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009976616970272885",
+    "in_reply_to_user_id": "1977177887850872838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009295203518046398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YUENWJ @TaoTie_s 可以试试乳首责，有的女生可以乳头高潮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2009233751470129474",
+        "created_at": "2026-01-10T13:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T14:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009976616970272885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1977177887850872838",
+              "start": 0,
+              "username": "YUENWJ"
+            },
+            {
+              "end": 17,
+              "id": "1376813917561757702",
+              "start": 8,
+              "username": "TaoTie_s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009976616970272885",
+        "in_reply_to_user_id": "1977177887850872838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009295203518046398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YUENWJ @TaoTie_s 可以试试乳首责，有的女生可以乳头高潮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977177887850872838",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Replays of classic NFL games.",
+              "id": "10000612773",
+              "name": "NFL Football"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "689566306014617600",
+              "name": "American football"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "689566305741967360",
+              "name": "New York Jets"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "689566314835259392",
+              "name": "NFL"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566305741967360",
+              "name": "New York Jets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566306014617600",
+              "name": "American football"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566314835259392",
+              "name": "NFL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2009233751470129474",
+        "created_at": "2026-01-08T16:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T17:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009295203518046398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1376813917561757702",
+              "start": 0,
+              "username": "TaoTie_s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009295203518046398",
+        "in_reply_to_user_id": "1376813917561757702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1157,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009233751470129474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaoTie_s 和nyj都是入体超过一根手指就承受不了的程度，以体外为主，好多网上看到的玩法都尝试不了，想问问这样是正常的吗（两个人都年纪不小见识不多，没在现实中见过除了彼此以外的b…）还有就是有什么体外的常规以外的玩法吗🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我重生了，这一次我要夺回属于我的一切丨23le🌈1丨喜欢和可爱漂亮的女生互动🥰🥰🥰丨有喜欢的人不色色丨自伤化学原料滥用碎碎念集中地",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8euxG"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 42,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 85
+        },
+        "url": "https://t.co/nFHbt8euxG",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T01:02:47.000Z",
+        "description": "",
+        "id": "1977177887850872838",
+        "name": "YUEN吃三文鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977216239589265408/omPZJWXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 65,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "YUENWJ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-30T08:30:00.000Z",
+        "description": "les🌈 0S/女权主义/INTP/纯爱战士 dom偏刑主S    ❤️已有对象\n💰接推广or约稿定制文 （推广自辨）",
+        "id": "1376813917561757702",
+        "name": "饕餮s",
+        "pinned_tweet_id": "1870107005467406457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1377498476674605058/Eeg1Jmac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150686,
+          "following_count": 100,
+          "like_count": 8566,
+          "listed_count": 149,
+          "media_count": 243,
+          "tweet_count": 5666
+        },
+        "username": "TaoTie_s",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2028788136126665108",
+    "created_at": "2026-03-04T10:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T11:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029143232664551553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1899704475880751104",
+          "start": 0,
+          "username": "D4ncingc4p"
+        },
+        {
+          "end": 23,
+          "id": "1889946249018916864",
+          "start": 12,
+          "username": "copy_ziyun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029143232664551553",
+    "in_reply_to_user_id": "1899704475880751104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029139355294646692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D4ncingc4p @copy_ziyun 我觉得爱与责任挂钩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2028788136126665108",
+        "created_at": "2026-03-04T10:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T11:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029143232664551553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1899704475880751104",
+              "start": 0,
+              "username": "D4ncingc4p"
+            },
+            {
+              "end": 23,
+              "id": "1889946249018916864",
+              "start": 12,
+              "username": "copy_ziyun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029143232664551553",
+        "in_reply_to_user_id": "1899704475880751104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029139355294646692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D4ncingc4p @copy_ziyun 我觉得爱与责任挂钩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899704475880751104",
+        "conversation_id": "2028788136126665108",
+        "created_at": "2026-03-04T10:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T11:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029139355294646692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            },
+            {
+              "end": 20,
+              "id": "1889946249018916864",
+              "start": 9,
+              "username": "copy_ziyun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029139355294646692",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028875216471159260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt @copy_ziyun 你的思想才是正确的，爱不只有sex，还意味着其他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 165,
+          "like_count": 839,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1130
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T06:10:46.000Z",
+        "description": "什么都发，记录生活\n偶尔做饭，不想洗碗",
+        "id": "1899704475880751104",
+        "location": "床上",
+        "name": "Joe Barbarian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025839336336265216/Z4tZWELa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 12,
+          "like_count": 577,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 455
+        },
+        "username": "D4ncingc4p",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T07:54:50.000Z",
+        "description": "忧郁的同人女 男的关注我没格调",
+        "id": "1889946249018916864",
+        "name": "我踏马惹谁了",
+        "pinned_tweet_id": "2014689887312843184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014671724399435776/Ryru5Ny1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 45,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 81
+        },
+        "username": "copy_ziyun",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033726956517445632",
+        "3_2033726956571922435",
+        "3_2033726956517412864"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2033726967317680439",
+    "created_at": "2026-03-17T02:07:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T03:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033726967317680439"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cqvG1lEdUi",
+          "end": 117,
+          "expanded_url": "https://x.com/DQadopt/status/2033726967317680439/photo/1",
+          "media_key": "3_2033726956517445632",
+          "start": 94,
+          "url": "https://t.co/cqvG1lEdUi"
+        },
+        {
+          "display_url": "pic.x.com/cqvG1lEdUi",
+          "end": 117,
+          "expanded_url": "https://x.com/DQadopt/status/2033726967317680439/photo/1",
+          "media_key": "3_2033726956571922435",
+          "start": 94,
+          "url": "https://t.co/cqvG1lEdUi"
+        },
+        {
+          "display_url": "pic.x.com/cqvG1lEdUi",
+          "end": 117,
+          "expanded_url": "https://x.com/DQadopt/status/2033726967317680439/photo/1",
+          "media_key": "3_2033726956517412864",
+          "start": 94,
+          "url": "https://t.co/cqvG1lEdUi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033726967317680439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前几天在自慰看片的时候，0扇了1一巴掌把我看爽了，被喜欢的人扇脸好幸福的吧真的，片里0被折磨地受不了扇了1一巴掌好舒服啊\n以前的我让她受委屈了，所以见面了能打我就好了，她也能解气一部分吧 https://t.co/cqvG1lEdUi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 646,
+        "media_key": "3_2033726956517445632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDk_5E1b0AANnD_.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1845,
+        "media_key": "3_2033726956571922435",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDk_5FCbEAMJiEa.jpg",
+        "width": 1001
+      },
+      {
+        "height": 1684,
+        "media_key": "3_2033726956517412864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDk_5E1bUAAx5Rp.jpg",
+        "width": 1011
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033726956517445632",
+            "3_2033726956571922435",
+            "3_2033726956517412864"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033726967317680439",
+        "created_at": "2026-03-17T02:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T03:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033726967317680439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqvG1lEdUi",
+              "end": 117,
+              "expanded_url": "https://x.com/DQadopt/status/2033726967317680439/photo/1",
+              "media_key": "3_2033726956517445632",
+              "start": 94,
+              "url": "https://t.co/cqvG1lEdUi"
+            },
+            {
+              "display_url": "pic.x.com/cqvG1lEdUi",
+              "end": 117,
+              "expanded_url": "https://x.com/DQadopt/status/2033726967317680439/photo/1",
+              "media_key": "3_2033726956571922435",
+              "start": 94,
+              "url": "https://t.co/cqvG1lEdUi"
+            },
+            {
+              "display_url": "pic.x.com/cqvG1lEdUi",
+              "end": 117,
+              "expanded_url": "https://x.com/DQadopt/status/2033726967317680439/photo/1",
+              "media_key": "3_2033726956517412864",
+              "start": 94,
+              "url": "https://t.co/cqvG1lEdUi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033726967317680439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前几天在自慰看片的时候，0扇了1一巴掌把我看爽了，被喜欢的人扇脸好幸福的吧真的，片里0被折磨地受不了扇了1一巴掌好舒服啊\n以前的我让她受委屈了，所以见面了能打我就好了，她也能解气一部分吧 https://t.co/cqvG1lEdUi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 242,
+          "like_count": 1771,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 2037
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

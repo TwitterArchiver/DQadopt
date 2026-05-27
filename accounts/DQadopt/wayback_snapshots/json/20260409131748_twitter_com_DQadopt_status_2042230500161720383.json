@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2042084054955389218",
+    "created_at": "2026-04-09T13:17:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T14:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042230500161720383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1404616619762929666",
+          "start": 0,
+          "username": "Lucy10136"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042230500161720383",
+    "in_reply_to_user_id": "1404616619762929666",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042229911566569623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lucy10136 好👌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2042084054955389218",
+        "created_at": "2026-04-09T13:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042230500161720383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1404616619762929666",
+              "start": 0,
+              "username": "Lucy10136"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042230500161720383",
+        "in_reply_to_user_id": "1404616619762929666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042229911566569623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lucy10136 好👌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1404616619762929666",
+        "conversation_id": "2042084054955389218",
+        "created_at": "2026-04-09T13:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042229911566569623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042229911566569623",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042084054955389218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 其实我想说的是，你还是要对自己好一点吧，下次可千万不要再在手上划了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 312,
+          "like_count": 2718,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 3093
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-15T01:48:17.000Z",
+        "description": "😍热爱小玩具，喜欢就来关注我！！！舞萌DX我们喜欢你❤️USAO无敌",
+        "id": "1404616619762929666",
+        "name": "舞萌第一神小白💙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032156176990027776/hFCnxkhp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 499,
+          "like_count": 2157,
+          "listed_count": 3,
+          "media_count": 923,
+          "tweet_count": 6630
+        },
+        "username": "Lucy10136",
+        "verified": false
+      }
+    ]
+  }
+}

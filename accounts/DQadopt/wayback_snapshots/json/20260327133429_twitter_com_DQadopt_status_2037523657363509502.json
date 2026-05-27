@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037523557509632001"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2037523657363509502",
+    "created_at": "2026-03-27T13:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T14:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037523657363509502"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qP5kz7Bx9Z",
+          "end": 103,
+          "expanded_url": "https://x.com/DQadopt/status/2037523657363509502/photo/1",
+          "media_key": "3_2037523557509632001",
+          "start": 80,
+          "url": "https://t.co/qP5kz7Bx9Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037523657363509502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前两年读完的，看到你的提问去补了一下思考，唉最近问推荐书籍的人好多，但是我发现自己的阅览量说不上寥寥无几但也屈指可数，实在是不太好给出非常适合且专业的见解呐！ https://t.co/qP5kz7Bx9Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2037523557509632001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEa84VraEAECiUj.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037523557509632001"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2037523657363509502",
+        "created_at": "2026-03-27T13:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037523657363509502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qP5kz7Bx9Z",
+              "end": 103,
+              "expanded_url": "https://x.com/DQadopt/status/2037523657363509502/photo/1",
+              "media_key": "3_2037523557509632001",
+              "start": 80,
+              "url": "https://t.co/qP5kz7Bx9Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037523657363509502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前两年读完的，看到你的提问去补了一下思考，唉最近问推荐书籍的人好多，但是我发现自己的阅览量说不上寥寥无几但也屈指可数，实在是不太好给出非常适合且专业的见解呐！ https://t.co/qP5kz7Bx9Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是明恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 264,
+          "like_count": 2250,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 2500
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

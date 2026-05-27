@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2015278901619310597",
+    "created_at": "2026-01-27T08:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T09:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016070176056521108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1893671443566903296",
+          "start": 0,
+          "username": "Lin_su1102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016070176056521108",
+    "in_reply_to_user_id": "1893671443566903296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015278901619310597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lin_su1102 男的吧，男的都这样，纯脑瘫，321上id我是你的雇佣军"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015278898360074240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_e1ewwXwAACF3U.jpg",
+        "width": 928
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015278897160765440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_e1esSbwAAM9KU.jpg",
+        "width": 928
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015278898314174464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_e1ewlbYAALUaC.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2015278901619310597",
+        "created_at": "2026-01-27T08:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T09:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016070176056521108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1893671443566903296",
+              "start": 0,
+              "username": "Lin_su1102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016070176056521108",
+        "in_reply_to_user_id": "1893671443566903296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015278901619310597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lin_su1102 男的吧，男的都这样，纯脑瘫，321上id我是你的雇佣军"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015278898360074240",
+            "3_2015278897160765440",
+            "3_2015278898314174464"
+          ]
+        },
+        "author_id": "1893671443566903296",
+        "conversation_id": "2015278901619310597",
+        "created_at": "2026-01-25T04:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T05:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015278901619310597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KZyDWVeAQm",
+              "end": 152,
+              "expanded_url": "https://x.com/Lin_su1102/status/2015278901619310597/photo/1",
+              "media_key": "3_2015278898360074240",
+              "start": 129,
+              "url": "https://t.co/KZyDWVeAQm"
+            },
+            {
+              "display_url": "pic.x.com/KZyDWVeAQm",
+              "end": 152,
+              "expanded_url": "https://x.com/Lin_su1102/status/2015278901619310597/photo/1",
+              "media_key": "3_2015278897160765440",
+              "start": 129,
+              "url": "https://t.co/KZyDWVeAQm"
+            },
+            {
+              "display_url": "pic.x.com/KZyDWVeAQm",
+              "end": 152,
+              "expanded_url": "https://x.com/Lin_su1102/status/2015278901619310597/photo/1",
+              "media_key": "3_2015278898314174464",
+              "start": 129,
+              "url": "https://t.co/KZyDWVeAQm"
+            },
+            {
+              "display_url": "x.com/yui80427542945…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/yui804275429451/status/2015044919619170487",
+              "start": 153,
+              "url": "https://t.co/Gm3zLFDzZw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015278901619310597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 466,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015044919619170487",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我同意我他妈刚刚就碰见一个，我他妈好心好意回复他的问题一开始就表明没法答应他的要求结果这个贱货突然给我来了一句你没有精神疾病你只是想给自己的爽找个借口。恶心死了恶心死了恶心死了恶心死了恶心死了恶心死了恶心死了恶心死了恶心死了恶心死了恶心死了恶心死了恶心死了 https://t.co/KZyDWVeAQm https://t.co/Gm3zLFDzZw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我重生了，这一次我要夺回属于我的一切丨23le🌈1丨喜欢和可爱漂亮的女生互动🥰🥰🥰丨有喜欢的人不色色丨自伤碎碎念集中地",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8euxG"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 53,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 166
+        },
+        "url": "https://t.co/nFHbt8euxG",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T14:37:21.000Z",
+        "description": "我是鳞溯  \n我秽土转生了这是鳞溯2.0！你们可以接着叫我小溯！女孩子快来找我互呀！🚪52，我接伤口定制",
+        "id": "1893671443566903296",
+        "location": "Tokyo-to, Japan",
+        "name": "溯（接伤口定制）",
+        "pinned_tweet_id": "2009627077297991971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910981379568918528/eXWWa22__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 87,
+          "like_count": 1752,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 315
+        },
+        "username": "Lin_su1102",
+        "verified": false
+      }
+    ]
+  }
+}

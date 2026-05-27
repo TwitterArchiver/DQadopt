@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2051669162335023145",
+    "created_at": "2026-05-06T14:03:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T15:03:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052026360697409630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1713390803438170112",
+          "start": 0,
+          "username": "0711C1mo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052026360697409630",
+    "in_reply_to_user_id": "1713390803438170112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052019959547715623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0711C1mo 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2051669162335023145",
+        "created_at": "2026-05-06T14:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052026360697409630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1713390803438170112",
+              "start": 0,
+              "username": "0711C1mo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052026360697409630",
+        "in_reply_to_user_id": "1713390803438170112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052019959547715623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0711C1mo 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713390803438170112",
+        "conversation_id": "2051669162335023145",
+        "created_at": "2026-05-06T13:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052019959547715623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052019959547715623",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051669162335023145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 祝你们要一直幸福ww🩵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2263,
+          "following_count": 342,
+          "like_count": 3343,
+          "listed_count": 1,
+          "media_count": 360,
+          "tweet_count": 3883
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-15T03:06:27.000Z",
+        "description": "自伤 sub/m 展示一些“作品”和碎碎念 同类互fo",
+        "id": "1713390803438170112",
+        "location": "⚰️",
+        "name": "今",
+        "pinned_tweet_id": "2025223056004641212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025230355943309313/5ZEuJa5a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 158,
+          "like_count": 2552,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 540
+        },
+        "username": "0711C1mo",
+        "verified": false
+      }
+    ]
+  }
+}

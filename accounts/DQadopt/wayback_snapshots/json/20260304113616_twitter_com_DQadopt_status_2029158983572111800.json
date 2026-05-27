@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2029030324701958320",
+    "created_at": "2026-03-04T11:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T12:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029158983572111800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1515351048486998019",
+          "start": 0,
+          "username": "nobysassa27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029158983572111800",
+    "in_reply_to_user_id": "1515351048486998019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029158385422352415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nobysassa27 你是什么主义呢？以及有特别偏爱的哲学家吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2029030324701958320",
+        "created_at": "2026-03-04T11:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T12:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029158983572111800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1515351048486998019",
+              "start": 0,
+              "username": "nobysassa27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029158983572111800",
+        "in_reply_to_user_id": "1515351048486998019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029158385422352415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nobysassa27 你是什么主义呢？以及有特别偏爱的哲学家吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515351048486998019",
+        "conversation_id": "2029030324701958320",
+        "created_at": "2026-03-04T11:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T12:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029158385422352415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029158385422352415",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029150051549990999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 另外西哲可以推荐一些你非常认可的吗？我爱看这类hhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 167,
+          "like_count": 862,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 1146
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T15:27:12.000Z",
+        "description": "我不知道我是谁，你帮我记住就好🍂",
+        "id": "1515351048486998019",
+        "location": "Santa Clara, CA",
+        "name": "Sassa🐦",
+        "pinned_tweet_id": "2004267648650301680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014537300365983744/N3TOWi4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 441,
+          "like_count": 5205,
+          "listed_count": 1,
+          "media_count": 505,
+          "tweet_count": 7554
+        },
+        "username": "nobysassa27",
+        "verified": false
+      }
+    ]
+  }
+}

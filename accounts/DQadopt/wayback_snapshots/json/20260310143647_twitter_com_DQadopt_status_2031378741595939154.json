@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031378725774962690"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2031378741595939154",
+    "created_at": "2026-03-10T14:36:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T15:36:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031378741595939154"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 127,
+          "start": 122,
+          "tag": "自傷行為"
+        },
+        {
+          "end": 134,
+          "start": 128,
+          "tag": "shtwt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F5xHQx8f3F",
+          "end": 158,
+          "expanded_url": "https://x.com/DQadopt/status/2031378741595939154/photo/1",
+          "media_key": "3_2031378725774962690",
+          "start": 135,
+          "url": "https://t.co/F5xHQx8f3F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031378741595939154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "送朋友的三幅血画，已经褪色\n经过允许重新发一下没打码的第二张\n朋友被父亲侵犯，母亲杀了父亲坐牢去了，现在是我陪着她\n这三张都是经过她要求绘制的\n我很开心，我的血液能受到人类的青睐，实属荣幸\n朋友，我们痛苦的活着，且不被爱，也许这就是我们的命运\n#自傷行為 #shtwt https://t.co/F5xHQx8f3F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2031378725774962690",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDDoMDoaMAIZjVh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031378725774962690"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2031378741595939154",
+        "created_at": "2026-03-10T14:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031378741595939154"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 122,
+              "tag": "自傷行為"
+            },
+            {
+              "end": 134,
+              "start": 128,
+              "tag": "shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F5xHQx8f3F",
+              "end": 158,
+              "expanded_url": "https://x.com/DQadopt/status/2031378741595939154/photo/1",
+              "media_key": "3_2031378725774962690",
+              "start": 135,
+              "url": "https://t.co/F5xHQx8f3F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031378741595939154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "送朋友的三幅血画，已经褪色\n经过允许重新发一下没打码的第二张\n朋友被父亲侵犯，母亲杀了父亲坐牢去了，现在是我陪着她\n这三张都是经过她要求绘制的\n我很开心，我的血液能受到人类的青睐，实属荣幸\n朋友，我们痛苦的活着，且不被爱，也许这就是我们的命运\n#自傷行為 #shtwt https://t.co/F5xHQx8f3F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 208,
+          "like_count": 1354,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 1555
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

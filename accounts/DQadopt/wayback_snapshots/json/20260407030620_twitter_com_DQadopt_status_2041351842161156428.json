@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2040786186340581622",
+    "created_at": "2026-04-07T03:06:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T04:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041351842161156428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1895566316100288512",
+          "start": 0,
+          "username": "momo1TAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041351842161156428",
+    "in_reply_to_user_id": "1895566316100288512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040786186340581622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momo1TAT omg翻了一下你主页感觉好惨。。。。九个月也太惨了吧但可能对方就是性冷淡，我心选姐也是呃呃呃呃不过我会溺爱她的一切，我自己解决生理需求也行。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2040786186340581622",
+        "created_at": "2026-04-07T03:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T04:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041351842161156428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1895566316100288512",
+              "start": 0,
+              "username": "momo1TAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041351842161156428",
+        "in_reply_to_user_id": "1895566316100288512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040786186340581622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momo1TAT omg翻了一下你主页感觉好惨。。。。九个月也太惨了吧但可能对方就是性冷淡，我心选姐也是呃呃呃呃不过我会溺爱她的一切，我自己解决生理需求也行。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895566316100288512",
+        "conversation_id": "2040786186340581622",
+        "created_at": "2026-04-05T13:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040786186340581622"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "les"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040786186340581622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3187,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想哭好崩溃 和女朋友九个月没有性生活了 但是又不舍得分手..我到底该怎么办…..#les #女同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1740,
+          "following_count": 305,
+          "like_count": 2490,
+          "listed_count": 1,
+          "media_count": 299,
+          "tweet_count": 2904
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T20:07:25.000Z",
+        "description": "les/switch 男的关注4000➕",
+        "id": "1895566316100288512",
+        "name": "L",
+        "pinned_tweet_id": "1927614693985964512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895568985447383041/3z5QEc5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1696,
+          "following_count": 52,
+          "like_count": 361,
+          "listed_count": 5,
+          "media_count": 3,
+          "tweet_count": 56
+        },
+        "username": "momo1TAT",
+        "verified": false
+      }
+    ]
+  }
+}

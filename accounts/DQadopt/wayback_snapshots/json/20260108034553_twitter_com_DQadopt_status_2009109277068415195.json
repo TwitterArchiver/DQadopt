@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009109268025495552"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2009109277068415195",
+    "created_at": "2026-01-08T03:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T04:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009109277068415195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sSPVlEqWXO",
+          "end": 97,
+          "expanded_url": "https://x.com/DQadopt/status/2009109277068415195/photo/1",
+          "media_key": "3_2009109268025495552",
+          "start": 74,
+          "url": "https://t.co/sSPVlEqWXO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009109277068415195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你好，我是查拉图斯特拉/惶然录\n如果你对我的精神世界感兴趣，👇\n这个推特号用来看黄和发碎碎念\n买自残假照也可以在这里问我，没有其他联系方式，不闲聊 https://t.co/sSPVlEqWXO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 809,
+        "media_key": "3_2009109268025495552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-HKPAua0AAM0rH.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009109268025495552"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2009109277068415195",
+        "created_at": "2026-01-08T03:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T04:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009109277068415195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sSPVlEqWXO",
+              "end": 97,
+              "expanded_url": "https://x.com/DQadopt/status/2009109277068415195/photo/1",
+              "media_key": "3_2009109268025495552",
+              "start": 74,
+              "url": "https://t.co/sSPVlEqWXO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009109277068415195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你好，我是查拉图斯特拉/惶然录\n如果你对我的精神世界感兴趣，👇\n这个推特号用来看黄和发碎碎念\n买自残假照也可以在这里问我，没有其他联系方式，不闲聊 https://t.co/sSPVlEqWXO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我重生了，这一次我要夺回属于我的一切丨23le🌈1丨喜欢和可爱漂亮的女生互动🥰🥰🥰丨有喜欢的人不色色丨自伤化学原料滥用碎碎念集中地",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8euxG"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 35,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 43
+        },
+        "url": "https://t.co/nFHbt8euxG",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

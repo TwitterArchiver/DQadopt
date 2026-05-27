@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2030853144658526380",
+    "created_at": "2026-03-09T16:02:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T17:02:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031037858589626389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1862861397304225792",
+          "start": 0,
+          "username": "Z3r0_404Error"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031037858589626389",
+    "in_reply_to_user_id": "1862861397304225792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031036173305749549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Z3r0_404Error 谢谢你宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2030853144658526380",
+        "created_at": "2026-03-09T16:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T17:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031037858589626389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1862861397304225792",
+              "start": 0,
+              "username": "Z3r0_404Error"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031037858589626389",
+        "in_reply_to_user_id": "1862861397304225792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031036173305749549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z3r0_404Error 谢谢你宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862861397304225792",
+        "conversation_id": "2030853144658526380",
+        "created_at": "2026-03-09T15:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T16:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031036173305749549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031036173305749549",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030853144658526380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 其實沒關係的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 207,
+          "like_count": 1264,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 1491
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T14:14:09.000Z",
+        "description": "雙相地雷女，Ask me anything: https://t.co/z8qqfA6E0B 有點迴避型人格障礙症，互fol請DM THX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%B5%90%E6%9…",
+                "end": 46,
+                "expanded_url": "https://ngl.link/%E7%B5%90%E6%9C%88",
+                "start": 23,
+                "url": "https://t.co/z8qqfA6E0B"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%B5%90%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%B5%90%E6%9C%88",
+                "start": 0,
+                "url": "https://t.co/z8qqfA6E0B"
+              }
+            ]
+          }
+        },
+        "id": "1862861397304225792",
+        "location": "City of shore",
+        "name": "Z3r0",
+        "pinned_tweet_id": "1915741545405517889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015776978453110784/xnyGp77z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 156,
+          "like_count": 14592,
+          "listed_count": 2,
+          "media_count": 450,
+          "tweet_count": 4335
+        },
+        "url": "https://t.co/z8qqfA6E0B",
+        "username": "Z3r0_404Error",
+        "verified": false
+      }
+    ]
+  }
+}

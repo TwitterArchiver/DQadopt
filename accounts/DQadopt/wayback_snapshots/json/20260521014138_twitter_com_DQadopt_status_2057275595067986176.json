@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2054223280014532801",
+    "created_at": "2026-05-21T01:41:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T02:41:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057275595067986176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2037516161051447296",
+          "start": 0,
+          "username": "AzideChen57041"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057275595067986176",
+    "in_reply_to_user_id": "2037516161051447296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057199893169713569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AzideChen57041 是的呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2054223280014532801",
+        "created_at": "2026-05-21T01:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T02:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057275595067986176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2037516161051447296",
+              "start": 0,
+              "username": "AzideChen57041"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057275595067986176",
+        "in_reply_to_user_id": "2037516161051447296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057199893169713569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AzideChen57041 是的呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037516161051447296",
+        "conversation_id": "2054223280014532801",
+        "created_at": "2026-05-20T20:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T21:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057199893169713569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057199893169713569",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054223280014532801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 爱在生长"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2279,
+          "following_count": 338,
+          "like_count": 3402,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 4053
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T13:05:11.000Z",
+        "description": "les 男拳和男拳坐骑互动看主页即刻全家暴毙喵😉",
+        "id": "2037516161051447296",
+        "name": "Azide_17",
+        "pinned_tweet_id": "2054910121323770302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054527862410182658/sPmSV7R7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 88,
+          "like_count": 4062,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 2748
+        },
+        "username": "AzideChen57041",
+        "verified": false
+      }
+    ]
+  }
+}

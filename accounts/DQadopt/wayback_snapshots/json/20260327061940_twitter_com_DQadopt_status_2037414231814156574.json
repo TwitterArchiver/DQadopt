@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037414217478000640",
+        "3_2037414217490542592",
+        "3_2037414217486381056",
+        "3_2037414217482117120"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2037414231814156574",
+    "created_at": "2026-03-27T06:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T07:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037414231814156574"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/inLFwFb1um",
+          "end": 109,
+          "expanded_url": "https://x.com/DQadopt/status/2037414231814156574/photo/1",
+          "media_key": "3_2037414217478000640",
+          "start": 86,
+          "url": "https://t.co/inLFwFb1um"
+        },
+        {
+          "display_url": "pic.x.com/inLFwFb1um",
+          "end": 109,
+          "expanded_url": "https://x.com/DQadopt/status/2037414231814156574/photo/1",
+          "media_key": "3_2037414217490542592",
+          "start": 86,
+          "url": "https://t.co/inLFwFb1um"
+        },
+        {
+          "display_url": "pic.x.com/inLFwFb1um",
+          "end": 109,
+          "expanded_url": "https://x.com/DQadopt/status/2037414231814156574/photo/1",
+          "media_key": "3_2037414217486381056",
+          "start": 86,
+          "url": "https://t.co/inLFwFb1um"
+        },
+        {
+          "display_url": "pic.x.com/inLFwFb1um",
+          "end": 109,
+          "expanded_url": "https://x.com/DQadopt/status/2037414231814156574/photo/1",
+          "media_key": "3_2037414217482117120",
+          "start": 86,
+          "url": "https://t.co/inLFwFb1um"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037414231814156574",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晒一下我的女儿！从23年12月份开始玩一直用到现在没变过的装扮，已经算是oc了！一直一个人嘿嘿嘿孤狼也特别好玩，我是剧情党，有喜欢九尾大狐狸祥瑞的可以加我一起逛街hhhh https://t.co/inLFwFb1um"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2037414217478000640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZZb6UbUAAUq-t.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1423,
+        "media_key": "3_2037414217490542592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZZb6XasAAw6bf.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1292,
+        "media_key": "3_2037414217486381056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZZb6WbMAAOhsP.jpg",
+        "width": 1861
+      },
+      {
+        "height": 1861,
+        "media_key": "3_2037414217482117120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZZb6VaIAAHrLk.jpg",
+        "width": 1292
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037414217478000640",
+            "3_2037414217490542592",
+            "3_2037414217486381056",
+            "3_2037414217482117120"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037414231814156574",
+        "created_at": "2026-03-27T06:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037414231814156574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/inLFwFb1um",
+              "end": 109,
+              "expanded_url": "https://x.com/DQadopt/status/2037414231814156574/photo/1",
+              "media_key": "3_2037414217478000640",
+              "start": 86,
+              "url": "https://t.co/inLFwFb1um"
+            },
+            {
+              "display_url": "pic.x.com/inLFwFb1um",
+              "end": 109,
+              "expanded_url": "https://x.com/DQadopt/status/2037414231814156574/photo/1",
+              "media_key": "3_2037414217490542592",
+              "start": 86,
+              "url": "https://t.co/inLFwFb1um"
+            },
+            {
+              "display_url": "pic.x.com/inLFwFb1um",
+              "end": 109,
+              "expanded_url": "https://x.com/DQadopt/status/2037414231814156574/photo/1",
+              "media_key": "3_2037414217486381056",
+              "start": 86,
+              "url": "https://t.co/inLFwFb1um"
+            },
+            {
+              "display_url": "pic.x.com/inLFwFb1um",
+              "end": 109,
+              "expanded_url": "https://x.com/DQadopt/status/2037414231814156574/photo/1",
+              "media_key": "3_2037414217482117120",
+              "start": 86,
+              "url": "https://t.co/inLFwFb1um"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037414231814156574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晒一下我的女儿！从23年12月份开始玩一直用到现在没变过的装扮，已经算是oc了！一直一个人嘿嘿嘿孤狼也特别好玩，我是剧情党，有喜欢九尾大狐狸祥瑞的可以加我一起逛街hhhh https://t.co/inLFwFb1um"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是明恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 263,
+          "like_count": 2245,
+          "listed_count": 0,
+          "media_count": 276,
+          "tweet_count": 2499
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019971568403701760"
+      ],
+      "media_source_tweet_id": [
+        "2019971571641663525"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2020057611295686837",
+    "created_at": "2026-02-07T08:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T09:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020057611295686837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874612902721941504",
+          "start": 3,
+          "username": "DailyYuriGL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a43OEi8OGw",
+          "end": 40,
+          "expanded_url": "https://x.com/DailyYuriGL/status/2019971571641663525/photo/1",
+          "media_key": "3_2019971568403701760",
+          "start": 17,
+          "url": "https://t.co/a43OEi8OGw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020057611295686837",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 252
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019971571641663525",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DailyYuriGL: https://t.co/a43OEi8OGw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2019971568403701760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAhhcG8XYAAEiUC.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019971568403701760"
+          ],
+          "media_source_tweet_id": [
+            "2019971571641663525"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2020057611295686837",
+        "created_at": "2026-02-07T08:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T09:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020057611295686837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874612902721941504",
+              "start": 3,
+              "username": "DailyYuriGL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a43OEi8OGw",
+              "end": 40,
+              "expanded_url": "https://x.com/DailyYuriGL/status/2019971571641663525/photo/1",
+              "media_key": "3_2019971568403701760",
+              "start": 17,
+              "url": "https://t.co/a43OEi8OGw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020057611295686837",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 252
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019971571641663525",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DailyYuriGL: https://t.co/a43OEi8OGw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019971568403701760"
+          ]
+        },
+        "author_id": "1874612902721941504",
+        "conversation_id": "2019971571641663525",
+        "created_at": "2026-02-07T03:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T04:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019971571641663525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a43OEi8OGw",
+              "end": 23,
+              "expanded_url": "https://x.com/DailyYuriGL/status/2019971571641663525/photo/1",
+              "media_key": "3_2019971568403701760",
+              "start": 0,
+              "url": "https://t.co/a43OEi8OGw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019971571641663525",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 480,
+          "impression_count": 28736,
+          "like_count": 3655,
+          "quote_count": 8,
+          "reply_count": 3,
+          "retweet_count": 252
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/a43OEi8OGw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 73,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 338
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T00:25:26.000Z",
+        "description": "Daily Girls Love Content! 👩‍❤️‍💋‍👩\nDMs Open for Submissions!! ❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "DailyYuri.straw.page",
+                "end": 23,
+                "expanded_url": "http://DailyYuri.straw.page",
+                "start": 0,
+                "url": "https://t.co/ZdxxUSHSjq"
+              }
+            ]
+          }
+        },
+        "id": "1874612902721941504",
+        "location": "Yuri! 💞",
+        "name": "Daily Yuri Content",
+        "pinned_tweet_id": "2019237264241619090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874618092707307520/icIge1sF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58283,
+          "following_count": 3535,
+          "like_count": 15332,
+          "listed_count": 50,
+          "media_count": 439,
+          "tweet_count": 2031
+        },
+        "url": "https://t.co/ZdxxUSHSjq",
+        "username": "DailyYuriGL",
+        "verified": false
+      }
+    ]
+  }
+}

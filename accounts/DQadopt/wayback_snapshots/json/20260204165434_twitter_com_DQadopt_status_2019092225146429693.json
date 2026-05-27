@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019092211145822208"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2019092225146429693",
+    "created_at": "2026-02-04T16:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T17:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019092225146429693"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HbRJV7DtzO",
+          "end": 86,
+          "expanded_url": "https://x.com/DQadopt/status/2019092225146429693/photo/1",
+          "media_key": "3_2019092211145822208",
+          "start": 63,
+          "url": "https://t.co/HbRJV7DtzO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019092225146429693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和她听了一晚上歌，她满脑子都想着她磕的cp，我满脑子想着她，嗯，但是我很知足，她太可爱了…..嗯嗯今天也是喜欢你的一天，小鸟 https://t.co/HbRJV7DtzO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019092211145822208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAVBqx4a0AACIHW.jpg",
+        "width": 1126
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019092211145822208"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2019092225146429693",
+        "created_at": "2026-02-04T16:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T17:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019092225146429693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HbRJV7DtzO",
+              "end": 86,
+              "expanded_url": "https://x.com/DQadopt/status/2019092225146429693/photo/1",
+              "media_key": "3_2019092211145822208",
+              "start": 63,
+              "url": "https://t.co/HbRJV7DtzO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019092225146429693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和她听了一晚上歌，她满脑子都想着她磕的cp，我满脑子想着她，嗯，但是我很知足，她太可爱了…..嗯嗯今天也是喜欢你的一天，小鸟 https://t.co/HbRJV7DtzO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 64,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 299
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

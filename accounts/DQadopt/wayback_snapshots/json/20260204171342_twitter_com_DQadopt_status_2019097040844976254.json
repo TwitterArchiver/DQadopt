@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019055718872260609"
+      ],
+      "media_source_tweet_id": [
+        "2019055738794959214"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2019097040844976254",
+    "created_at": "2026-02-04T17:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T18:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019097040844976254"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 14,
+          "tag": "超かぐや姫"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1040597824306462720",
+          "start": 3,
+          "username": "qingwuwu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PrdkNcyjaP",
+          "end": 44,
+          "expanded_url": "https://x.com/qingwuwu/status/2019055738794959214/photo/1",
+          "media_key": "3_2019055718872260609",
+          "start": 21,
+          "url": "https://t.co/PrdkNcyjaP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019097040844976254",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 879
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019055738794959214",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qingwuwu: #超かぐや姫 https://t.co/PrdkNcyjaP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1675,
+        "media_key": "3_2019055718872260609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAUgepkaIAESMnU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019055718872260609"
+          ],
+          "media_source_tweet_id": [
+            "2019055738794959214"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2019097040844976254",
+        "created_at": "2026-02-04T17:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T18:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019097040844976254"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1040597824306462720",
+              "start": 3,
+              "username": "qingwuwu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PrdkNcyjaP",
+              "end": 44,
+              "expanded_url": "https://x.com/qingwuwu/status/2019055738794959214/photo/1",
+              "media_key": "3_2019055718872260609",
+              "start": 21,
+              "url": "https://t.co/PrdkNcyjaP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019097040844976254",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 879
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019055738794959214",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qingwuwu: #超かぐや姫 https://t.co/PrdkNcyjaP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019055718872260609"
+          ]
+        },
+        "author_id": "1040597824306462720",
+        "conversation_id": "2019055738794959214",
+        "created_at": "2026-02-04T14:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T15:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019055738794959214"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PrdkNcyjaP",
+              "end": 30,
+              "expanded_url": "https://x.com/qingwuwu/status/2019055738794959214/photo/1",
+              "media_key": "3_2019055718872260609",
+              "start": 7,
+              "url": "https://t.co/PrdkNcyjaP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019055738794959214",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 962,
+          "impression_count": 45099,
+          "like_count": 8167,
+          "quote_count": 13,
+          "reply_count": 5,
+          "retweet_count": 879
+        },
+        "reply_settings": "everyone",
+        "text": "#超かぐや姫 https://t.co/PrdkNcyjaP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 64,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 301
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-14T13:47:09.000Z",
+        "description": "Name＝清舞//紺野純子推💗//这辈子都被Frozen给害了❄️🌻//杂食百合厨，左右位不固定// 中文○/English○/日本語○",
+        "id": "1040597824306462720",
+        "name": "Kiyomai",
+        "pinned_tweet_id": "2005997420543713640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802527192418799616/sy5A7YG0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5121,
+          "following_count": 112,
+          "like_count": 10396,
+          "listed_count": 6,
+          "media_count": 628,
+          "tweet_count": 4094
+        },
+        "username": "qingwuwu",
+        "verified": false
+      }
+    ]
+  }
+}

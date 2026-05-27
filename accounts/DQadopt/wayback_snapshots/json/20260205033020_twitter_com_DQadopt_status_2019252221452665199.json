@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2019252221452665199",
+    "created_at": "2026-02-05T03:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T04:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019252221452665199"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2019252221452665199",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "骗你的，我压根不希望你找到新恋人找到新的聊天对象，我的大度谦让全是我装的，只和我产生交集好不好？只和我一起听歌好不好？只把心事跟我说好不好？只看着我好不好？想哭了，因为我还是希望你做你自己，我该怎么样才好？\n我只想和你做一辈子的朋友，我不能接受和你分别，朋友是最安全的距离"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2019252221452665199",
+        "created_at": "2026-02-05T03:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T04:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019252221452665199"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019252221452665199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "骗你的，我压根不希望你找到新恋人找到新的聊天对象，我的大度谦让全是我装的，只和我产生交集好不好？只和我一起听歌好不好？只把心事跟我说好不好？只看着我好不好？想哭了，因为我还是希望你做你自己，我该怎么样才好？\n我只想和你做一辈子的朋友，我不能接受和你分别，朋友是最安全的距离"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 65,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 306
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

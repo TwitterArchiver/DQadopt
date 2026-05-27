@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030315107679670272",
+        "3_2030315107675484160",
+        "3_2030315107696422912",
+        "3_2030315107683897344"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2030315125148983515",
+    "created_at": "2026-03-07T16:10:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T17:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030315125148983515"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ITatosfJ0Z",
+          "end": 166,
+          "expanded_url": "https://x.com/DQadopt/status/2030315125148983515/photo/1",
+          "media_key": "3_2030315107679670272",
+          "start": 143,
+          "url": "https://t.co/ITatosfJ0Z"
+        },
+        {
+          "display_url": "pic.x.com/ITatosfJ0Z",
+          "end": 166,
+          "expanded_url": "https://x.com/DQadopt/status/2030315125148983515/photo/1",
+          "media_key": "3_2030315107675484160",
+          "start": 143,
+          "url": "https://t.co/ITatosfJ0Z"
+        },
+        {
+          "display_url": "pic.x.com/ITatosfJ0Z",
+          "end": 166,
+          "expanded_url": "https://x.com/DQadopt/status/2030315125148983515/photo/1",
+          "media_key": "3_2030315107696422912",
+          "start": 143,
+          "url": "https://t.co/ITatosfJ0Z"
+        },
+        {
+          "display_url": "pic.x.com/ITatosfJ0Z",
+          "end": 166,
+          "expanded_url": "https://x.com/DQadopt/status/2030315125148983515/photo/1",
+          "media_key": "3_2030315107683897344",
+          "start": 143,
+          "url": "https://t.co/ITatosfJ0Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030315125148983515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又到了大家最不爱看的、我又没问你的、天天刷屏的匿名提问箱时间\n1⃣️你指的是我对心选姐表达的占有欲是什么样的，还是我对占有欲是如何定义的？麻烦重新匿名提问一下，我单独开一贴来回答\n2⃣️我的小学生极品辣条还带川普的音色你们爱了吗，我当主导确实喘过，但是没骂得太重过（并且是对方求我骂她 https://t.co/ITatosfJ0Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2030315107679670272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0g1VdbEAA7DDM.jpg",
+        "width": 946
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2030315107675484160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0g1VcbMAA-hUy.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030315107696422912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0g1VhasAAX8K1.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030315107683897344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0g1VebkAALyoA.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030315107679670272",
+            "3_2030315107675484160",
+            "3_2030315107696422912",
+            "3_2030315107683897344"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2030315125148983515",
+        "created_at": "2026-03-07T16:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T17:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030315125148983515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ITatosfJ0Z",
+              "end": 166,
+              "expanded_url": "https://x.com/DQadopt/status/2030315125148983515/photo/1",
+              "media_key": "3_2030315107679670272",
+              "start": 143,
+              "url": "https://t.co/ITatosfJ0Z"
+            },
+            {
+              "display_url": "pic.x.com/ITatosfJ0Z",
+              "end": 166,
+              "expanded_url": "https://x.com/DQadopt/status/2030315125148983515/photo/1",
+              "media_key": "3_2030315107675484160",
+              "start": 143,
+              "url": "https://t.co/ITatosfJ0Z"
+            },
+            {
+              "display_url": "pic.x.com/ITatosfJ0Z",
+              "end": 166,
+              "expanded_url": "https://x.com/DQadopt/status/2030315125148983515/photo/1",
+              "media_key": "3_2030315107696422912",
+              "start": 143,
+              "url": "https://t.co/ITatosfJ0Z"
+            },
+            {
+              "display_url": "pic.x.com/ITatosfJ0Z",
+              "end": 166,
+              "expanded_url": "https://x.com/DQadopt/status/2030315125148983515/photo/1",
+              "media_key": "3_2030315107683897344",
+              "start": 143,
+              "url": "https://t.co/ITatosfJ0Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030315125148983515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又到了大家最不爱看的、我又没问你的、天天刷屏的匿名提问箱时间\n1⃣️你指的是我对心选姐表达的占有欲是什么样的，还是我对占有欲是如何定义的？麻烦重新匿名提问一下，我单独开一贴来回答\n2⃣️我的小学生极品辣条还带川普的音色你们爱了吗，我当主导确实喘过，但是没骂得太重过（并且是对方求我骂她 https://t.co/ITatosfJ0Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 189,
+          "like_count": 1095,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1375
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

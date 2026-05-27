@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2045468638254428225",
+    "created_at": "2026-04-18T12:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T13:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045473741325611243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "365350929",
+          "start": 0,
+          "username": "linqing0809"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045473741325611243",
+    "in_reply_to_user_id": "365350929",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045471770837414373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linqing0809 😇👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2045468638254428225",
+        "created_at": "2026-04-18T12:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T13:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045473741325611243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "365350929",
+              "start": 0,
+              "username": "linqing0809"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045473741325611243",
+        "in_reply_to_user_id": "365350929",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045471770837414373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linqing0809 😇👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "365350929",
+        "conversation_id": "2045468638254428225",
+        "created_at": "2026-04-18T11:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T12:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045471770837414373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045471770837414373",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045468638254428225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 好美😋真的感觉血是世界上最美的颜色"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1967,
+          "following_count": 320,
+          "like_count": 2958,
+          "listed_count": 0,
+          "media_count": 334,
+          "tweet_count": 3511
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-31T08:56:33.000Z",
+        "description": "血珠滴落处 绽开一株彼岸花",
+        "id": "365350929",
+        "location": "switzerland🇨🇭",
+        "name": "ヒガンバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045369275444285440/d5Nj5lut_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 32,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 39
+        },
+        "username": "linqing0809",
+        "verified": false
+      }
+    ]
+  }
+}

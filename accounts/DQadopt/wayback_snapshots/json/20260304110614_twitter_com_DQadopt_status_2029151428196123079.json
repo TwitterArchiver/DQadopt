@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029151418956091392",
+        "3_2029151419182530561"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2029151428196123079",
+    "created_at": "2026-03-04T11:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T12:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029151428196123079"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 14,
+          "start": 10,
+          "tag": "les"
+        },
+        {
+          "end": 19,
+          "start": 15,
+          "tag": "wlw"
+        },
+        {
+          "end": 25,
+          "start": 20,
+          "tag": "女同性恋"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m6dpKXZVtS",
+          "end": 49,
+          "expanded_url": "https://x.com/DQadopt/status/2029151428196123079/photo/1",
+          "media_key": "3_2029151418956091392",
+          "start": 26,
+          "url": "https://t.co/m6dpKXZVtS"
+        },
+        {
+          "display_url": "pic.x.com/m6dpKXZVtS",
+          "end": 49,
+          "expanded_url": "https://x.com/DQadopt/status/2029151428196123079/photo/1",
+          "media_key": "3_2029151419182530561",
+          "start": 26,
+          "url": "https://t.co/m6dpKXZVtS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029151428196123079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "查拉图斯特拉如是说\n#les #wlw #女同性恋 https://t.co/m6dpKXZVtS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2029151418956091392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCj-dvJbkAAwsBe.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2029151419182530561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCj-dv_awAEm99g.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029151418956091392",
+            "3_2029151419182530561"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2029151428196123079",
+        "created_at": "2026-03-04T11:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T12:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029151428196123079"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "les"
+            },
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "wlw"
+            },
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "女同性恋"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m6dpKXZVtS",
+              "end": 49,
+              "expanded_url": "https://x.com/DQadopt/status/2029151428196123079/photo/1",
+              "media_key": "3_2029151418956091392",
+              "start": 26,
+              "url": "https://t.co/m6dpKXZVtS"
+            },
+            {
+              "display_url": "pic.x.com/m6dpKXZVtS",
+              "end": 49,
+              "expanded_url": "https://x.com/DQadopt/status/2029151428196123079/photo/1",
+              "media_key": "3_2029151419182530561",
+              "start": 26,
+              "url": "https://t.co/m6dpKXZVtS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029151428196123079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "查拉图斯特拉如是说\n#les #wlw #女同性恋 https://t.co/m6dpKXZVtS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 166,
+          "like_count": 839,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 1133
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

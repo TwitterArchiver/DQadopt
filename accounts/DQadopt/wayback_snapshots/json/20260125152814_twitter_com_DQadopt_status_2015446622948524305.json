@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2015414683289989424",
+    "created_at": "2026-01-25T15:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T16:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015446622948524305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1507587547370770432",
+          "start": 0,
+          "username": "iPhone1988_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015446622948524305",
+    "in_reply_to_user_id": "1507587547370770432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015414683289989424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iPhone1988_ 宝宝你这个表情太可爱了吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015414673353703424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_gw96BbgAA48HB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2015414683289989424",
+        "created_at": "2026-01-25T15:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T16:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015446622948524305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1507587547370770432",
+              "start": 0,
+              "username": "iPhone1988_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015446622948524305",
+        "in_reply_to_user_id": "1507587547370770432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015414683289989424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iPhone1988_ 宝宝你这个表情太可爱了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015414673353703424"
+          ]
+        },
+        "author_id": "1507587547370770432",
+        "conversation_id": "2015414683289989424",
+        "created_at": "2026-01-25T13:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T14:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015414683289989424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qzLGwhRzp5",
+              "end": 30,
+              "expanded_url": "https://x.com/iPhone1988_/status/2015414683289989424/photo/1",
+              "media_key": "3_2015414673353703424",
+              "start": 7,
+              "url": "https://t.co/qzLGwhRzp5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015414683289989424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2493,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "喵 肥美小猫 https://t.co/qzLGwhRzp5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我重生了，这一次我要夺回属于我的一切丨23le🌈1丨喜欢和可爱漂亮的女生互动🥰🥰🥰丨有喜欢的人不色色丨自伤碎碎念集中地",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8euxG"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 52,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 149
+        },
+        "url": "https://t.co/nFHbt8euxG",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T05:17:48.000Z",
+        "description": "喜欢可爱事物爱搞点涩涩的普通胖女孩 现生刷到请当做没看到 阿里嘎多 小女孩互关请私 喜欢的话请投喂 有🚪 喜欢有礼貌的人",
+        "id": "1507587547370770432",
+        "location": "上海",
+        "name": "盐焗蟑螂脆片",
+        "pinned_tweet_id": "2011750578079301919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011426507688996865/2sPPzwVB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2040,
+          "following_count": 74,
+          "like_count": 295,
+          "listed_count": 5,
+          "media_count": 23,
+          "tweet_count": 138
+        },
+        "username": "iPhone1988_",
+        "verified": false
+      }
+    ]
+  }
+}

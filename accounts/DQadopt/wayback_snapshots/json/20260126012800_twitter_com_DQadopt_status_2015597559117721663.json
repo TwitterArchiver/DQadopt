@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2015416641967079534",
+    "created_at": "2026-01-26T01:28:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T02:28:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015597559117721663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1819180433181208576",
+          "start": 0,
+          "username": "shujing5201314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015597559117721663",
+    "in_reply_to_user_id": "1819180433181208576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015416641967079534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shujing5201314 ？啥人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2015416626661974016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_gyvmqaYAAj0q4.jpg",
+        "width": 466
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2015416641967079534",
+        "created_at": "2026-01-26T01:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T02:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015597559117721663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1819180433181208576",
+              "start": 0,
+              "username": "shujing5201314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015597559117721663",
+        "in_reply_to_user_id": "1819180433181208576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015416641967079534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shujing5201314 ？啥人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015416626661974016"
+          ]
+        },
+        "author_id": "1819180433181208576",
+        "conversation_id": "2015416641967079534",
+        "created_at": "2026-01-25T13:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T14:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015416641967079534"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "les"
+            },
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "wlw"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "le"
+            },
+            {
+              "end": 17,
+              "start": 15,
+              "tag": "姛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VTXhWCgjPo",
+              "end": 75,
+              "expanded_url": "https://x.com/shujing5201314/status/2015416641967079534/photo/1",
+              "media_key": "3_2015416626661974016",
+              "start": 52,
+              "url": "https://t.co/VTXhWCgjPo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015416641967079534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9646,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#les #wlw  #le #姛 给前女友发小作文结果她给我发这几句是什么意思。求宝宝们解答一下。😭 https://t.co/VTXhWCgjPo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我重生了，这一次我要夺回属于我的一切丨23le🌈1丨喜欢和可爱漂亮的女生互动🥰🥰🥰丨有喜欢的人不色色丨自伤碎碎念集中地",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8euxG"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 51,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 153
+        },
+        "url": "https://t.co/nFHbt8euxG",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-02T01:16:37.000Z",
+        "description": "🌈le/甜妹p/0.3/brat/重度恋姐/想发什么发什么 不喜勿喷/都是自产自销的 不许转载！转载者替我挡灾/女生可加联系方式无门槛私信即可/会查主页 男的关注会拉黑",
+        "id": "1819180433181208576",
+        "name": "怎么萌也有罪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966195942606114816/xHDtatCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 56,
+          "like_count": 845,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 164
+        },
+        "username": "shujing5201314",
+        "verified": false
+      }
+    ]
+  }
+}

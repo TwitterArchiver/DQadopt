@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2048273730170941731",
+    "created_at": "2026-04-26T05:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T06:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048273730170941731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1646401475126468608",
+          "start": 3,
+          "username": "fgk12181322"
+        },
+        {
+          "end": 32,
+          "id": "1504090019971010562",
+          "start": 17,
+          "username": "Deepfeeling777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048273730170941731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048075071252836739",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fgk12181322: @Deepfeeling777 既然都颜墨下逼了那我只能送你四个字说“大展宏图”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2048273730170941731",
+        "created_at": "2026-04-26T05:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048273730170941731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1646401475126468608",
+              "start": 3,
+              "username": "fgk12181322"
+            },
+            {
+              "end": 32,
+              "id": "1504090019971010562",
+              "start": 17,
+              "username": "Deepfeeling777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048273730170941731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048075071252836739",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fgk12181322: @Deepfeeling777 既然都颜墨下逼了那我只能送你四个字说“大展宏图”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646401475126468608",
+        "conversation_id": "2048016675287556517",
+        "created_at": "2026-04-25T16:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048075071252836739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1504090019971010562",
+              "start": 0,
+              "username": "Deepfeeling777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048075071252836739",
+        "in_reply_to_user_id": "1504090019971010562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 66158,
+          "like_count": 1221,
+          "quote_count": 10,
+          "reply_count": 40,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048016675287556517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Deepfeeling777 既然都颜墨下逼了那我只能送你四个字说“大展宏图”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2129,
+          "following_count": 339,
+          "like_count": 3164,
+          "listed_count": 1,
+          "media_count": 352,
+          "tweet_count": 3779
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T06:34:45.000Z",
+        "description": "",
+        "id": "1646401475126468608",
+        "location": "比远方更远",
+        "name": "妄鶴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048079747591380992/JxpBtgk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 345,
+          "like_count": 1599,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 414
+        },
+        "username": "fgk12181322",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-16T13:39:52.000Z",
+        "description": "希望大家能在X上开心快乐冲浪，晚上一定要大脑控制住小脑！不要上当受骗哟~  啵啵🫶  审判并处决黄推假号：@panguan77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "panguan77"
+              }
+            ]
+          }
+        },
+        "id": "1504090019971010562",
+        "location": "HK",
+        "name": "第一深情",
+        "pinned_tweet_id": "2046264873190031649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034252985665249280/9GawZfA0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236990,
+          "following_count": 4,
+          "like_count": 41,
+          "listed_count": 244,
+          "media_count": 160,
+          "tweet_count": 1155
+        },
+        "username": "Deepfeeling777",
+        "verified": true
+      }
+    ]
+  }
+}

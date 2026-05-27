@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029601834260910088",
+        "3_2029601834260910083",
+        "3_2029601834260910084",
+        "3_2029601834256715781"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2029601845300384255",
+    "created_at": "2026-03-05T16:56:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T17:56:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029601845300384255"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8H4sAOTHdh",
+          "end": 128,
+          "expanded_url": "https://x.com/DQadopt/status/2029601845300384255/photo/1",
+          "media_key": "3_2029601834260910088",
+          "start": 105,
+          "url": "https://t.co/8H4sAOTHdh"
+        },
+        {
+          "display_url": "pic.x.com/8H4sAOTHdh",
+          "end": 128,
+          "expanded_url": "https://x.com/DQadopt/status/2029601845300384255/photo/1",
+          "media_key": "3_2029601834260910083",
+          "start": 105,
+          "url": "https://t.co/8H4sAOTHdh"
+        },
+        {
+          "display_url": "pic.x.com/8H4sAOTHdh",
+          "end": 128,
+          "expanded_url": "https://x.com/DQadopt/status/2029601845300384255/photo/1",
+          "media_key": "3_2029601834260910084",
+          "start": 105,
+          "url": "https://t.co/8H4sAOTHdh"
+        },
+        {
+          "display_url": "pic.x.com/8H4sAOTHdh",
+          "end": 128,
+          "expanded_url": "https://x.com/DQadopt/status/2029601845300384255/photo/1",
+          "media_key": "3_2029601834256715781",
+          "start": 105,
+          "url": "https://t.co/8H4sAOTHdh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029601845300384255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "回答了8个提问\n我知道肯定会有小红书那边的人认出我ovo我不觉得意外和冒犯，我小红书开过四个号，我在想有没有四个号都刷到过的宝宝，我每个名字都是一个书名，大家普遍都是“沉思錄”认识我的吧\n好多人看我呀蛮开心的 https://t.co/8H4sAOTHdh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2029601834260910088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCqYHW6aUAgNwL1.jpg",
+        "width": 946
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2029601834260910083",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCqYHW6aUAMFEI9.jpg",
+        "width": 946
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2029601834260910084",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCqYHW6aUAQJ73T.jpg",
+        "width": 946
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2029601834256715781",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCqYHW5aUAUqhvs.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029601834260910088",
+            "3_2029601834260910083",
+            "3_2029601834260910084",
+            "3_2029601834256715781"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2029601845300384255",
+        "created_at": "2026-03-05T16:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T17:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029601845300384255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8H4sAOTHdh",
+              "end": 128,
+              "expanded_url": "https://x.com/DQadopt/status/2029601845300384255/photo/1",
+              "media_key": "3_2029601834260910088",
+              "start": 105,
+              "url": "https://t.co/8H4sAOTHdh"
+            },
+            {
+              "display_url": "pic.x.com/8H4sAOTHdh",
+              "end": 128,
+              "expanded_url": "https://x.com/DQadopt/status/2029601845300384255/photo/1",
+              "media_key": "3_2029601834260910083",
+              "start": 105,
+              "url": "https://t.co/8H4sAOTHdh"
+            },
+            {
+              "display_url": "pic.x.com/8H4sAOTHdh",
+              "end": 128,
+              "expanded_url": "https://x.com/DQadopt/status/2029601845300384255/photo/1",
+              "media_key": "3_2029601834260910084",
+              "start": 105,
+              "url": "https://t.co/8H4sAOTHdh"
+            },
+            {
+              "display_url": "pic.x.com/8H4sAOTHdh",
+              "end": 128,
+              "expanded_url": "https://x.com/DQadopt/status/2029601845300384255/photo/1",
+              "media_key": "3_2029601834256715781",
+              "start": 105,
+              "url": "https://t.co/8H4sAOTHdh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029601845300384255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回答了8个提问\n我知道肯定会有小红书那边的人认出我ovo我不觉得意外和冒犯，我小红书开过四个号，我在想有没有四个号都刷到过的宝宝，我每个名字都是一个书名，大家普遍都是“沉思錄”认识我的吧\n好多人看我呀蛮开心的 https://t.co/8H4sAOTHdh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 179,
+          "like_count": 995,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1273
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

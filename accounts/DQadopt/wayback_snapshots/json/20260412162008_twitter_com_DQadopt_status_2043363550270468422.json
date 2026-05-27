@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2043356606344372238",
+    "created_at": "2026-04-12T16:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T17:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043363550270468422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1747845956979355648",
+          "start": 0,
+          "username": "whitenight1917"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043363550270468422",
+    "in_reply_to_user_id": "1747845956979355648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043357981388214782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitenight1917 谢谢，希望你吃的下一顿就是让你感到愉悦的食物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2043356606344372238",
+        "created_at": "2026-04-12T16:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043363550270468422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1747845956979355648",
+              "start": 0,
+              "username": "whitenight1917"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043363550270468422",
+        "in_reply_to_user_id": "1747845956979355648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043357981388214782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitenight1917 谢谢，希望你吃的下一顿就是让你感到愉悦的食物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747845956979355648",
+        "conversation_id": "2043356606344372238",
+        "created_at": "2026-04-12T15:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043357981388214782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043357981388214782",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043356606344372238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 那祝你每天都能吃到好吃的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1883,
+          "following_count": 317,
+          "like_count": 2840,
+          "listed_count": 0,
+          "media_count": 324,
+          "tweet_count": 3274
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T04:59:01.000Z",
+        "description": "永不消逝，永不褪色，永不凋零",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/98066589?spm_i…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/98066589?spm_id_from=333.1007.0.0",
+                "start": 0,
+                "url": "https://t.co/0pwOziGBFb"
+              }
+            ]
+          }
+        },
+        "id": "1747845956979355648",
+        "location": "人在挖石油哥们",
+        "name": "过度换气的歪奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004076254975418368/1G9GUXWD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 1204,
+          "like_count": 9240,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 755
+        },
+        "url": "https://t.co/0pwOziGBFb",
+        "username": "whitenight1917",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2044818898407845959",
+    "created_at": "2026-04-16T16:43:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T17:43:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044818898407845959"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044818898407845959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的小鸟有时候会有情绪低落烦躁的时候，我不会觉得小鸟麻烦，也不会觉得小鸟生活里那些杂七杂八的意外很棘手，我认为生死之外无大事，都可以慢慢解决，我相信她能像以往二十多年一样把自己调整成开心欢笑的孩子，即使我不在她身边\n小鸟一直在努力照顾自己努力生活呀\n没事的，走上坡路是会慢些！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2044818898407845959",
+        "created_at": "2026-04-16T16:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T17:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044818898407845959"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044818898407845959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的小鸟有时候会有情绪低落烦躁的时候，我不会觉得小鸟麻烦，也不会觉得小鸟生活里那些杂七杂八的意外很棘手，我认为生死之外无大事，都可以慢慢解决，我相信她能像以往二十多年一样把自己调整成开心欢笑的孩子，即使我不在她身边\n小鸟一直在努力照顾自己努力生活呀\n没事的，走上坡路是会慢些！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1941,
+          "following_count": 315,
+          "like_count": 2912,
+          "listed_count": 0,
+          "media_count": 331,
+          "tweet_count": 3442
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2030454193526583469",
+    "created_at": "2026-03-08T01:22:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T02:22:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030454193526583469"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fengzhengs00/s…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/fengzhengs00/status/2028427319686390051",
+          "start": 28,
+          "url": "https://t.co/KK9fci1G1m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030454193526583469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028427319686390051",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦哦哦哦是我好几年前就看过的一对！居然退网了吗好可惜😭 https://t.co/KK9fci1G1m"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51038,
+        "height": 692,
+        "media_key": "13_2028426481760899072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2028426481760899072/img/gfiY8xp_1JUVItAD.jpg",
+        "public_metrics": {
+          "view_count": 5135
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028426481760899072/vid/avc1/498x270/kK0mkeUtPGdPhwXU.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028426481760899072/vid/avc1/664x360/H1uzUgT8ETDm1yOH.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028426481760899072/vid/avc1/1280x692/inCWQ6EdHCfDu216.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2028426481760899072/pl/W8hoTa4vD4b96xvX.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 104758,
+        "height": 1080,
+        "media_key": "13_2028426481773469696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2028426481773469696/img/vuDyiSFNQrRn928l.jpg",
+        "public_metrics": {
+          "view_count": 1846
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028426481773469696/vid/avc1/320x568/m0cgWUFtYJb_Xp5H.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028426481773469696/vid/avc1/480x852/osLaTxZvBYKtHdmN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028426481773469696/vid/avc1/608x1080/57TsHwiluHONxkIm.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2028426481773469696/pl/dGJnA_r_1prZ5okJ.m3u8?tag=14"
+          }
+        ],
+        "width": 608
+      },
+      {
+        "duration_ms": 20341,
+        "height": 692,
+        "media_key": "13_2028426481765163008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2028426481765163008/img/CCuJbPP6_BUm0fkO.jpg",
+        "public_metrics": {
+          "view_count": 1446
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028426481765163008/vid/avc1/498x270/ZpN_nIEQwJz_hUMH.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028426481765163008/vid/avc1/664x360/ouSRGHhRg_RZZUK9.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028426481765163008/vid/avc1/1280x692/bjh_iVlyH1f215o9.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2028426481765163008/pl/L0VsYpOvejHfDa2d.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 44772,
+        "height": 1080,
+        "media_key": "13_2028426481777704960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2028426481777704960/img/ADrpzhB-Ue-0eBGQ.jpg",
+        "public_metrics": {
+          "view_count": 1412
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028426481777704960/vid/avc1/320x568/cPJqT5Kppd8ysK3n.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028426481777704960/vid/avc1/480x852/u2RSjuhHcYYc-KZl.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028426481777704960/vid/avc1/608x1080/j13kgsRMcrvn1vDW.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2028426481777704960/pl/yUx9iHVfVrM7gvis.m3u8?tag=14"
+          }
+        ],
+        "width": 608
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2030454193526583469",
+        "created_at": "2026-03-08T01:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T02:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030454193526583469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fengzhengs00/s…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/fengzhengs00/status/2028427319686390051",
+              "start": 28,
+              "url": "https://t.co/KK9fci1G1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030454193526583469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028427319686390051",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦哦哦哦是我好几年前就看过的一对！居然退网了吗好可惜😭 https://t.co/KK9fci1G1m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028426481760899072",
+            "13_2028426481773469696",
+            "13_2028426481765163008",
+            "13_2028426481777704960"
+          ]
+        },
+        "author_id": "1879521565861376000",
+        "conversation_id": "2028427319686390051",
+        "created_at": "2026-03-02T11:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T12:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028427319686390051"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 93,
+              "tag": "女同性恋"
+            },
+            {
+              "end": 103,
+              "start": 99,
+              "tag": "les"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "le"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7uNWyZwVja",
+              "end": 131,
+              "expanded_url": "https://x.com/fengzhengs00/status/2028427319686390051/video/1",
+              "media_key": "13_2028426481760899072",
+              "start": 108,
+              "url": "https://t.co/7uNWyZwVja"
+            },
+            {
+              "display_url": "pic.x.com/7uNWyZwVja",
+              "end": 131,
+              "expanded_url": "https://x.com/fengzhengs00/status/2028427319686390051/video/1",
+              "media_key": "13_2028426481773469696",
+              "start": 108,
+              "url": "https://t.co/7uNWyZwVja"
+            },
+            {
+              "display_url": "pic.x.com/7uNWyZwVja",
+              "end": 131,
+              "expanded_url": "https://x.com/fengzhengs00/status/2028427319686390051/video/1",
+              "media_key": "13_2028426481765163008",
+              "start": 108,
+              "url": "https://t.co/7uNWyZwVja"
+            },
+            {
+              "display_url": "pic.x.com/7uNWyZwVja",
+              "end": 131,
+              "expanded_url": "https://x.com/fengzhengs00/status/2028427319686390051/video/1",
+              "media_key": "13_2028426481777704960",
+              "start": 108,
+              "url": "https://t.co/7uNWyZwVja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028427319686390051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 10483,
+          "like_count": 282,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "看片笔记（韩国女同sm博主silverprizez（1））\n之前很火的拉拉sm博主来着，后来不知道为啥销号了。\n目前留存下来的也就8个片段，我不会翻译汉语，大致留个档，相当带感就是了。\n#女同性恋 #les #le https://t.co/7uNWyZwVja"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 189,
+          "like_count": 1101,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 1383
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T13:31:40.000Z",
+        "description": "",
+        "id": "1879521565861376000",
+        "name": "fengzhengs00",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886062114378493952/JuLaYL-U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 168,
+          "like_count": 121,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 27
+        },
+        "username": "fengzhengs00",
+        "verified": false
+      }
+    ]
+  }
+}

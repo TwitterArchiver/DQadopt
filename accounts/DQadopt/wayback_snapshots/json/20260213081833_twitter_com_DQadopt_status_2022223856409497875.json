@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2022223856409497875",
+    "created_at": "2026-02-13T08:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T09:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022223856409497875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cc251120/statu…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/cc251120/status/2017109559614288196",
+          "start": 34,
+          "url": "https://t.co/qC6RBWts3y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022223856409497875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017109559614288196",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我宣布这是我最近看到过最好吃的片，太色情了，这个0怎么这么乖🤤🤤🤤 https://t.co/qC6RBWts3y"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 107066,
+        "height": 1280,
+        "media_key": "13_2017109292038713344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017109292038713344/img/IYkrsRtmzlzhYioM.jpg",
+        "public_metrics": {
+          "view_count": 146617
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017109292038713344/vid/avc1/320x568/jFx0MtVN9fGxWYHn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017109292038713344/vid/avc1/480x852/x3z_gNiozYFd8g3D.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017109292038713344/vid/avc1/720x1280/uUuTbdB3zlLeERjm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017109292038713344/pl/qN5IEnj7XWptCotW.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2022223856409497875",
+        "created_at": "2026-02-13T08:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T09:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022223856409497875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cc251120/statu…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/cc251120/status/2017109559614288196",
+              "start": 34,
+              "url": "https://t.co/qC6RBWts3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022223856409497875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017109559614288196",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我宣布这是我最近看到过最好吃的片，太色情了，这个0怎么这么乖🤤🤤🤤 https://t.co/qC6RBWts3y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017109292038713344"
+          ]
+        },
+        "author_id": "2002331491733491712",
+        "conversation_id": "2017109559614288196",
+        "created_at": "2026-01-30T05:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T06:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017109559614288196"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "les"
+            },
+            {
+              "end": 36,
+              "start": 30,
+              "tag": "doi实录"
+            },
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "女同性恋"
+            },
+            {
+              "end": 48,
+              "start": 43,
+              "tag": "拉拉女同"
+            },
+            {
+              "end": 51,
+              "start": 49,
+              "tag": "s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iIlRav1BvV",
+              "end": 75,
+              "expanded_url": "https://x.com/Cc251120/status/2017109559614288196/video/1",
+              "media_key": "13_2017109292038713344",
+              "start": 52,
+              "url": "https://t.co/iIlRav1BvV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017109559614288196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1082,
+          "impression_count": 172259,
+          "like_count": 3232,
+          "quote_count": 8,
+          "reply_count": 6,
+          "retweet_count": 314
+        },
+        "reply_settings": "everyone",
+        "text": "新角度，她的纹身好漂亮\n每次这样都会被扣尿……\n#les  #doi实录 #女同性恋 #拉拉女同 #s https://t.co/iIlRav1BvV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女孩子可以来找我互fo，女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 83,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 516
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T10:53:31.000Z",
+        "description": "🏳️‍🌈le switch 0.4 entp/intp 可能日更，纯瘾大 已婚@drl15865348015 男的别关注我 推广请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 39,
+                "username": "drl15865348015"
+              }
+            ]
+          }
+        },
+        "id": "2002331491733491712",
+        "name": "Cc",
+        "pinned_tweet_id": "2021612464975090133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002331785057939456/7M-14RX-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8121,
+          "following_count": 25,
+          "like_count": 7,
+          "listed_count": 11,
+          "media_count": 21,
+          "tweet_count": 51
+        },
+        "username": "Cc251120",
+        "verified": false
+      }
+    ]
+  }
+}

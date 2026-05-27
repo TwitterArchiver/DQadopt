@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2022307885620015167",
+    "created_at": "2026-02-13T14:35:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T15:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022318662766764359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1472643836522287105",
+          "start": 0,
+          "username": "cjbljtb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022318662766764359",
+    "in_reply_to_user_id": "1472643836522287105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022307885620015167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cjbljtb 太漂亮了姐姐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022307872118599681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBCuS4ga8AEnluC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2022307885620015167",
+        "created_at": "2026-02-13T14:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T15:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022318662766764359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1472643836522287105",
+              "start": 0,
+              "username": "cjbljtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022318662766764359",
+        "in_reply_to_user_id": "1472643836522287105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022307885620015167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cjbljtb 太漂亮了姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022307872118599681"
+          ]
+        },
+        "author_id": "1472643836522287105",
+        "conversation_id": "2022307885620015167",
+        "created_at": "2026-02-13T13:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T14:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022307885620015167"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "le"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "女同"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "les"
+            },
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "wlw"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "女同性恋"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "拉拉"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "北京"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "素颜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D8hWelQX1D",
+              "end": 71,
+              "expanded_url": "https://x.com/cjbljtb/status/2022307885620015167/photo/1",
+              "media_key": "3_2022307872118599681",
+              "start": 48,
+              "url": "https://t.co/D8hWelQX1D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022307885620015167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不化妆又是另一种感觉\n#le #女同 #les  #wlw #女同性恋 #拉拉 #北京 #素颜 https://t.co/D8hWelQX1D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 84,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 542
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-19T19:03:53.000Z",
+        "description": "🌈 le - #男人远离我别私信我别关注我，三次好友请划走 坐标beijing，🉑约线下私信🍻，做梦可以梦见高个长发t1s姐吗",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 7,
+                "tag": "男人远离我别私信我别关注我"
+              }
+            ]
+          }
+        },
+        "id": "1472643836522287105",
+        "name": "qiu_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001679132078542848/bBPsEJRn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 384,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 89
+        },
+        "username": "cjbljtb",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2039222012766511367",
+    "created_at": "2026-04-01T07:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T08:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039246895059738803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683159092800659458",
+          "start": 0,
+          "username": "shshjyhl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039246895059738803",
+    "in_reply_to_user_id": "1683159092800659458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039244707348513279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shshjyhl 是的，你这样分析的很对，这种关系里面照顾不周到就是不够爱，只是一种角色扮演"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2039222012766511367",
+        "created_at": "2026-04-01T07:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T08:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039246895059738803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683159092800659458",
+              "start": 0,
+              "username": "shshjyhl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039246895059738803",
+        "in_reply_to_user_id": "1683159092800659458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039244707348513279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shshjyhl 是的，你这样分析的很对，这种关系里面照顾不周到就是不够爱，只是一种角色扮演"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683159092800659458",
+        "conversation_id": "2039222012766511367",
+        "created_at": "2026-04-01T07:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T08:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039244707348513279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039244707348513279",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039222012766511367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 其实只是没那么爱。而且觉得不会给自己带来什么有益的地方，碰到真喜欢的恨不得直接原地结婚，用所有手段拴住这个人。如果只是角色扮演，不是情侣的话没有感情很正常（就是没那么爱），不然after care还要催吗？恨不得事无巨细全方位把控自己的所有物，不允许任何人觊觎，不允许ta受到任何风险的影响"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 268,
+          "like_count": 2352,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 2663
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T16:56:23.000Z",
+        "description": "les🌈正在调整各种事物接收程度中/有时候很能吵到别人眼睛，大部分时候不爱说话/看不起女人的男的自觉取关",
+        "id": "1683159092800659458",
+        "location": "一直在路上",
+        "name": "上火慎喝金银花露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911426222929616896/JDA-kX93_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10853,
+          "following_count": 1179,
+          "like_count": 2715,
+          "listed_count": 27,
+          "media_count": 143,
+          "tweet_count": 711
+        },
+        "username": "shshjyhl",
+        "verified": false
+      }
+    ]
+  }
+}

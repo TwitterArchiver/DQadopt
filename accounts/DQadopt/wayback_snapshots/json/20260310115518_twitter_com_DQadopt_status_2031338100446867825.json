@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2031335301675888883",
+    "created_at": "2026-03-10T11:55:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T12:55:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031338100446867825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1773714073676652544",
+          "start": 0,
+          "username": "9jy6op"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031338100446867825",
+    "in_reply_to_user_id": "1773714073676652544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031335301675888883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9jy6op 推荐看看闲鱼同城，搜猫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2031335301675888883",
+        "created_at": "2026-03-10T11:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T12:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031338100446867825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1773714073676652544",
+              "start": 0,
+              "username": "9jy6op"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031338100446867825",
+        "in_reply_to_user_id": "1773714073676652544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031335301675888883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9jy6op 推荐看看闲鱼同城，搜猫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2031335300329508865"
+          ]
+        },
+        "author_id": "1773714073676652544",
+        "conversation_id": "2031335301675888883",
+        "created_at": "2026-03-10T11:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T12:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031335301675888883"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031335301675888883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买品种猫还是收养"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 208,
+          "like_count": 1353,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 1552
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T14:09:39.000Z",
+        "description": "预警：短视频行业，乐子人一个，没事就整活然后嘎嘎乐，主业运营和短剧后期副业摄影les！长发les！les！les！les！混乱、善良、掠夺为乐、精力旺盛les！les！les！les！les！les！les！les！les！les！les！les！les！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%91%9C%E5%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%91%9C%E5%91%9C%E5%91%9C%E5%91%9C",
+                "start": 0,
+                "url": "https://t.co/7tBacyXZsD"
+              }
+            ]
+          }
+        },
+        "id": "1773714073676652544",
+        "location": "学电影学的，提问箱在网站那个",
+        "name": "甜美商务猫",
+        "pinned_tweet_id": "2030278027607949417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014567207083122688/kob0_au0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 657,
+          "like_count": 7820,
+          "listed_count": 4,
+          "media_count": 1136,
+          "tweet_count": 23438
+        },
+        "url": "https://t.co/7tBacyXZsD",
+        "username": "9jy6op",
+        "verified": false
+      }
+    ]
+  }
+}

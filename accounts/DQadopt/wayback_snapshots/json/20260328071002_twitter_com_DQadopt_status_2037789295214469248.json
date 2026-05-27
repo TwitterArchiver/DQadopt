@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2037739296858517555",
+    "created_at": "2026-03-28T07:10:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T08:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037789295214469248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2026557985271721988",
+          "start": 0,
+          "username": "leaisabadcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037789295214469248",
+    "in_reply_to_user_id": "2026557985271721988",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037739486780838095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leaisabadcat 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2037739296858517555",
+        "created_at": "2026-03-28T07:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T08:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037789295214469248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026557985271721988",
+              "start": 0,
+              "username": "leaisabadcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037789295214469248",
+        "in_reply_to_user_id": "2026557985271721988",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037739486780838095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leaisabadcat 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026557985271721988",
+        "conversation_id": "2037739296858517555",
+        "created_at": "2026-03-28T03:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T04:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037739486780838095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037739486780838095",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037739296858517555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 可能小鸟就是这样淡淡的，不怎么主动？拍拍老师，试着主动沟通吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是明恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 264,
+          "like_count": 2252,
+          "listed_count": 0,
+          "media_count": 280,
+          "tweet_count": 2527
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T07:21:01.000Z",
+        "description": "女 双性恋 1/3/4i \n里账号，发色情擦边内容。\n喜欢礼貌交流。\n可以叫我小狼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lea89217",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lea89217",
+                "start": 0,
+                "url": "https://t.co/5brvs21bex"
+              }
+            ]
+          }
+        },
+        "id": "2026557985271721988",
+        "location": "太阳系",
+        "name": "李念安.",
+        "pinned_tweet_id": "2029950272144089387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034710294526873601/kGSg7bwn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 147,
+          "like_count": 7226,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 560
+        },
+        "url": "https://t.co/5brvs21bex",
+        "username": "leaisabadcat",
+        "verified": false
+      }
+    ]
+  }
+}

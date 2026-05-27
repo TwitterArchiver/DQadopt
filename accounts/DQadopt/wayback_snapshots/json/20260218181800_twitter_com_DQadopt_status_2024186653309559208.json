@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024186643885019142"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2024186653309559208",
+    "created_at": "2026-02-18T18:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T19:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024186653309559208"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RWzVlE6NqR",
+          "end": 159,
+          "expanded_url": "https://x.com/DQadopt/status/2024186653309559208/photo/1",
+          "media_key": "3_2024186643885019142",
+          "start": 136,
+          "url": "https://t.co/RWzVlE6NqR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024186653309559208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢14t阿普唑仑，反而有放空大脑清理思路的作用，请问推友阿普唑仑服用什么东西可以强行下机？不下机我感觉我明天要昏一天我还有要干的事情，唉我总是这么考虑不周全，还是自己太幼稚了\n心选姐是回避型，以后研究一下怎么相处，挺高兴的多了解了她一点，自审是我近几年唯一养成的好习惯 https://t.co/RWzVlE6NqR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1328,
+        "media_key": "3_2024186643885019142",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBdbByvbUAYOeXH.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024186643885019142"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2024186653309559208",
+        "created_at": "2026-02-18T18:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T19:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024186653309559208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RWzVlE6NqR",
+              "end": 159,
+              "expanded_url": "https://x.com/DQadopt/status/2024186653309559208/photo/1",
+              "media_key": "3_2024186643885019142",
+              "start": 136,
+              "url": "https://t.co/RWzVlE6NqR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024186653309559208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢14t阿普唑仑，反而有放空大脑清理思路的作用，请问推友阿普唑仑服用什么东西可以强行下机？不下机我感觉我明天要昏一天我还有要干的事情，唉我总是这么考虑不周全，还是自己太幼稚了\n心选姐是回避型，以后研究一下怎么相处，挺高兴的多了解了她一点，自审是我近几年唯一养成的好习惯 https://t.co/RWzVlE6NqR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 91,
+          "like_count": 236,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 679
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

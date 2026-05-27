@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2051669162335023145",
+    "created_at": "2026-05-06T15:17:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T16:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052045104228254203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1550451714028756992",
+          "start": 0,
+          "username": "404PrtiLe000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052045104228254203",
+    "in_reply_to_user_id": "1550451714028756992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052042673322967152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@404PrtiLe000 是啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2051669162335023145",
+        "created_at": "2026-05-06T15:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052045104228254203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1550451714028756992",
+              "start": 0,
+              "username": "404PrtiLe000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052045104228254203",
+        "in_reply_to_user_id": "1550451714028756992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052042673322967152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@404PrtiLe000 是啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550451714028756992",
+        "conversation_id": "2051669162335023145",
+        "created_at": "2026-05-06T15:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052042673322967152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052042673322967152",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051669162335023145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 这个查拉图斯特拉终于幸福了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2261,
+          "following_count": 341,
+          "like_count": 3343,
+          "listed_count": 1,
+          "media_count": 362,
+          "tweet_count": 3892
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T12:04:41.000Z",
+        "description": "我是家妻最忠诚的小狗。",
+        "id": "1550451714028756992",
+        "location": "China",
+        "name": "R",
+        "pinned_tweet_id": "2022241730427498807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027161283725012992/UvnfhRt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 61,
+          "like_count": 258,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 112
+        },
+        "username": "404PrtiLe000",
+        "verified": false
+      }
+    ]
+  }
+}

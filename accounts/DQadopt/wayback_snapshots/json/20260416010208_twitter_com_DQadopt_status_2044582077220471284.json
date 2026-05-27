@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2044349543433773367",
+    "created_at": "2026-04-16T01:02:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T02:02:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044582077220471284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1962445765269471232",
+          "start": 0,
+          "username": "zlyc6112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044582077220471284",
+    "in_reply_to_user_id": "1962445765269471232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044480873152844200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zlyc6112 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2044349543433773367",
+        "created_at": "2026-04-16T01:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044582077220471284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1962445765269471232",
+              "start": 0,
+              "username": "zlyc6112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044582077220471284",
+        "in_reply_to_user_id": "1962445765269471232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044480873152844200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zlyc6112 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962445765269471232",
+        "conversation_id": "2044349543433773367",
+        "created_at": "2026-04-15T18:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T19:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044480873152844200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044480873152844200",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044349543433773367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 帅死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1915,
+          "following_count": 316,
+          "like_count": 2895,
+          "listed_count": 0,
+          "media_count": 331,
+          "tweet_count": 3409
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T09:22:08.000Z",
+        "description": "也可以叫我三文鱼｜ 双 性恋｜ oc人 | intp ｜目前是舟批｜皮下男｜文明六重度依赖｜一些吐槽、碎碎念或者转发（作息失调（喜欢有意思的东西（偶尔小头控制大头（经常偶尔（全自动安慰机器（请来找我聊天，但请不要给我发屌，谢谢",
+        "id": "1962445765269471232",
+        "location": "新加坡",
+        "name": "弓也也也（三文鱼重度依赖",
+        "pinned_tweet_id": "2044501208598253689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035593084176932864/ADHib0o4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 326,
+          "like_count": 2689,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 1223
+        },
+        "username": "zlyc6112",
+        "verified": false
+      }
+    ]
+  }
+}

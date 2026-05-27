@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2047555217127076083",
+    "created_at": "2026-04-24T11:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T12:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047633651828183131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1671372665402060801",
+          "start": 0,
+          "username": "HomerArcinoma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047633651828183131",
+    "in_reply_to_user_id": "1671372665402060801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047617007055728658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HomerArcinoma 太艺术了，要原始一点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 140,
+        "media_key": "16_2047616997261975552",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HGqYz23aIAAoChr.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HGqYz23aIAAoChr.mp4"
+          }
+        ],
+        "width": 220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2047555217127076083",
+        "created_at": "2026-04-24T11:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047633651828183131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1671372665402060801",
+              "start": 0,
+              "username": "HomerArcinoma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047633651828183131",
+        "in_reply_to_user_id": "1671372665402060801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047617007055728658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HomerArcinoma 太艺术了，要原始一点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2047616997261975552"
+          ]
+        },
+        "author_id": "1671372665402060801",
+        "conversation_id": "2047555217127076083",
+        "created_at": "2026-04-24T10:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047617007055728658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KhXf1XvZT3",
+              "end": 32,
+              "expanded_url": "https://x.com/HomerArcinoma/status/2047617007055728658/photo/1",
+              "media_key": "16_2047616997261975552",
+              "start": 9,
+              "url": "https://t.co/KhXf1XvZT3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047617007055728658",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047555217127076083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt https://t.co/KhXf1XvZT3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 336,
+          "like_count": 3120,
+          "listed_count": 0,
+          "media_count": 347,
+          "tweet_count": 3717
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-21T04:21:34.000Z",
+        "description": "I'm Homer, a Homo sapiens who is obsessed with BIOLOGY, paleontology, philosophy, psychology and psychoactive substance EXPERIMENT.\nLong Live FREEDOM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/homerarcinoma",
+                "end": 23,
+                "expanded_url": "https://t.me/homerarcinoma",
+                "start": 0,
+                "url": "https://t.co/XbJ5nuJV6A"
+              }
+            ]
+          }
+        },
+        "id": "1671372665402060801",
+        "location": "Earth",
+        "name": "Homer Arcinoma",
+        "pinned_tweet_id": "2038192962186944535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004355049632284672/Aopr2_bC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 144,
+          "like_count": 10261,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 1134
+        },
+        "url": "https://t.co/XbJ5nuJV6A",
+        "username": "HomerArcinoma",
+        "verified": true
+      }
+    ]
+  }
+}

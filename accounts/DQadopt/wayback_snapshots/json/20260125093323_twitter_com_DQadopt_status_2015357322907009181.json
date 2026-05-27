@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2015357322907009181",
+    "created_at": "2026-01-25T09:33:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T10:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015357322907009181"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/icekyjelly/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/icekyjelly/status/1725488515155439793",
+          "start": 5,
+          "url": "https://t.co/GROkrsGCEs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015357322907009181",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1725488515155439793",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操好色 https://t.co/GROkrsGCEs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1412,
+        "media_key": "3_1725486048107769856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F_IoazJbMAA4CSE.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2015357322907009181",
+        "created_at": "2026-01-25T09:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T10:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015357322907009181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/icekyjelly/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/icekyjelly/status/1725488515155439793",
+              "start": 5,
+              "url": "https://t.co/GROkrsGCEs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015357322907009181",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1725488515155439793",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操好色 https://t.co/GROkrsGCEs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1725486048107769856"
+          ]
+        },
+        "author_id": "763023039294345217",
+        "conversation_id": "1725488515155439793",
+        "created_at": "2023-11-17T12:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2023-11-17T13:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1725488515155439793"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "以下犯上"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TVAXBit0MX",
+              "end": 45,
+              "expanded_url": "https://x.com/icekyjelly/status/1725488515155439793/photo/1",
+              "media_key": "3_1725486048107769856",
+              "start": 22,
+              "url": "https://t.co/TVAXBit0MX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1725488515155439793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1277,
+          "impression_count": 218249,
+          "like_count": 8787,
+          "quote_count": 29,
+          "reply_count": 16,
+          "retweet_count": 1056
+        },
+        "reply_settings": "everyone",
+        "text": "#以下犯上 \n画完好久遗忘在了角落，有参考 https://t.co/TVAXBit0MX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我重生了，这一次我要夺回属于我的一切丨23le🌈1丨喜欢和可爱漂亮的女生互动🥰🥰🥰丨有喜欢的人不色色丨自伤碎碎念集中地",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8euxG"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 51,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 146
+        },
+        "url": "https://t.co/nFHbt8euxG",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-09T14:44:03.000Z",
+        "description": "《蓝耀石之兽》连载中。\n《幻瘾》已完结。 \n系列《以下犯上》（ABO/Omegaverse）不定期更新。 \nPIXIV:https://t.co/gUhKPBwZki\nFANBOX:https://t.co/3G6tY0ooay \n同人搬运请标明出处作者，原创禁止二次转载。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/213693",
+                "end": 83,
+                "expanded_url": "http://pixiv.net/users/213693",
+                "start": 60,
+                "url": "https://t.co/gUhKPBwZki"
+              },
+              {
+                "display_url": "iceky.fanbox.cc",
+                "end": 114,
+                "expanded_url": "http://iceky.fanbox.cc",
+                "start": 91,
+                "url": "https://t.co/3G6tY0ooay"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/icekyjelly",
+                "end": 23,
+                "expanded_url": "https://weibo.com/icekyjelly",
+                "start": 0,
+                "url": "https://t.co/zFviETHA2u"
+              }
+            ]
+          }
+        },
+        "id": "763023039294345217",
+        "name": "iceky",
+        "pinned_tweet_id": "1989354437102748017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1542892444538134528/bI7M5KOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45780,
+          "following_count": 266,
+          "like_count": 604,
+          "listed_count": 182,
+          "media_count": 325,
+          "tweet_count": 1178
+        },
+        "url": "https://t.co/zFviETHA2u",
+        "username": "icekyjelly",
+        "verified": false
+      }
+    ]
+  }
+}

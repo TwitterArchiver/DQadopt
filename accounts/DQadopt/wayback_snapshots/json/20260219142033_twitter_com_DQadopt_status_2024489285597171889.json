@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2024483438066282887",
+    "created_at": "2026-02-19T14:20:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T15:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024489285597171889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1871178347507834880",
+          "start": 0,
+          "username": "ya003021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024489285597171889",
+    "in_reply_to_user_id": "1871178347507834880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024483438066282887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ya003021 好性感ovo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7991,
+        "height": 1280,
+        "media_key": "13_2024483369976025093",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024483369976025093/img/Yld6gZ1VSnmrYRjt.jpg",
+        "public_metrics": {
+          "view_count": 31
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024483369976025093/vid/avc1/320x568/1qGJODO37t3x7vJw.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024483369976025093/vid/avc1/480x852/LSlm8ds-PvUW5u1J.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024483369976025093/vid/avc1/720x1280/OYL4FARahzmanOVG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024483369976025093/pl/vL5bJ1H0aglgk5a_.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 39400,
+        "height": 1280,
+        "media_key": "13_2024483369980166145",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024483369980166145/img/S3tWLP2WN8gfx2fV.jpg",
+        "public_metrics": {
+          "view_count": 16
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024483369980166145/vid/avc1/320x568/W4l36lV1pu4jJjtf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024483369980166145/vid/avc1/480x852/fUwVCx2E3mm2sdnZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024483369980166145/vid/avc1/720x1280/JtVij9RF3ExP0Afj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024483369980166145/pl/81vZGpJouqZ1UkRP.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2024483438066282887",
+        "created_at": "2026-02-19T14:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T15:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024489285597171889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1871178347507834880",
+              "start": 0,
+              "username": "ya003021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024489285597171889",
+        "in_reply_to_user_id": "1871178347507834880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024483438066282887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ya003021 好性感ovo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024483369976025093",
+            "13_2024483369980166145"
+          ]
+        },
+        "author_id": "1871178347507834880",
+        "conversation_id": "2024483438066282887",
+        "created_at": "2026-02-19T13:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024483438066282887"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "le"
+            },
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "wlw"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "女同"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IMKp4NeuSf",
+              "end": 47,
+              "expanded_url": "https://x.com/ya003021/status/2024483438066282887/video/1",
+              "media_key": "13_2024483369976025093",
+              "start": 24,
+              "url": "https://t.co/IMKp4NeuSf"
+            },
+            {
+              "display_url": "pic.x.com/IMKp4NeuSf",
+              "end": 47,
+              "expanded_url": "https://x.com/ya003021/status/2024483438066282887/video/1",
+              "media_key": "13_2024483369980166145",
+              "start": 24,
+              "url": "https://t.co/IMKp4NeuSf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024483438066282887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "洗澡…😋#le #wlw #女同\n贴脸预警一下 https://t.co/IMKp4NeuSf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 91,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 689
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-23T12:57:46.000Z",
+        "description": "一条狗而已.",
+        "id": "1871178347507834880",
+        "name": "huh puppy",
+        "pinned_tweet_id": "2013101114816925954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002822373301723136/yULvFrJH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 8,
+          "like_count": 409,
+          "listed_count": 4,
+          "media_count": 94,
+          "tweet_count": 400
+        },
+        "username": "ya003021",
+        "verified": false
+      }
+    ]
+  }
+}

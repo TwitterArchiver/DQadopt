@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2010023624884068837",
+    "created_at": "2026-01-11T04:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T05:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010203760308695378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1910345409538760704",
+          "start": 0,
+          "username": "aioonscharon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010203760308695378",
+    "in_reply_to_user_id": "1910345409538760704",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 161,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010023624884068837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aioonscharon My goodness, they’re so beautiful! What TV show is this?"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28600,
+        "height": 720,
+        "media_key": "13_1957884042285617153",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1957884042285617153/img/7cvz_n-EcQSYaemQ.jpg",
+        "public_metrics": {
+          "view_count": 543600
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957884042285617153/vid/avc1/360x270/xQJ51S4Ib7m0TBBN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957884042285617153/vid/avc1/480x360/knH1TIcFtTMYX_9X.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957884042285617153/vid/avc1/960x720/8yWecFJ3GAzaahuS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1957884042285617153/pl/Aoh3bnYVsD76ldZk.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2010023624884068837",
+        "created_at": "2026-01-11T04:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T05:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010203760308695378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1910345409538760704",
+              "start": 0,
+              "username": "aioonscharon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010203760308695378",
+        "in_reply_to_user_id": "1910345409538760704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010023624884068837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aioonscharon My goodness, they’re so beautiful! What TV show is this?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1957884042285617153"
+          ],
+          "media_source_tweet_id": [
+            "1957884106932375964"
+          ]
+        },
+        "author_id": "1910345409538760704",
+        "conversation_id": "2010023624884068837",
+        "created_at": "2026-01-10T16:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T17:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010023624884068837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d3y1JfFqM6",
+              "end": 23,
+              "expanded_url": "https://x.com/i/status/1957884106932375964/video/1",
+              "media_key": "13_1957884042285617153",
+              "start": 0,
+              "url": "https://t.co/d3y1JfFqM6"
+            },
+            {
+              "display_url": "x.com/lcvebyers/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/lcvebyers/status/2009828507220881676",
+              "start": 24,
+              "url": "https://t.co/wY6pMcXsTf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010023624884068837",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 575,
+          "impression_count": 120780,
+          "like_count": 4140,
+          "quote_count": 22,
+          "reply_count": 9,
+          "retweet_count": 411
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009828507220881676",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/d3y1JfFqM6 https://t.co/wY6pMcXsTf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我重生了，这一次我要夺回属于我的一切丨23le🌈1丨喜欢和可爱漂亮的女生互动🥰🥰🥰丨有喜欢的人不色色丨自伤化学原料滥用碎碎念集中地",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8euxG"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 43,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 93
+        },
+        "url": "https://t.co/nFHbt8euxG",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T14:53:48.000Z",
+        "description": "Agata, she/her 🏳️‍🌈. thai gl enjoyer | minors dni | profile pic @/PangJee_9 | main @awoosiyeon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 83,
+                "username": "awoosiyeon"
+              }
+            ]
+          }
+        },
+        "id": "1910345409538760704",
+        "location": "Poland",
+        "name": "agata | primbambi defender",
+        "pinned_tweet_id": "1947795865092993211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949958799013371906/JkDkTM1M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 313,
+          "like_count": 12569,
+          "listed_count": 0,
+          "media_count": 722,
+          "tweet_count": 6310
+        },
+        "username": "aioonscharon",
+        "verified": false
+      }
+    ]
+  }
+}

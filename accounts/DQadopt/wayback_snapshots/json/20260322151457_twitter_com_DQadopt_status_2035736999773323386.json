@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2035736999773323386",
+    "created_at": "2026-03-22T15:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T16:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035736999773323386"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sprim20/status…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/sprim20/status/2035736736006025708",
+          "start": 12,
+          "url": "https://t.co/Pox5nr1Rg6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035736999773323386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035736736006025708",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢这种详细的夸夸！ https://t.co/Pox5nr1Rg6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2035736999773323386",
+        "created_at": "2026-03-22T15:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T16:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035736999773323386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sprim20/status…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/sprim20/status/2035736736006025708",
+              "start": 12,
+              "url": "https://t.co/Pox5nr1Rg6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035736999773323386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035736736006025708",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢这种详细的夸夸！ https://t.co/Pox5nr1Rg6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634930304107581446",
+        "conversation_id": "2035727685121683761",
+        "created_at": "2026-03-22T15:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T16:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035736736006025708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035736736006025708",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035727685121683761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 这钢琴垫得太好听了吧，毫无违和感而且听感变得清新又干净的，好爽，老师是天才吧！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 256,
+          "like_count": 2016,
+          "listed_count": 0,
+          "media_count": 264,
+          "tweet_count": 2402
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T14:52:26.000Z",
+        "description": "你好？你好！",
+        "id": "1634930304107581446",
+        "location": "回南天下的潮湿角落",
+        "name": "默数第102次呼吸",
+        "pinned_tweet_id": "2035521953663242718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028146915486175232/tJXLqv4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 312,
+          "like_count": 3093,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 539
+        },
+        "username": "Sprim20",
+        "verified": false
+      }
+    ]
+  }
+}

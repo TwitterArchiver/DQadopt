@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2042078099794489788",
+    "created_at": "2026-04-09T14:53:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T15:53:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042254703225180544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1909469877972410368",
+          "start": 0,
+          "username": "lanc799183"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042254703225180544",
+    "in_reply_to_user_id": "1909469877972410368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042253141027291186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lanc799183 谢谢你！学到啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2042078099794489788",
+        "created_at": "2026-04-09T14:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042254703225180544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1909469877972410368",
+              "start": 0,
+              "username": "lanc799183"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042254703225180544",
+        "in_reply_to_user_id": "1909469877972410368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042253141027291186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lanc799183 谢谢你！学到啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909469877972410368",
+        "conversation_id": "2042078099794489788",
+        "created_at": "2026-04-09T14:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042253141027291186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042253141027291186",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042078099794489788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 第一个上吊前可以买身带明皇帝服，这样如果真死了就轮到别人纳闷这人是不是崇祯皇帝附身了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 313,
+          "like_count": 2724,
+          "listed_count": 0,
+          "media_count": 313,
+          "tweet_count": 3103
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T04:54:38.000Z",
+        "description": "只要我一息尚存，你与这诗篇将永驻我心间   无聊的碎碎念和……有些事情谁说的准呢",
+        "id": "1909469877972410368",
+        "location": "世界的尽头",
+        "name": "花咲川中专在读生Lanc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032115051939971073/HgwpPE7v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 6,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 1078
+        },
+        "username": "lanc799183",
+        "verified": false
+      }
+    ]
+  }
+}

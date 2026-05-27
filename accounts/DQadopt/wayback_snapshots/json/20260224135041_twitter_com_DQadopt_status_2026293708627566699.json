@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2026293708627566699",
+    "created_at": "2026-02-24T13:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T14:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026293708627566699"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pyke2076/statu…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/pyke2076/status/2021131182906482857",
+          "start": 58,
+          "url": "https://t.co/cjyFmNabGZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026293708627566699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021131182906482857",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我他妈是不是要死了我有点后悔了我现在好恐慌啊我他妈不想死有什么可以下机吗我不想死，我要死了吧，我感觉我要惊恐发作了 https://t.co/cjyFmNabGZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2026293708627566699",
+        "created_at": "2026-02-24T13:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026293708627566699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pyke2076/statu…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/pyke2076/status/2021131182906482857",
+              "start": 58,
+              "url": "https://t.co/cjyFmNabGZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026293708627566699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021131182906482857",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我他妈是不是要死了我有点后悔了我现在好恐慌啊我他妈不想死有什么可以下机吗我不想死，我要死了吧，我感觉我要惊恐发作了 https://t.co/cjyFmNabGZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2021131182906482857",
+        "created_at": "2026-02-10T07:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T08:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021131182906482857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021131182906482857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4698,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我很喜欢dpt联用pr80，会有一种甜甜的感觉，好孩子不要学我，有呼吸抑制风险，因为在细细品尝那个甜味的时候，你的呼吸会慢慢的中断，你控制不了的呼吸中断"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 98,
+          "like_count": 333,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 786
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bunny2076",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bunny2076",
+                "start": 0,
+                "url": "https://t.co/ea8GmOUClU"
+              }
+            ]
+          }
+        },
+        "id": "1481172876589821952",
+        "location": "地狱",
+        "name": "bunny",
+        "pinned_tweet_id": "1948055006441320599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8328,
+          "following_count": 1216,
+          "like_count": 63802,
+          "listed_count": 8,
+          "media_count": 2969,
+          "tweet_count": 17823
+        },
+        "url": "https://t.co/ea8GmOUClU",
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

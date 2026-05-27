@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2043952106655363072"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2043952193699782933",
+    "created_at": "2026-04-14T07:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043952193699782933"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 9,
+          "start": 4,
+          "tag": "女同性恋"
+        },
+        {
+          "end": 14,
+          "start": 10,
+          "tag": "wlw"
+        },
+        {
+          "end": 20,
+          "start": 16,
+          "tag": "les"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pz83VkN72q",
+          "end": 44,
+          "expanded_url": "https://x.com/DQadopt/status/2043952193699782933/video/1",
+          "media_key": "13_2043952106655363072",
+          "start": 21,
+          "url": "https://t.co/Pz83VkN72q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043952193699782933",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "极彩色\n#女同性恋 #wlw  #les https://t.co/Pz83VkN72q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15325,
+        "height": 720,
+        "media_key": "13_2043952106655363072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043952106655363072/img/AIROhodgEMIGgsBM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043952106655363072/vid/avc1/480x270/5WxWJIKFmo41X42B.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043952106655363072/vid/avc1/640x360/621jBjvB0FeYyuZW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043952106655363072/vid/avc1/1280x720/ac5nEVHz3E4LE09a.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043952106655363072/pl/V8FwirXIkULVyJwc.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043952106655363072"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2043952193699782933",
+        "created_at": "2026-04-14T07:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043952193699782933"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 4,
+              "tag": "女同性恋"
+            },
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "wlw"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "les"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pz83VkN72q",
+              "end": 44,
+              "expanded_url": "https://x.com/DQadopt/status/2043952193699782933/video/1",
+              "media_key": "13_2043952106655363072",
+              "start": 21,
+              "url": "https://t.co/Pz83VkN72q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043952193699782933",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "极彩色\n#女同性恋 #wlw  #les https://t.co/Pz83VkN72q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1895,
+          "following_count": 316,
+          "like_count": 2865,
+          "listed_count": 0,
+          "media_count": 327,
+          "tweet_count": 3341
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

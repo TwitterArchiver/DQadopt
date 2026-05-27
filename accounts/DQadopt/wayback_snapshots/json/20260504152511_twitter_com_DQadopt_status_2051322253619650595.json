@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2020483244756738049"
+      ],
+      "media_source_tweet_id": [
+        "2020483680318500936"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2051322253619650595",
+    "created_at": "2026-05-04T15:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T16:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051322253619650595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1653224940500578305",
+          "start": 3,
+          "username": "MyWayDom"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AUaHOuOe9c",
+          "end": 74,
+          "expanded_url": "https://x.com/Yu_colour/status/2020483680318500936/video/1",
+          "media_key": "13_2020483244756738049",
+          "start": 51,
+          "url": "https://t.co/AUaHOuOe9c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051322253619650595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035185496805319117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MyWayDom: 乳首责+拘束，震动棒刺激阴蒂\n\n无法扭动身体，就只能紧绷着脚趾呻吟了\n\n https://t.co/AUaHOuOe9c"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2051322253619650595].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2051322253619650595",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2051322253619650595"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 77566,
+        "height": 1280,
+        "media_key": "13_2020483244756738049",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020483244756738049/img/qGkjbRbr31lsEPcU.jpg",
+        "public_metrics": {
+          "view_count": 403150
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020483244756738049/vid/avc1/320x568/HnrZ1-siaC_XU6Mz.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020483244756738049/vid/avc1/480x852/k1Rww-d4Jwl9-2y7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020483244756738049/vid/avc1/720x1280/UqFqlGTDS5AsnAI3.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020483244756738049/pl/hRWHnJ-CNvOYu5uz.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 77566,
+        "height": 1280,
+        "media_key": "13_2020483244756738049",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020483244756738049/img/qGkjbRbr31lsEPcU.jpg",
+        "public_metrics": {
+          "view_count": 403240
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020483244756738049/vid/avc1/320x568/HnrZ1-siaC_XU6Mz.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020483244756738049/vid/avc1/480x852/k1Rww-d4Jwl9-2y7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020483244756738049/vid/avc1/720x1280/UqFqlGTDS5AsnAI3.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020483244756738049/pl/hRWHnJ-CNvOYu5uz.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020483244756738049"
+          ],
+          "media_source_tweet_id": [
+            "2020483680318500936"
+          ]
+        },
+        "author_id": "1653224940500578305",
+        "conversation_id": "2035185496805319117",
+        "created_at": "2026-03-21T02:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T03:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035185496805319117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AUaHOuOe9c",
+              "end": 60,
+              "expanded_url": "https://x.com/Yu_colour/status/2020483680318500936/video/1",
+              "media_key": "13_2020483244756738049",
+              "start": 37,
+              "url": "https://t.co/AUaHOuOe9c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035185496805319117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 688,
+          "impression_count": 36700,
+          "like_count": 1425,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "乳首责+拘束，震动棒刺激阴蒂\n\n无法扭动身体，就只能紧绷着脚趾呻吟了\n\n https://t.co/AUaHOuOe9c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2229,
+          "following_count": 341,
+          "like_count": 3253,
+          "listed_count": 1,
+          "media_count": 355,
+          "tweet_count": 3821
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T02:28:49.000Z",
+        "description": "已婚男Dom 📖 热爱阅读 · 音乐 · 电影\nBDSM书摘分享、亲密关系 & D/s关系探讨 💡\n欢迎礼貌交流，不聊骚、不约调 👋\nMy wife, my soulmate @jiaozi0411 ❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "jiaozi0411"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/mywaydom/statu…",
+                "end": 23,
+                "expanded_url": "https://x.com/mywaydom/status/1997723869646622847",
+                "start": 0,
+                "url": "https://t.co/P34DgQg5cW"
+              }
+            ]
+          }
+        },
+        "id": "1653224940500578305",
+        "location": "Yen Town",
+        "name": "FlyingToTheMoon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014224810491195393/tWUkavy2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 144,
+          "like_count": 1258,
+          "listed_count": 5,
+          "media_count": 178,
+          "tweet_count": 545
+        },
+        "url": "https://t.co/P34DgQg5cW",
+        "username": "MyWayDom",
+        "verified": false
+      }
+    ]
+  }
+}

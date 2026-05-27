@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2040962981471883633",
+    "created_at": "2026-04-07T12:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T13:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041493972024250666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683159092800659458",
+          "start": 0,
+          "username": "shshjyhl"
+        },
+        {
+          "end": 19,
+          "id": "1704479315516420096",
+          "start": 10,
+          "username": "sukula77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041493972024250666",
+    "in_reply_to_user_id": "1683159092800659458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041493873915244752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shshjyhl @sukula77 对啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2040962981471883633",
+        "created_at": "2026-04-07T12:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041493972024250666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683159092800659458",
+              "start": 0,
+              "username": "shshjyhl"
+            },
+            {
+              "end": 19,
+              "id": "1704479315516420096",
+              "start": 10,
+              "username": "sukula77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041493972024250666",
+        "in_reply_to_user_id": "1683159092800659458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041493873915244752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shshjyhl @sukula77 对啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683159092800659458",
+        "conversation_id": "2040962981471883633",
+        "created_at": "2026-04-07T12:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041493873915244752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            },
+            {
+              "end": 18,
+              "id": "1704479315516420096",
+              "start": 9,
+              "username": "sukula77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041493873915244752",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041404210877788539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt @sukula77 希望她分清“强制爱”和“强奸”的区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1745,
+          "following_count": 305,
+          "like_count": 2520,
+          "listed_count": 0,
+          "media_count": 302,
+          "tweet_count": 2943
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T16:56:23.000Z",
+        "description": "les🌈正在调整各种事物接收程度中/有时候很能吵到别人眼睛，大部分时候不爱说话/看不起女人的男的自觉取关",
+        "id": "1683159092800659458",
+        "location": "一直在路上",
+        "name": "上火慎喝金银花露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911426222929616896/JDA-kX93_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10851,
+          "following_count": 1193,
+          "like_count": 3213,
+          "listed_count": 27,
+          "media_count": 158,
+          "tweet_count": 800
+        },
+        "username": "shshjyhl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T12:55:22.000Z",
+        "description": "烦恼",
+        "id": "1704479315516420096",
+        "location": "🚪200联系方式 其他私信不看了 感谢喜欢",
+        "name": "芹",
+        "pinned_tweet_id": "2023834743780123036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041070092084289536/cGE30CNh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74803,
+          "following_count": 11,
+          "like_count": 581,
+          "listed_count": 118,
+          "media_count": 110,
+          "tweet_count": 266
+        },
+        "username": "sukula77",
+        "verified": false
+      }
+    ]
+  }
+}

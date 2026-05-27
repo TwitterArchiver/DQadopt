@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2023663249414046131",
+    "created_at": "2026-02-17T07:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T08:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023663249414046131"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2023663249414046131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我从很早之前就一直在看着你了，从我表白你之前，我找到了你妈妈的抖音，有发了送你去上大学在酒店的视频，有你玻璃上一晃而过的身影，把我删除后我也看到你小红书收藏了租房帖，知道你在哪里实习上班，我会一直看着你，就这样偷偷看着你好舒服啊但还想看到你更多怎么办啊，永远让我看着你吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2023663249414046131",
+        "created_at": "2026-02-17T07:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T08:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023663249414046131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023663249414046131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我从很早之前就一直在看着你了，从我表白你之前，我找到了你妈妈的抖音，有发了送你去上大学在酒店的视频，有你玻璃上一晃而过的身影，把我删除后我也看到你小红书收藏了租房帖，知道你在哪里实习上班，我会一直看着你，就这样偷偷看着你好舒服啊但还想看到你更多怎么办啊，永远让我看着你吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 91,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 644
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

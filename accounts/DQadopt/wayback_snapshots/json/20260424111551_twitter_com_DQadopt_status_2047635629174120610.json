@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2047511302336282642",
+    "created_at": "2026-04-24T11:15:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T12:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047635629174120610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1773714073676652544",
+          "start": 0,
+          "username": "9jy6op"
+        },
+        {
+          "end": 24,
+          "id": "1852895432269234176",
+          "start": 8,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047635629174120610",
+    "in_reply_to_user_id": "1773714073676652544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047519808556872105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9jy6op @432Ifantrygroup 太他妈惨了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2047511302336282642",
+        "created_at": "2026-04-24T11:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047635629174120610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1773714073676652544",
+              "start": 0,
+              "username": "9jy6op"
+            },
+            {
+              "end": 24,
+              "id": "1852895432269234176",
+              "start": 8,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047635629174120610",
+        "in_reply_to_user_id": "1773714073676652544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047519808556872105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9jy6op @432Ifantrygroup 太他妈惨了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773714073676652544",
+        "conversation_id": "2047511302336282642",
+        "created_at": "2026-04-24T03:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T04:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047519808556872105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047519808556872105",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047512668815397164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 我要哭了\n有人给我发照片，配文要操我，简介是医学生\n我还以为是女dom的手呢，打开一看是个吊，手机都摔出去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 336,
+          "like_count": 3119,
+          "listed_count": 0,
+          "media_count": 347,
+          "tweet_count": 3734
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T14:09:39.000Z",
+        "description": "长发les\n一只橘猫\n像上位的下位抚慰猫\n注意力很容易被吸走，说着说着话突然没有了是去玩别的了\np0～0.5\n对不起我抽象是因为我的职业\nenfp\n发现你的帖子有趣的话会私信追问",
+        "id": "1773714073676652544",
+        "location": "所有事情都是我编的，勿联系现实",
+        "name": "甜美商务猫",
+        "pinned_tweet_id": "2047620981821526322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035885369783406592/ZBJvpGQN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 659,
+          "like_count": 8621,
+          "listed_count": 4,
+          "media_count": 1216,
+          "tweet_count": 25445
+        },
+        "username": "9jy6op",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2047588634040357233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 3209,
+          "like_count": 27344,
+          "listed_count": 3,
+          "media_count": 292,
+          "tweet_count": 7211
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

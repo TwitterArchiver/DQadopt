@@ -1,0 +1,533 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10058164147",
+          "name": "ドロヘドロ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2029452424638022007",
+    "created_at": "2026-03-05T07:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T08:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029452424638022007"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "Dorohedoro",
+          "probability": 0.9378,
+          "start": 28,
+          "type": "Other"
+        },
+        {
+          "end": 137,
+          "normalized_text": "Yuichiro",
+          "probability": 0.4866,
+          "start": 130,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1312479165757579264",
+          "start": 3,
+          "username": "SugoiLITE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029452424638022007",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 760
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028832880882049227",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SugoiLITE: Season 2 of \"Dorohedoro\" Anime is listed with total 11 EPISODES + All episodes ‘Completed Production’\n\nDirected by Yuichiro…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028832877232930816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfcwKwaQAAv4Eq.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10058164147",
+              "name": "ドロヘドロ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2029452424638022007",
+        "created_at": "2026-03-05T07:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T08:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029452424638022007"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "Dorohedoro",
+              "probability": 0.9378,
+              "start": 28,
+              "type": "Other"
+            },
+            {
+              "end": 137,
+              "normalized_text": "Yuichiro",
+              "probability": 0.4866,
+              "start": 130,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1312479165757579264",
+              "start": 3,
+              "username": "SugoiLITE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029452424638022007",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 760
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028832880882049227",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SugoiLITE: Season 2 of \"Dorohedoro\" Anime is listed with total 11 EPISODES + All episodes ‘Completed Production’\n\nDirected by Yuichiro…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028832877232930816"
+          ]
+        },
+        "author_id": "1312479165757579264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10058164147",
+              "name": "ドロヘドロ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1448580349374566401",
+              "name": "MAPPA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352163508600832",
+              "name": "Animation studios"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1448580349374566401",
+              "name": "MAPPA"
+            }
+          }
+        ],
+        "conversation_id": "2028832880882049227",
+        "created_at": "2026-03-03T14:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T15:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028832880882049227"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Dorohedoro",
+              "probability": 0.9365,
+              "start": 13,
+              "type": "Other"
+            },
+            {
+              "end": 130,
+              "normalized_text": "Yuichiro Hayashi",
+              "probability": 0.8239,
+              "start": 115,
+              "type": "Person"
+            },
+            {
+              "end": 146,
+              "normalized_text": "Studio MAPPA",
+              "probability": 0.5657,
+              "start": 135,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ZjFNNTJsg",
+              "end": 239,
+              "expanded_url": "https://x.com/SugoiLITE/status/2028832880882049227/photo/1",
+              "media_key": "3_2028832877232930816",
+              "start": 216,
+              "url": "https://t.co/9ZjFNNTJsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028832880882049227",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 469,
+          "impression_count": 374581,
+          "like_count": 5518,
+          "quote_count": 391,
+          "reply_count": 59,
+          "retweet_count": 760
+        },
+        "reply_settings": "everyone",
+        "text": "Season 2 of \"Dorohedoro\" Anime is listed with total 11 EPISODES + All episodes ‘Completed Production’\n\nDirected by Yuichiro Hayashi at Studio MAPPA, the series will be streamed ‘Weekly’ worldwide from April 1, 2026. https://t.co/9ZjFNNTJsg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 176,
+          "like_count": 972,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1219
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-03T19:46:53.000Z",
+        "description": "ANIME L.E.A.K, NOT SPOILERS FREE!!!\n\n*Twitter (Main): @SUGOILITE / @SUGOIBINGUS / @TheMediaBingus\n\n*Instagram/Thread: sugoi.lite\n*Telegram: sugoileaks",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "SUGOILITE"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "SUGOIBINGUS"
+              },
+              {
+                "end": 97,
+                "start": 82,
+                "username": "TheMediaBingus"
+              }
+            ]
+          }
+        },
+        "id": "1312479165757579264",
+        "location": "Anime ☁️",
+        "name": "Sugoi LITE",
+        "pinned_tweet_id": "2027797395829100704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1594389237990051840/tLSiu0tQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109432,
+          "following_count": 2,
+          "like_count": 466,
+          "listed_count": 364,
+          "media_count": 2391,
+          "tweet_count": 6853
+        },
+        "username": "SugoiLITE",
+        "verified": false
+      }
+    ]
+  }
+}

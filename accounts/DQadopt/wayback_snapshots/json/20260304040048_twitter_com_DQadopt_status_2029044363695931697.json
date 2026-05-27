@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2029044363695931697",
+    "created_at": "2026-03-04T04:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T05:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029044363695931697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dqadopt/status…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/dqadopt/status/2028739055933083785",
+          "start": 38,
+          "url": "https://t.co/KnRXBx6XI4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029044363695931697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028739055933083785",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小鸟这么多年我只意淫过你一个人，我只想当你的狗，我会是一条有精神病的好狗的 https://t.co/KnRXBx6XI4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2029044363695931697",
+        "created_at": "2026-03-04T04:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T05:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029044363695931697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dqadopt/status…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/dqadopt/status/2028739055933083785",
+              "start": 38,
+              "url": "https://t.co/KnRXBx6XI4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029044363695931697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028739055933083785",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小鸟这么多年我只意淫过你一个人，我只想当你的狗，我会是一条有精神病的好狗的 https://t.co/KnRXBx6XI4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2028739055933083785",
+        "created_at": "2026-03-03T07:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T08:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028739055933083785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028739055933083785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 12421,
+          "like_count": 149,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我从18岁喜欢上你的时候就开始意淫我是你的狗了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 163,
+          "like_count": 811,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1093
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

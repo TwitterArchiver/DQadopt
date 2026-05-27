@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2041363396109705268",
+    "created_at": "2026-04-07T03:52:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T04:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041363396109705268"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/420bbnnkk/stat…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/420bbnnkk/status/2041358805628543062",
+          "start": 41,
+          "url": "https://t.co/XNhJ8uifQI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041363396109705268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041358805628543062",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "omg我看还有好多互关关注这个人了你们谨慎一点啊啊啊啊啊啊，买大麻还是去找兔兔吧 https://t.co/XNhJ8uifQI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1150,
+        "media_key": "3_2041358437406412800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFRcrujbEAAhKiv.jpg",
+        "width": 1019
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2041363396109705268",
+        "created_at": "2026-04-07T03:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T04:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041363396109705268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/420bbnnkk/stat…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/420bbnnkk/status/2041358805628543062",
+              "start": 41,
+              "url": "https://t.co/XNhJ8uifQI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041363396109705268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041358805628543062",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "omg我看还有好多互关关注这个人了你们谨慎一点啊啊啊啊啊啊，买大麻还是去找兔兔吧 https://t.co/XNhJ8uifQI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041358437406412800"
+          ]
+        },
+        "author_id": "2009773968891469824",
+        "conversation_id": "2041358805628543062",
+        "created_at": "2026-04-07T03:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T04:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041358805628543062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1501339052053729283",
+              "start": 3,
+              "username": "xuxianshiflj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdCRHB5Hoq",
+              "end": 100,
+              "expanded_url": "https://x.com/420bbnnkk/status/2041358805628543062/photo/1",
+              "media_key": "3_2041358437406412800",
+              "start": 77,
+              "url": "https://t.co/hdCRHB5Hoq"
+            },
+            {
+              "display_url": "x.com/uiop888888/sta…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/uiop888888/status/2041094521954660848",
+              "start": 101,
+              "url": "https://t.co/xMOM6sJ2pa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041358805628543062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041094521954660848",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "此账号@xuxianshiflj已有多人与其进行资金交易后受骗上当，据受害者描述，其会用ai生成的名字id纸条表示自己是真商家,给他的帖子和主页点点举报 https://t.co/hdCRHB5Hoq https://t.co/xMOM6sJ2pa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1740,
+          "following_count": 305,
+          "like_count": 2491,
+          "listed_count": 1,
+          "media_count": 299,
+          "tweet_count": 2907
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T23:47:23.000Z",
+        "description": "广州市吸毒局吸毒支队官方推特号，私信常开，接受投稿，不出售任何产品，谨防骗子，反诈安全宣传一刻不容停息，关注局长 防范骗局",
+        "id": "2009773968891469824",
+        "location": " Australia",
+        "name": "广州吸毒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023055132632702976/i-G8Lq9g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 34,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 81
+        },
+        "username": "420bbnnkk",
+        "verified": false
+      }
+    ]
+  }
+}

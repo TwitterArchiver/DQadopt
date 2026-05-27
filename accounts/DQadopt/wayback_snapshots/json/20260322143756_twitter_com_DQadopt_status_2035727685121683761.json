@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2035727486978564096"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2035727685121683761",
+    "created_at": "2026-03-22T14:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T15:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035727685121683761"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3RiHSqK7KK",
+          "end": 28,
+          "expanded_url": "https://x.com/DQadopt/status/2035727685121683761/video/1",
+          "media_key": "13_2035727486978564096",
+          "start": 5,
+          "url": "https://t.co/3RiHSqK7KK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035727685121683761",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "2021 https://t.co/3RiHSqK7KK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 83000,
+        "height": 720,
+        "media_key": "13_2035727486978564096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035727486978564096/img/eunBkYeUL30gXfMb.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035727486978564096/vid/avc1/376x270/tSimg7LuSTW373aZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035727486978564096/vid/avc1/502x360/oypD3t4a4Hsx0iXb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035727486978564096/vid/avc1/1004x720/ox8W7kvd7ylH91Eb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035727486978564096/pl/3d3J0QbwtCW69ltg.m3u8"
+          }
+        ],
+        "width": 1004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035727486978564096"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2035727685121683761",
+        "created_at": "2026-03-22T14:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T15:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035727685121683761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3RiHSqK7KK",
+              "end": 28,
+              "expanded_url": "https://x.com/DQadopt/status/2035727685121683761/video/1",
+              "media_key": "13_2035727486978564096",
+              "start": 5,
+              "url": "https://t.co/3RiHSqK7KK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035727685121683761",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2021 https://t.co/3RiHSqK7KK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 256,
+          "like_count": 2017,
+          "listed_count": 0,
+          "media_count": 264,
+          "tweet_count": 2396
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

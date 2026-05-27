@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2041023548127662231",
+    "created_at": "2026-04-06T05:21:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T06:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041023548127662231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dqadopt/status…",
+          "end": 117,
+          "expanded_url": "https://twitter.com/dqadopt/status/2031930709389295836",
+          "start": 94,
+          "url": "https://t.co/okLF20UfQO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041023548127662231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031930709389295836",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的后遗症就是随机呼吸衰竭，我在家买了好多氧气瓶）这辈子吃过最难吃的东西就是亚硝酸钠，但如果要我再次选择自杀的方式，我还是会选择亚硝酸钠，因为我觉得，相比于其他方式，真的还好，上吊也可以 https://t.co/okLF20UfQO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031930699130036224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLeNInbYAApg4o.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031930699104882688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLeNIhbkAA-Ywu.jpg",
+        "width": 946
+      },
+      {
+        "height": 1645,
+        "media_key": "3_2031930699134193664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLeNIoa0AAm1t6.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2041023548127662231",
+        "created_at": "2026-04-06T05:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T06:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041023548127662231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dqadopt/status…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/dqadopt/status/2031930709389295836",
+              "start": 94,
+              "url": "https://t.co/okLF20UfQO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041023548127662231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031930709389295836",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的后遗症就是随机呼吸衰竭，我在家买了好多氧气瓶）这辈子吃过最难吃的东西就是亚硝酸钠，但如果要我再次选择自杀的方式，我还是会选择亚硝酸钠，因为我觉得，相比于其他方式，真的还好，上吊也可以 https://t.co/okLF20UfQO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031930699130036224",
+            "3_2031930699104882688",
+            "3_2031930699134193664"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2031930709389295836",
+        "created_at": "2026-03-12T03:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T04:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031930709389295836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9LhiSFX6F7",
+              "end": 168,
+              "expanded_url": "https://x.com/DQadopt/status/2031930709389295836/photo/1",
+              "media_key": "3_2031930699130036224",
+              "start": 145,
+              "url": "https://t.co/9LhiSFX6F7"
+            },
+            {
+              "display_url": "pic.x.com/9LhiSFX6F7",
+              "end": 168,
+              "expanded_url": "https://x.com/DQadopt/status/2031930709389295836/photo/1",
+              "media_key": "3_2031930699104882688",
+              "start": 145,
+              "url": "https://t.co/9LhiSFX6F7"
+            },
+            {
+              "display_url": "pic.x.com/9LhiSFX6F7",
+              "end": 168,
+              "expanded_url": "https://x.com/DQadopt/status/2031930709389295836/photo/1",
+              "media_key": "3_2031930699134193664",
+              "start": 145,
+              "url": "https://t.co/9LhiSFX6F7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031930709389295836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 6826,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2月份我究竟是怎么活下来的\n我他妈喝了大概100g亚硝酸钠啊🤔🤔🤔基本上全被我吐出来了\n所以止吐和增效剂很重要，而且要空腹，别学我，朝家瓦舍拌饭太他妈好吃了涨了一肚子，喝了亚硝酸钠全吐出来了\n醒来已是icu，洗胃的管子抽出来的时候好舒服，晶哥看起来好凶\n喝亚硝酸钠前不要吃朝家瓦舍拌饭嗯对 https://t.co/9LhiSFX6F7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1722,
+          "following_count": 303,
+          "like_count": 2443,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 2850
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

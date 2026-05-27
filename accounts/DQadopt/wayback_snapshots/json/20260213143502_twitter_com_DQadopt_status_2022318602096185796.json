@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2022253284774555996",
+    "created_at": "2026-02-13T14:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T15:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022318602096185796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1493813474824429569",
+          "start": 0,
+          "username": "linaqing2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022318602096185796",
+    "in_reply_to_user_id": "1493813474824429569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022253284774555996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linaqing2 我吐了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2022253284774555996",
+        "created_at": "2026-02-13T14:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T15:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022318602096185796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1493813474824429569",
+              "start": 0,
+              "username": "linaqing2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022318602096185796",
+        "in_reply_to_user_id": "1493813474824429569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022253284774555996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linaqing2 我吐了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493813474824429569",
+        "conversation_id": "2022253284774555996",
+        "created_at": "2026-02-13T10:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T11:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022253284774555996"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "les"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022253284774555996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 434,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "搞4i的别太离谱好吗 什么叫4i拉拉两手抓😅我们女同是什么很贱的人吗😅各位拉子警惕4i女吧 #les"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 84,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 541
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-16T05:04:30.000Z",
+        "description": "长发t｜恋妹｜比较s ｜ip西安｜喜欢吃妹妹的嘴子 男❌男装妹❌4i也❌｜欢迎妹妹来找我玩",
+        "id": "1493813474824429569",
+        "location": "我在花开的地方等你",
+        "name": "春日宴",
+        "pinned_tweet_id": "1978761997383532957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875252250257612800/Tqb7_mOd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 15,
+          "like_count": 373,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 331
+        },
+        "username": "linaqing2",
+        "verified": false
+      }
+    ]
+  }
+}

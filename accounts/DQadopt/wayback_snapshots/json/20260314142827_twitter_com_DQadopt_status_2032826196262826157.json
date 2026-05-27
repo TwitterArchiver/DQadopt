@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032826186506842117"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2032826196262826157",
+    "created_at": "2026-03-14T14:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T15:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032826196262826157"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 14,
+          "start": 10,
+          "tag": "les"
+        },
+        {
+          "end": 19,
+          "start": 15,
+          "tag": "wlw"
+        },
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "女同性恋"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zvWtB5N2CZ",
+          "end": 50,
+          "expanded_url": "https://x.com/DQadopt/status/2032826196262826157/photo/1",
+          "media_key": "3_2032826186506842117",
+          "start": 27,
+          "url": "https://t.co/zvWtB5N2CZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032826196262826157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢你来看我^ ^\n#les #wlw  #女同性恋 https://t.co/zvWtB5N2CZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1412,
+        "media_key": "3_2032826186506842117",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYMpXDaMAU5zEE.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032826186506842117"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2032826196262826157",
+        "created_at": "2026-03-14T14:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032826196262826157"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "les"
+            },
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "wlw"
+            },
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "女同性恋"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zvWtB5N2CZ",
+              "end": 50,
+              "expanded_url": "https://x.com/DQadopt/status/2032826196262826157/photo/1",
+              "media_key": "3_2032826186506842117",
+              "start": 27,
+              "url": "https://t.co/zvWtB5N2CZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032826196262826157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你来看我^ ^\n#les #wlw  #女同性恋 https://t.co/zvWtB5N2CZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 237,
+          "like_count": 1588,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 1891
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

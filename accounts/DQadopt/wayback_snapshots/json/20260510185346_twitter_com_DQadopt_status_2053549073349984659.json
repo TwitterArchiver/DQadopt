@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2053415272321785906",
+    "created_at": "2026-05-10T18:53:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T19:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053549073349984659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1900487083799830528",
+          "start": 0,
+          "username": "666888qwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053549073349984659",
+    "in_reply_to_user_id": "1900487083799830528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053415272321785906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@666888qwe 不如321"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2053415272321785906",
+        "created_at": "2026-05-10T18:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T19:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053549073349984659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1900487083799830528",
+              "start": 0,
+              "username": "666888qwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053549073349984659",
+        "in_reply_to_user_id": "1900487083799830528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053415272321785906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@666888qwe 不如321"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900487083799830528",
+        "conversation_id": "2053415272321785906",
+        "created_at": "2026-05-10T10:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053415272321785906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053415272321785906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1502,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有什么能o 死的药？便宜一点，不太痛苦，能买到的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2266,
+          "following_count": 338,
+          "like_count": 3382,
+          "listed_count": 1,
+          "media_count": 365,
+          "tweet_count": 3998
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T10:00:19.000Z",
+        "description": "大龄家里蹲餐券脑残穷比追星女一枚，还搞点二次元，高强度冲浪中 同类互fo呀\n如果你知道我是谁，请装作不认识我或者当没看到，谢谢",
+        "id": "1900487083799830528",
+        "location": "天堂",
+        "name": "3c11._fytt",
+        "pinned_tweet_id": "2035555707681177728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046927897345335297/9iSkDTa8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 87,
+          "like_count": 7997,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 704
+        },
+        "username": "666888qwe",
+        "verified": false
+      }
+    ]
+  }
+}

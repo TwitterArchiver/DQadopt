@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2043568896444408002",
+    "created_at": "2026-04-13T05:56:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T06:56:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043568896444408002"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043568896444408002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小鸟训我的时候很有感觉，很严厉让人有点害怕，唉我就在想要是她可以当我主人就好了😮‍💨可惜她没有这个癖好，我只想被她更好地管教，小鸟命令我不准自残od我已经忍了好久好久了，每次想那么干就会想起小鸟，感觉被她束缚着，好幸福好温暖\n唉如果她能当我主人就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2043568896444408002",
+        "created_at": "2026-04-13T05:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043568896444408002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043568896444408002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小鸟训我的时候很有感觉，很严厉让人有点害怕，唉我就在想要是她可以当我主人就好了😮‍💨可惜她没有这个癖好，我只想被她更好地管教，小鸟命令我不准自残od我已经忍了好久好久了，每次想那么干就会想起小鸟，感觉被她束缚着，好幸福好温暖\n唉如果她能当我主人就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1887,
+          "following_count": 315,
+          "like_count": 2846,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 3290
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

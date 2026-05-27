@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2043732232708440186",
+    "created_at": "2026-04-15T00:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T01:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044218612395979229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1773714073676652544",
+          "start": 0,
+          "username": "9jy6op"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044218612395979229",
+    "in_reply_to_user_id": "1773714073676652544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044061091949621749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9jy6op 嗯嗯！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2043732232708440186",
+        "created_at": "2026-04-15T00:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T01:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044218612395979229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1773714073676652544",
+              "start": 0,
+              "username": "9jy6op"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044218612395979229",
+        "in_reply_to_user_id": "1773714073676652544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044061091949621749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9jy6op 嗯嗯！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773714073676652544",
+        "conversation_id": "2043732232708440186",
+        "created_at": "2026-04-14T14:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044061091949621749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044061091949621749",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043732232708440186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 哎其实她喜欢你就好了，也许她只是单纯欣赏画技才转发的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1902,
+          "following_count": 316,
+          "like_count": 2889,
+          "listed_count": 0,
+          "media_count": 328,
+          "tweet_count": 3371
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T14:09:39.000Z",
+        "description": "长发les\n注意力很容易被吸走，说着说着话突然没有了是去玩别的了\np0～0.5\n对不起我抽象是因为我的职业\nenfp\n发现你的帖子有趣的话会私信追问",
+        "id": "1773714073676652544",
+        "location": "所有事情都是我编的，勿联系现实",
+        "name": "甜美商务猫",
+        "pinned_tweet_id": "2031918534767554833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035885369783406592/ZBJvpGQN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 654,
+          "like_count": 8493,
+          "listed_count": 4,
+          "media_count": 1201,
+          "tweet_count": 25057
+        },
+        "username": "9jy6op",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2018225350028013902",
+    "created_at": "2026-02-02T09:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T10:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018258160331747832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1507587547370770432",
+          "start": 0,
+          "username": "iPhone1988_"
+        },
+        {
+          "end": 24,
+          "id": "1719717437569155072",
+          "start": 13,
+          "username": "dollymissu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018258160331747832",
+    "in_reply_to_user_id": "1507587547370770432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018225350028013902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iPhone1988_ @dollymissu 这也太爽了吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14700,
+        "height": 960,
+        "media_key": "13_2018225283191717888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2018225283191717888/img/fSoALYEzIQDmj58v.jpg",
+        "public_metrics": {
+          "view_count": 302
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018225283191717888/vid/avc1/320x564/F4KCmsbrvPgHAtJ4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018225283191717888/vid/avc1/480x846/cT8HOTaga9GgSrEU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018225283191717888/vid/avc1/544x960/WkPmZ5zCE1q8qJfp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2018225283191717888/pl/PuCRrWVbta50lI8L.m3u8"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2018225350028013902",
+        "created_at": "2026-02-02T09:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T10:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018258160331747832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1507587547370770432",
+              "start": 0,
+              "username": "iPhone1988_"
+            },
+            {
+              "end": 24,
+              "id": "1719717437569155072",
+              "start": 13,
+              "username": "dollymissu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018258160331747832",
+        "in_reply_to_user_id": "1507587547370770432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018225350028013902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iPhone1988_ @dollymissu 这也太爽了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018225283191717888"
+          ]
+        },
+        "author_id": "1507587547370770432",
+        "conversation_id": "2018225350028013902",
+        "created_at": "2026-02-02T07:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T08:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018225350028013902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1719717437569155072",
+              "start": 8,
+              "username": "dollymissu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nzlhHscyZI",
+              "end": 43,
+              "expanded_url": "https://x.com/iPhone1988_/status/2018225350028013902/video/1",
+              "media_key": "13_2018225283191717888",
+              "start": 20,
+              "url": "https://t.co/nzlhHscyZI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018225350028013902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 571,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好爽 谁来懂下我@dollymissu https://t.co/nzlhHscyZI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 61,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 236
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T05:17:48.000Z",
+        "description": "喜欢可爱事物爱搞点涩涩的普通胖女孩 现生刷到请当做没看到 阿里嘎多 小女孩互关请私 喜欢的话请投喂 有🚪 喜欢有礼貌的人",
+        "id": "1507587547370770432",
+        "location": "上海",
+        "name": "盐焗蟑螂脆片",
+        "pinned_tweet_id": "2015916612407496888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011426507688996865/2sPPzwVB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3199,
+          "following_count": 85,
+          "like_count": 566,
+          "listed_count": 12,
+          "media_count": 37,
+          "tweet_count": 296
+        },
+        "username": "iPhone1988_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-01T14:06:16.000Z",
+        "description": "肥肥的G杯童颜巨乳萝莉——˗ˋˏ♡ˎˊ˗——喜欢我请入门 ｜图片纯享版：@meowuu5｜接一日女友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "meowuu5"
+              }
+            ]
+          }
+        },
+        "id": "1719717437569155072",
+        "location": "🚪288/520 富哥专属：1314/3344",
+        "name": "悲伤猪肘子",
+        "pinned_tweet_id": "2006545125091193262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990791675413979136/rUlWzLwt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25030,
+          "following_count": 236,
+          "like_count": 15705,
+          "listed_count": 76,
+          "media_count": 293,
+          "tweet_count": 6711
+        },
+        "username": "dollymissu",
+        "verified": false
+      }
+    ]
+  }
+}

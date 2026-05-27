@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2025250787551826306",
+    "created_at": "2026-02-22T04:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T05:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025429241857540444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1551483218087784448",
+          "start": 0,
+          "username": "Witchwithparrot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025429241857540444",
+    "in_reply_to_user_id": "1551483218087784448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025250787551826306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Witchwithparrot 姐真的太有魅力了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025250742047752193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsi0dTaQAEwFQ7.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025250742052028416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsi0dUbgAAiuPu.jpg",
+        "width": 1352
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025250742060417028",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsi0dWbgAQOQIs.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025250742060417025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsi0dWbgAEC26f.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2025250787551826306",
+        "created_at": "2026-02-22T04:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025429241857540444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1551483218087784448",
+              "start": 0,
+              "username": "Witchwithparrot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025429241857540444",
+        "in_reply_to_user_id": "1551483218087784448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025250787551826306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Witchwithparrot 姐真的太有魅力了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025250742047752193",
+            "3_2025250742052028416",
+            "3_2025250742060417028",
+            "3_2025250742060417025"
+          ]
+        },
+        "author_id": "1551483218087784448",
+        "conversation_id": "2025250787551826306",
+        "created_at": "2026-02-21T16:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T17:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025250787551826306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pacUY8j4pM",
+              "end": 36,
+              "expanded_url": "https://x.com/Witchwithparrot/status/2025250787551826306/photo/1",
+              "media_key": "3_2025250742047752193",
+              "start": 13,
+              "url": "https://t.co/pacUY8j4pM"
+            },
+            {
+              "display_url": "pic.x.com/pacUY8j4pM",
+              "end": 36,
+              "expanded_url": "https://x.com/Witchwithparrot/status/2025250787551826306/photo/1",
+              "media_key": "3_2025250742052028416",
+              "start": 13,
+              "url": "https://t.co/pacUY8j4pM"
+            },
+            {
+              "display_url": "pic.x.com/pacUY8j4pM",
+              "end": 36,
+              "expanded_url": "https://x.com/Witchwithparrot/status/2025250787551826306/photo/1",
+              "media_key": "3_2025250742060417028",
+              "start": 13,
+              "url": "https://t.co/pacUY8j4pM"
+            },
+            {
+              "display_url": "pic.x.com/pacUY8j4pM",
+              "end": 36,
+              "expanded_url": "https://x.com/Witchwithparrot/status/2025250787551826306/photo/1",
+              "media_key": "3_2025250742060417025",
+              "start": 13,
+              "url": "https://t.co/pacUY8j4pM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025250787551826306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1838,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "趁鸟不在看看外面的小羽毛 https://t.co/pacUY8j4pM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 96,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 725
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T08:23:29.000Z",
+        "description": "我是一只有主体意识善吐人言的三岁无笼散养好鸟Constantine·我妈是雕塑家·此处分享我妈的作品和生活",
+        "id": "1551483218087784448",
+        "location": "🦜",
+        "name": "Constantine",
+        "pinned_tweet_id": "1969327049367003325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956748771943141376/YCv2NQJT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 49,
+          "like_count": 1461,
+          "listed_count": 10,
+          "media_count": 187,
+          "tweet_count": 505
+        },
+        "username": "Witchwithparrot",
+        "verified": false
+      }
+    ]
+  }
+}

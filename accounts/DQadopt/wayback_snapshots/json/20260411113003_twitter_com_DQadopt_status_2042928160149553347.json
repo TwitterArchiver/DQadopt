@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2042928160149553347",
+    "created_at": "2026-04-11T11:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T12:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042928160149553347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/escapist_1/sta…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/escapist_1/status/2042914992538914961",
+          "start": 142,
+          "url": "https://t.co/XzMqrgPH4w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042928160149553347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042914992538914961",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想起特立独行的猪，“被设置”正是父母那一辈人的命运核心词，他们被设置了一辈子：年少时，被设置参加运动；青年时，被设置下乡；成年了，被设置按计划来生孩子；中年时，被设置掏出积蓄买商品房；真老了，还帮子女买房\n他们没有按照自己的想法活过他们什么时候有过真正属于自己的不容任何人设置的人生 https://t.co/XzMqrgPH4w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1642,
+        "media_key": "3_2042914974184681472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnkWF6asAAf-Ha.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042914974117564421",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnkWFqakAUSnSm.jpg",
+        "width": 1218
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2042928160149553347",
+        "created_at": "2026-04-11T11:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T12:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042928160149553347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/escapist_1/sta…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/escapist_1/status/2042914992538914961",
+              "start": 142,
+              "url": "https://t.co/XzMqrgPH4w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042928160149553347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042914992538914961",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想起特立独行的猪，“被设置”正是父母那一辈人的命运核心词，他们被设置了一辈子：年少时，被设置参加运动；青年时，被设置下乡；成年了，被设置按计划来生孩子；中年时，被设置掏出积蓄买商品房；真老了，还帮子女买房\n他们没有按照自己的想法活过他们什么时候有过真正属于自己的不容任何人设置的人生 https://t.co/XzMqrgPH4w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042914974184681472",
+            "3_2042914974117564421"
+          ]
+        },
+        "author_id": "1407556919712096257",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042914992538914961",
+        "created_at": "2026-04-11T10:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042914992538914961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IqIF8wc2bK",
+              "end": 149,
+              "expanded_url": "https://x.com/Escapist_1/status/2042914992538914961/photo/1",
+              "media_key": "3_2042914974184681472",
+              "start": 126,
+              "url": "https://t.co/IqIF8wc2bK"
+            },
+            {
+              "display_url": "pic.x.com/IqIF8wc2bK",
+              "end": 149,
+              "expanded_url": "https://x.com/Escapist_1/status/2042914992538914961/photo/1",
+              "media_key": "3_2042914974117564421",
+              "start": 126,
+              "url": "https://t.co/IqIF8wc2bK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042914992538914961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "又是一年忌日，我好想哭，写了一大段文字又删掉了，我有太多太多想对小波说的话……\n\n高中时期，我因为键政喝茶的事情，被班主任呼吁全班孤立我，关系最好的发小在另一个城市。而我和父亲将近十年没见面，我平等地恨着所有人，我不和人类说话，我每天逃课去河边待着。\n\n那时的我愤世嫉俗，把一切生活寄托在那些逝去作家的身上。\n\n就这样我遇到了王小波，他幽默的表达很快吸引了我，正如他的众多门下走狗一样，我读的第一本书也是他的《黄金时代》。从那天起我竟然开始盼望着我的21岁，我开始对生活有了一点点期待。我读完了他写的每一本书，每一篇随笔，每一封情书。我知道的，我也会变成天上半明半暗的云，我知道的，我向往着成为一个真诚而有趣的人。\n\n在我最迷茫的青少年时期，小波是一面镜子，让我发现我依旧有爱人的能力，依旧渴望着那些真诚美好的事物，我厌恶人与人的博弈，小波和银河的存在，为我的理想亲密关系提供了一个模版。\n\n有时候我也会想，也许他没活到当下这个年代是一种幸运，如果他看到如今那么多混乱的黏糊的不真诚的事物，他会不会也生出萨特笔下《恶心》的感觉。￼\n\n小波，我当然相信灵魂的存在，我祝你在宇宙里依旧是那只特立独行的猪。￼"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2654,
+          "like_count": 58,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "又是一年忌日，我好想哭，写了一大段文字又删掉了，我有太多太多想对小波说的话……\n\n高中时期，我因为键政喝茶的事情，被班主任呼吁全班孤立我，关系最好的发小在另一个城市。而我和父亲将近十年没见面，我平等地恨着所有人，我不和人类说话，我每天逃课去河边待着。 https://t.co/IqIF8wc2bK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 316,
+          "like_count": 2814,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 3207
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-23T04:31:55.000Z",
+        "description": "随便发点什么 #人类观察研究 想拍点纪录片",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 7,
+                "tag": "人类观察研究"
+              }
+            ]
+          }
+        },
+        "id": "1407556919712096257",
+        "location": "HD 140283恒星",
+        "name": "Escapist",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985567912334409731/Hx4R_X4Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42673,
+          "following_count": 1596,
+          "like_count": 4884,
+          "listed_count": 214,
+          "media_count": 432,
+          "tweet_count": 5707
+        },
+        "username": "Escapist_1",
+        "verified": false
+      }
+    ]
+  }
+}

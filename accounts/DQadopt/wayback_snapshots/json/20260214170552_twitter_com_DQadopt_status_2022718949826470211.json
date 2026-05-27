@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020169460854796288",
+        "3_2020169460858957824",
+        "3_2020169460825391104"
+      ],
+      "media_source_tweet_id": [
+        "2020169465434947799",
+        "2020169465434947799",
+        "2020169465434947799"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2022718949826470211",
+    "created_at": "2026-02-14T17:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T18:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022718949826470211"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 32,
+          "tag": "相思汤"
+        },
+        {
+          "end": 41,
+          "start": 37,
+          "tag": "死藤水"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1749232086840647680",
+          "start": 3,
+          "username": "llll926080"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1b73KNQehi",
+          "end": 65,
+          "expanded_url": "https://x.com/llll926080/status/2020169465434947799/photo/1",
+          "media_key": "3_2020169460854796288",
+          "start": 42,
+          "url": "https://t.co/1b73KNQehi"
+        },
+        {
+          "display_url": "pic.x.com/1b73KNQehi",
+          "end": 65,
+          "expanded_url": "https://x.com/llll926080/status/2020169465434947799/photo/1",
+          "media_key": "3_2020169460858957824",
+          "start": 42,
+          "url": "https://t.co/1b73KNQehi"
+        },
+        {
+          "display_url": "pic.x.com/1b73KNQehi",
+          "end": 65,
+          "expanded_url": "https://x.com/llll926080/status/2020169465434947799/photo/1",
+          "media_key": "3_2020169460825391104",
+          "start": 42,
+          "url": "https://t.co/1b73KNQehi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022718949826470211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020169465434947799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @llll926080: 相思汤保姆级教程，不会你来打我 #相思汤 #死藤水 https://t.co/1b73KNQehi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020169460854796288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkVa9xXsAAgPn3.jpg",
+        "width": 628
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020169460858957824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkVa9yXMAAJNFG.jpg",
+        "width": 664
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020169460825391104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkVa9qXAAAcbBL.jpg",
+        "width": 702
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020169460854796288",
+            "3_2020169460858957824",
+            "3_2020169460825391104"
+          ],
+          "media_source_tweet_id": [
+            "2020169465434947799",
+            "2020169465434947799",
+            "2020169465434947799"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2022718949826470211",
+        "created_at": "2026-02-14T17:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T18:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022718949826470211"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "相思汤"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "死藤水"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1749232086840647680",
+              "start": 3,
+              "username": "llll926080"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1b73KNQehi",
+              "end": 65,
+              "expanded_url": "https://x.com/llll926080/status/2020169465434947799/photo/1",
+              "media_key": "3_2020169460854796288",
+              "start": 42,
+              "url": "https://t.co/1b73KNQehi"
+            },
+            {
+              "display_url": "pic.x.com/1b73KNQehi",
+              "end": 65,
+              "expanded_url": "https://x.com/llll926080/status/2020169465434947799/photo/1",
+              "media_key": "3_2020169460858957824",
+              "start": 42,
+              "url": "https://t.co/1b73KNQehi"
+            },
+            {
+              "display_url": "pic.x.com/1b73KNQehi",
+              "end": 65,
+              "expanded_url": "https://x.com/llll926080/status/2020169465434947799/photo/1",
+              "media_key": "3_2020169460825391104",
+              "start": 42,
+              "url": "https://t.co/1b73KNQehi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022718949826470211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020169465434947799",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @llll926080: 相思汤保姆级教程，不会你来打我 #相思汤 #死藤水 https://t.co/1b73KNQehi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020169460854796288",
+            "3_2020169460858957824",
+            "3_2020169460825391104"
+          ]
+        },
+        "author_id": "1749232086840647680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2020169465434947799",
+        "created_at": "2026-02-07T16:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T17:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020169465434947799"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "相思汤"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "死藤水"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1b73KNQehi",
+              "end": 49,
+              "expanded_url": "https://x.com/llll926080/status/2020169465434947799/photo/1",
+              "media_key": "3_2020169460854796288",
+              "start": 26,
+              "url": "https://t.co/1b73KNQehi"
+            },
+            {
+              "display_url": "pic.x.com/1b73KNQehi",
+              "end": 49,
+              "expanded_url": "https://x.com/llll926080/status/2020169465434947799/photo/1",
+              "media_key": "3_2020169460858957824",
+              "start": 26,
+              "url": "https://t.co/1b73KNQehi"
+            },
+            {
+              "display_url": "pic.x.com/1b73KNQehi",
+              "end": 49,
+              "expanded_url": "https://x.com/llll926080/status/2020169465434947799/photo/1",
+              "media_key": "3_2020169460825391104",
+              "start": 26,
+              "url": "https://t.co/1b73KNQehi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020169465434947799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 3401,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "相思汤保姆级教程，不会你来打我 #相思汤 #死藤水 https://t.co/1b73KNQehi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 88,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 582
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-22T00:46:54.000Z",
+        "description": "pan/brat 可能是男娘（？🇨🇳🇨🇦175cm 53kg 17高二坐牢中… 中文/English welcome dm欢迎大家来找我聊天🥺od/自伤元素注意⚠️好友位🚪50CNY 后背隐藏能源：@fuckmylife8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 99,
+                "username": "fuckmylife8964"
+              }
+            ]
+          }
+        },
+        "id": "1749232086840647680",
+        "location": "上海",
+        "name": "网友泉顺方",
+        "pinned_tweet_id": "1997871437692993604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984325613352538112/-fZhgABW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 184,
+          "like_count": 1647,
+          "listed_count": 1,
+          "media_count": 425,
+          "tweet_count": 2212
+        },
+        "username": "llll926080",
+        "verified": false
+      }
+    ]
+  }
+}

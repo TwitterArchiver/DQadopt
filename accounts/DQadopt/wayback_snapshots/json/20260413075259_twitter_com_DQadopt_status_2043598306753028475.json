@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2043598306753028475",
+    "created_at": "2026-04-13T07:52:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T08:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043598306753028475"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043598306753028475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小鸟说到时候留一天来我们躺一天，我得寸进尺地说那可以和你躺一起吗，小鸟回了个“行”\n嗯….好勉强的答复，如果可以躺一起我就睡旁边一动不动好了，唉，但是好想抱着她把下巴放她头顶上蹭蹭，想和她十指相扣，为什么我没有四只手，两只手抱她两只手牵手….\n我不可能勉强她任何，唉要是能抱着她躺就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2043598306753028475",
+        "created_at": "2026-04-13T07:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043598306753028475"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043598306753028475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小鸟说到时候留一天来我们躺一天，我得寸进尺地说那可以和你躺一起吗，小鸟回了个“行”\n嗯….好勉强的答复，如果可以躺一起我就睡旁边一动不动好了，唉，但是好想抱着她把下巴放她头顶上蹭蹭，想和她十指相扣，为什么我没有四只手，两只手抱她两只手牵手….\n我不可能勉强她任何，唉要是能抱着她躺就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1888,
+          "following_count": 315,
+          "like_count": 2847,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 3299
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

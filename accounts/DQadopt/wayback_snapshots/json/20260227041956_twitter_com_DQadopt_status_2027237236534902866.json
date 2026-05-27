@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2027237236534902866",
+    "created_at": "2026-02-27T04:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T05:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027237236534902866"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/phil0v0_bot/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/phil0v0_bot/status/2027094201499107812",
+          "start": 12,
+          "url": "https://t.co/aXIn1w99Hg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027237236534902866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026954573446078782",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看看这个萌萌的泪泪啊！ https://t.co/aXIn1w99Hg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1063,
+        "media_key": "3_2026954566097604608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEwcEgakAA5REU.jpg",
+        "width": 863
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2026954566097616896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEwcEgawAAgl-l.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2026954566110175232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEwcEjaYAA0uIM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2026954566131216384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEwcEobcAA4UMX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2027237236534902866",
+        "created_at": "2026-02-27T04:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T05:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027237236534902866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/phil0v0_bot/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/phil0v0_bot/status/2027094201499107812",
+              "start": 12,
+              "url": "https://t.co/aXIn1w99Hg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027237236534902866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026954573446078782",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看看这个萌萌的泪泪啊！ https://t.co/aXIn1w99Hg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026954566097604608",
+            "3_2026954566097616896",
+            "3_2026954566110175232",
+            "3_2026954566131216384"
+          ]
+        },
+        "author_id": "1945260572498649089",
+        "conversation_id": "2026954573446078782",
+        "created_at": "2026-02-26T09:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T10:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026954573446078782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3xwvyLjkiN",
+              "end": 84,
+              "expanded_url": "https://x.com/RanPian3199/status/2026954573446078782/photo/1",
+              "media_key": "3_2026954566097604608",
+              "start": 61,
+              "url": "https://t.co/3xwvyLjkiN"
+            },
+            {
+              "display_url": "pic.x.com/3xwvyLjkiN",
+              "end": 84,
+              "expanded_url": "https://x.com/RanPian3199/status/2026954573446078782/photo/1",
+              "media_key": "3_2026954566097616896",
+              "start": 61,
+              "url": "https://t.co/3xwvyLjkiN"
+            },
+            {
+              "display_url": "pic.x.com/3xwvyLjkiN",
+              "end": 84,
+              "expanded_url": "https://x.com/RanPian3199/status/2026954573446078782/photo/1",
+              "media_key": "3_2026954566110175232",
+              "start": 61,
+              "url": "https://t.co/3xwvyLjkiN"
+            },
+            {
+              "display_url": "pic.x.com/3xwvyLjkiN",
+              "end": 84,
+              "expanded_url": "https://x.com/RanPian3199/status/2026954573446078782/photo/1",
+              "media_key": "3_2026954566131216384",
+              "start": 61,
+              "url": "https://t.co/3xwvyLjkiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026954573446078782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 936,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我是泪泪 我又复活了\n我很缺爱缺钱爸妈不给生活费\n我有药瘾烟瘾可以许愿门槛吗\n等待一个爱我的人收留中\n女宝欢迎互fo互转 https://t.co/3xwvyLjkiN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 129,
+          "like_count": 471,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 897
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T23:14:10.000Z",
+        "description": "🚪 52 200 520 1314 线下小窗",
+        "id": "1945260572498649089",
+        "name": "眼角泪",
+        "pinned_tweet_id": "2026954573446078782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945261109558099969/kG68SrLk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 36,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 295
+        },
+        "username": "RanPian3199",
+        "verified": false
+      }
+    ]
+  }
+}

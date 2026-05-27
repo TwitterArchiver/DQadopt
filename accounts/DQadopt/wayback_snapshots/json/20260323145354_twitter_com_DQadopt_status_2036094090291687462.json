@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036093814591684608"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2036094090291687462",
+    "created_at": "2026-03-23T14:53:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T15:53:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036094090291687462"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Egp0HFiA9N",
+          "end": 88,
+          "expanded_url": "https://x.com/DQadopt/status/2036094090291687462/photo/1",
+          "media_key": "3_2036093814591684608",
+          "start": 65,
+          "url": "https://t.co/Egp0HFiA9N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036094090291687462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "收到好多推友祝福呀\n看着一条接一条的评论有点惆怅\n因为可能要让你们失望了\n我的感情何去何从呢，我不知道哦\n哎呀，写到这里我哭了呀 https://t.co/Egp0HFiA9N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2036093814591684608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGoiWQbgAAF39v.jpg",
+        "width": 844
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036093814591684608"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2036094090291687462",
+        "created_at": "2026-03-23T14:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T15:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036094090291687462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Egp0HFiA9N",
+              "end": 88,
+              "expanded_url": "https://x.com/DQadopt/status/2036094090291687462/photo/1",
+              "media_key": "3_2036093814591684608",
+              "start": 65,
+              "url": "https://t.co/Egp0HFiA9N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036094090291687462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收到好多推友祝福呀\n看着一条接一条的评论有点惆怅\n因为可能要让你们失望了\n我的感情何去何从呢，我不知道哦\n哎呀，写到这里我哭了呀 https://t.co/Egp0HFiA9N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 258,
+          "like_count": 2038,
+          "listed_count": 0,
+          "media_count": 267,
+          "tweet_count": 2413
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

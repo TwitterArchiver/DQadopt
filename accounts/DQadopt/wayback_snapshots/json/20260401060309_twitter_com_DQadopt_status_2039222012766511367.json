@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2039222012766511367",
+    "created_at": "2026-04-01T06:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T07:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039222012766511367"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hecate_ame/sta…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/hecate_ame/status/2038656134765265378",
+          "start": 10,
+          "url": "https://t.co/btY3joqWyw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039222012766511367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038656134765265378",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本intj风评被害 https://t.co/btY3joqWyw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2039222012766511367",
+        "created_at": "2026-04-01T06:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039222012766511367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hecate_ame/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/hecate_ame/status/2038656134765265378",
+              "start": 10,
+              "url": "https://t.co/btY3joqWyw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039222012766511367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038656134765265378",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本intj风评被害 https://t.co/btY3joqWyw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1311522934012342272",
+        "conversation_id": "2038656134765265378",
+        "created_at": "2026-03-30T16:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T17:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038656134765265378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038656134765265378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 95898,
+          "like_count": 567,
+          "quote_count": 15,
+          "reply_count": 99,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我认识的dom真的没一个好东西\n全是intj\n全都对sub的情感完全不care\n就只是睡\n连点占有欲都没\n好无聊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 268,
+          "like_count": 2350,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 2659
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-01T04:26:57.000Z",
+        "description": "㊙️/碎碎念/sub/brat/喜欢有礼貌的人/叫我甜糖就好/熟人爆破那就🤫/唯哥哥至上主义者",
+        "id": "1311522934012342272",
+        "location": "你心里",
+        "name": "禁止低头",
+        "pinned_tweet_id": "1413553341867589632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968868278140551168/kVTqOGUL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 430,
+          "like_count": 462,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 114
+        },
+        "username": "hecate_ame",
+        "verified": false
+      }
+    ]
+  }
+}

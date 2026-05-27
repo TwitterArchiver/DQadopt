@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2042050073845170657",
+    "created_at": "2026-04-09T01:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T02:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042050073845170657"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042050073845170657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨晚和小鸟打电话互相哭了，打电话之前有其他推特的女生和我连麦安慰我，她说我很好很厉害性格经历看的书什么的，但是面对小鸟的崩溃我都听不进去，断掉电话和小鸟连，只听到她一直哭泣抽泣喘气声，很难受我真是个十足的坏人，白天还在说只有我最爱她，晚上又让她崩溃到哭，唉，有时候拿自己没有办法了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2042050073845170657",
+        "created_at": "2026-04-09T01:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T02:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042050073845170657"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042050073845170657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚和小鸟打电话互相哭了，打电话之前有其他推特的女生和我连麦安慰我，她说我很好很厉害性格经历看的书什么的，但是面对小鸟的崩溃我都听不进去，断掉电话和小鸟连，只听到她一直哭泣抽泣喘气声，很难受我真是个十足的坏人，白天还在说只有我最爱她，晚上又让她崩溃到哭，唉，有时候拿自己没有办法了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1751,
+          "following_count": 308,
+          "like_count": 2621,
+          "listed_count": 0,
+          "media_count": 308,
+          "tweet_count": 3028
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045395215289327616",
+        "3_2045395215297773568"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2045395225762533634",
+    "created_at": "2026-04-18T06:53:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T07:53:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045395225762533634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 21,
+          "id": "1748064252521545731",
+          "start": 6,
+          "username": "mihuanhuanhuan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BFk881SEkp",
+          "end": 91,
+          "expanded_url": "https://x.com/DQadopt/status/2045395225762533634/photo/1",
+          "media_key": "3_2045395215289327616",
+          "start": 68,
+          "url": "https://t.co/BFk881SEkp"
+        },
+        {
+          "display_url": "pic.x.com/BFk881SEkp",
+          "end": 91,
+          "expanded_url": "https://x.com/DQadopt/status/2045395225762533634/photo/1",
+          "media_key": "3_2045395215297773568",
+          "start": 68,
+          "url": "https://t.co/BFk881SEkp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045395225762533634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被章鱼锐评了@mihuanhuanhuan \n本人看起来像是情场老手吗好震惊\n本人不露脸很大一个原因是我长得真的很普很直女🏳️🏳️🏳️ https://t.co/BFk881SEkp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045395215289327616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGK0HICaoAA961l.jpg",
+        "width": 1120
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045395215297773568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGK0HIEbgAAj4xb.jpg",
+        "width": 1012
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045395215289327616",
+            "3_2045395215297773568"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2045395225762533634",
+        "created_at": "2026-04-18T06:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045395225762533634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1748064252521545731",
+              "start": 6,
+              "username": "mihuanhuanhuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BFk881SEkp",
+              "end": 91,
+              "expanded_url": "https://x.com/DQadopt/status/2045395225762533634/photo/1",
+              "media_key": "3_2045395215289327616",
+              "start": 68,
+              "url": "https://t.co/BFk881SEkp"
+            },
+            {
+              "display_url": "pic.x.com/BFk881SEkp",
+              "end": 91,
+              "expanded_url": "https://x.com/DQadopt/status/2045395225762533634/photo/1",
+              "media_key": "3_2045395215297773568",
+              "start": 68,
+              "url": "https://t.co/BFk881SEkp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045395225762533634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被章鱼锐评了@mihuanhuanhuan \n本人看起来像是情场老手吗好震惊\n本人不露脸很大一个原因是我长得真的很普很直女🏳️🏳️🏳️ https://t.co/BFk881SEkp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1965,
+          "following_count": 314,
+          "like_count": 2937,
+          "listed_count": 0,
+          "media_count": 333,
+          "tweet_count": 3487
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T19:26:25.000Z",
+        "description": "intp紫色章鱼（叫我章鱼），mtx\n主业达人拍剪，常驻杭州的阴湿长发男m，\n懂点商业和心理学和哲学，希望能帮助你（\n欢迎xnn和4i爸比来踩我，目前在化茧\n永远的姐姐：@liki24003   可爱鱼鱼：@siuuuuneo\n\np站https://t.co/BCEf9rY5o6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "liki24003"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "username": "siuuuuneo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/103103881",
+                "end": 140,
+                "expanded_url": "https://www.pixiv.net/users/103103881",
+                "start": 117,
+                "url": "https://t.co/BCEf9rY5o6"
+              }
+            ]
+          }
+        },
+        "id": "1748064252521545731",
+        "location": "杭州",
+        "name": "变质牛乳🍥",
+        "pinned_tweet_id": "1989603644577386680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756361529560064000/cWcrXvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 471,
+          "like_count": 2701,
+          "listed_count": 1,
+          "media_count": 364,
+          "tweet_count": 2854
+        },
+        "username": "mihuanhuanhuan",
+        "verified": true
+      }
+    ]
+  }
+}

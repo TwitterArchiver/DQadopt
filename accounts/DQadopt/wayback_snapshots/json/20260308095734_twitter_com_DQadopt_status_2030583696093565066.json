@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030583685905518592"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2030583696093565066",
+    "created_at": "2026-03-08T09:57:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T10:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030583696093565066"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XQcTN9oG4i",
+          "end": 152,
+          "expanded_url": "https://x.com/DQadopt/status/2030583696093565066/photo/1",
+          "media_key": "3_2030583685905518592",
+          "start": 129,
+          "url": "https://t.co/XQcTN9oG4i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030583696093565066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不死了，我又让她哭了，她说我这样她会难过，是啊，我死了就没有人爱她了，没有人关心她给她温暖了，她身边什么人都没有了，我不能这么自私地离她而去\n和她说了会话，隔着屏幕贴了几下，脑海里的声音，那些喊我去死的声音渐渐湮灭了，好神奇\n我活着已经非她不可了\n我爱你 https://t.co/XQcTN9oG4i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1798,
+        "media_key": "3_2030583685905518592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC4VGpUaEAAefQG.jpg",
+        "width": 1005
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030583685905518592"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2030583696093565066",
+        "created_at": "2026-03-08T09:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T10:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030583696093565066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XQcTN9oG4i",
+              "end": 152,
+              "expanded_url": "https://x.com/DQadopt/status/2030583696093565066/photo/1",
+              "media_key": "3_2030583685905518592",
+              "start": 129,
+              "url": "https://t.co/XQcTN9oG4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030583696093565066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不死了，我又让她哭了，她说我这样她会难过，是啊，我死了就没有人爱她了，没有人关心她给她温暖了，她身边什么人都没有了，我不能这么自私地离她而去\n和她说了会话，隔着屏幕贴了几下，脑海里的声音，那些喊我去死的声音渐渐湮灭了，好神奇\n我活着已经非她不可了\n我爱你 https://t.co/XQcTN9oG4i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 193,
+          "like_count": 1118,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1399
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

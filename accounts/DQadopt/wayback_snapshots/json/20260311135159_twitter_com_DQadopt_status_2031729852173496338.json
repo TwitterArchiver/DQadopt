@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2031635063612600469",
+    "created_at": "2026-03-11T13:51:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T14:51:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031729852173496338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1689093389193564162",
+          "start": 0,
+          "username": "afterworktea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031729852173496338",
+    "in_reply_to_user_id": "1689093389193564162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031727700742643775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@afterworktea 谢谢你，谢谢你的这番话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2031635063612600469",
+        "created_at": "2026-03-11T13:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T14:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031729852173496338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1689093389193564162",
+              "start": 0,
+              "username": "afterworktea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031729852173496338",
+        "in_reply_to_user_id": "1689093389193564162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031727700742643775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@afterworktea 谢谢你，谢谢你的这番话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689093389193564162",
+        "conversation_id": "2031635063612600469",
+        "created_at": "2026-03-11T13:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T14:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031727700742643775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031727700742643775",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031721551641579943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 我在翻你的推的时候，能感觉到你的共情力。有时候因为现实的不安全，我们会用麻木来保护自己，但是内心最柔软的部分还在，会在你的每次表达中流露出来。我感觉你比你想象的要温柔得多。我不是想假装人生导师，只是单纯想表达，你是一个很棒的人，一直以来，辛苦了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 230,
+          "like_count": 1389,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 1672
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T01:57:16.000Z",
+        "description": "做一个🌞一样的人，🌞爆所有人",
+        "id": "1689093389193564162",
+        "name": "狗是纯狗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005766650767753216/WM-BlY2d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 96,
+          "like_count": 971,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1014
+        },
+        "username": "afterworktea",
+        "verified": false
+      }
+    ]
+  }
+}

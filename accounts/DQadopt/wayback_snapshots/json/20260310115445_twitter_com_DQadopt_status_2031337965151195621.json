@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031337954422206464"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2031337965151195621",
+    "created_at": "2026-03-10T11:54:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T12:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031337965151195621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q3Kdtg6ZAd",
+          "end": 165,
+          "expanded_url": "https://x.com/DQadopt/status/2031337965151195621/photo/1",
+          "media_key": "3_2031337954422206464",
+          "start": 142,
+          "url": "https://t.co/q3Kdtg6ZAd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031337965151195621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小鸟会礼貌回应我的感情（她的角度是友情），她没什么钱也会经常给我买点可爱别致的小玩意，她是个太纯粹的人，她理应得到很多爱却没有，所以我会尽力去爱她\n或许我在她身边的意义就是填补她的不幸福，没有回应也没关系，没有结果也没关系，我能承受很多\n我还能活多久呢，太多爱你的幻想，还没来得及说 https://t.co/q3Kdtg6ZAd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 539,
+        "media_key": "3_2031337954422206464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDDDG2gasAALJRe.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031337954422206464"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2031337965151195621",
+        "created_at": "2026-03-10T11:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T12:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031337965151195621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q3Kdtg6ZAd",
+              "end": 165,
+              "expanded_url": "https://x.com/DQadopt/status/2031337965151195621/photo/1",
+              "media_key": "3_2031337954422206464",
+              "start": 142,
+              "url": "https://t.co/q3Kdtg6ZAd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031337965151195621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小鸟会礼貌回应我的感情（她的角度是友情），她没什么钱也会经常给我买点可爱别致的小玩意，她是个太纯粹的人，她理应得到很多爱却没有，所以我会尽力去爱她\n或许我在她身边的意义就是填补她的不幸福，没有回应也没关系，没有结果也没关系，我能承受很多\n我还能活多久呢，太多爱你的幻想，还没来得及说 https://t.co/q3Kdtg6ZAd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 208,
+          "like_count": 1353,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 1551
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

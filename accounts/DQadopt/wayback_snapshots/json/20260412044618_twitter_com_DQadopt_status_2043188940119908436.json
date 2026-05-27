@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2042861861637623880",
+    "created_at": "2026-04-12T04:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T05:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043188940119908436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1462312301747269632",
+          "start": 0,
+          "username": "ZNe3b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043188940119908436",
+    "in_reply_to_user_id": "1462312301747269632",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043114652104876328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZNe3b omg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2042861861637623880",
+        "created_at": "2026-04-12T04:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T05:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043188940119908436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1462312301747269632",
+              "start": 0,
+              "username": "ZNe3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043188940119908436",
+        "in_reply_to_user_id": "1462312301747269632",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043114652104876328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZNe3b omg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462312301747269632",
+        "conversation_id": "2042861861637623880",
+        "created_at": "2026-04-11T23:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T00:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043114652104876328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043114652104876328",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042861861637623880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 女菩萨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 317,
+          "like_count": 2821,
+          "listed_count": 0,
+          "media_count": 321,
+          "tweet_count": 3231
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T06:50:09.000Z",
+        "description": "brat｜m｜sub｜神经病",
+        "id": "1462312301747269632",
+        "name": "茶茶（树立狗格有主版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997455881295028224/_EfBiMFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 123,
+          "like_count": 122,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 39
+        },
+        "username": "ZNe3b",
+        "verified": false
+      }
+    ]
+  }
+}

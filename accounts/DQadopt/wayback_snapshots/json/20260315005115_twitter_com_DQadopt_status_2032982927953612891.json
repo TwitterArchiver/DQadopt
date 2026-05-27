@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2032982927953612891",
+    "created_at": "2026-03-15T00:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T01:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032982927953612891"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032982927953612891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人在看到可爱的东西时，大脑会萌生一种“毁灭”的冲动\n幻想与小鸟做爱，做爱是我最能发泄爱的方式，对方努力承受，我的毁灭欲就在不那么伤害她的方式里被悄悄满足\n能收下我的爱吗，一切，能慢慢接受它们吗，所有，我爱你啊，就算是你无法接受也无法逃避的爱，你听见了吗，小鸟\n我说没有你我真的会死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2032982927953612891",
+        "created_at": "2026-03-15T00:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T01:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032982927953612891"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032982927953612891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人在看到可爱的东西时，大脑会萌生一种“毁灭”的冲动\n幻想与小鸟做爱，做爱是我最能发泄爱的方式，对方努力承受，我的毁灭欲就在不那么伤害她的方式里被悄悄满足\n能收下我的爱吗，一切，能慢慢接受它们吗，所有，我爱你啊，就算是你无法接受也无法逃避的爱，你听见了吗，小鸟\n我说没有你我真的会死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 238,
+          "like_count": 1637,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 1909
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

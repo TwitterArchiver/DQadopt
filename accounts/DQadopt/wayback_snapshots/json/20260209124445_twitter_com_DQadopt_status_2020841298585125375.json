@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2020841298585125375",
+    "created_at": "2026-02-09T12:44:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T13:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020841298585125375"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dqadopt/status…",
+          "end": 123,
+          "expanded_url": "https://twitter.com/dqadopt/status/2017939716545581375",
+          "start": 100,
+          "url": "https://t.co/vp3i1c30pr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020841298585125375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017939716545581375",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "私信问的人有点多，我几年前参与了亚硝酸钠手册的编写，是自杀人民共和国tg群其中一个管理，所以对亚硝酸钠有疑问的都可以来找我，无偿，问渠道不回，不协助自杀，可临终关怀（除此之外不要找我说太多，精力有限 https://t.co/vp3i1c30pr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2020841298585125375",
+        "created_at": "2026-02-09T12:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T13:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020841298585125375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dqadopt/status…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/dqadopt/status/2017939716545581375",
+              "start": 100,
+              "url": "https://t.co/vp3i1c30pr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020841298585125375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017939716545581375",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "私信问的人有点多，我几年前参与了亚硝酸钠手册的编写，是自杀人民共和国tg群其中一个管理，所以对亚硝酸钠有疑问的都可以来找我，无偿，问渠道不回，不协助自杀，可临终关怀（除此之外不要找我说太多，精力有限 https://t.co/vp3i1c30pr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2017939716545581375",
+        "created_at": "2026-02-01T12:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T13:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017939716545581375"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017939716545581375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 530,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自杀失败了，100克亚硝酸钠真的很难喝，但确实没什么太大的痛苦主要是太想吐了太晕了，人在医院详细的以后再说\n喝亚硝酸钠一定要按照手册来喝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 78,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 404
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

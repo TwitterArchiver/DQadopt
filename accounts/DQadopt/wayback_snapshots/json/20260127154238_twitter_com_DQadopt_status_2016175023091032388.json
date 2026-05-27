@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "1912044056554725457",
+    "created_at": "2026-01-27T15:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T16:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016175023091032388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1571635134444744704",
+          "start": 0,
+          "username": "black27003120"
+        },
+        {
+          "end": 29,
+          "id": "1800833003976896513",
+          "start": 15,
+          "username": "DesireUnleash"
+        },
+        {
+          "end": 43,
+          "id": "1753569741363695616",
+          "start": 30,
+          "username": "osmsjsjj0089"
+        },
+        {
+          "end": 55,
+          "id": "763023039294345217",
+          "start": 44,
+          "username": "icekyjelly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016175023091032388",
+    "in_reply_to_user_id": "1571635134444744704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016131712275906778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@black27003120 @DesireUnleash @osmsjsjj0089 @icekyjelly 谢谢您"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "1912044056554725457",
+        "created_at": "2026-01-27T15:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T16:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016175023091032388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1571635134444744704",
+              "start": 0,
+              "username": "black27003120"
+            },
+            {
+              "end": 29,
+              "id": "1800833003976896513",
+              "start": 15,
+              "username": "DesireUnleash"
+            },
+            {
+              "end": 43,
+              "id": "1753569741363695616",
+              "start": 30,
+              "username": "osmsjsjj0089"
+            },
+            {
+              "end": 55,
+              "id": "763023039294345217",
+              "start": 44,
+              "username": "icekyjelly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016175023091032388",
+        "in_reply_to_user_id": "1571635134444744704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016131712275906778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@black27003120 @DesireUnleash @osmsjsjj0089 @icekyjelly 谢谢您"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571635134444744704",
+        "conversation_id": "1912044056554725457",
+        "created_at": "2026-01-27T12:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T13:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016131712275906778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            },
+            {
+              "end": 23,
+              "id": "1800833003976896513",
+              "start": 9,
+              "username": "DesireUnleash"
+            },
+            {
+              "end": 37,
+              "id": "1753569741363695616",
+              "start": 24,
+              "username": "osmsjsjj0089"
+            },
+            {
+              "end": 49,
+              "id": "763023039294345217",
+              "start": 38,
+              "username": "icekyjelly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016131712275906778",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015356779589460144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt @DesireUnleash @osmsjsjj0089 @icekyjelly  是这个作者的短篇以下犯上的图"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 53,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 173
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-18T23:00:20.000Z",
+        "description": "",
+        "id": "1571635134444744704",
+        "name": "black黑狐",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 161,
+          "like_count": 754,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 30
+        },
+        "username": "black27003120",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T10:10:35.000Z",
+        "description": "I Don’t Share NSFW content(Just lied)🔞 this Account is for adults only! ⚠️https://t.co/Ncm253TRh6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lusychat.ai/?utm_source=tw…",
+                "end": 97,
+                "expanded_url": "https://lusychat.ai/?utm_source=twitter&utm_medium=social&utm_campaign=DesireUnleash",
+                "start": 74,
+                "url": "https://t.co/Ncm253TRh6"
+              }
+            ]
+          }
+        },
+        "id": "1800833003976896513",
+        "location": "Houston, TX",
+        "name": "Desire Unleash 💘🔞",
+        "pinned_tweet_id": "1996614749442998732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867164794358202368/VHgafBFX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99508,
+          "following_count": 36,
+          "like_count": 13119,
+          "listed_count": 206,
+          "media_count": 1752,
+          "tweet_count": 39161
+        },
+        "username": "DesireUnleash",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T00:03:08.000Z",
+        "description": "双 0.7 s 大奶骚女私信我",
+        "id": "1753569741363695616",
+        "name": "micfu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979948779798142976/mDwHj0Yk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 27,
+          "like_count": 1445,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 20
+        },
+        "username": "osmsjsjj0089",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-09T14:44:03.000Z",
+        "description": "《蓝耀石之兽》连载中。\n《幻瘾》已完结。 \n系列《以下犯上》（ABO/Omegaverse）不定期更新。 \nPIXIV:https://t.co/gUhKPBwZki\nFANBOX:https://t.co/3G6tY0ooay \n同人搬运请标明出处作者，原创禁止二次转载。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/213693",
+                "end": 83,
+                "expanded_url": "http://pixiv.net/users/213693",
+                "start": 60,
+                "url": "https://t.co/gUhKPBwZki"
+              },
+              {
+                "display_url": "iceky.fanbox.cc",
+                "end": 114,
+                "expanded_url": "http://iceky.fanbox.cc",
+                "start": 91,
+                "url": "https://t.co/3G6tY0ooay"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/icekyjelly",
+                "end": 23,
+                "expanded_url": "https://weibo.com/icekyjelly",
+                "start": 0,
+                "url": "https://t.co/zFviETHA2u"
+              }
+            ]
+          }
+        },
+        "id": "763023039294345217",
+        "name": "iceky",
+        "pinned_tweet_id": "1989354437102748017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1542892444538134528/bI7M5KOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45781,
+          "following_count": 266,
+          "like_count": 604,
+          "listed_count": 182,
+          "media_count": 325,
+          "tweet_count": 1178
+        },
+        "url": "https://t.co/zFviETHA2u",
+        "username": "icekyjelly",
+        "verified": false
+      }
+    ]
+  }
+}

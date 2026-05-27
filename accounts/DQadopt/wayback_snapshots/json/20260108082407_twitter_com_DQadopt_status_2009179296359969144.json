@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2009178879022518406",
+    "created_at": "2026-01-08T08:24:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T09:24:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009179296359969144"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2009179296359969144",
+    "in_reply_to_user_id": "1989965282799226880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009178879022518406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "也符合我对绘圈red的刻板印象了，傲慢又弱智，说话相悖前言不搭后语"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009178870629715968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-IJiaoa0AAbQ1Q.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2009178879022518406",
+        "created_at": "2026-01-08T08:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T09:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009179296359969144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009179296359969144",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009178879022518406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也符合我对绘圈red的刻板印象了，傲慢又弱智，说话相悖前言不搭后语"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009178870629715968"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2009178879022518406",
+        "created_at": "2026-01-08T08:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T09:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009178879022518406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xjb6VjLPd6",
+              "end": 116,
+              "expanded_url": "https://x.com/DQadopt/status/2009178879022518406/photo/1",
+              "media_key": "3_2009178870629715968",
+              "start": 93,
+              "url": "https://t.co/Xjb6VjLPd6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009178879022518406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "装的一批两三个小时能赚1000还说自己不是red，天天搁这制造普通小画师的焦虑，说想当透明实际上tag打的比谁都多，标题还写个“双相小画家”哇噻我没有在吸引注意力我只想当个小透明底呀！ https://t.co/Xjb6VjLPd6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我重生了，这一次我要夺回属于我的一切丨23le🌈1丨喜欢和可爱漂亮的女生互动🥰🥰🥰丨有喜欢的人不色色丨自伤化学原料滥用碎碎念集中地",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8euxG"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 37,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/nFHbt8euxG",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

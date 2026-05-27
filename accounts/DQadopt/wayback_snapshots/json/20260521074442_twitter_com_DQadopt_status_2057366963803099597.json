@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2057159045438746821",
+    "created_at": "2026-05-21T07:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T08:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057366963803099597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1535634946915676160",
+          "start": 0,
+          "username": "01Dye_kira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057366963803099597",
+    "in_reply_to_user_id": "1535634946915676160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057303625823658312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@01Dye_kira 哼哼哼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2057159045438746821",
+        "created_at": "2026-05-21T07:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057366963803099597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535634946915676160",
+              "start": 0,
+              "username": "01Dye_kira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057366963803099597",
+        "in_reply_to_user_id": "1535634946915676160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057303625823658312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@01Dye_kira 哼哼哼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535634946915676160",
+        "conversation_id": "2057159045438746821",
+        "created_at": "2026-05-21T03:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T04:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057303625823658312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057303625823658312",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057159045438746821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 太幸福了吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2286,
+          "following_count": 339,
+          "like_count": 3419,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 4069
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T14:49:24.000Z",
+        "description": "发言很肆意妄为，除了碗盆都会扫射啊\n私人号，碎碎念很多慎关\n评论私信都随意",
+        "id": "1535634946915676160",
+        "location": "Fantasy Time",
+        "name": "寝难眠",
+        "pinned_tweet_id": "2050285565052887537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939341384697184256/PcvmtsuO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 157,
+          "like_count": 1286,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 529
+        },
+        "username": "01Dye_kira",
+        "verified": false
+      }
+    ]
+  }
+}

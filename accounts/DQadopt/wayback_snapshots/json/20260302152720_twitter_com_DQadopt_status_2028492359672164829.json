@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028492341246672896",
+        "3_2028492341246562304",
+        "3_2028492341238239234",
+        "3_2028492341246566400"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2028492359672164829",
+    "created_at": "2026-03-02T15:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T16:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028492359672164829"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eYnwOkKK0y",
+          "end": 151,
+          "expanded_url": "https://x.com/DQadopt/status/2028492359672164829/photo/1",
+          "media_key": "3_2028492341246672896",
+          "start": 128,
+          "url": "https://t.co/eYnwOkKK0y"
+        },
+        {
+          "display_url": "pic.x.com/eYnwOkKK0y",
+          "end": 151,
+          "expanded_url": "https://x.com/DQadopt/status/2028492359672164829/photo/1",
+          "media_key": "3_2028492341246562304",
+          "start": 128,
+          "url": "https://t.co/eYnwOkKK0y"
+        },
+        {
+          "display_url": "pic.x.com/eYnwOkKK0y",
+          "end": 151,
+          "expanded_url": "https://x.com/DQadopt/status/2028492359672164829/photo/1",
+          "media_key": "3_2028492341238239234",
+          "start": 128,
+          "url": "https://t.co/eYnwOkKK0y"
+        },
+        {
+          "display_url": "pic.x.com/eYnwOkKK0y",
+          "end": 151,
+          "expanded_url": "https://x.com/DQadopt/status/2028492359672164829/photo/1",
+          "media_key": "3_2028492341246566400",
+          "start": 128,
+          "url": "https://t.co/eYnwOkKK0y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028492359672164829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1⃣️报告长官！2⃣️😣😣😣会有很大伤害哦，od成瘾就是会对身体有伤害，oder就没见过身体好的，如果担忧的话还是慢慢减量吧，祝福你3⃣️自杀晶过两次，亚硝酸钠晶过一次，买化工晶过一次，要买化工找代购不要直接买4⃣️不是，朋友关系，暧昧不起来因为她是直女 https://t.co/eYnwOkKK0y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028492341246672896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCanCXWbwAA9Zst.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028492341246562304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCanCXWaEAA1s0G.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028492341238239234",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCanCXUbEAIvj_r.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028492341246566400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCanCXWaIAA7bWa.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028492341246672896",
+            "3_2028492341246562304",
+            "3_2028492341238239234",
+            "3_2028492341246566400"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028492359672164829",
+        "created_at": "2026-03-02T15:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T16:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028492359672164829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eYnwOkKK0y",
+              "end": 151,
+              "expanded_url": "https://x.com/DQadopt/status/2028492359672164829/photo/1",
+              "media_key": "3_2028492341246672896",
+              "start": 128,
+              "url": "https://t.co/eYnwOkKK0y"
+            },
+            {
+              "display_url": "pic.x.com/eYnwOkKK0y",
+              "end": 151,
+              "expanded_url": "https://x.com/DQadopt/status/2028492359672164829/photo/1",
+              "media_key": "3_2028492341246562304",
+              "start": 128,
+              "url": "https://t.co/eYnwOkKK0y"
+            },
+            {
+              "display_url": "pic.x.com/eYnwOkKK0y",
+              "end": 151,
+              "expanded_url": "https://x.com/DQadopt/status/2028492359672164829/photo/1",
+              "media_key": "3_2028492341238239234",
+              "start": 128,
+              "url": "https://t.co/eYnwOkKK0y"
+            },
+            {
+              "display_url": "pic.x.com/eYnwOkKK0y",
+              "end": 151,
+              "expanded_url": "https://x.com/DQadopt/status/2028492359672164829/photo/1",
+              "media_key": "3_2028492341246566400",
+              "start": 128,
+              "url": "https://t.co/eYnwOkKK0y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028492359672164829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1⃣️报告长官！2⃣️😣😣😣会有很大伤害哦，od成瘾就是会对身体有伤害，oder就没见过身体好的，如果担忧的话还是慢慢减量吧，祝福你3⃣️自杀晶过两次，亚硝酸钠晶过一次，买化工晶过一次，要买化工找代购不要直接买4⃣️不是，朋友关系，暧昧不起来因为她是直女 https://t.co/eYnwOkKK0y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 148,
+          "like_count": 744,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1012
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

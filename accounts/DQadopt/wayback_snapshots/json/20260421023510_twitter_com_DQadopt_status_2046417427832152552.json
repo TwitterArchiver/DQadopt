@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2046417427832152552",
+    "created_at": "2026-04-21T02:35:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T03:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046417427832152552"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chrorine_17/st…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/chrorine_17/status/2046241634439106598",
+          "start": 22,
+          "url": "https://t.co/83edAiW8JQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046417427832152552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046241634439106598",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对不起好好笑，再见了所有的普瑞巴林和愈美片 https://t.co/83edAiW8JQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 226,
+        "media_key": "3_2046241632362844162",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGW17FWaUAIL69r.jpg",
+        "width": 1042
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2046417427832152552",
+        "created_at": "2026-04-21T02:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T03:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046417427832152552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chrorine_17/st…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/chrorine_17/status/2046241634439106598",
+              "start": 22,
+              "url": "https://t.co/83edAiW8JQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046417427832152552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046241634439106598",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起好好笑，再见了所有的普瑞巴林和愈美片 https://t.co/83edAiW8JQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046241632362844162"
+          ]
+        },
+        "author_id": "1505596113813876736",
+        "conversation_id": "2046241634439106598",
+        "created_at": "2026-04-20T14:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046241634439106598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jR57DWRUjk",
+              "end": 32,
+              "expanded_url": "https://x.com/chrorine_17/status/2046241634439106598/photo/1",
+              "media_key": "3_2046241632362844162",
+              "start": 9,
+              "url": "https://t.co/jR57DWRUjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046241634439106598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3299,
+          "like_count": 82,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "你妈限活【1】天 https://t.co/jR57DWRUjk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2077,
+          "following_count": 334,
+          "like_count": 3031,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 3648
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T17:24:36.000Z",
+        "description": "朝霞與晚霞都消失不見",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FUsQ5cO10AA2Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FUsQ5cO10AA2YTQ9",
+                "start": 0,
+                "url": "https://t.co/ilHsoNt8HW"
+              }
+            ]
+          }
+        },
+        "id": "1505596113813876736",
+        "location": "昨天",
+        "name": "chrorinEVE",
+        "pinned_tweet_id": "2031610320180097292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984829376392044544/-Bz5LJl5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 239,
+          "like_count": 17388,
+          "listed_count": 7,
+          "media_count": 246,
+          "tweet_count": 6224
+        },
+        "url": "https://t.co/ilHsoNt8HW",
+        "username": "chrorine_17",
+        "verified": false
+      }
+    ]
+  }
+}

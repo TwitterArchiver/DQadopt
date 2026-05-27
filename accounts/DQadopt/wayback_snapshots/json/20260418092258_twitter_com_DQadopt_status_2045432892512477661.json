@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2045340382318457064",
+    "created_at": "2026-04-18T09:22:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T10:22:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045432892512477661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1544787164289835008",
+          "start": 0,
+          "username": "sucmydickbungie"
+        },
+        {
+          "end": 31,
+          "id": "1996037660821929984",
+          "start": 17,
+          "username": "RevivedTenshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045432892512477661",
+    "in_reply_to_user_id": "1544787164289835008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045340382318457064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sucmydickbungie @RevivedTenshi 好有意思"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2045340377943781376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKCPLAaMAARXSF.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2045340378044477440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKCPLYasAAaGX8.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2045340382318457064",
+        "created_at": "2026-04-18T09:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T10:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045432892512477661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1544787164289835008",
+              "start": 0,
+              "username": "sucmydickbungie"
+            },
+            {
+              "end": 31,
+              "id": "1996037660821929984",
+              "start": 17,
+              "username": "RevivedTenshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045432892512477661",
+        "in_reply_to_user_id": "1544787164289835008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045340382318457064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sucmydickbungie @RevivedTenshi 好有意思"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045340377943781376",
+            "3_2045340378044477440"
+          ]
+        },
+        "author_id": "1544787164289835008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2045340382318457064",
+        "created_at": "2026-04-18T03:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T04:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045340382318457064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1996037660821929984",
+              "start": 1,
+              "username": "RevivedTenshi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9skgch9oMJ",
+              "end": 44,
+              "expanded_url": "https://x.com/sucmydickbungie/status/2045340382318457064/photo/1",
+              "media_key": "3_2045340377943781376",
+              "start": 21,
+              "url": "https://t.co/9skgch9oMJ"
+            },
+            {
+              "display_url": "pic.x.com/9skgch9oMJ",
+              "end": 44,
+              "expanded_url": "https://x.com/sucmydickbungie/status/2045340382318457064/photo/1",
+              "media_key": "3_2045340378044477440",
+              "start": 21,
+              "url": "https://t.co/9skgch9oMJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045340382318457064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和@RevivedTenshi 远程放血 https://t.co/9skgch9oMJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1965,
+          "following_count": 317,
+          "like_count": 2947,
+          "listed_count": 0,
+          "media_count": 333,
+          "tweet_count": 3502
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-06T20:56:03.000Z",
+        "description": "你这不是棒鸡啊🙌，这是你全家的古灰盒，体积小方便携带👍，拆开一包✋😀，放水里就散开，怎么找都找不回来，用来泡水😋😋，冲厕所，拖地都是很好用的😋😋，你看打开以后像奶茶粉一样碎👍✋，放在水里遇水溶解不见，溶解性很强的。冲开以后，是一杯强效加量的洁厕灵，你看它怎么用都用不完👍👍，不伤手不伤地，用一辈子都行",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mi.com",
+                "end": 23,
+                "expanded_url": "http://mi.com",
+                "start": 0,
+                "url": "https://t.co/aKzKeMhZPj"
+              }
+            ]
+          }
+        },
+        "id": "1544787164289835008",
+        "location": "Chuo-ku, Tokyo",
+        "name": "RNovS🖕🏻",
+        "pinned_tweet_id": "1918443775564890589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744754722513555456/ugh26Axg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 268,
+          "like_count": 6027,
+          "listed_count": 1,
+          "media_count": 3456,
+          "tweet_count": 10032
+        },
+        "url": "https://t.co/aKzKeMhZPj",
+        "username": "sucmydickbungie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-03T02:04:31.000Z",
+        "description": "小天☆彡 | 中文/Eng | 欢迎小宝们加好友哦!|17，INTP",
+        "id": "1996037660821929984",
+        "name": "☆*:.｡. Tenshi!! .｡.:*☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022407662692884481/T18JhTmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 26,
+          "like_count": 1566,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 76
+        },
+        "username": "RevivedTenshi",
+        "verified": false
+      }
+    ]
+  }
+}

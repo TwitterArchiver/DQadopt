@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029022911533858817",
+        "3_2029022911538016256",
+        "3_2029022911542247426",
+        "3_2029022911550636039"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2029022920874524865",
+    "created_at": "2026-03-04T02:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T03:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029022920874524865"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RfS9iXd39s",
+          "end": 156,
+          "expanded_url": "https://x.com/DQadopt/status/2029022920874524865/photo/1",
+          "media_key": "3_2029022911533858817",
+          "start": 133,
+          "url": "https://t.co/RfS9iXd39s"
+        },
+        {
+          "display_url": "pic.x.com/RfS9iXd39s",
+          "end": 156,
+          "expanded_url": "https://x.com/DQadopt/status/2029022920874524865/photo/1",
+          "media_key": "3_2029022911538016256",
+          "start": 133,
+          "url": "https://t.co/RfS9iXd39s"
+        },
+        {
+          "display_url": "pic.x.com/RfS9iXd39s",
+          "end": 156,
+          "expanded_url": "https://x.com/DQadopt/status/2029022920874524865/photo/1",
+          "media_key": "3_2029022911542247426",
+          "start": 133,
+          "url": "https://t.co/RfS9iXd39s"
+        },
+        {
+          "display_url": "pic.x.com/RfS9iXd39s",
+          "end": 156,
+          "expanded_url": "https://x.com/DQadopt/status/2029022920874524865/photo/1",
+          "media_key": "3_2029022911550636039",
+          "start": 133,
+          "url": "https://t.co/RfS9iXd39s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029022920874524865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1⃣️没有🚪没有联系方式2⃣️谢谢你的好意，我其实不太需要爱，只是需要精神上的支持且是特定的人3⃣️不用在乎我的眼泪，我的痛苦不值一提，我的精神病真的没那么严重4⃣️好的，我会努力，但你说的太理想化了，还是谢谢你这么希望我好起来，你一定是个温柔的人ovo我喜欢你！ https://t.co/RfS9iXd39s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029022911533858817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCiJlnsawAE0h5C.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029022911538016256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCiJlntaMAAQhC1.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029022911542247426",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCiJlnuawAI-6re.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029022911550636039",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCiJlnwawAcBn3u.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029022911533858817",
+            "3_2029022911538016256",
+            "3_2029022911542247426",
+            "3_2029022911550636039"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2029022920874524865",
+        "created_at": "2026-03-04T02:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T03:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029022920874524865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RfS9iXd39s",
+              "end": 156,
+              "expanded_url": "https://x.com/DQadopt/status/2029022920874524865/photo/1",
+              "media_key": "3_2029022911533858817",
+              "start": 133,
+              "url": "https://t.co/RfS9iXd39s"
+            },
+            {
+              "display_url": "pic.x.com/RfS9iXd39s",
+              "end": 156,
+              "expanded_url": "https://x.com/DQadopt/status/2029022920874524865/photo/1",
+              "media_key": "3_2029022911538016256",
+              "start": 133,
+              "url": "https://t.co/RfS9iXd39s"
+            },
+            {
+              "display_url": "pic.x.com/RfS9iXd39s",
+              "end": 156,
+              "expanded_url": "https://x.com/DQadopt/status/2029022920874524865/photo/1",
+              "media_key": "3_2029022911542247426",
+              "start": 133,
+              "url": "https://t.co/RfS9iXd39s"
+            },
+            {
+              "display_url": "pic.x.com/RfS9iXd39s",
+              "end": 156,
+              "expanded_url": "https://x.com/DQadopt/status/2029022920874524865/photo/1",
+              "media_key": "3_2029022911550636039",
+              "start": 133,
+              "url": "https://t.co/RfS9iXd39s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029022920874524865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1⃣️没有🚪没有联系方式2⃣️谢谢你的好意，我其实不太需要爱，只是需要精神上的支持且是特定的人3⃣️不用在乎我的眼泪，我的痛苦不值一提，我的精神病真的没那么严重4⃣️好的，我会努力，但你说的太理想化了，还是谢谢你这么希望我好起来，你一定是个温柔的人ovo我喜欢你！ https://t.co/RfS9iXd39s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 163,
+          "like_count": 801,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1084
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

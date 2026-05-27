@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2032053375987302471",
+    "created_at": "2026-03-12T11:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T12:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032053375987302471"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cabr_lies/stat…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/cabr_lies/status/2032047431576404440",
+          "start": 21,
+          "url": "https://t.co/i7WwMT3CgQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032053375987302471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032047431576404440",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁来看看这个可怜的枭儿！msk你妈妈飞啦 https://t.co/i7WwMT3CgQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1117,
+        "media_key": "3_2032047429558956032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNIXvWbcAAqn2S.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2032053375987302471",
+        "created_at": "2026-03-12T11:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T12:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032053375987302471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cabr_lies/stat…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/cabr_lies/status/2032047431576404440",
+              "start": 21,
+              "url": "https://t.co/i7WwMT3CgQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032053375987302471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032047431576404440",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁来看看这个可怜的枭儿！msk你妈妈飞啦 https://t.co/i7WwMT3CgQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032047429558956032"
+          ]
+        },
+        "author_id": "2032043767713452032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032047431576404440",
+        "created_at": "2026-03-12T10:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032047431576404440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/35zXzMHGQf",
+              "end": 85,
+              "expanded_url": "https://x.com/CABR_Lies/status/2032047431576404440/photo/1",
+              "media_key": "3_2032047429558956032",
+              "start": 62,
+              "url": "https://t.co/35zXzMHGQf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032047431576404440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "可以帮我转发一下吗？我是枭儿，睡了一觉不小心把自己睡到平行世界了，号被封掉了。换号是最他娘麻烦的。还得麻烦大家再找一次我。 https://t.co/35zXzMHGQf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1166,
+          "following_count": 234,
+          "like_count": 1435,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 1766
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T10:39:31.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #drugtwt #shtwt ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 59,
+                "start": 51,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 66,
+                "start": 60,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "2032043767713452032",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032047608798302418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032044042373173248/P0TOWWQb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 11
+        },
+        "username": "CABR_Lies",
+        "verified": false
+      }
+    ]
+  }
+}

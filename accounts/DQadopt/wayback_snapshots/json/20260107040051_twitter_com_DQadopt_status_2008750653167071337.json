@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2008733391529930755",
+    "created_at": "2026-01-07T04:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T05:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008750653167071337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1971251736900927488",
+          "start": 0,
+          "username": "Binsu_7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008750653167071337",
+    "in_reply_to_user_id": "1971251736900927488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008733391529930755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Binsu_7 omg居然真的会有人会喜欢抽烟这个点吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2008733391529930755",
+        "created_at": "2026-01-07T04:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T05:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008750653167071337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1971251736900927488",
+              "start": 0,
+              "username": "Binsu_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008750653167071337",
+        "in_reply_to_user_id": "1971251736900927488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008733391529930755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Binsu_7 omg居然真的会有人会喜欢抽烟这个点吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971251736900927488",
+        "conversation_id": "2008733391529930755",
+        "created_at": "2026-01-07T02:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T03:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008733391529930755"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "wlw"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "le"
+            },
+            {
+              "end": 70,
+              "start": 65,
+              "tag": "女同性恋"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008733391529930755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直好喜欢会抽烟的女人。。感觉有股劲劲的感觉 特别是那种劲劲的装装的反差姐/妹0 谁来懂我一下啊啊啊啊啊啊啊 \n#wlw #le #女同性恋 #女同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我重生了，这一次我要夺回属于我的一切丨le🌈1丨喜欢和可爱漂亮的女生互动🥰🥰🥰丨有喜欢的人不色色丨自伤化学原料滥用碎碎念集中地",
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 31,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 9
+        },
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T16:33:43.000Z",
+        "description": "0.7 switch｜欢迎私信骚扰我找我打游戏好吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/eau67018",
+                "end": 23,
+                "expanded_url": "https://ngl.link/eau67018",
+                "start": 0,
+                "url": "https://t.co/iHLz8MHJw1"
+              }
+            ]
+          }
+        },
+        "id": "1971251736900927488",
+        "name": "eau",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007722397995282436/OtDjzrg__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 34,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/iHLz8MHJw1",
+        "username": "Binsu_7",
+        "verified": false
+      }
+    ]
+  }
+}

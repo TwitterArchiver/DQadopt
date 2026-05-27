@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030560420269072384"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2030560428921897090",
+    "created_at": "2026-03-08T08:25:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T09:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030560428921897090"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cx296Eoqqk",
+          "end": 153,
+          "expanded_url": "https://x.com/DQadopt/status/2030560428921897090/photo/1",
+          "media_key": "3_2030560420269072384",
+          "start": 130,
+          "url": "https://t.co/cx296Eoqqk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030560428921897090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想做爱，死意一上来就想和人温存\n只是很想和人拥抱，只是很想和人贴着\n我没有那么高道德我都精神病了让让我怎么了，在办公室我又在哭了，我感觉我的第四次自杀要来了，好无力我去厕所哭一会吧，这种感觉又逐渐上来了\n嗑药吃化工rc自残从来没有人陪着我，永远都是那么孤独 https://t.co/cx296Eoqqk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 528,
+        "media_key": "3_2030560420269072384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC3_8aEbIAA011V.jpg",
+        "width": 984
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030560420269072384"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2030560428921897090",
+        "created_at": "2026-03-08T08:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T09:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030560428921897090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cx296Eoqqk",
+              "end": 153,
+              "expanded_url": "https://x.com/DQadopt/status/2030560428921897090/photo/1",
+              "media_key": "3_2030560420269072384",
+              "start": 130,
+              "url": "https://t.co/cx296Eoqqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030560428921897090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想做爱，死意一上来就想和人温存\n只是很想和人拥抱，只是很想和人贴着\n我没有那么高道德我都精神病了让让我怎么了，在办公室我又在哭了，我感觉我的第四次自杀要来了，好无力我去厕所哭一会吧，这种感觉又逐渐上来了\n嗑药吃化工rc自残从来没有人陪着我，永远都是那么孤独 https://t.co/cx296Eoqqk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 193,
+          "like_count": 1117,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1400
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

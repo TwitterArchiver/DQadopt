@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2041889963772670138",
+    "created_at": "2026-04-09T08:16:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T09:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042154608299225362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2037516161051447296",
+          "start": 0,
+          "username": "AzideChen57041"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042154608299225362",
+    "in_reply_to_user_id": "2037516161051447296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042078357219938626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AzideChen57041 好，谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2041889963772670138",
+        "created_at": "2026-04-09T08:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T09:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042154608299225362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2037516161051447296",
+              "start": 0,
+              "username": "AzideChen57041"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042154608299225362",
+        "in_reply_to_user_id": "2037516161051447296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042078357219938626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AzideChen57041 好，谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037516161051447296",
+        "conversation_id": "2041889963772670138",
+        "created_at": "2026-04-09T03:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042078357219938626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042078357219938626",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041889963772670138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 表达爱意要具体的回复，要具体到某个点某个事件，如果只是空泛地一直说我爱你我喜欢你是没有用的，会让人感觉敷衍，但如果你说你喜欢小鸟说xxx话的时候可爱的语气，会联想到萌萌的脸，你说小鸟很在意你让发誓不再od自残时让你确认被爱，你因此感到幸福等等，一切让人切身体会的情感表达一定都是具体的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1771,
+          "following_count": 311,
+          "like_count": 2684,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 3060
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T13:05:11.000Z",
+        "description": "les",
+        "id": "2037516161051447296",
+        "name": "Azide_17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039641674612457472/tl--SIAW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 28,
+          "like_count": 1337,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 520
+        },
+        "username": "AzideChen57041",
+        "verified": false
+      }
+    ]
+  }
+}

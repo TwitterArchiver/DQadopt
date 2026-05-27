@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2041889963772670138",
+    "created_at": "2026-04-08T15:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T16:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041895657238360402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1929939770102415360",
+          "start": 0,
+          "username": "Yixi_1109"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041895657238360402",
+    "in_reply_to_user_id": "1929939770102415360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041893647302664303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yixi_1109 好想把这段关系搞的支离破碎啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2041889963772670138",
+        "created_at": "2026-04-08T15:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041895657238360402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1929939770102415360",
+              "start": 0,
+              "username": "Yixi_1109"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041895657238360402",
+        "in_reply_to_user_id": "1929939770102415360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041893647302664303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yixi_1109 好想把这段关系搞的支离破碎啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929939770102415360",
+        "conversation_id": "2041889963772670138",
+        "created_at": "2026-04-08T14:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041893647302664303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041893647302664303",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041889963772670138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 懂這種感覺……\n以前暗戀某人的時候常常會有掀起袖子將疤給對方看的衝動，但又害怕對方看了之後會覺得噁心，現在越走越遠……不說了，祝你們幸福(⁠｢⁠`⁠･⁠ω⁠･⁠)⁠｢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 309,
+          "like_count": 2613,
+          "listed_count": 0,
+          "media_count": 308,
+          "tweet_count": 3024
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T16:34:48.000Z",
+        "description": "台灣人 | 中學生 | 泛性戀🩷💛🩵 | DD | EVOL(XLOV Fan)\n推し:Shu Yamino,Zeal Ginjoka,Rui陳冠叡,莫弈 | 腐女子/姫女子 | 精神狀態不穩",
+        "id": "1929939770102415360",
+        "name": "苯二䓬 benzos.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929939838394085377/ZNgdF4eZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 1162,
+          "like_count": 6923,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 2848
+        },
+        "username": "Yixi_1109",
+        "verified": false
+      }
+    ]
+  }
+}

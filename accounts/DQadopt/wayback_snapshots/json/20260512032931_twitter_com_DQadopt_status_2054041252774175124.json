@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2054041252774175124",
+    "created_at": "2026-05-12T03:29:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T04:29:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054041252774175124"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gplvy13816788/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/gplvy13816788/status/2053839683243884827",
+          "start": 10,
+          "url": "https://t.co/FFrz2QKveA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054041252774175124",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053839683243884827",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "msk你害人不浅！ https://t.co/FFrz2QKveA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053839664566661120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIC0SxAacAAmRD-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053839665292353536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIC0SztboAANBPu.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053839664554127360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIC0Sw9bMAA-Wk7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053839664965111808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIC0SyfaUAAeiE1.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2054041252774175124",
+        "created_at": "2026-05-12T03:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T04:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054041252774175124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gplvy13816788/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/gplvy13816788/status/2053839683243884827",
+              "start": 10,
+              "url": "https://t.co/FFrz2QKveA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054041252774175124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053839683243884827",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "msk你害人不浅！ https://t.co/FFrz2QKveA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053839664566661120",
+            "3_2053839665292353536",
+            "3_2053839664554127360",
+            "3_2053839664965111808"
+          ]
+        },
+        "author_id": "1965269244200767488",
+        "conversation_id": "2053839683243884827",
+        "created_at": "2026-05-11T14:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053839683243884827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZnNQEXrN7r",
+              "end": 76,
+              "expanded_url": "https://x.com/gplvy13816788/status/2053839683243884827/photo/1",
+              "media_key": "3_2053839664566661120",
+              "start": 53,
+              "url": "https://t.co/ZnNQEXrN7r"
+            },
+            {
+              "display_url": "pic.x.com/ZnNQEXrN7r",
+              "end": 76,
+              "expanded_url": "https://x.com/gplvy13816788/status/2053839683243884827/photo/1",
+              "media_key": "3_2053839665292353536",
+              "start": 53,
+              "url": "https://t.co/ZnNQEXrN7r"
+            },
+            {
+              "display_url": "pic.x.com/ZnNQEXrN7r",
+              "end": 76,
+              "expanded_url": "https://x.com/gplvy13816788/status/2053839683243884827/photo/1",
+              "media_key": "3_2053839664554127360",
+              "start": 53,
+              "url": "https://t.co/ZnNQEXrN7r"
+            },
+            {
+              "display_url": "pic.x.com/ZnNQEXrN7r",
+              "end": 76,
+              "expanded_url": "https://x.com/gplvy13816788/status/2053839683243884827/photo/1",
+              "media_key": "3_2053839664965111808",
+              "start": 53,
+              "url": "https://t.co/ZnNQEXrN7r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053839683243884827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大家好！我是滯/小滯，前世被賊人坑害導致賬號永凍。現在我重生了，希望能多轉推助力我找回前世互關寶寶們…… https://t.co/ZnNQEXrN7r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2276,
+          "following_count": 341,
+          "like_count": 3384,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 4015
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T04:21:26.000Z",
+        "description": "我是滯，前世 @jiowch 被坑害。現在我重生了。防炸小號 @ukhai15367842\n匿名提问箱https://t.co/Uvr6Btk0c9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 7,
+                "username": "jiowch"
+              },
+              {
+                "end": 45,
+                "start": 31,
+                "username": "ukhai15367842"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/zhi68399",
+                "end": 74,
+                "expanded_url": "https://ngl.link/zhi68399",
+                "start": 51,
+                "url": "https://t.co/Uvr6Btk0c9"
+              }
+            ]
+          }
+        },
+        "id": "1965269244200767488",
+        "name": "滯²",
+        "pinned_tweet_id": "2053839683243884827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053834377801740288/V3AOwLOJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 25,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 11
+        },
+        "username": "gplvy13816788",
+        "verified": false
+      }
+    ]
+  }
+}

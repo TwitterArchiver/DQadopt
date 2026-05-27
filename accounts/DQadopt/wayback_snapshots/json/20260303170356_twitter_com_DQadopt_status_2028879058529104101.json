@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028879048148209664"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2028879058529104101",
+    "created_at": "2026-03-03T17:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T18:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028879058529104101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rPeOiPb2Do",
+          "end": 118,
+          "expanded_url": "https://x.com/DQadopt/status/2028879058529104101/photo/1",
+          "media_key": "3_2028879048148209664",
+          "start": 95,
+          "url": "https://t.co/rPeOiPb2Do"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028879058529104101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天好多人陪我说话o…….同类（餐券od，不限男女）和女孩子可以加我光遇！主页看不出来属性的会要求语音验证，你验证我也可以！我工作很忙，平时是共在打理我的号，偶尔上号玩，常驻海洋斗耳坠鸟～ https://t.co/rPeOiPb2Do"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_2028879048148209664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCgGvq0bUAABAkv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028879048148209664"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028879058529104101",
+        "created_at": "2026-03-03T17:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028879058529104101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rPeOiPb2Do",
+              "end": 118,
+              "expanded_url": "https://x.com/DQadopt/status/2028879058529104101/photo/1",
+              "media_key": "3_2028879048148209664",
+              "start": 95,
+              "url": "https://t.co/rPeOiPb2Do"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028879058529104101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天好多人陪我说话o…….同类（餐券od，不限男女）和女孩子可以加我光遇！主页看不出来属性的会要求语音验证，你验证我也可以！我工作很忙，平时是共在打理我的号，偶尔上号玩，常驻海洋斗耳坠鸟～ https://t.co/rPeOiPb2Do"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 155,
+          "like_count": 785,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 1065
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

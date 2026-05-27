@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023939050391187456",
+        "3_2023939050403700736",
+        "3_2023939050378608640"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2023939060184822086",
+    "created_at": "2026-02-18T01:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T02:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023939060184822086"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/t6h9RvPGnf",
+          "end": 163,
+          "expanded_url": "https://x.com/DQadopt/status/2023939060184822086/photo/1",
+          "media_key": "3_2023939050391187456",
+          "start": 140,
+          "url": "https://t.co/t6h9RvPGnf"
+        },
+        {
+          "display_url": "pic.x.com/t6h9RvPGnf",
+          "end": 163,
+          "expanded_url": "https://x.com/DQadopt/status/2023939060184822086/photo/1",
+          "media_key": "3_2023939050403700736",
+          "start": 140,
+          "url": "https://t.co/t6h9RvPGnf"
+        },
+        {
+          "display_url": "pic.x.com/t6h9RvPGnf",
+          "end": 163,
+          "expanded_url": "https://x.com/DQadopt/status/2023939060184822086/photo/1",
+          "media_key": "3_2023939050378608640",
+          "start": 140,
+          "url": "https://t.co/t6h9RvPGnf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023939060184822086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1⃣️是，没做过，有亲密行为但没有给对方性行为，因为当时觉得自己不能担责\n2⃣️可以发给我，我会认真看完的，但遥控还是不了，我不想和其他女人聊骚，谢谢你的喜欢！你一定是一只很乖的好小狗🥰满脑子想着我我很幸福哦\n3⃣️不可以，你敢偷走他我要跟你拼命啊啊啊啊追杀（不是）你到天涯海角 https://t.co/t6h9RvPGnf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023939050391187456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBZ519GbsAAmfWh.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023939050403700736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBZ519JaoAAVOrc.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023939050378608640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBZ519DbwAA_tFm.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023939050391187456",
+            "3_2023939050403700736",
+            "3_2023939050378608640"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2023939060184822086",
+        "created_at": "2026-02-18T01:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T02:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023939060184822086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t6h9RvPGnf",
+              "end": 163,
+              "expanded_url": "https://x.com/DQadopt/status/2023939060184822086/photo/1",
+              "media_key": "3_2023939050391187456",
+              "start": 140,
+              "url": "https://t.co/t6h9RvPGnf"
+            },
+            {
+              "display_url": "pic.x.com/t6h9RvPGnf",
+              "end": 163,
+              "expanded_url": "https://x.com/DQadopt/status/2023939060184822086/photo/1",
+              "media_key": "3_2023939050403700736",
+              "start": 140,
+              "url": "https://t.co/t6h9RvPGnf"
+            },
+            {
+              "display_url": "pic.x.com/t6h9RvPGnf",
+              "end": 163,
+              "expanded_url": "https://x.com/DQadopt/status/2023939060184822086/photo/1",
+              "media_key": "3_2023939050378608640",
+              "start": 140,
+              "url": "https://t.co/t6h9RvPGnf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023939060184822086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1⃣️是，没做过，有亲密行为但没有给对方性行为，因为当时觉得自己不能担责\n2⃣️可以发给我，我会认真看完的，但遥控还是不了，我不想和其他女人聊骚，谢谢你的喜欢！你一定是一只很乖的好小狗🥰满脑子想着我我很幸福哦\n3⃣️不可以，你敢偷走他我要跟你拼命啊啊啊啊追杀（不是）你到天涯海角 https://t.co/t6h9RvPGnf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 92,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 654
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

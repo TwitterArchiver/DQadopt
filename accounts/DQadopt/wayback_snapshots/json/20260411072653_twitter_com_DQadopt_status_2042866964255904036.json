@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2042861861637623880",
+    "created_at": "2026-04-11T07:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T08:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042866964255904036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1634035914778488832",
+          "start": 0,
+          "username": "Sinclair0427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042866964255904036",
+    "in_reply_to_user_id": "1634035914778488832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042866565889298679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sinclair0427 其实我生活里也很享受被需要被依赖哦！相反我不希望我被照顾太多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2042861861637623880",
+        "created_at": "2026-04-11T07:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042866964255904036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634035914778488832",
+              "start": 0,
+              "username": "Sinclair0427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042866964255904036",
+        "in_reply_to_user_id": "1634035914778488832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042866565889298679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sinclair0427 其实我生活里也很享受被需要被依赖哦！相反我不希望我被照顾太多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634035914778488832",
+        "conversation_id": "2042861861637623880",
+        "created_at": "2026-04-11T07:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042866565889298679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042866565889298679",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042861861637623880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 我觉得一个人在平时关系中的位置并不一定和在性关系中的位置相绑定，在性关系的欲望结构中你必须当1，但我觉得在平时的关系中，可能你才是那个更需要被照顾的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1847,
+          "following_count": 315,
+          "like_count": 2806,
+          "listed_count": 0,
+          "media_count": 318,
+          "tweet_count": 3194
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T03:39:45.000Z",
+        "description": "可能是mtx，可能有精神病，讨厌正常人",
+        "id": "1634035914778488832",
+        "location": "主人怀里",
+        "name": "客尘",
+        "pinned_tweet_id": "2041805292737101901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041104857772494848/fc0dR91g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 48,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 260
+        },
+        "username": "Sinclair0427",
+        "verified": false
+      }
+    ]
+  }
+}

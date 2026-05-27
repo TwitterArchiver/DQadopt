@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2038639509722763377",
+    "created_at": "2026-03-30T15:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T16:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038642444611539398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1480898677220667392",
+          "start": 0,
+          "username": "yaku_wbp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038642444611539398",
+    "in_reply_to_user_id": "1480898677220667392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038642043111755850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaku_wbp 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2038639509722763377",
+        "created_at": "2026-03-30T15:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T16:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038642444611539398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1480898677220667392",
+              "start": 0,
+              "username": "yaku_wbp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038642444611539398",
+        "in_reply_to_user_id": "1480898677220667392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038642043111755850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaku_wbp 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1480898677220667392",
+        "conversation_id": "2038639509722763377",
+        "created_at": "2026-03-30T15:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T16:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038642043111755850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038642043111755850",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038639509722763377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 是不是得去你看过的医生那里问，我也不是特别了解，国内用药很保守不知道会不会给你开，你可以先问问"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1517,
+          "following_count": 266,
+          "like_count": 2320,
+          "listed_count": 0,
+          "media_count": 286,
+          "tweet_count": 2597
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-11T13:45:41.000Z",
+        "description": "笔记本",
+        "id": "1480898677220667392",
+        "name": "空白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788222964665634816/v0tmqM1w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 366,
+          "like_count": 10708,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 861
+        },
+        "username": "yaku_wbp",
+        "verified": false
+      }
+    ]
+  }
+}

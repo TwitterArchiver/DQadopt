@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2045534762350293025",
+    "created_at": "2026-04-19T13:26:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T14:26:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045856453064597722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2043246083720310784",
+          "start": 0,
+          "username": "YuyanYyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045856453064597722",
+    "in_reply_to_user_id": "2043246083720310784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045852984412606772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuyanYyan 下个tg吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2045534762350293025",
+        "created_at": "2026-04-19T13:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045856453064597722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2043246083720310784",
+              "start": 0,
+              "username": "YuyanYyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045856453064597722",
+        "in_reply_to_user_id": "2043246083720310784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045852984412606772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuyanYyan 下个tg吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043246083720310784",
+        "conversation_id": "2045534762350293025",
+        "created_at": "2026-04-19T13:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045852984412606772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045852984412606772",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045534762350293025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 我也好想看。。我心情难受的时候也爱看血腥但是推上的都不太够"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2025,
+          "following_count": 327,
+          "like_count": 2979,
+          "listed_count": 0,
+          "media_count": 339,
+          "tweet_count": 3560
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-12T08:34:54.000Z",
+        "description": "是个混沌的不可名状物\n09/♀/双相焦虑/不要欺负我我会自杀\n可以随便找我聊天，看到就会回复\n不要在意我",
+        "id": "2043246083720310784",
+        "location": "显示器",
+        "name": "幸福安心委员会",
+        "pinned_tweet_id": "2044740192951824441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044739841448181760/qW_l5CCS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 22,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 90
+        },
+        "username": "YuyanYyan",
+        "verified": false
+      }
+    ]
+  }
+}

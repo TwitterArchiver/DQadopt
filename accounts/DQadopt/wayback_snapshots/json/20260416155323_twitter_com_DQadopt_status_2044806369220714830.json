@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2044349543433773367",
+    "created_at": "2026-04-16T15:53:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T16:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044806369220714830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2036687341251915776",
+          "start": 0,
+          "username": "yuvucat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044806369220714830",
+    "in_reply_to_user_id": "2036687341251915776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044806272042799126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuvucat 是的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2044349543433773367",
+        "created_at": "2026-04-16T15:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044806369220714830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2036687341251915776",
+              "start": 0,
+              "username": "yuvucat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044806369220714830",
+        "in_reply_to_user_id": "2036687341251915776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044806272042799126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuvucat 是的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036687341251915776",
+        "conversation_id": "2044349543433773367",
+        "created_at": "2026-04-16T15:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044806272042799126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044806272042799126",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044349543433773367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 小鸟会看到一个很可爱的斯特拉hhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1938,
+          "following_count": 315,
+          "like_count": 2910,
+          "listed_count": 0,
+          "media_count": 331,
+          "tweet_count": 3435
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T06:11:42.000Z",
+        "description": "女同/sub/梦到什么发什么/神经病/当狗好幸福哦哦/刻薄兔/这是一个她不知道的角落",
+        "id": "2036687341251915776",
+        "name": "雨淅淅沥沥",
+        "pinned_tweet_id": "2037466911462785193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036868755280846850/OHOFlQDZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 53,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 598
+        },
+        "username": "yuvucat",
+        "verified": false
+      }
+    ]
+  }
+}

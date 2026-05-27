@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "1987067136939073828",
+    "created_at": "2026-02-04T12:35:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T13:35:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019027119129718983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1847712034361659392",
+          "start": 0,
+          "username": "yumeng0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019027119129718983",
+    "in_reply_to_user_id": "1847712034361659392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987067136939073828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumeng0721 吃不起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987067091565023232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5N6_emaEAAJS03.jpg",
+        "width": 651
+      },
+      {
+        "height": 2090,
+        "media_key": "3_1987067133482958848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5N7B6wbAAARmyQ.jpg",
+        "width": 540
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987067117515247616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5N7A_RbEAA6bB5.jpg",
+        "width": 464
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987067128625999872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5N7BoqbsAA3D_y.jpg",
+        "width": 378
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "1987067136939073828",
+        "created_at": "2026-02-04T12:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T13:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019027119129718983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1847712034361659392",
+              "start": 0,
+              "username": "yumeng0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019027119129718983",
+        "in_reply_to_user_id": "1847712034361659392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987067136939073828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumeng0721 吃不起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987067091565023232",
+            "3_1987067133482958848",
+            "3_1987067117515247616",
+            "3_1987067128625999872"
+          ]
+        },
+        "author_id": "1847712034361659392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987067136939073828",
+        "created_at": "2025-11-08T07:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T08:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987067136939073828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "4-羟基-N-甲基-N-乙基色胺（英语：4-hydroxy-N-methyl-N-ethyltryptamine，简称4-HO-MET），又称美托辛(metocin)或甲基西宾(methylcybin)，是一种属于色胺衍生物和4-羟色胺家族的迷幻药物。是一种鲜为人知的新型色胺类迷幻物质。4-HO-MET的结构与裸盖菇素相关。据推测，它通过与大脑中的 血清素受体结合而产生作用。它是赛洛欣的结构类似...",
+              "display_url": "overdose.day/%E5%8C%96%E5%B…",
+              "end": 59,
+              "expanded_url": "https://www.overdose.day/%E5%8C%96%E5%B7%A5%E7%B4%A2%E5%BC%95%E2%80%94%E8%89%B2%E8%83%BA%E7%B1%BB/612.html",
+              "images": [
+                {
+                  "height": 1024,
+                  "url": "https://pbs.twimg.com/news_img/2007180748214939650/n_ALS_Et?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2007180748214939650/n_ALS_Et?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 36,
+              "status": 200,
+              "title": "4-羟基-N-甲基-N-乙基色胺（4-HO-MET）",
+              "unwound_url": "https://www.overdose.day/%E5%8C%96%E5%B7%A5%E7%B4%A2%E5%BC%95%E2%80%94%E8%89%B2%E8%83%BA%E7%B1%BB/612.html",
+              "url": "https://t.co/04evpjiI6A"
+            },
+            {
+              "display_url": "pic.x.com/DoDXShRwUN",
+              "end": 83,
+              "expanded_url": "https://x.com/yumeng0721/status/1987067136939073828/photo/1",
+              "media_key": "3_1987067091565023232",
+              "start": 60,
+              "url": "https://t.co/DoDXShRwUN"
+            },
+            {
+              "display_url": "pic.x.com/DoDXShRwUN",
+              "end": 83,
+              "expanded_url": "https://x.com/yumeng0721/status/1987067136939073828/photo/1",
+              "media_key": "3_1987067133482958848",
+              "start": 60,
+              "url": "https://t.co/DoDXShRwUN"
+            },
+            {
+              "display_url": "pic.x.com/DoDXShRwUN",
+              "end": 83,
+              "expanded_url": "https://x.com/yumeng0721/status/1987067136939073828/photo/1",
+              "media_key": "3_1987067117515247616",
+              "start": 60,
+              "url": "https://t.co/DoDXShRwUN"
+            },
+            {
+              "display_url": "pic.x.com/DoDXShRwUN",
+              "end": 83,
+              "expanded_url": "https://x.com/yumeng0721/status/1987067136939073828/photo/1",
+              "media_key": "3_1987067128625999872",
+              "start": 60,
+              "url": "https://t.co/DoDXShRwUN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987067136939073828",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 9040,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "未列管的致幻剂——4-羟基-N-甲基-N-乙基色胺（4-HO-MET）\nhttps://t.co/04evpjiI6A https://t.co/DoDXShRwUN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 64,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 290
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "玩乐、性爱与嗑药。提问箱https://t.co/8eHnljlDL5\n个人频道https://t.co/mGkj2AA7yO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 35,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 12,
+                "url": "https://t.co/8eHnljlDL5"
+              },
+              {
+                "display_url": "t.me/Guisland",
+                "end": 63,
+                "expanded_url": "http://t.me/Guisland",
+                "start": 40,
+                "url": "https://t.co/mGkj2AA7yO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/g7Qcxnn3Rl"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "Meng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939203974260768768/sFFZD2jj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 866,
+          "like_count": 23330,
+          "listed_count": 2,
+          "media_count": 344,
+          "tweet_count": 2764
+        },
+        "url": "https://t.co/g7Qcxnn3Rl",
+        "username": "yumeng0721",
+        "verified": false
+      }
+    ]
+  }
+}

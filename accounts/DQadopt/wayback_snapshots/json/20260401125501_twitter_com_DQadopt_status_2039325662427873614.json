@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2039310247387701416",
+    "created_at": "2026-04-01T12:55:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T13:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039325662427873614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683159092800659458",
+          "start": 0,
+          "username": "shshjyhl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039325662427873614",
+    "in_reply_to_user_id": "1683159092800659458",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039324210548674883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shshjyhl 我看到了。。。好想死啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2039310247387701416",
+        "created_at": "2026-04-01T12:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T13:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039325662427873614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683159092800659458",
+              "start": 0,
+              "username": "shshjyhl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039325662427873614",
+        "in_reply_to_user_id": "1683159092800659458",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039324210548674883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shshjyhl 我看到了。。。好想死啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683159092800659458",
+        "conversation_id": "2039310247387701416",
+        "created_at": "2026-04-01T12:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T13:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039324210548674883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039324210548674883",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039310247387701416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 作者的新作是bg。。我天崩地裂💔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 268,
+          "like_count": 2358,
+          "listed_count": 0,
+          "media_count": 289,
+          "tweet_count": 2674
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T16:56:23.000Z",
+        "description": "les🌈正在调整各种事物接收程度中/有时候很能吵到别人眼睛，大部分时候不爱说话/看不起女人的男的自觉取关",
+        "id": "1683159092800659458",
+        "location": "一直在路上",
+        "name": "上火慎喝金银花露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911426222929616896/JDA-kX93_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10852,
+          "following_count": 1181,
+          "like_count": 2732,
+          "listed_count": 27,
+          "media_count": 143,
+          "tweet_count": 715
+        },
+        "username": "shshjyhl",
+        "verified": false
+      }
+    ]
+  }
+}

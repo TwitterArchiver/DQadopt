@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2035754259254583789",
+    "created_at": "2026-03-22T16:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T17:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035754259254583789"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035754259254583789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我怎么可能和你睡一间房间，我怎么可能睡的着，虽不会对你做什么，但我会构思千百种和你同床交媾的情形，真的特别想看你那张纯情的脸是怎么一点一点沾上情欲的，想把我的全部都一点一点慢慢填进去让你好好感受一下\n我可不像你那样纯情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2035754259254583789",
+        "created_at": "2026-03-22T16:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T17:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035754259254583789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035754259254583789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怎么可能和你睡一间房间，我怎么可能睡的着，虽不会对你做什么，但我会构思千百种和你同床交媾的情形，真的特别想看你那张纯情的脸是怎么一点一点沾上情欲的，想把我的全部都一点一点慢慢填进去让你好好感受一下\n我可不像你那样纯情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 257,
+          "like_count": 2018,
+          "listed_count": 0,
+          "media_count": 264,
+          "tweet_count": 2404
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

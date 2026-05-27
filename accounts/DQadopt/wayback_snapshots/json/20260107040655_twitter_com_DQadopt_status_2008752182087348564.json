@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2008609925178814681",
+    "created_at": "2026-01-07T04:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T05:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008752182087348564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1707540541208977408",
+          "start": 0,
+          "username": "qaxwsl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008752182087348564",
+    "in_reply_to_user_id": "1707540541208977408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008609925178814681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qaxwsl 是关于对方的不好的片段吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2008609925178814681",
+        "created_at": "2026-01-07T04:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T05:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008752182087348564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1707540541208977408",
+              "start": 0,
+              "username": "qaxwsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008752182087348564",
+        "in_reply_to_user_id": "1707540541208977408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008609925178814681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qaxwsl 是关于对方的不好的片段吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707540541208977408",
+        "conversation_id": "2008609925178814681",
+        "created_at": "2026-01-06T18:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T19:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008609925178814681"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "les"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "女同"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "女同性恋"
+            },
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "wlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008609925178814681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 243,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问个问题\n一想到性爱就开始回闪某些过去的片段 然后开始反胃是什么情况😮‍💨\n#les #女同 #女同性恋 #wlw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我重生了，这一次我要夺回属于我的一切丨le🌈1丨喜欢和可爱漂亮的女生互动🥰🥰🥰丨有喜欢的人不色色丨自伤化学原料滥用碎碎念集中地",
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 31,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 11
+        },
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-28T23:39:31.000Z",
+        "description": "0.9？Switch 偏dom\n天蝎INTP/J，蹲py😉",
+        "id": "1707540541208977408",
+        "name": "ipynb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707540670640959488/Tf6G3_fc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 15,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "username": "qaxwsl",
+        "verified": false
+      }
+    ]
+  }
+}

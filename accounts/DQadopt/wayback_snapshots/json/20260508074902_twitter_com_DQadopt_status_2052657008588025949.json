@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2052657008588025949",
+    "created_at": "2026-05-08T07:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T08:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052657008588025949"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052657008588025949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实想当一个人的狗很好理解啊，小鸟说我希望我和你是平等的，但有主人与狗这一层关系性在就觉得很安心，叠加了一层联结，狗的使命就是效忠与侍奉主人，我喜欢这个定义，可能在她眼里这是一种自嬷，我只是想被关注地多一点，再紧密一点，好遗憾，小鸟上次给我选项圈也没有下文了，她说她没有这个喜好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2052657008588025949",
+        "created_at": "2026-05-08T07:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052657008588025949"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052657008588025949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实想当一个人的狗很好理解啊，小鸟说我希望我和你是平等的，但有主人与狗这一层关系性在就觉得很安心，叠加了一层联结，狗的使命就是效忠与侍奉主人，我喜欢这个定义，可能在她眼里这是一种自嬷，我只是想被关注地多一点，再紧密一点，好遗憾，小鸟上次给我选项圈也没有下文了，她说她没有这个喜好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2267,
+          "following_count": 343,
+          "like_count": 3366,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 3951
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

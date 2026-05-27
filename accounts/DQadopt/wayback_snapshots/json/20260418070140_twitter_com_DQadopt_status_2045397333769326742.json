@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2045395225762533634",
+    "created_at": "2026-04-18T07:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T08:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045397333769326742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1817803292875083776",
+          "start": 0,
+          "username": "utlramanzero"
+        },
+        {
+          "end": 29,
+          "id": "1748064252521545731",
+          "start": 14,
+          "username": "mihuanhuanhuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045397333769326742",
+    "in_reply_to_user_id": "1817803292875083776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045396705303286020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@utlramanzero @mihuanhuanhuan 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2045395225762533634",
+        "created_at": "2026-04-18T07:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T08:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045397333769326742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1817803292875083776",
+              "start": 0,
+              "username": "utlramanzero"
+            },
+            {
+              "end": 29,
+              "id": "1748064252521545731",
+              "start": 14,
+              "username": "mihuanhuanhuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045397333769326742",
+        "in_reply_to_user_id": "1817803292875083776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045396705303286020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@utlramanzero @mihuanhuanhuan 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817803292875083776",
+        "conversation_id": "2045395225762533634",
+        "created_at": "2026-04-18T06:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045396705303286020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            },
+            {
+              "end": 24,
+              "id": "1748064252521545731",
+              "start": 9,
+              "username": "mihuanhuanhuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045396705303286020",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045395225762533634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt @mihuanhuanhuan ……先别说怎么看出来的，这形容能力是有点东西的……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1965,
+          "following_count": 315,
+          "like_count": 2940,
+          "listed_count": 0,
+          "media_count": 333,
+          "tweet_count": 3493
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T06:04:20.000Z",
+        "description": "90顺直男老登/肥宅丑比/焦虑型话唠/四处嘴贱评论抖机灵/不发文，查成分的看推文没用得看回复",
+        "id": "1817803292875083776",
+        "name": "Mr.North",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869266250876243968/LLy6ZOXc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 137,
+          "like_count": 7211,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 3133
+        },
+        "username": "utlramanzero",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T19:26:25.000Z",
+        "description": "intp紫色章鱼（叫我章鱼），mtx\n主业达人拍剪，常驻杭州的阴湿长发男m，\n懂点商业和心理学和哲学，希望能帮助你（\n欢迎xnn和4i爸比来踩我，目前在化茧\n永远的姐姐：@liki24003   可爱鱼鱼：@siuuuuneo\n\np站https://t.co/BCEf9rY5o6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "liki24003"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "username": "siuuuuneo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/103103881",
+                "end": 140,
+                "expanded_url": "https://www.pixiv.net/users/103103881",
+                "start": 117,
+                "url": "https://t.co/BCEf9rY5o6"
+              }
+            ]
+          }
+        },
+        "id": "1748064252521545731",
+        "location": "杭州",
+        "name": "变质牛乳🍥",
+        "pinned_tweet_id": "1989603644577386680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756361529560064000/cWcrXvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 471,
+          "like_count": 2701,
+          "listed_count": 1,
+          "media_count": 364,
+          "tweet_count": 2854
+        },
+        "username": "mihuanhuanhuan",
+        "verified": true
+      }
+    ]
+  }
+}

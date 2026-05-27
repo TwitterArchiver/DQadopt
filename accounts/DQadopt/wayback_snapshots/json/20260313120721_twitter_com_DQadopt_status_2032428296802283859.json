@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032428285200936960",
+        "3_2032428285192511488"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2032428296802283859",
+    "created_at": "2026-03-13T12:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T13:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032428296802283859"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/V4TStRkdIa",
+          "end": 159,
+          "expanded_url": "https://x.com/DQadopt/status/2032428296802283859/photo/1",
+          "media_key": "3_2032428285200936960",
+          "start": 136,
+          "url": "https://t.co/V4TStRkdIa"
+        },
+        {
+          "display_url": "pic.x.com/V4TStRkdIa",
+          "end": 159,
+          "expanded_url": "https://x.com/DQadopt/status/2032428296802283859/photo/1",
+          "media_key": "3_2032428285192511488",
+          "start": 136,
+          "url": "https://t.co/V4TStRkdIa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032428296802283859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "割完下意识把刀片拿四五张纸巾裹好放垃圾桶里面，继而反应过来这样的我是在担忧共情人类，恶心地我一直打干呕，因为我一直有这些莫须有的情感所以我的生活一直痛苦，徒增累赘，只要有一天我没有情感不再为那些生命中死去的人痛苦，我就可以和小鸟活下去了\n真他妈恶心啊，恶心地我又割了几刀 https://t.co/V4TStRkdIa"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2032428296802283859].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2032428296802283859",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2032428296802283859"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032428285200936960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDSiwdLbsAAIKXw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032428285192511488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDSiwdJbIAAmBKN.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1177,
+          "following_count": 236,
+          "like_count": 1533,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 1847
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

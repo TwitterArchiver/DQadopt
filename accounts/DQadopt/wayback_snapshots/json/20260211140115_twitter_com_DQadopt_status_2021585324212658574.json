@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2016501204420002211",
+    "created_at": "2026-02-11T14:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T15:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021585324212658574"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "那也很漂亮",
+          "probability": 0.2005,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362456318372675592",
+          "start": 0,
+          "username": "gimmeallluv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021585324212658574",
+    "in_reply_to_user_id": "1362456318372675592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021584590318510394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gimmeallluv 那也很漂亮！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2016501204420002211",
+        "created_at": "2026-02-11T14:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T15:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021585324212658574"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "那也很漂亮",
+              "probability": 0.2005,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362456318372675592",
+              "start": 0,
+              "username": "gimmeallluv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021585324212658574",
+        "in_reply_to_user_id": "1362456318372675592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021584590318510394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gimmeallluv 那也很漂亮！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1362456318372675592",
+        "conversation_id": "2016501204420002211",
+        "created_at": "2026-02-11T13:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T14:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021584590318510394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021584590318510394",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021558872620908792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 紋身是貼的啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 86,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 471
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-18T17:38:04.000Z",
+        "description": "Les🌈 ｜p/0/m｜有switch傾向的sub｜喜歡錢｜該號主具有較強烈的自毀傾向｜男人別關注我速速退散。",
+        "id": "1362456318372675592",
+        "name": "這種時候該叫媽媽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017693144146751488/WbpeJ5pU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 29,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 90
+        },
+        "username": "gimmeallluv",
+        "verified": false
+      }
+    ]
+  }
+}

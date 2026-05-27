@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2053481880625000745",
+    "created_at": "2026-05-10T15:31:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T16:31:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053498137118216365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1919258003427196928",
+          "start": 0,
+          "username": "VZSAYpDdYN54930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053498137118216365",
+    "in_reply_to_user_id": "1919258003427196928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053481880625000745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VZSAYpDdYN54930 老师太强了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1003,
+        "media_key": "3_2053481837373386752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9u2e1bcAAbL35.jpg",
+        "width": 1699
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2053481880625000745",
+        "created_at": "2026-05-10T15:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053498137118216365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1919258003427196928",
+              "start": 0,
+              "username": "VZSAYpDdYN54930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053498137118216365",
+        "in_reply_to_user_id": "1919258003427196928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053481880625000745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VZSAYpDdYN54930 老师太强了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053481837373386752"
+          ]
+        },
+        "author_id": "1919258003427196928",
+        "conversation_id": "2053481880625000745",
+        "created_at": "2026-05-10T14:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053481880625000745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dOtHTCnEd2",
+              "end": 122,
+              "expanded_url": "https://x.com/VZSAYpDdYN54930/status/2053481880625000745/photo/1",
+              "media_key": "3_2053481837373386752",
+              "start": 99,
+              "url": "https://t.co/dOtHTCnEd2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053481880625000745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闲鱼淘到的好价数位屏好好用！！\n研究了老半天，很快速的摸了一张草图\n第一次用数位屏，手感好的要升天了…\n原本想画抽烟忧郁男的\n结果诞生了被女人家暴后强颜欢笑的鱿鱼男子一枚…\n宝贝笑一个，不笑打屎你 https://t.co/dOtHTCnEd2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2269,
+          "following_count": 339,
+          "like_count": 3378,
+          "listed_count": 1,
+          "media_count": 364,
+          "tweet_count": 3985
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T05:09:35.000Z",
+        "description": "🍎🍎🍎",
+        "id": "1919258003427196928",
+        "name": "我是苹果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015864592711483393/prcOA6fd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 19,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 292
+        },
+        "username": "VZSAYpDdYN54930",
+        "verified": false
+      }
+    ]
+  }
+}

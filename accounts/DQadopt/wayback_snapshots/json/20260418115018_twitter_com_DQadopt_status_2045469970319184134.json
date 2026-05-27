@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2045178805220983117",
+    "created_at": "2026-04-18T11:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T12:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045469970319184134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2030250921402535938",
+          "start": 0,
+          "username": "Yepwithyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045469970319184134",
+    "in_reply_to_user_id": "2030250921402535938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045469478960628190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yepwithyou 好的谢谢老师！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2045178805220983117",
+        "created_at": "2026-04-18T11:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T12:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045469970319184134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2030250921402535938",
+              "start": 0,
+              "username": "Yepwithyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045469970319184134",
+        "in_reply_to_user_id": "2030250921402535938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045469478960628190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yepwithyou 好的谢谢老师！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030250921402535938",
+        "conversation_id": "2045178805220983117",
+        "created_at": "2026-04-18T11:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T12:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045469478960628190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045469478960628190",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045178805220983117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 带上酒精喷雾和湿巾，到处消消毒，尤其是马桶圈，准备好洗漱用品和身体乳，看看空调好不好用，如果定了早餐要好好和前台问清楚时间地点和如何使用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1968,
+          "following_count": 320,
+          "like_count": 2958,
+          "listed_count": 0,
+          "media_count": 334,
+          "tweet_count": 3510
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T11:56:02.000Z",
+        "description": "心里总是下小雨",
+        "id": "2030250921402535938",
+        "location": "always by your side",
+        "name": "椰",
+        "pinned_tweet_id": "2040201177053233387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031992162141999104/aGlsuHS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 65,
+          "like_count": 1930,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 285
+        },
+        "username": "Yepwithyou",
+        "verified": false
+      }
+    ]
+  }
+}

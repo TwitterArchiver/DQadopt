@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2031701462183735345",
+    "created_at": "2026-03-12T01:32:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T02:32:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031906063394742570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1919258003427196928",
+          "start": 0,
+          "username": "VZSAYpDdYN54930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031906063394742570",
+    "in_reply_to_user_id": "1919258003427196928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031905469674242104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VZSAYpDdYN54930 没有不舒服，相反我喜欢别人对我抛出疑问，这让我有了更多反思自己的途径，我不想只在一个观点，不如说是视角，里面当井底之蛙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2031701462183735345",
+        "created_at": "2026-03-12T01:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T02:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031906063394742570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1919258003427196928",
+              "start": 0,
+              "username": "VZSAYpDdYN54930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031906063394742570",
+        "in_reply_to_user_id": "1919258003427196928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031905469674242104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VZSAYpDdYN54930 没有不舒服，相反我喜欢别人对我抛出疑问，这让我有了更多反思自己的途径，我不想只在一个观点，不如说是视角，里面当井底之蛙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919258003427196928",
+        "conversation_id": "2031701462183735345",
+        "created_at": "2026-03-12T01:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T02:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031905469674242104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031905469674242104",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031899627864367563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 让你不舒服了吗？对不起＞人＜，我只是有这样的疑惑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 230,
+          "like_count": 1410,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 1701
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T05:09:35.000Z",
+        "description": "",
+        "id": "1919258003427196928",
+        "name": "我是苹果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015864592711483393/prcOA6fd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 20,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "username": "VZSAYpDdYN54930",
+        "verified": false
+      }
+    ]
+  }
+}

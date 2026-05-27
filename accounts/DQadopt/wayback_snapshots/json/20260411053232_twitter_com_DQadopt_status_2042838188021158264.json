@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2042501140210991366",
+    "created_at": "2026-04-11T05:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042838188021158264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1756750804546101248",
+          "start": 0,
+          "username": "Yuuuuuuu_7ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042838188021158264",
+    "in_reply_to_user_id": "1756750804546101248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042833461900382470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuuuuuuu_7ovo 肥美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2042501140210991366",
+        "created_at": "2026-04-11T05:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042838188021158264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1756750804546101248",
+              "start": 0,
+              "username": "Yuuuuuuu_7ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042838188021158264",
+        "in_reply_to_user_id": "1756750804546101248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042833461900382470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuuuuuuu_7ovo 肥美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756750804546101248",
+        "conversation_id": "2042501140210991366",
+        "created_at": "2026-04-11T05:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042833461900382470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042833461900382470",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042501140210991366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 好肥美。拍拍咪的屁股"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1847,
+          "following_count": 315,
+          "like_count": 2795,
+          "listed_count": 0,
+          "media_count": 318,
+          "tweet_count": 3181
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-11T18:43:35.000Z",
+        "description": "les/0.5/废话多 喜欢小动物。\n随机发点画 当日记和碎碎念。\n坚持淫追！\n欢迎女生来私信",
+        "id": "1756750804546101248",
+        "location": "0.11km",
+        "name": "Unico",
+        "pinned_tweet_id": "1960783830652215331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036836909939556352/Y6dQOWel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 890,
+          "like_count": 7451,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 684
+        },
+        "username": "Yuuuuuuu_7ovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034236143907311617",
+        "3_2034236143903064064",
+        "3_2034236143877967872",
+        "3_2034236143882088448"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2034236158256017507",
+    "created_at": "2026-03-18T11:51:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T12:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034236158256017507"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S7ar4mK1My",
+          "end": 102,
+          "expanded_url": "https://x.com/DQadopt/status/2034236158256017507/photo/1",
+          "media_key": "3_2034236143907311617",
+          "start": 79,
+          "url": "https://t.co/S7ar4mK1My"
+        },
+        {
+          "display_url": "pic.x.com/S7ar4mK1My",
+          "end": 102,
+          "expanded_url": "https://x.com/DQadopt/status/2034236158256017507/photo/1",
+          "media_key": "3_2034236143903064064",
+          "start": 79,
+          "url": "https://t.co/S7ar4mK1My"
+        },
+        {
+          "display_url": "pic.x.com/S7ar4mK1My",
+          "end": 102,
+          "expanded_url": "https://x.com/DQadopt/status/2034236158256017507/photo/1",
+          "media_key": "3_2034236143877967872",
+          "start": 79,
+          "url": "https://t.co/S7ar4mK1My"
+        },
+        {
+          "display_url": "pic.x.com/S7ar4mK1My",
+          "end": 102,
+          "expanded_url": "https://x.com/DQadopt/status/2034236158256017507/photo/1",
+          "media_key": "3_2034236143882088448",
+          "start": 79,
+          "url": "https://t.co/S7ar4mK1My"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034236158256017507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "2018到2026大概捐了10万左右没细算\n也不会再比每年3万更高了，没必要\n我只是完成姐姐的遗愿而已\n我和温柔善良这两个词沾不上边\n回答了8个提问，感谢！ https://t.co/S7ar4mK1My"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2034236143907311617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDsO_rrbEAEF9Na.jpg",
+        "width": 946
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2034236143903064064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDsO_rqaQAAtTLs.jpg",
+        "width": 946
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2034236143877967872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDsO_rkbUAA1QeG.jpg",
+        "width": 946
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2034236143882088448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDsO_rlaMAAeacE.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034236143907311617",
+            "3_2034236143903064064",
+            "3_2034236143877967872",
+            "3_2034236143882088448"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034236158256017507",
+        "created_at": "2026-03-18T11:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T12:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034236158256017507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S7ar4mK1My",
+              "end": 102,
+              "expanded_url": "https://x.com/DQadopt/status/2034236158256017507/photo/1",
+              "media_key": "3_2034236143907311617",
+              "start": 79,
+              "url": "https://t.co/S7ar4mK1My"
+            },
+            {
+              "display_url": "pic.x.com/S7ar4mK1My",
+              "end": 102,
+              "expanded_url": "https://x.com/DQadopt/status/2034236158256017507/photo/1",
+              "media_key": "3_2034236143903064064",
+              "start": 79,
+              "url": "https://t.co/S7ar4mK1My"
+            },
+            {
+              "display_url": "pic.x.com/S7ar4mK1My",
+              "end": 102,
+              "expanded_url": "https://x.com/DQadopt/status/2034236158256017507/photo/1",
+              "media_key": "3_2034236143877967872",
+              "start": 79,
+              "url": "https://t.co/S7ar4mK1My"
+            },
+            {
+              "display_url": "pic.x.com/S7ar4mK1My",
+              "end": 102,
+              "expanded_url": "https://x.com/DQadopt/status/2034236158256017507/photo/1",
+              "media_key": "3_2034236143882088448",
+              "start": 79,
+              "url": "https://t.co/S7ar4mK1My"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034236158256017507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2018到2026大概捐了10万左右没细算\n也不会再比每年3万更高了，没必要\n我只是完成姐姐的遗愿而已\n我和温柔善良这两个词沾不上边\n回答了8个提问，感谢！ https://t.co/S7ar4mK1My"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 248,
+          "like_count": 1830,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 2179
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

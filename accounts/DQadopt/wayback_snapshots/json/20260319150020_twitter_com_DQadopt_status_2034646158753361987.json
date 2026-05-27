@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034646146501713921",
+        "3_2034646146505940992",
+        "3_2034646146518601728",
+        "3_2034646146505920513"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2034646158753361987",
+    "created_at": "2026-03-19T15:00:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T16:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034646158753361987"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qcdwEL6bjO",
+          "end": 122,
+          "expanded_url": "https://x.com/DQadopt/status/2034646158753361987/photo/1",
+          "media_key": "3_2034646146501713921",
+          "start": 99,
+          "url": "https://t.co/qcdwEL6bjO"
+        },
+        {
+          "display_url": "pic.x.com/qcdwEL6bjO",
+          "end": 122,
+          "expanded_url": "https://x.com/DQadopt/status/2034646158753361987/photo/1",
+          "media_key": "3_2034646146505940992",
+          "start": 99,
+          "url": "https://t.co/qcdwEL6bjO"
+        },
+        {
+          "display_url": "pic.x.com/qcdwEL6bjO",
+          "end": 122,
+          "expanded_url": "https://x.com/DQadopt/status/2034646158753361987/photo/1",
+          "media_key": "3_2034646146518601728",
+          "start": 99,
+          "url": "https://t.co/qcdwEL6bjO"
+        },
+        {
+          "display_url": "pic.x.com/qcdwEL6bjO",
+          "end": 122,
+          "expanded_url": "https://x.com/DQadopt/status/2034646158753361987/photo/1",
+          "media_key": "3_2034646146505920513",
+          "start": 99,
+          "url": "https://t.co/qcdwEL6bjO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034646158753361987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哈哈哈哈哈我燃尽了第二次365天挑战成功，50一年会员美滋滋😋😋😋\n第四张是希望自己能不能不要半途而废了…..翻了几千本书最后只看完了500本不到，每次看不懂我就扔了下一本，呃\n2026再接再厉！ https://t.co/qcdwEL6bjO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1946,
+        "media_key": "3_2034646146501713921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDyD4-XaIAEJjau.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1878,
+        "media_key": "3_2034646146505940992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDyD4-YaoAAkv7e.jpg",
+        "width": 1125
+      },
+      {
+        "height": 1925,
+        "media_key": "3_2034646146518601728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDyD4-bb0AA2MGe.jpg",
+        "width": 1125
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2034646146505920513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDyD4-YaUAE-1Ea.jpg",
+        "width": 1196
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034646146501713921",
+            "3_2034646146505940992",
+            "3_2034646146518601728",
+            "3_2034646146505920513"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2034646158753361987",
+        "created_at": "2026-03-19T15:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T16:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034646158753361987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qcdwEL6bjO",
+              "end": 122,
+              "expanded_url": "https://x.com/DQadopt/status/2034646158753361987/photo/1",
+              "media_key": "3_2034646146501713921",
+              "start": 99,
+              "url": "https://t.co/qcdwEL6bjO"
+            },
+            {
+              "display_url": "pic.x.com/qcdwEL6bjO",
+              "end": 122,
+              "expanded_url": "https://x.com/DQadopt/status/2034646158753361987/photo/1",
+              "media_key": "3_2034646146505940992",
+              "start": 99,
+              "url": "https://t.co/qcdwEL6bjO"
+            },
+            {
+              "display_url": "pic.x.com/qcdwEL6bjO",
+              "end": 122,
+              "expanded_url": "https://x.com/DQadopt/status/2034646158753361987/photo/1",
+              "media_key": "3_2034646146518601728",
+              "start": 99,
+              "url": "https://t.co/qcdwEL6bjO"
+            },
+            {
+              "display_url": "pic.x.com/qcdwEL6bjO",
+              "end": 122,
+              "expanded_url": "https://x.com/DQadopt/status/2034646158753361987/photo/1",
+              "media_key": "3_2034646146505920513",
+              "start": 99,
+              "url": "https://t.co/qcdwEL6bjO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034646158753361987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈哈我燃尽了第二次365天挑战成功，50一年会员美滋滋😋😋😋\n第四张是希望自己能不能不要半途而废了…..翻了几千本书最后只看完了500本不到，每次看不懂我就扔了下一本，呃\n2026再接再厉！ https://t.co/qcdwEL6bjO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 250,
+          "like_count": 1881,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 2230
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

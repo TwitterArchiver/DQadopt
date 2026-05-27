@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2022604935008023011",
+    "created_at": "2026-02-14T09:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T10:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022604935008023011"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022604935008023011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "心选姐把我当朋友，我却对她想入非非，好罪恶，对她有很多不切实际的性幻想，太羞耻了我都不想发推文说出来，感觉自己好糟糕好阴暗可我一天比一天还要喜欢她，五年前对她表白了被拒绝了，第二次喜欢上她是不一样的感觉，没有任何目的的想陪在她身边，但还是控制不住幻想我没救了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2022604935008023011",
+        "created_at": "2026-02-14T09:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T10:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022604935008023011"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022604935008023011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心选姐把我当朋友，我却对她想入非非，好罪恶，对她有很多不切实际的性幻想，太羞耻了我都不想发推文说出来，感觉自己好糟糕好阴暗可我一天比一天还要喜欢她，五年前对她表白了被拒绝了，第二次喜欢上她是不一样的感觉，没有任何目的的想陪在她身边，但还是控制不住幻想我没救了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 88,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 567
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

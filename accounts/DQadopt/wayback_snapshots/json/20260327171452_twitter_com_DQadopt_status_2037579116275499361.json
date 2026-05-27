@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2037539945200722379",
+    "created_at": "2026-03-27T17:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T18:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037579116275499361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1848868282042093568",
+          "start": 0,
+          "username": "yuriharusuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037579116275499361",
+    "in_reply_to_user_id": "1848868282042093568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037547178990977140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuriharusuki 谢谢老师"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2037547178990977140].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2037547178990977140",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2037547178990977140"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2037539945200722379",
+        "created_at": "2026-03-27T17:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T18:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037579116275499361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1848868282042093568",
+              "start": 0,
+              "username": "yuriharusuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037579116275499361",
+        "in_reply_to_user_id": "1848868282042093568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037547178990977140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuriharusuki 谢谢老师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是明恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1493,
+          "following_count": 264,
+          "like_count": 2251,
+          "listed_count": 0,
+          "media_count": 279,
+          "tweet_count": 2513
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-22T23:25:36.000Z",
+        "description": "",
+        "id": "1848868282042093568",
+        "name": "L",
+        "pinned_tweet_id": "2004505108042989572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026276462983311360/6Y79fSS9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 9059,
+          "following_count": 186,
+          "like_count": 1161,
+          "listed_count": 38,
+          "media_count": 43,
+          "tweet_count": 1613
+        },
+        "username": "yuriharusuki",
+        "verified": false
+      }
+    ]
+  }
+}

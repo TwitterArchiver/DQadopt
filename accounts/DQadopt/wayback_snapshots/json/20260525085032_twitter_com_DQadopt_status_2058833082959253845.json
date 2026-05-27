@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2058787418313220109",
+    "created_at": "2026-05-25T08:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T09:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058833082959253845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1858392178739068928",
+          "start": 0,
+          "username": "Ao8Kj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058833082959253845",
+    "in_reply_to_user_id": "1858392178739068928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058787418313220109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ao8Kj 我并不知道他经历了什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2058787406263037952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJIPPJbMAA89cR.jpg",
+        "width": 472
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2058787406250418176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJIPPGaoAApKj8.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2058787418313220109",
+        "created_at": "2026-05-25T08:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058833082959253845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1858392178739068928",
+              "start": 0,
+              "username": "Ao8Kj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058833082959253845",
+        "in_reply_to_user_id": "1858392178739068928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058787418313220109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ao8Kj 我并不知道他经历了什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058787406263037952",
+            "3_2058787406250418176"
+          ]
+        },
+        "author_id": "1858392178739068928",
+        "conversation_id": "2058787418313220109",
+        "created_at": "2026-05-25T05:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058787418313220109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eqwVz43Bzz",
+              "end": 28,
+              "expanded_url": "https://x.com/Ao8Kj/status/2058787418313220109/photo/1",
+              "media_key": "3_2058787406263037952",
+              "start": 5,
+              "url": "https://t.co/eqwVz43Bzz"
+            },
+            {
+              "display_url": "pic.x.com/eqwVz43Bzz",
+              "end": 28,
+              "expanded_url": "https://x.com/Ao8Kj/status/2058787418313220109/photo/1",
+              "media_key": "3_2058787406250418176",
+              "start": 5,
+              "url": "https://t.co/eqwVz43Bzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058787418313220109",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 31012,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 95,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "轻松绷住 https://t.co/eqwVz43Bzz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2349,
+          "following_count": 342,
+          "like_count": 3435,
+          "listed_count": 1,
+          "media_count": 370,
+          "tweet_count": 4155
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T06:10:10.000Z",
+        "description": "^_^。🚪 纯绿188/想发啥发啥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkun6661",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kunkun6661",
+                "start": 0,
+                "url": "https://t.co/SkuMOBF49z"
+              }
+            ]
+          }
+        },
+        "id": "1858392178739068928",
+        "name": "困困",
+        "pinned_tweet_id": "1888356593647149334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005403869484900352/wPDtDCaY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16059,
+          "following_count": 75,
+          "like_count": 2318,
+          "listed_count": 60,
+          "media_count": 173,
+          "tweet_count": 1568
+        },
+        "url": "https://t.co/SkuMOBF49z",
+        "username": "Ao8Kj",
+        "verified": false
+      }
+    ]
+  }
+}

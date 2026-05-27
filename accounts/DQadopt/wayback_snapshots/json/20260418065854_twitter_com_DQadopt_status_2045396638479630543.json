@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2045396638479630543",
+    "created_at": "2026-04-18T06:58:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T07:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045396638479630543"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhaxia123/stat…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/zhaxia123/status/2045161604074148108",
+          "start": 80,
+          "url": "https://t.co/FxeSbzVc9p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045396638479630543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045161604074148108",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我自恋一下，是不是我的路人缘太好了哼哼哼😌😌😌这么久了只有上一个说我的爱是表演给别人看的这一个攻击性的提问，还有一个男的要用他的金针菇掰直我的太好笑了没发出来 https://t.co/FxeSbzVc9p"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2045396638479630543",
+        "created_at": "2026-04-18T06:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045396638479630543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhaxia123/stat…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/zhaxia123/status/2045161604074148108",
+              "start": 80,
+              "url": "https://t.co/FxeSbzVc9p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045396638479630543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045161604074148108",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我自恋一下，是不是我的路人缘太好了哼哼哼😌😌😌这么久了只有上一个说我的爱是表演给别人看的这一个攻击性的提问，还有一个男的要用他的金针菇掰直我的太好笑了没发出来 https://t.co/FxeSbzVc9p"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986760052955652096",
+        "conversation_id": "2045066455637762223",
+        "created_at": "2026-04-17T15:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045161604074148108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045161604074148108",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045066455637762223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 我发现你的提问箱从来没有出现过无缘无故骂得很脏的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1965,
+          "following_count": 315,
+          "like_count": 2937,
+          "listed_count": 0,
+          "media_count": 333,
+          "tweet_count": 3490
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T11:38:20.000Z",
+        "description": "不为说过的一切话负责 大部分都是情绪化言论或者自己和自己辩论 别对号入座 我只是一直自言自语在发疯…..",
+        "id": "1986760052955652096",
+        "name": "one",
+        "pinned_tweet_id": "2043622002289000507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034306215086592000/ey2a-d6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 35,
+          "like_count": 3249,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1456
+        },
+        "username": "ZhaXia123",
+        "verified": false
+      }
+    ]
+  }
+}

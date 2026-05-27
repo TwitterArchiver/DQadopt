@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042487127246848002"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2042487138353365143",
+    "created_at": "2026-04-10T06:17:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T07:17:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042487138353365143"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/H2WBUyQZBa",
+          "end": 104,
+          "expanded_url": "https://x.com/DQadopt/status/2042487138353365143/photo/1",
+          "media_key": "3_2042487127246848002",
+          "start": 81,
+          "url": "https://t.co/H2WBUyQZBa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042487138353365143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "用了五分钟写出这段大脑里的话\n庆幸自己还是有一点表达情感的能力\n不过我还是适合写那些屹立不动的、理性的、严谨的文字，写出感性的字词并不能使我进步，所以我喜欢哲学 https://t.co/H2WBUyQZBa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1501,
+        "media_key": "3_2042487127246848002",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhfOH3bQAIxoEz.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042487127246848002"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2042487138353365143",
+        "created_at": "2026-04-10T06:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042487138353365143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H2WBUyQZBa",
+              "end": 104,
+              "expanded_url": "https://x.com/DQadopt/status/2042487138353365143/photo/1",
+              "media_key": "3_2042487127246848002",
+              "start": 81,
+              "url": "https://t.co/H2WBUyQZBa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042487138353365143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用了五分钟写出这段大脑里的话\n庆幸自己还是有一点表达情感的能力\n不过我还是适合写那些屹立不动的、理性的、严谨的文字，写出感性的字词并不能使我进步，所以我喜欢哲学 https://t.co/H2WBUyQZBa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1844,
+          "following_count": 314,
+          "like_count": 2762,
+          "listed_count": 0,
+          "media_count": 317,
+          "tweet_count": 3128
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

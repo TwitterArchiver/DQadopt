@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2044600860421059009",
+    "created_at": "2026-04-16T06:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T07:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044668107118285258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1634041372486557696",
+          "start": 0,
+          "username": "Oldww2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044668107118285258",
+    "in_reply_to_user_id": "1634041372486557696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044665959898923411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oldww2 想说的就是这个意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2044600860421059009",
+        "created_at": "2026-04-16T06:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T07:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044668107118285258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1634041372486557696",
+              "start": 0,
+              "username": "Oldww2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044668107118285258",
+        "in_reply_to_user_id": "1634041372486557696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044665959898923411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oldww2 想说的就是这个意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634041372486557696",
+        "conversation_id": "2044600860421059009",
+        "created_at": "2026-04-16T06:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T07:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044665959898923411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044665959898923411",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044600860421059009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 见过世界之大 就有敬畏之心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1925,
+          "following_count": 316,
+          "like_count": 2901,
+          "listed_count": 0,
+          "media_count": 331,
+          "tweet_count": 3422
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T04:00:08.000Z",
+        "description": "爱女",
+        "id": "1634041372486557696",
+        "name": "OOdlw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033104783842881536/OzRXXY4f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 18,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "username": "Oldww2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T04:00:08.000Z",
+        "description": "爱女",
+        "id": "1634041372486557696",
+        "name": "OOdlw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033104783842881536/OzRXXY4f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 18,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "Oldww2",
+        "verified": false
+      }
+    ]
+  }
+}

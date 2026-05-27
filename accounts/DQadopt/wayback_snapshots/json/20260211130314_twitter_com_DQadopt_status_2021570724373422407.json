@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021570713988243456"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2021570724373422407",
+    "created_at": "2026-02-11T13:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T14:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021570724373422407"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/In88HPxmon",
+          "end": 96,
+          "expanded_url": "https://x.com/DQadopt/status/2021570724373422407/photo/1",
+          "media_key": "3_2021570713988243456",
+          "start": 73,
+          "url": "https://t.co/In88HPxmon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021570724373422407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不行，我很喜欢她\n也许她是这世界上最了解我的人，也许她是世界上最不了解我的人，但无所谓了\n抛开一切不谈，重新接触新的人太累了，我没有那么好的精力 https://t.co/In88HPxmon"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021570713988243456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4P2oeaIAAQED7.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021570713988243456"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2021570724373422407",
+        "created_at": "2026-02-11T13:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T14:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021570724373422407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/In88HPxmon",
+              "end": 96,
+              "expanded_url": "https://x.com/DQadopt/status/2021570724373422407/photo/1",
+              "media_key": "3_2021570713988243456",
+              "start": 73,
+              "url": "https://t.co/In88HPxmon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021570724373422407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不行，我很喜欢她\n也许她是这世界上最了解我的人，也许她是世界上最不了解我的人，但无所谓了\n抛开一切不谈，重新接触新的人太累了，我没有那么好的精力 https://t.co/In88HPxmon"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 86,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 469
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2011435216947343598",
+    "created_at": "2026-01-16T16:31:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T17:31:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012201051605151783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1594398329797890048",
+          "start": 0,
+          "username": "waiting_Rayna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012201051605151783",
+    "in_reply_to_user_id": "1594398329797890048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011435216947343598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@waiting_Rayna 我回不了你私信！谢谢你夸我的小猫！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2011435216947343598",
+        "created_at": "2026-01-16T16:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T17:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012201051605151783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1594398329797890048",
+              "start": 0,
+              "username": "waiting_Rayna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012201051605151783",
+        "in_reply_to_user_id": "1594398329797890048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011435216947343598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@waiting_Rayna 我回不了你私信！谢谢你夸我的小猫！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594398329797890048",
+        "conversation_id": "2011435216947343598",
+        "created_at": "2026-01-14T13:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T14:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011435216947343598"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011435216947343598",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一米七以下开除女同籍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我重生了，这一次我要夺回属于我的一切丨23le🌈1丨喜欢和可爱漂亮的女生互动🥰🥰🥰丨有喜欢的人不色色丨自伤碎碎念集中地",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8euxG"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 50,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 122
+        },
+        "url": "https://t.co/nFHbt8euxG",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T18:32:51.000Z",
+        "description": "",
+        "id": "1594398329797890048",
+        "location": "你的祖国老拆那",
+        "name": "别总听情歌",
+        "pinned_tweet_id": "1771050259268989147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666915582250188803/mFp48fX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 275,
+          "like_count": 19219,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 617
+        },
+        "username": "waiting_Rayna",
+        "verified": false
+      }
+    ]
+  }
+}

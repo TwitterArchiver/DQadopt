@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2039310247387701416",
+    "created_at": "2026-04-01T11:53:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T12:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039310247387701416"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rangrarii/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/rangrarii/status/2039277187086667980",
+          "start": 2,
+          "url": "https://t.co/WC1NxUpQap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039310247387701416",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039277187086667980",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🥰 https://t.co/WC1NxUpQap"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039277178500857856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEz3yg8awAAvEu5.jpg",
+        "width": 1444
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039277178492469248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEz3yg6awAAw8kN.jpg",
+        "width": 1444
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039277178467356672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEz3yg0bkAAOKj8.jpg",
+        "width": 1430
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039277178475761664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEz3yg2b0AAEOlg.jpg",
+        "width": 1444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2039310247387701416",
+        "created_at": "2026-04-01T11:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T12:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039310247387701416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rangrarii/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/rangrarii/status/2039277187086667980",
+              "start": 2,
+              "url": "https://t.co/WC1NxUpQap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039310247387701416",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039277187086667980",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥰 https://t.co/WC1NxUpQap"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039277178500857856",
+            "3_2039277178492469248",
+            "3_2039277178467356672",
+            "3_2039277178475761664"
+          ]
+        },
+        "author_id": "1533117892891639808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039277187086667980",
+        "created_at": "2026-04-01T09:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T10:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039277187086667980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hbj9YZhoPN",
+              "end": 104,
+              "expanded_url": "https://x.com/rangrarii/status/2039277187086667980/photo/1",
+              "media_key": "3_2039277178500857856",
+              "start": 81,
+              "url": "https://t.co/Hbj9YZhoPN"
+            },
+            {
+              "display_url": "pic.x.com/Hbj9YZhoPN",
+              "end": 104,
+              "expanded_url": "https://x.com/rangrarii/status/2039277187086667980/photo/1",
+              "media_key": "3_2039277178492469248",
+              "start": 81,
+              "url": "https://t.co/Hbj9YZhoPN"
+            },
+            {
+              "display_url": "pic.x.com/Hbj9YZhoPN",
+              "end": 104,
+              "expanded_url": "https://x.com/rangrarii/status/2039277187086667980/photo/1",
+              "media_key": "3_2039277178467356672",
+              "start": 81,
+              "url": "https://t.co/Hbj9YZhoPN"
+            },
+            {
+              "display_url": "pic.x.com/Hbj9YZhoPN",
+              "end": 104,
+              "expanded_url": "https://x.com/rangrarii/status/2039277187086667980/photo/1",
+              "media_key": "3_2039277178475761664",
+              "start": 81,
+              "url": "https://t.co/Hbj9YZhoPN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039277187086667980",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1102,
+          "impression_count": 118570,
+          "like_count": 7460,
+          "quote_count": 130,
+          "reply_count": 9,
+          "retweet_count": 988
+        },
+        "reply_settings": "everyone",
+        "text": "배드띵킹 다이어리 태국어 단행본 표지작업 했던거 올려용 드뎌 1권부터 6권까지 나왔습니다\n_Lilyhouse \n릴리하우스에서 만나보실수 있습니다 https://t.co/Hbj9YZhoPN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 268,
+          "like_count": 2358,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 2670
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-04T16:06:17.000Z",
+        "description": "리디북스 릴리 오브 더 밸리 / 포스타입 김대리 찾기 / 레진코믹스 배드띵킹 다이어리 / 업무용email: hog9088@naver.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/rangrarii",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/rangrarii",
+                "start": 0,
+                "url": "https://t.co/xgtOSMkuxW"
+              }
+            ]
+          }
+        },
+        "id": "1533117892891639808",
+        "name": "랑라리",
+        "pinned_tweet_id": "2004178251670081578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1533118756675014656/ZbAF1mEw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248296,
+          "following_count": 69,
+          "like_count": 319,
+          "listed_count": 275,
+          "media_count": 180,
+          "tweet_count": 285
+        },
+        "url": "https://t.co/xgtOSMkuxW",
+        "username": "rangrarii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2023331102258348188",
+    "created_at": "2026-02-16T09:43:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T10:43:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023332434570526823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1871178347507834880",
+          "start": 0,
+          "username": "ya003021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023332434570526823",
+    "in_reply_to_user_id": "1871178347507834880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023331102258348188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ya003021 姐姐还有我陪着你ovo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2023331094888894464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBRQ6SXa0AAUSV0.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2023331102258348188",
+        "created_at": "2026-02-16T09:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T10:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023332434570526823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1871178347507834880",
+              "start": 0,
+              "username": "ya003021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023332434570526823",
+        "in_reply_to_user_id": "1871178347507834880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023331102258348188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ya003021 姐姐还有我陪着你ovo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023331094888894464"
+          ]
+        },
+        "author_id": "1871178347507834880",
+        "conversation_id": "2023331102258348188",
+        "created_at": "2026-02-16T09:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T10:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023331102258348188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nvTFtS4kVC",
+              "end": 33,
+              "expanded_url": "https://x.com/ya003021/status/2023331102258348188/photo/1",
+              "media_key": "3_2023331094888894464",
+              "start": 10,
+              "url": "https://t.co/nvTFtS4kVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023331102258348188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又是一个人的除夕咯 https://t.co/nvTFtS4kVC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 89,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 613
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-23T12:57:46.000Z",
+        "description": "一条狗而已.",
+        "id": "1871178347507834880",
+        "name": "huh puppy",
+        "pinned_tweet_id": "2013101114816925954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002822373301723136/yULvFrJH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 8,
+          "like_count": 398,
+          "listed_count": 4,
+          "media_count": 90,
+          "tweet_count": 378
+        },
+        "username": "ya003021",
+        "verified": false
+      }
+    ]
+  }
+}

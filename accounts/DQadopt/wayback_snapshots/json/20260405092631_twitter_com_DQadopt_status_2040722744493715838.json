@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2040711540807246318",
+    "created_at": "2026-04-05T09:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T10:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040722744493715838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2039661088560599040",
+          "start": 0,
+          "username": "anarckiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040722744493715838",
+    "in_reply_to_user_id": "2039661088560599040",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040722492235428317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anarckiii 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2040711540807246318",
+        "created_at": "2026-04-05T09:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T10:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040722744493715838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2039661088560599040",
+              "start": 0,
+              "username": "anarckiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040722744493715838",
+        "in_reply_to_user_id": "2039661088560599040",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040722492235428317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anarckiii 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039661088560599040",
+        "conversation_id": "2040711540807246318",
+        "created_at": "2026-04-05T09:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T10:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040722492235428317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040722492235428317",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040711540807246318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 269,
+          "like_count": 2403,
+          "listed_count": 1,
+          "media_count": 295,
+          "tweet_count": 2808
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T11:08:16.000Z",
+        "description": "꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂\nhe/they\n#shtwt #art #shedtwt\nWe’ll never be what you want us to be. I’m sorry, I just can’t make myself love you\nbi",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 20,
+                "tag": "shtwt"
+              },
+              {
+                "end": 31,
+                "start": 27,
+                "tag": "art"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "shedtwt"
+              }
+            ]
+          }
+        },
+        "id": "2039661088560599040",
+        "location": "hell",
+        "name": "𐕣",
+        "pinned_tweet_id": "2040107467938402534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040696885154045952/0RUXuEoj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 151,
+          "like_count": 1210,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 179
+        },
+        "username": "anarckiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T11:08:16.000Z",
+        "description": "꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂\nhe/they\n#shtwt #art #shedtwt\nWe’ll never be what you want us to be. I’m sorry, I just can’t make myself love you\nbi",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 0,
+                "start": 0,
+                "tag": "shtwt"
+              },
+              {
+                "end": 0,
+                "start": 0,
+                "tag": "art"
+              },
+              {
+                "end": 0,
+                "start": 0,
+                "tag": "shedtwt"
+              }
+            ]
+          }
+        },
+        "id": "2039661088560599040",
+        "location": "hell",
+        "name": "𐕣",
+        "pinned_tweet_id": "2040107467938402534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040696885154045952/0RUXuEoj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 151,
+          "like_count": 1210,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 179
+        },
+        "url": "",
+        "username": "anarckiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2022877771035480148",
+    "created_at": "2026-02-15T09:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T10:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022962500627783711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2004619896630788096",
+          "start": 0,
+          "username": "wohaokun555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022962500627783711",
+    "in_reply_to_user_id": "2004619896630788096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022877771035480148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wohaokun555 我是盲人请问这张图是什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1583,
+        "media_key": "3_2022877762625900548",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBK0m4FakAQL9Rv.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2022877771035480148",
+        "created_at": "2026-02-15T09:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T10:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022962500627783711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004619896630788096",
+              "start": 0,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022962500627783711",
+        "in_reply_to_user_id": "2004619896630788096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022877771035480148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaokun555 我是盲人请问这张图是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022877762625900548"
+          ]
+        },
+        "author_id": "2004619896630788096",
+        "conversation_id": "2022877771035480148",
+        "created_at": "2026-02-15T03:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022877771035480148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6tzQNH18c7",
+              "end": 154,
+              "expanded_url": "https://x.com/wohaokun555/status/2022877771035480148/photo/1",
+              "media_key": "3_2022877762625900548",
+              "start": 131,
+              "url": "https://t.co/6tzQNH18c7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022877771035480148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 18296,
+          "like_count": 329,
+          "quote_count": 8,
+          "reply_count": 38,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "整个法兰西都为他倾倒💥💥💥整个法兰西都为他倾倒💥💥💥整个法兰西都为他倾倒💥💥💥整个法兰西都为他倾倒💥💥💥整个法兰西都为他倾倒💥💥💥整个法兰西都为他倾倒💥💥💥整个法兰西都为他倾倒💥💥💥整个法兰西都为他倾倒💥💥💥整个法兰西都为他倾倒💥💥💥整个法兰西都为他倾倒💥💥💥 https://t.co/6tzQNH18c7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 89,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 592
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（纯绿纯绿（除了口令和门槛别的私信不回",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016792238060421479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021952416095318016/pQtDMsCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 79,
+          "like_count": 7823,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1487
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

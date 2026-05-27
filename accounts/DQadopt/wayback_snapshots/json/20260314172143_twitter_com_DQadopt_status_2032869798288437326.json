@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2032843152915403012",
+    "created_at": "2026-03-14T17:21:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T18:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032869798288437326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1577225155822358528",
+          "start": 0,
+          "username": "Canbuark1001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032869798288437326",
+    "in_reply_to_user_id": "1577225155822358528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032843152915403012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Canbuark1001 范围挺广的！好厉害"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1840,
+        "media_key": "3_2032842156613005312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYbK8VbcAAm5m0.jpg",
+        "width": 2940
+      },
+      {
+        "height": 1840,
+        "media_key": "3_2032842705223733248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYbq4Ea0AAi_J0.jpg",
+        "width": 2940
+      },
+      {
+        "height": 1840,
+        "media_key": "3_2032842912619503616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYb28rbIAA92WJ.jpg",
+        "width": 2940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2032843152915403012",
+        "created_at": "2026-03-14T17:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T18:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032869798288437326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1577225155822358528",
+              "start": 0,
+              "username": "Canbuark1001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032869798288437326",
+        "in_reply_to_user_id": "1577225155822358528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032843152915403012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Canbuark1001 范围挺广的！好厉害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032842156613005312",
+            "3_2032842705223733248",
+            "3_2032842912619503616"
+          ]
+        },
+        "author_id": "1577225155822358528",
+        "conversation_id": "2032843152915403012",
+        "created_at": "2026-03-14T15:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T16:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032843152915403012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C6OU3cWCY3",
+              "end": 75,
+              "expanded_url": "https://x.com/Canbuark1001/status/2032843152915403012/photo/1",
+              "media_key": "3_2032842156613005312",
+              "start": 52,
+              "url": "https://t.co/C6OU3cWCY3"
+            },
+            {
+              "display_url": "pic.x.com/C6OU3cWCY3",
+              "end": 75,
+              "expanded_url": "https://x.com/Canbuark1001/status/2032843152915403012/photo/1",
+              "media_key": "3_2032842705223733248",
+              "start": 52,
+              "url": "https://t.co/C6OU3cWCY3"
+            },
+            {
+              "display_url": "pic.x.com/C6OU3cWCY3",
+              "end": 75,
+              "expanded_url": "https://x.com/Canbuark1001/status/2032843152915403012/photo/1",
+              "media_key": "3_2032842912619503616",
+              "start": 52,
+              "url": "https://t.co/C6OU3cWCY3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032843152915403012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "dirty work end\n\n我的书单咋这难看...好吧去年也很一般，读书其实某种程度也算date了 https://t.co/C6OU3cWCY3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 238,
+          "like_count": 1636,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 1905
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T09:12:42.000Z",
+        "description": "🏳️‍🌈Les 混乱温和派，顺便路过。 半个文艺咖，3/4个百合豚；欢迎私信，看到大概率会回，小概率你太无聊了hhh 无条件喜欢好看的文艺咖；）",
+        "id": "1577225155822358528",
+        "name": "残步",
+        "pinned_tweet_id": "2031314113100656985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929363187058774016/Y1_hMBcx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 22,
+          "like_count": 3897,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 102
+        },
+        "username": "Canbuark1001",
+        "verified": false
+      }
+    ]
+  }
+}

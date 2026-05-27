@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2018933484207865923",
+    "created_at": "2026-02-04T14:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T15:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019048894043480473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1745694430689185792",
+          "start": 0,
+          "username": "hanpi_yowai"
+        },
+        {
+          "end": 21,
+          "id": "1816489710682030080",
+          "start": 13,
+          "username": "keaiiea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019048894043480473",
+    "in_reply_to_user_id": "1745694430689185792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019039546072248522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanpi_yowai @keaiiea 你川哪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2018933484207865923",
+        "created_at": "2026-02-04T14:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T15:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019048894043480473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1745694430689185792",
+              "start": 0,
+              "username": "hanpi_yowai"
+            },
+            {
+              "end": 21,
+              "id": "1816489710682030080",
+              "start": 13,
+              "username": "keaiiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019048894043480473",
+        "in_reply_to_user_id": "1745694430689185792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019039546072248522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanpi_yowai @keaiiea 你川哪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745694430689185792",
+        "conversation_id": "2018933484207865923",
+        "created_at": "2026-02-04T13:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T14:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019039546072248522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            },
+            {
+              "end": 17,
+              "id": "1816489710682030080",
+              "start": 9,
+              "username": "keaiiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019039546072248522",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019013007041564890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt @keaiiea 埋包吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 64,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 297
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T06:29:26.000Z",
+        "description": "infp/处女座♍ 重焦＋精分    od/ed/switch/运营 \n水色系大好き    二次元死宅精神病\n喜欢一切可爱的东西 日本语初心者\n如果可以的话可以互fo交个朋友TvT",
+        "id": "1745694430689185792",
+        "location": "江苏无锡",
+        "name": "憨批酱ハンピピ",
+        "pinned_tweet_id": "1903424319688262127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864158909390573574/HsQ9Mj3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 221,
+          "like_count": 946,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 554
+        },
+        "username": "hanpi_yowai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T15:04:46.000Z",
+        "description": "我是jonas\n我需要钱",
+        "id": "1816489710682030080",
+        "location": "🚪88  入门槛免费观看手冲视频",
+        "name": "人生有梦磕药撸管886",
+        "pinned_tweet_id": "1983196415313752421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983194484243640320/zM9EhOUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 368,
+          "like_count": 18237,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1406
+        },
+        "username": "keaiiea",
+        "verified": false
+      }
+    ]
+  }
+}

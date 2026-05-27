@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2040305402760532115",
+    "created_at": "2026-04-05T11:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T12:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040751979136475558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1773714073676652544",
+          "start": 0,
+          "username": "9jy6op"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040751979136475558",
+    "in_reply_to_user_id": "1773714073676652544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040750054408110096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@9jy6op 是的啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2040305402760532115",
+        "created_at": "2026-04-05T11:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040751979136475558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1773714073676652544",
+              "start": 0,
+              "username": "9jy6op"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040751979136475558",
+        "in_reply_to_user_id": "1773714073676652544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040750054408110096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@9jy6op 是的啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773714073676652544",
+        "conversation_id": "2040305402760532115",
+        "created_at": "2026-04-05T11:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040750054408110096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040750054408110096",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040305402760532115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@DQadopt 评论区好多外国人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1625,
+          "following_count": 276,
+          "like_count": 2417,
+          "listed_count": 1,
+          "media_count": 295,
+          "tweet_count": 2824
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T14:09:39.000Z",
+        "description": "长发les\np0～0.5\n对不起我抽象是因为我的职业\n奇怪的人我会取消你的关注\nenfp\n发现你的帖子有趣的话会私信追问",
+        "id": "1773714073676652544",
+        "location": "所有事情都是我编的，勿联系现实",
+        "name": "甜美商务猫",
+        "pinned_tweet_id": "2031918534767554833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035885369783406592/ZBJvpGQN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 650,
+          "like_count": 8394,
+          "listed_count": 4,
+          "media_count": 1201,
+          "tweet_count": 24854
+        },
+        "username": "9jy6op",
+        "verified": false
+      }
+    ]
+  }
+}

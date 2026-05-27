@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2029436485859197099",
+    "created_at": "2026-03-05T05:58:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T06:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029436485859197099"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 73,
+          "start": 69,
+          "tag": "les"
+        },
+        {
+          "end": 84,
+          "start": 79,
+          "tag": "女同性恋"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1885755358523846656",
+          "start": 3,
+          "username": "LoneQ_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029436485859197099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029297761271898366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LoneQ_: 为什么我的私信那么多男人，还要给我看鸡，你们是神经病吗？你们欺负一个善良的女同你们良心不痛吗？我甚至标签都没有打 #les 我打的是 #女同性恋 ，你们为什么不认真学习中文，你们简直就是恶魔，就是一根孤独的鸡，我那么和善的一个女孩，为什么要这样 你们疯了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2029436485859197099",
+        "created_at": "2026-03-05T05:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T06:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029436485859197099"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 69,
+              "tag": "les"
+            },
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "女同性恋"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1885755358523846656",
+              "start": 3,
+              "username": "LoneQ_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029436485859197099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029297761271898366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LoneQ_: 为什么我的私信那么多男人，还要给我看鸡，你们是神经病吗？你们欺负一个善良的女同你们良心不痛吗？我甚至标签都没有打 #les 我打的是 #女同性恋 ，你们为什么不认真学习中文，你们简直就是恶魔，就是一根孤独的鸡，我那么和善的一个女孩，为什么要这样 你们疯了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885755358523846656",
+        "conversation_id": "2029297761271898366",
+        "created_at": "2026-03-04T20:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T21:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029297761271898366"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 57,
+              "tag": "les"
+            },
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "女同性恋"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029297761271898366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 710,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我的私信那么多男人，还要给我看鸡，你们是神经病吗？你们欺负一个善良的女同你们良心不痛吗？我甚至标签都没有打 #les 我打的是 #女同性恋 ，你们为什么不认真学习中文，你们简直就是恶魔，就是一根孤独的鸡，我那么和善的一个女孩，为什么要这样 你们疯了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 176,
+          "like_count": 942,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1215
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T18:21:37.000Z",
+        "description": "keep away from me . 匿名讯息：https://t.co/Px2IRuuAa5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lonecholy",
+                "end": 48,
+                "expanded_url": "https://ngl.link/lonecholy",
+                "start": 25,
+                "url": "https://t.co/Px2IRuuAa5"
+              }
+            ]
+          }
+        },
+        "id": "1885755358523846656",
+        "location": "Manchester, England",
+        "name": "Lone-",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979169596578910208/_gFpzZfg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 42,
+          "like_count": 6285,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 232
+        },
+        "username": "LoneQ_",
+        "verified": false
+      }
+    ]
+  }
+}

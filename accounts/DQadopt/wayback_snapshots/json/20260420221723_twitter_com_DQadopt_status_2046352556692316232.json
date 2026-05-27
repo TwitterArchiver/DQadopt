@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046352546571427840"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2046352556692316232",
+    "created_at": "2026-04-20T22:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T23:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046352556692316232"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hvCs98yg9Z",
+          "end": 156,
+          "expanded_url": "https://x.com/DQadopt/status/2046352556692316232/photo/1",
+          "media_key": "3_2046352546571427840",
+          "start": 133,
+          "url": "https://t.co/hvCs98yg9Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046352556692316232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "睡不着，在听Mystery of Love ，小鸟知道了我所有的性幻想，小鸟问我我们都没见过面为什么会幻想我呢，我也不知道，就是太爱了吧，好想占据你，在允许的状况下我会得寸进尺的，你明天看我推特又是什么样的心情呢\n要来要去，最想要的还是你的那颗真心\n夏天来了呢小鸟 https://t.co/hvCs98yg9Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046352546571427840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGYazI-bIAALu83.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046352546571427840"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2046352556692316232",
+        "created_at": "2026-04-20T22:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T23:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046352556692316232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hvCs98yg9Z",
+              "end": 156,
+              "expanded_url": "https://x.com/DQadopt/status/2046352556692316232/photo/1",
+              "media_key": "3_2046352546571427840",
+              "start": 133,
+              "url": "https://t.co/hvCs98yg9Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046352556692316232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡不着，在听Mystery of Love ，小鸟知道了我所有的性幻想，小鸟问我我们都没见过面为什么会幻想我呢，我也不知道，就是太爱了吧，好想占据你，在允许的状况下我会得寸进尺的，你明天看我推特又是什么样的心情呢\n要来要去，最想要的还是你的那颗真心\n夏天来了呢小鸟 https://t.co/hvCs98yg9Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2070,
+          "following_count": 332,
+          "like_count": 3026,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 3627
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

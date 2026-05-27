@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2041691657616420905",
+    "created_at": "2026-04-08T01:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T02:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041691657616420905"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041691657616420905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨晚跟小鸟说我订好一个人住的酒店了，小鸟哼哼唧唧了一下，会不会她也想我和她睡在一个房间？可是那样的话我要对她想入非非啊……睡不着的，没有说分开住就不乱想的意思呃\n我说我也想睡在你旁边的床，小鸟又说我会半夜踢你的，我寻思那么远咋踢到我又不是睡在一起，难道要下床专门踢我一脚吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2041691657616420905",
+        "created_at": "2026-04-08T01:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T02:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041691657616420905"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041691657616420905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚跟小鸟说我订好一个人住的酒店了，小鸟哼哼唧唧了一下，会不会她也想我和她睡在一个房间？可是那样的话我要对她想入非非啊……睡不着的，没有说分开住就不乱想的意思呃\n我说我也想睡在你旁边的床，小鸟又说我会半夜踢你的，我寻思那么远咋踢到我又不是睡在一起，难道要下床专门踢我一脚吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1745,
+          "following_count": 306,
+          "like_count": 2557,
+          "listed_count": 0,
+          "media_count": 302,
+          "tweet_count": 2980
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2042084054955389218",
+    "created_at": "2026-04-09T12:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T13:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042212378323071141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1524866657755492352",
+          "start": 0,
+          "username": "Kumha22ly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042212378323071141",
+    "in_reply_to_user_id": "1524866657755492352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042211963112235051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kumha22ly 我还会拔头发，唉，我会改掉的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2042084054955389218",
+        "created_at": "2026-04-09T12:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042212378323071141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1524866657755492352",
+              "start": 0,
+              "username": "Kumha22ly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042212378323071141",
+        "in_reply_to_user_id": "1524866657755492352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042211963112235051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumha22ly 我还会拔头发，唉，我会改掉的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1524866657755492352",
+        "conversation_id": "2042084054955389218",
+        "created_at": "2026-04-09T12:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042211963112235051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042211963112235051",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042084054955389218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 很好奇为什么要自残 为了内啡肽的话骑摩托车或者打游戏也可以吧 我觉得这个方式并不可取 没想过找点其他的方法吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 312,
+          "like_count": 2716,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 3083
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-12T21:38:50.000Z",
+        "description": "22likesyou",
+        "id": "1524866657755492352",
+        "location": "Hong Kong",
+        "name": "22ly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878865930748596224/_JKmTuxC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 9,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 94
+        },
+        "username": "Kumha22ly",
+        "verified": false
+      }
+    ]
+  }
+}

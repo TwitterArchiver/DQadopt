@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2041107033236423145",
+    "created_at": "2026-04-07T10:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T11:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041458935417503846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1135753978048729088",
+          "start": 0,
+          "username": "Yinmo123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041458935417503846",
+    "in_reply_to_user_id": "1135753978048729088",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041457822647361721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yinmo123 ✌️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2041107033236423145",
+        "created_at": "2026-04-07T10:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041458935417503846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1135753978048729088",
+              "start": 0,
+              "username": "Yinmo123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041458935417503846",
+        "in_reply_to_user_id": "1135753978048729088",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041457822647361721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yinmo123 ✌️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135753978048729088",
+        "conversation_id": "2041107033236423145",
+        "created_at": "2026-04-07T10:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041457822647361721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041457822647361721",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041107033236423145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1745,
+          "following_count": 305,
+          "like_count": 2497,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 2933
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-04T03:43:44.000Z",
+        "description": "吟默/模特 地雷系女子/asd+adhd有精神病帮帮我/🚪150（解锁各项）50仅好友位无PYQ/验证问坐标20 /女孩们来和我互fo来和我玩",
+        "id": "1135753978048729088",
+        "location": "理想乡",
+        "name": "吟而默之",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671408040292106244/bpgDORcm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 170,
+          "like_count": 720,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 214
+        },
+        "username": "Yinmo123",
+        "verified": false
+      }
+    ]
+  }
+}

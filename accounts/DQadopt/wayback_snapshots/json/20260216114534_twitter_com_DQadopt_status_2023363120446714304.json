@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2023363120446714304",
+    "created_at": "2026-02-16T11:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T12:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023363120446714304"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0voki33me/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/0voki33me/status/2015449704012902584",
+          "start": 3,
+          "url": "https://t.co/RyzHCsezgw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023363120446714304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015449704012902584",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦哦 https://t.co/RyzHCsezgw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015449695112589312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_hQ0cPa8AAFoYX.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2023363120446714304",
+        "created_at": "2026-02-16T11:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T12:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023363120446714304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0voki33me/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/0voki33me/status/2015449704012902584",
+              "start": 3,
+              "url": "https://t.co/RyzHCsezgw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023363120446714304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015449704012902584",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦哦 https://t.co/RyzHCsezgw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015449695112589312"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2015449704012902584",
+        "created_at": "2026-01-25T15:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T16:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015449704012902584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OXDWl46Rsw",
+              "end": 40,
+              "expanded_url": "https://x.com/0voki33Me/status/2015449704012902584/photo/1",
+              "media_key": "3_2015449695112589312",
+              "start": 17,
+              "url": "https://t.co/OXDWl46Rsw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015449704012902584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1462,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想活了晶格不要找我我求求你了 https://t.co/OXDWl46Rsw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 89,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 621
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 1075,
+          "like_count": 5127,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 3529
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

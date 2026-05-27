@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2031378741595939154",
+    "created_at": "2026-03-10T17:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T18:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031427467584614796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1332346767950671878",
+          "start": 0,
+          "username": "TelazaiZoro_tt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031427467584614796",
+    "in_reply_to_user_id": "1332346767950671878",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031427239678447757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TelazaiZoro_tt 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2031378741595939154",
+        "created_at": "2026-03-10T17:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T18:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031427467584614796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1332346767950671878",
+              "start": 0,
+              "username": "TelazaiZoro_tt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031427467584614796",
+        "in_reply_to_user_id": "1332346767950671878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031427239678447757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TelazaiZoro_tt 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1332346767950671878",
+        "conversation_id": "2031378741595939154",
+        "created_at": "2026-03-10T17:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T18:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031427239678447757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031427239678447757",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031378741595939154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 好牛…艺术成分好高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 216,
+          "like_count": 1368,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 1606
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-27T15:33:41.000Z",
+        "description": "杂食党好快乐！耶耶耶！(˃ ⌑ ˂ഃ )\n啥都嗑，嗑啥都香！cp大乱炖也好香…嘿嘿(//̀ὢ/́/)\n我永远喜欢海贼王❤️！！！✧*｡٩(ˊᗜˋ*)و✧*｡\n\n还有——请原谅我的默默关注…",
+        "id": "1332346767950671878",
+        "name": "你是蘑菇吗？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716513817226805248/6nC3JWsm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 376,
+          "like_count": 1487,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1030
+        },
+        "username": "TelazaiZoro_tt",
+        "verified": false
+      }
+    ]
+  }
+}

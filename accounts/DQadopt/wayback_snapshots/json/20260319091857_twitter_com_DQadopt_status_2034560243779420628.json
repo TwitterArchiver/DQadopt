@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2034455321536762086",
+    "created_at": "2026-03-19T09:18:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T10:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034560243779420628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1711933584544866304",
+          "start": 0,
+          "username": "lambertli178"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034560243779420628",
+    "in_reply_to_user_id": "1711933584544866304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034455321536762086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lambertli178 你懂我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2034455321536762086",
+        "created_at": "2026-03-19T09:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T10:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034560243779420628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1711933584544866304",
+              "start": 0,
+              "username": "lambertli178"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034560243779420628",
+        "in_reply_to_user_id": "1711933584544866304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034455321536762086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lambertli178 你懂我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711933584544866304",
+        "conversation_id": "2034455321536762086",
+        "created_at": "2026-03-19T02:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T03:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034455321536762086"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "les"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "wlw"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "女同性恋"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034455321536762086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 968,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "特别想做的时候感觉我对着胳膊照片都能冲。真心喜欢女人的胳膊，胳膊照片完全就是骚照。#les #wlw #女同性恋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 248,
+          "like_count": 1859,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 2214
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-11T02:36:10.000Z",
+        "description": "le 0.3 176 喜欢长发t",
+        "id": "1711933584544866304",
+        "location": "鲁",
+        "name": "我小悠也绝非善类",
+        "pinned_tweet_id": "2032056407638589756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032055630828355587/lrJ31ltX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3493,
+          "following_count": 43,
+          "like_count": 150,
+          "listed_count": 6,
+          "media_count": 9,
+          "tweet_count": 135
+        },
+        "username": "lambertli178",
+        "verified": false
+      }
+    ]
+  }
+}

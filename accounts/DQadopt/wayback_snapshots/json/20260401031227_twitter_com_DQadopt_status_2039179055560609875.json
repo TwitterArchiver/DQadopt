@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2038985459540648363",
+    "created_at": "2026-04-01T03:12:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T04:12:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039179055560609875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1459466448133255170",
+          "start": 0,
+          "username": "lutouwoaini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039179055560609875",
+    "in_reply_to_user_id": "1459466448133255170",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039151603358503148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lutouwoaini 要不要加我呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2038985459540648363",
+        "created_at": "2026-04-01T03:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T04:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039179055560609875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1459466448133255170",
+              "start": 0,
+              "username": "lutouwoaini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039179055560609875",
+        "in_reply_to_user_id": "1459466448133255170",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039151603358503148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lutouwoaini 要不要加我呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459466448133255170",
+        "conversation_id": "2038985459540648363",
+        "created_at": "2026-04-01T01:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T02:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039151603358503148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039151603358503148",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038985459540648363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 我选了火花 让我抓喵喵(((o(*ﾟ▽ﾟ*)o)))"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 268,
+          "like_count": 2348,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 2652
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-13T10:21:45.000Z",
+        "description": "你好👋我叫鹿頭｜性别认同为“双足站立的生命体”｜世界上最会说废话的家伙｜Dom｜Infp｜女权｜提问箱https://t.co/CEYI4lCwS8｜互fo私信！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lutot",
+                "end": 74,
+                "expanded_url": "https://ngl.link/lutot",
+                "start": 51,
+                "url": "https://t.co/CEYI4lCwS8"
+              }
+            ]
+          }
+        },
+        "id": "1459466448133255170",
+        "location": "厦门",
+        "name": "在十八岁自杀",
+        "pinned_tweet_id": "2035328855876276326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026284118439505920/3zv8-GLx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 54,
+          "like_count": 637,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 460
+        },
+        "username": "lutouwoaini",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2021926431945854976"
+      ],
+      "media_source_tweet_id": [
+        "2022037996816806148"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2022707745519219160",
+    "created_at": "2026-02-14T16:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T17:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022707745519219160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "483667737",
+          "start": 3,
+          "username": "EditsGoesHard"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bkaQKY2EuU",
+          "end": 42,
+          "expanded_url": "https://x.com/EditsGoesHard/status/2022037996816806148/video/1",
+          "media_key": "13_2021926431945854976",
+          "start": 19,
+          "url": "https://t.co/bkaQKY2EuU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022707745519219160",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 452
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022037996816806148",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EditsGoesHard: https://t.co/bkaQKY2EuU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18350,
+        "height": 576,
+        "media_key": "13_2021926431945854976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021926431945854976/img/XUeQPmGVDbuHYo8n.jpg",
+        "public_metrics": {
+          "view_count": 14336
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021926431945854976/vid/avc1/480x270/bRMu7FRYsRwIeTXh.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021926431945854976/vid/avc1/640x360/MMugsn7nMuZuRIac.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021926431945854976/vid/avc1/1024x576/iRSxoVazgqC0l8Aw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021926431945854976/pl/9dAsMn_3gz966wU1.m3u8?v=cfc"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021926431945854976"
+          ],
+          "media_source_tweet_id": [
+            "2022037996816806148"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022707745519219160",
+        "created_at": "2026-02-14T16:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T17:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022707745519219160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "483667737",
+              "start": 3,
+              "username": "EditsGoesHard"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bkaQKY2EuU",
+              "end": 42,
+              "expanded_url": "https://x.com/EditsGoesHard/status/2022037996816806148/video/1",
+              "media_key": "13_2021926431945854976",
+              "start": 19,
+              "url": "https://t.co/bkaQKY2EuU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022707745519219160",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 452
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022037996816806148",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EditsGoesHard: https://t.co/bkaQKY2EuU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021926431945854976"
+          ]
+        },
+        "author_id": "483667737",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022037996816806148",
+        "created_at": "2026-02-12T20:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T21:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022037996816806148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bkaQKY2EuU",
+              "end": 23,
+              "expanded_url": "https://x.com/EditsGoesHard/status/2022037996816806148/video/1",
+              "media_key": "13_2021926431945854976",
+              "start": 0,
+              "url": "https://t.co/bkaQKY2EuU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022037996816806148",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 769,
+          "impression_count": 28226,
+          "like_count": 2882,
+          "quote_count": 9,
+          "reply_count": 7,
+          "retweet_count": 452
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bkaQKY2EuU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 88,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 576
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-05T08:12:20.000Z",
+        "description": "Best Gallery of Hardest Edits || Nothing is owned by me (DMs for Credits) ~ Admin: @Sxript",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "Sxript"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/TKtc9YtW",
+                "end": 23,
+                "expanded_url": "https://discord.gg/TKtc9YtW",
+                "start": 0,
+                "url": "https://t.co/eRVw28kJ6e"
+              }
+            ]
+          }
+        },
+        "id": "483667737",
+        "location": "Center of Universe",
+        "name": "Edits That Goes Hard 🔥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000781067955978250/ERr062hT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34936,
+          "following_count": 25,
+          "like_count": 422,
+          "listed_count": 36,
+          "media_count": 463,
+          "tweet_count": 475
+        },
+        "url": "https://t.co/eRVw28kJ6e",
+        "username": "EditsGoesHard",
+        "verified": true
+      }
+    ]
+  }
+}

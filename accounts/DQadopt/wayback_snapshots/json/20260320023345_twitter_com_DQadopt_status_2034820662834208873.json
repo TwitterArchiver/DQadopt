@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034820653027889152"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2034820662834208873",
+    "created_at": "2026-03-20T02:33:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T03:33:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034820662834208873"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SMUFrs0qS8",
+          "end": 155,
+          "expanded_url": "https://x.com/DQadopt/status/2034820662834208873/photo/1",
+          "media_key": "3_2034820653027889152",
+          "start": 132,
+          "url": "https://t.co/SMUFrs0qS8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034820662834208873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和小鸟说话就这样得寸进尺。\n昨晚梦到她了，梦到我从她背后抱住她，下巴抵在她头发上面，梦里闻不到气味，她一直在抽泣，我什么也没说只是抱着她\n最后她说，没事的这只是一场梦而已\n是啊，能这样久久地抱着你只能是梦而已，我有点恍惚，然后我醒了\n我现在心脏好疼啊，每次都这样 https://t.co/SMUFrs0qS8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2034820653027889152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD0iml1bEAA4xwk.jpg",
+        "width": 938
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034820653027889152"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034820662834208873",
+        "created_at": "2026-03-20T02:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T03:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034820662834208873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SMUFrs0qS8",
+              "end": 155,
+              "expanded_url": "https://x.com/DQadopt/status/2034820662834208873/photo/1",
+              "media_key": "3_2034820653027889152",
+              "start": 132,
+              "url": "https://t.co/SMUFrs0qS8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034820662834208873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和小鸟说话就这样得寸进尺。\n昨晚梦到她了，梦到我从她背后抱住她，下巴抵在她头发上面，梦里闻不到气味，她一直在抽泣，我什么也没说只是抱着她\n最后她说，没事的这只是一场梦而已\n是啊，能这样久久地抱着你只能是梦而已，我有点恍惚，然后我醒了\n我现在心脏好疼啊，每次都这样 https://t.co/SMUFrs0qS8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 250,
+          "like_count": 1916,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 2254
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

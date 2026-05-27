@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2032084751755198520",
+    "created_at": "2026-03-12T14:22:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T15:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032100000013119696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1701379534270980096",
+          "start": 0,
+          "username": "BenBetty153620"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032100000013119696",
+    "in_reply_to_user_id": "1701379534270980096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032084751755198520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BenBetty153620 咪咪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032084737398095873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNqTV4bQAEfPRT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1936,
+        "media_key": "3_2032084737439981568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNqTWCaYAA9aJG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032084737511325696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNqTWTbAAAJkZc.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032084737507147777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNqTWSbQAE8Gqp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2032084751755198520",
+        "created_at": "2026-03-12T14:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T15:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032100000013119696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1701379534270980096",
+              "start": 0,
+              "username": "BenBetty153620"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032100000013119696",
+        "in_reply_to_user_id": "1701379534270980096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032084751755198520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BenBetty153620 咪咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032084737398095873",
+            "3_2032084737439981568",
+            "3_2032084737511325696",
+            "3_2032084737507147777"
+          ]
+        },
+        "author_id": "1701379534270980096",
+        "conversation_id": "2032084751755198520",
+        "created_at": "2026-03-12T13:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T14:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032084751755198520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E6ubDr6sxE",
+              "end": 23,
+              "expanded_url": "https://x.com/BenBetty153620/status/2032084751755198520/photo/1",
+              "media_key": "3_2032084737398095873",
+              "start": 0,
+              "url": "https://t.co/E6ubDr6sxE"
+            },
+            {
+              "display_url": "pic.x.com/E6ubDr6sxE",
+              "end": 23,
+              "expanded_url": "https://x.com/BenBetty153620/status/2032084751755198520/photo/1",
+              "media_key": "3_2032084737439981568",
+              "start": 0,
+              "url": "https://t.co/E6ubDr6sxE"
+            },
+            {
+              "display_url": "pic.x.com/E6ubDr6sxE",
+              "end": 23,
+              "expanded_url": "https://x.com/BenBetty153620/status/2032084751755198520/photo/1",
+              "media_key": "3_2032084737511325696",
+              "start": 0,
+              "url": "https://t.co/E6ubDr6sxE"
+            },
+            {
+              "display_url": "pic.x.com/E6ubDr6sxE",
+              "end": 23,
+              "expanded_url": "https://x.com/BenBetty153620/status/2032084751755198520/photo/1",
+              "media_key": "3_2032084737507147777",
+              "start": 0,
+              "url": "https://t.co/E6ubDr6sxE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032084751755198520",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/E6ubDr6sxE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1171,
+          "following_count": 234,
+          "like_count": 1455,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 1800
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-11T23:37:46.000Z",
+        "description": "😪",
+        "id": "1701379534270980096",
+        "name": "仿生大便会梦见电动马桶吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717146357990121472/JqNKu7E7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 1019,
+          "like_count": 30274,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 2849
+        },
+        "username": "BenBetty153620",
+        "verified": false
+      }
+    ]
+  }
+}

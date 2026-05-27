@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2030853144658526380",
+    "created_at": "2026-03-09T06:49:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T07:49:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030898748608692368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1922184590422376449",
+          "start": 0,
+          "username": "Ymioy1098"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030898748608692368",
+    "in_reply_to_user_id": "1922184590422376449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030898680115671428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ymioy1098 为什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2030853144658526380",
+        "created_at": "2026-03-09T06:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T07:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030898748608692368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1922184590422376449",
+              "start": 0,
+              "username": "Ymioy1098"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030898748608692368",
+        "in_reply_to_user_id": "1922184590422376449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030898680115671428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ymioy1098 为什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922184590422376449",
+        "conversation_id": "2030853144658526380",
+        "created_at": "2026-03-09T06:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T07:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030898680115671428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030898680115671428",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030853144658526380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 其实我更想看到身边的朋友变成健全b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 201,
+          "like_count": 1208,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 1452
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T06:58:47.000Z",
+        "description": "les/0.5/生理心理性别皆为女 欢迎私信 女孩子可以找我互关",
+        "id": "1922184590422376449",
+        "name": "Y mi mo",
+        "pinned_tweet_id": "2020856551762801129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017322494550806529/7SXazNpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 42,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 133
+        },
+        "username": "Ymioy1098",
+        "verified": false
+      }
+    ]
+  }
+}

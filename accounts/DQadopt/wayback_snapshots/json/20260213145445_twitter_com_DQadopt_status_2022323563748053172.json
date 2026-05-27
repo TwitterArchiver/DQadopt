@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022323553623027712"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2022323563748053172",
+    "created_at": "2026-02-13T14:54:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T15:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022323563748053172"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fF2Fb5hM0E",
+          "end": 152,
+          "expanded_url": "https://x.com/DQadopt/status/2022323563748053172/photo/1",
+          "media_key": "3_2022323553623027712",
+          "start": 129,
+          "url": "https://t.co/fF2Fb5hM0E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022323563748053172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "她是个有很多鬼点子的可爱鬼，过了几天我就收到了她给我买的两包火腿肠，她不喜欢我，并且穷穷的，但是也会尽她所能给我回赠小礼物ovo\n她真的很可爱，很值得被爱，她从以前的困苦中脱身出来太不容易，我不在意她谁在意她？\n好开心，我是世界上最爱你的人，但你不用接受我 https://t.co/fF2Fb5hM0E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2022323553623027712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBC8jqqbMAAraTC.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022323553623027712"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2022323563748053172",
+        "created_at": "2026-02-13T14:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T15:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022323563748053172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fF2Fb5hM0E",
+              "end": 152,
+              "expanded_url": "https://x.com/DQadopt/status/2022323563748053172/photo/1",
+              "media_key": "3_2022323553623027712",
+              "start": 129,
+              "url": "https://t.co/fF2Fb5hM0E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022323563748053172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "她是个有很多鬼点子的可爱鬼，过了几天我就收到了她给我买的两包火腿肠，她不喜欢我，并且穷穷的，但是也会尽她所能给我回赠小礼物ovo\n她真的很可爱，很值得被爱，她从以前的困苦中脱身出来太不容易，我不在意她谁在意她？\n好开心，我是世界上最爱你的人，但你不用接受我 https://t.co/fF2Fb5hM0E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 84,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 543
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024164045306417153"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2024164052147327427",
+    "created_at": "2026-02-18T16:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T17:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024164052147327427"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/L3odmurRIz",
+          "end": 136,
+          "expanded_url": "https://x.com/DQadopt/status/2024164052147327427/photo/1",
+          "media_key": "3_2024164045306417153",
+          "start": 113,
+          "url": "https://t.co/L3odmurRIz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024164052147327427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我他妈释怀了，我做什么都不对，我他妈真的释怀了，我也懒得自残了，00:45分我已经把14t阿普唑仑和我的日常精神病药吃下去了，我这还是第一次o阿普呢，最强镇静能慰藉我吗，我现在太痛苦了，救救我阿普唑仑，这是我所有的阿普唑仑了 https://t.co/L3odmurRIz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 598,
+        "media_key": "3_2024164045306417153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBdGeYebUAEJFmg.jpg",
+        "width": 1010
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024164045306417153"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2024164052147327427",
+        "created_at": "2026-02-18T16:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T17:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024164052147327427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L3odmurRIz",
+              "end": 136,
+              "expanded_url": "https://x.com/DQadopt/status/2024164052147327427/photo/1",
+              "media_key": "3_2024164045306417153",
+              "start": 113,
+              "url": "https://t.co/L3odmurRIz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024164052147327427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈释怀了，我做什么都不对，我他妈真的释怀了，我也懒得自残了，00:45分我已经把14t阿普唑仑和我的日常精神病药吃下去了，我这还是第一次o阿普呢，最强镇静能慰藉我吗，我现在太痛苦了，救救我阿普唑仑，这是我所有的阿普唑仑了 https://t.co/L3odmurRIz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 91,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 667
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

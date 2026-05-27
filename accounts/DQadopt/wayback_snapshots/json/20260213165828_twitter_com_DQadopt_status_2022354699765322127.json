@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022354689103413248",
+        "3_2022354689107595264"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2022354699765322127",
+    "created_at": "2026-02-13T16:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T17:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022354699765322127"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 52,
+          "tag": "od"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aXQDmtKg7d",
+          "end": 79,
+          "expanded_url": "https://x.com/DQadopt/status/2022354699765322127/photo/1",
+          "media_key": "3_2022354689103413248",
+          "start": 56,
+          "url": "https://t.co/aXQDmtKg7d"
+        },
+        {
+          "display_url": "pic.x.com/aXQDmtKg7d",
+          "end": 79,
+          "expanded_url": "https://x.com/DQadopt/status/2022354699765322127/photo/1",
+          "media_key": "3_2022354689107595264",
+          "start": 56,
+          "url": "https://t.co/aXQDmtKg7d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022354699765322127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "兄弟们又喜提吐血了但不多\n我要戒od戒rc了，事实上我已经快戒一个月了，o友们或者吃dpt的有吐过血吗\n#od https://t.co/aXQDmtKg7d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2022354689103413248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDY3_XawAAYdry.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2022354689107595264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDY3_YakAAt7z6.jpg",
+        "width": 697
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022354689103413248",
+            "3_2022354689107595264"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2022354699765322127",
+        "created_at": "2026-02-13T16:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022354699765322127"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "od"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aXQDmtKg7d",
+              "end": 79,
+              "expanded_url": "https://x.com/DQadopt/status/2022354699765322127/photo/1",
+              "media_key": "3_2022354689103413248",
+              "start": 56,
+              "url": "https://t.co/aXQDmtKg7d"
+            },
+            {
+              "display_url": "pic.x.com/aXQDmtKg7d",
+              "end": 79,
+              "expanded_url": "https://x.com/DQadopt/status/2022354699765322127/photo/1",
+              "media_key": "3_2022354689107595264",
+              "start": 56,
+              "url": "https://t.co/aXQDmtKg7d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022354699765322127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们又喜提吐血了但不多\n我要戒od戒rc了，事实上我已经快戒一个月了，o友们或者吃dpt的有吐过血吗\n#od https://t.co/aXQDmtKg7d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 84,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 547
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

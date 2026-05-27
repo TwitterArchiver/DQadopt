@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2041712791963496656",
+    "created_at": "2026-04-09T06:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T07:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042125627541876777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1747241262363914241",
+          "start": 0,
+          "username": "Queen3799446312"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042125627541876777",
+    "in_reply_to_user_id": "1747241262363914241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041712791963496656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Queen3799446312 好爽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2041712787299430402",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFWe9mxa8AIfkBw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2041712791963496656",
+        "created_at": "2026-04-09T06:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042125627541876777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1747241262363914241",
+              "start": 0,
+              "username": "Queen3799446312"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042125627541876777",
+        "in_reply_to_user_id": "1747241262363914241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041712791963496656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Queen3799446312 好爽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041712787299430402"
+          ]
+        },
+        "author_id": "1747241262363914241",
+        "conversation_id": "2041712791963496656",
+        "created_at": "2026-04-08T03:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T04:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041712791963496656"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "拉拉"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "女同"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qAglTZBgto",
+              "end": 36,
+              "expanded_url": "https://x.com/Queen3799446312/status/2041712791963496656/photo/1",
+              "media_key": "3_2041712787299430402",
+              "start": 13,
+              "url": "https://t.co/qAglTZBgto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041712791963496656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 35635,
+          "like_count": 1992,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "今日份🐶 #拉拉 #女同 https://t.co/qAglTZBgto"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1756,
+          "following_count": 311,
+          "like_count": 2674,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 3049
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T12:56:42.000Z",
+        "description": "与其内耗自己，不如PUA别人",
+        "id": "1747241262363914241",
+        "name": "V1v1enne",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748123909713719296/-OZc82K2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 3,
+          "like_count": 187,
+          "listed_count": 4,
+          "media_count": 45,
+          "tweet_count": 215
+        },
+        "username": "Queen3799446312",
+        "verified": false
+      }
+    ]
+  }
+}

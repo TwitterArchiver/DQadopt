@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2033855801325126041",
+    "created_at": "2026-03-17T13:53:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T14:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033904536675618865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1709168657467908096",
+          "start": 0,
+          "username": "wsxy0618"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033904536675618865",
+    "in_reply_to_user_id": "1709168657467908096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033904202955821127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsxy0618 或许吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2033855801325126041",
+        "created_at": "2026-03-17T13:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T14:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033904536675618865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1709168657467908096",
+              "start": 0,
+              "username": "wsxy0618"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033904536675618865",
+        "in_reply_to_user_id": "1709168657467908096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033904202955821127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsxy0618 或许吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709168657467908096",
+        "conversation_id": "2033855801325126041",
+        "created_at": "2026-03-17T13:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T14:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033904202955821127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033904202955821127",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033855801325126041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 并不是你的错"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1265,
+          "following_count": 243,
+          "like_count": 1809,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 2113
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-03T11:29:11.000Z",
+        "description": "喜欢长发女人 intp 不聊骚 男的别关注我",
+        "id": "1709168657467908096",
+        "location": "1km",
+        "name": "小月",
+        "pinned_tweet_id": "2033903568319877407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024165565494169600/vNtXwIYs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 142,
+          "like_count": 3168,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 838
+        },
+        "username": "wsxy0618",
+        "verified": false
+      }
+    ]
+  }
+}

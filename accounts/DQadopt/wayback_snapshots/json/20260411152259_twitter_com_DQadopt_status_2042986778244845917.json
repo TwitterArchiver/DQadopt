@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2042482651983200731",
+    "created_at": "2026-04-11T15:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T16:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042986778244845917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2034215621647548416",
+          "start": 0,
+          "username": "somkeandbones"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042986778244845917",
+    "in_reply_to_user_id": "2034215621647548416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042985690598899824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@somkeandbones 我的天啊要掉小珍珠了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2042482651983200731",
+        "created_at": "2026-04-11T15:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042986778244845917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2034215621647548416",
+              "start": 0,
+              "username": "somkeandbones"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042986778244845917",
+        "in_reply_to_user_id": "2034215621647548416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042985690598899824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@somkeandbones 我的天啊要掉小珍珠了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034215621647548416",
+        "conversation_id": "2042482651983200731",
+        "created_at": "2026-04-11T15:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042985690598899824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042985690598899824",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042482651983200731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 不是啊 一会穿搭拍照很帅 二很宠喜欢的人 三读书很多写出来的文字很文艺 四会给小女孩买泡泡机有独特的善良 五雪兔很美 六血画很艺术 七对人专一"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1859,
+          "following_count": 316,
+          "like_count": 2818,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 3225
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-18T10:29:40.000Z",
+        "description": "文字 最易讓誤以為有所成就之人犯下傲慢之罪",
+        "id": "2034215621647548416",
+        "name": "Donlvme",
+        "pinned_tweet_id": "2041805118300160284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040305314613055488/gBlZxtq__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 48
+        },
+        "username": "somkeandbones",
+        "verified": false
+      }
+    ]
+  }
+}

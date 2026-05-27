@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2047369546562957493",
+    "created_at": "2026-04-25T00:56:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T01:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047842173186670621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1630946419187277827",
+          "start": 0,
+          "username": "fksad_life"
+        },
+        {
+          "end": 26,
+          "id": "1425431413223051265",
+          "start": 12,
+          "username": "sweetxdessert"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047842173186670621",
+    "in_reply_to_user_id": "1630946419187277827",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047732361882992821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fksad_life @sweetxdessert 很可爱！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2047369546562957493",
+        "created_at": "2026-04-25T00:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T01:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047842173186670621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1630946419187277827",
+              "start": 0,
+              "username": "fksad_life"
+            },
+            {
+              "end": 26,
+              "id": "1425431413223051265",
+              "start": 12,
+              "username": "sweetxdessert"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047842173186670621",
+        "in_reply_to_user_id": "1630946419187277827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047732361882992821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fksad_life @sweetxdessert 很可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630946419187277827",
+        "conversation_id": "2047369546562957493",
+        "created_at": "2026-04-24T17:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T18:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047732361882992821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1425431413223051265",
+              "start": 0,
+              "username": "sweetxdessert"
+            },
+            {
+              "end": 23,
+              "id": "1989965282799226880",
+              "start": 15,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047732361882992821",
+        "in_reply_to_user_id": "1425431413223051265",
+        "lang": "ml",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047369546562957493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sweetxdessert @DQadopt ദ്ദി (⩌ᴗ⩌ )"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2110,
+          "following_count": 337,
+          "like_count": 3126,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 3754
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-01T15:01:58.000Z",
+        "description": "这里是 宇宙中心 （喜欢女人",
+        "id": "1630946419187277827",
+        "location": "蝴蝶谷",
+        "name": "₍^._.^₎⟆",
+        "pinned_tweet_id": "1800404247705792992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034680899875508224/mT5iZmRr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 32,
+          "like_count": 613,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 209
+        },
+        "username": "fksad_life",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-11T12:18:40.000Z",
+        "description": "cute dessert ideas ♡ turn on notifications 🔔 🎂",
+        "id": "1425431413223051265",
+        "location": "♡ DM for credit / submissions",
+        "name": "Cute Dessert",
+        "pinned_tweet_id": "1695677615217029146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1425437326579310604/ivbs50sH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95075,
+          "following_count": 13257,
+          "like_count": 13811,
+          "listed_count": 374,
+          "media_count": 2618,
+          "tweet_count": 2790
+        },
+        "username": "sweetxdessert",
+        "verified": true
+      }
+    ]
+  }
+}

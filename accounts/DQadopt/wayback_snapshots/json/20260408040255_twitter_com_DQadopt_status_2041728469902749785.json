@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2041702297009574034",
+    "created_at": "2026-04-08T04:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T05:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041728469902749785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1492763550988713987",
+          "start": 0,
+          "username": "Futuroscope811"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041728469902749785",
+    "in_reply_to_user_id": "1492763550988713987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041721681014866352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Futuroscope811 我给她打钱她貌似存起来了，她不约稿只买谷，但是我看不懂谷子（真的是个二次元吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2041702297009574034",
+        "created_at": "2026-04-08T04:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041728469902749785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1492763550988713987",
+              "start": 0,
+              "username": "Futuroscope811"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041728469902749785",
+        "in_reply_to_user_id": "1492763550988713987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041721681014866352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Futuroscope811 我给她打钱她貌似存起来了，她不约稿只买谷，但是我看不懂谷子（真的是个二次元吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492763550988713987",
+        "conversation_id": "2041702297009574034",
+        "created_at": "2026-04-08T03:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T04:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041721681014866352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041721681014866352",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041702297009574034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 给她的米画师账户充值。。让她去约家产稿子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 306,
+          "like_count": 2563,
+          "listed_count": 0,
+          "media_count": 303,
+          "tweet_count": 2989
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T07:32:31.000Z",
+        "description": "🍧",
+        "id": "1492763550988713987",
+        "location": "London, England",
+        "name": "Melo._.09",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986963580818771968/Nk-zSn5a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 263,
+          "like_count": 874,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 359
+        },
+        "username": "Futuroscope811",
+        "verified": false
+      }
+    ]
+  }
+}

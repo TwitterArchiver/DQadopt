@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2058182715212775630",
+    "created_at": "2026-05-23T14:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T15:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058192573840454007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2019045314246922240",
+          "start": 0,
+          "username": "Yeshenyue195770"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058192573840454007",
+    "in_reply_to_user_id": "2019045314246922240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058191922410479872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yeshenyue195770 升天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2058182715212775630",
+        "created_at": "2026-05-23T14:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058192573840454007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2019045314246922240",
+              "start": 0,
+              "username": "Yeshenyue195770"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058192573840454007",
+        "in_reply_to_user_id": "2019045314246922240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058191922410479872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yeshenyue195770 升天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019045314246922240",
+        "conversation_id": "2058182715212775630",
+        "created_at": "2026-05-23T14:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058191922410479872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058191922410479872",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058182715212775630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 十升天十"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2330,
+          "following_count": 343,
+          "like_count": 3427,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 4116
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T13:48:25.000Z",
+        "description": "18歲後每活的一天都是我欠上天的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yeshebyue",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yeshebyue",
+                "start": 0,
+                "url": "https://t.co/vZK0nXCDCB"
+              }
+            ]
+          }
+        },
+        "id": "2019045314246922240",
+        "location": "梦里",
+        "name": "尚可喜（广州克星）",
+        "pinned_tweet_id": "2031030807549403562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040777629381672960/aIoyPWys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 34,
+          "like_count": 847,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 281
+        },
+        "url": "https://t.co/vZK0nXCDCB",
+        "username": "Yeshenyue195770",
+        "verified": false
+      }
+    ]
+  }
+}

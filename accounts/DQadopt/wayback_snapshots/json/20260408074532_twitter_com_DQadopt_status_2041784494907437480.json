@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2041784494907437480",
+    "created_at": "2026-04-08T07:45:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T08:45:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041784494907437480"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041784494907437480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不能没有小鸟她也不能没有我，她不能和其他人谈恋爱，我不相信有其他人会不权衡利益不图其他地去爱她，她太单纯了虽然一直看戒社这种提高警惕，但是还是太单纯了，身体不好，情绪也很脆弱，我不相信有其他人能好好对她\n虽然是姐姐但是心智什么的很不成熟的小鸟，很坚强地走到现在但依然太脆弱的小鸟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2041784494907437480",
+        "created_at": "2026-04-08T07:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T08:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041784494907437480"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041784494907437480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不能没有小鸟她也不能没有我，她不能和其他人谈恋爱，我不相信有其他人会不权衡利益不图其他地去爱她，她太单纯了虽然一直看戒社这种提高警惕，但是还是太单纯了，身体不好，情绪也很脆弱，我不相信有其他人能好好对她\n虽然是姐姐但是心智什么的很不成熟的小鸟，很坚强地走到现在但依然太脆弱的小鸟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 306,
+          "like_count": 2578,
+          "listed_count": 0,
+          "media_count": 303,
+          "tweet_count": 2994
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

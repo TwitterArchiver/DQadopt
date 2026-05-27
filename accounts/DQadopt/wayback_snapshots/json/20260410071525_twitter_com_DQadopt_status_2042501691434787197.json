@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2042448257230782925",
+    "created_at": "2026-04-10T07:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T08:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042501691434787197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1551483218087784448",
+          "start": 0,
+          "username": "Witchwithparrot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042501691434787197",
+    "in_reply_to_user_id": "1551483218087784448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042448257230782925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Witchwithparrot 姐姐好美！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042448230915678208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFg72DvaoAA1-uB.jpg",
+        "width": 1338
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2042448257230782925",
+        "created_at": "2026-04-10T07:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042501691434787197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1551483218087784448",
+              "start": 0,
+              "username": "Witchwithparrot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042501691434787197",
+        "in_reply_to_user_id": "1551483218087784448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042448257230782925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Witchwithparrot 姐姐好美！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042448230915678208"
+          ]
+        },
+        "author_id": "1551483218087784448",
+        "conversation_id": "2042448257230782925",
+        "created_at": "2026-04-10T03:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042448257230782925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DgVa5jbi01",
+              "end": 25,
+              "expanded_url": "https://x.com/Witchwithparrot/status/2042448257230782925/photo/1",
+              "media_key": "3_2042448230915678208",
+              "start": 2,
+              "url": "https://t.co/DgVa5jbi01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042448257230782925",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🔥 https://t.co/DgVa5jbi01"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1841,
+          "following_count": 313,
+          "like_count": 2770,
+          "listed_count": 0,
+          "media_count": 317,
+          "tweet_count": 3138
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T08:23:29.000Z",
+        "description": "一只蓝羽鸟经过此地🪶",
+        "id": "1551483218087784448",
+        "location": "🦜",
+        "name": "Constantine",
+        "pinned_tweet_id": "1969327049367003325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029418276036722688/I1SnHc0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 44,
+          "like_count": 1681,
+          "listed_count": 10,
+          "media_count": 216,
+          "tweet_count": 632
+        },
+        "username": "Witchwithparrot",
+        "verified": false
+      }
+    ]
+  }
+}

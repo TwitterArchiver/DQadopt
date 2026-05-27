@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2041016003468140943",
+    "created_at": "2026-04-06T10:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T11:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041097439831281708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1973605010903801857",
+          "start": 0,
+          "username": "fanshupi11200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041097439831281708",
+    "in_reply_to_user_id": "1973605010903801857",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041016003468140943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanshupi11200 我去啊哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2041016003468140943",
+        "created_at": "2026-04-06T10:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041097439831281708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1973605010903801857",
+              "start": 0,
+              "username": "fanshupi11200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041097439831281708",
+        "in_reply_to_user_id": "1973605010903801857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041016003468140943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanshupi11200 我去啊哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973605010903801857",
+        "conversation_id": "2041016003468140943",
+        "created_at": "2026-04-06T04:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T05:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041016003468140943"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 130,
+              "tag": "女同性恋"
+            },
+            {
+              "end": 140,
+              "start": 136,
+              "tag": "wlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041016003468140943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 359,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说起自慰有没有被人发现过，苯人三年级的一个美丽的夜晚和母亲在河堤公园骑自行车（我在前面骑车我娘在后面跟着我。结果我突然发现摩擦自行车坐垫能产生一种美妙的感觉。本着分享快乐的人生信条我开心地叫我妈过来分享了获得快乐的方法。我说这样好舒服。。。我妈叫我不要这样做。#女同性恋 #wlw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 304,
+          "like_count": 2449,
+          "listed_count": 1,
+          "media_count": 298,
+          "tweet_count": 2864
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T04:24:44.000Z",
+        "description": "我一直在等",
+        "id": "1973605010903801857",
+        "name": "可爱番薯仔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002412310800052226/4fOOoqLo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 9,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 174
+        },
+        "username": "fanshupi11200",
+        "verified": false
+      }
+    ]
+  }
+}

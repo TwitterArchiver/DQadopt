@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2021244299178811752",
+    "created_at": "2026-02-11T12:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T13:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021558253264785765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1768853970402033664",
+          "start": 0,
+          "username": "Dduxx_d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021558253264785765",
+    "in_reply_to_user_id": "1768853970402033664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021244299178811752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dduxx_d 宝宝你太辣了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1573,
+        "media_key": "3_2021244287460179972",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAzm-G5aAAQsRiM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 879,
+        "media_key": "3_2021244287443402758",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAzm-G1aAAYdbBR.jpg",
+        "width": 1155
+      },
+      {
+        "height": 1125,
+        "media_key": "3_2021244287418236931",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAzm-GvaAAMGEiy.jpg",
+        "width": 1739
+      },
+      {
+        "height": 1720,
+        "media_key": "3_2021244287439319040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAzm-G0bsAA99yp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2021244299178811752",
+        "created_at": "2026-02-11T12:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T13:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021558253264785765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1768853970402033664",
+              "start": 0,
+              "username": "Dduxx_d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021558253264785765",
+        "in_reply_to_user_id": "1768853970402033664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021244299178811752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dduxx_d 宝宝你太辣了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021244287460179972",
+            "3_2021244287443402758",
+            "3_2021244287418236931",
+            "3_2021244287439319040"
+          ]
+        },
+        "author_id": "1768853970402033664",
+        "conversation_id": "2021244299178811752",
+        "created_at": "2026-02-10T15:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T16:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021244299178811752"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "les"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "le"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iVwGwbzVMn",
+              "end": 43,
+              "expanded_url": "https://x.com/Dduxx_d/status/2021244299178811752/photo/1",
+              "media_key": "3_2021244287460179972",
+              "start": 20,
+              "url": "https://t.co/iVwGwbzVMn"
+            },
+            {
+              "display_url": "pic.x.com/iVwGwbzVMn",
+              "end": 43,
+              "expanded_url": "https://x.com/Dduxx_d/status/2021244299178811752/photo/1",
+              "media_key": "3_2021244287443402758",
+              "start": 20,
+              "url": "https://t.co/iVwGwbzVMn"
+            },
+            {
+              "display_url": "pic.x.com/iVwGwbzVMn",
+              "end": 43,
+              "expanded_url": "https://x.com/Dduxx_d/status/2021244299178811752/photo/1",
+              "media_key": "3_2021244287418236931",
+              "start": 20,
+              "url": "https://t.co/iVwGwbzVMn"
+            },
+            {
+              "display_url": "pic.x.com/iVwGwbzVMn",
+              "end": 43,
+              "expanded_url": "https://x.com/Dduxx_d/status/2021244299178811752/photo/1",
+              "media_key": "3_2021244287439319040",
+              "start": 20,
+              "url": "https://t.co/iVwGwbzVMn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021244299178811752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 776,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小年夜谁来妈妈这吃饭\n#les #le https://t.co/iVwGwbzVMn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 85,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 464
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T04:17:13.000Z",
+        "description": "🌈 Les/1/24/170/我眯起笑眼想让 视线模糊一点。",
+        "id": "1768853970402033664",
+        "name": "D",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907862827068698625/UR9ZaKFR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 69,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 54
+        },
+        "username": "Dduxx_d",
+        "verified": false
+      }
+    ]
+  }
+}

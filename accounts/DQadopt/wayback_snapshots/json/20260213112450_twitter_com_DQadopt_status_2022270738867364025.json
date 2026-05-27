@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2022268288156524738",
+    "created_at": "2026-02-13T11:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T12:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022270738867364025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699421377520951296",
+          "start": 0,
+          "username": "Maorou_K8M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022270738867364025",
+    "in_reply_to_user_id": "1699421377520951296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022268288156524738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maorou_K8M 姐姐今天也特别漂亮！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20033,
+        "height": 2880,
+        "media_key": "13_2022268129565646848",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022268129565646848/img/V8jZpm0dg1jI5pH6.jpg",
+        "public_metrics": {
+          "view_count": 225
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022268129565646848/vid/avc1/480x640/X5HLdY9FRCGVNHAx.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022268129565646848/vid/avc1/1080x1440/N02k3f2Rp-ibxpiy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022268129565646848/pl/FJ_Kvu7TwNJkSnGx.m3u8"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022268129565646848/vid/avc1/2160x2880/cUF53ch_wshfEsvY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022268129565646848/vid/avc1/720x960/6giweoz7r98i2J-k.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022268129565646848/vid/avc1/320x426/5Z7MxwFqC_1S4uN4.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2022268288156524738",
+        "created_at": "2026-02-13T11:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022270738867364025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699421377520951296",
+              "start": 0,
+              "username": "Maorou_K8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022270738867364025",
+        "in_reply_to_user_id": "1699421377520951296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022268288156524738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maorou_K8M 姐姐今天也特别漂亮！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022268129565646848"
+          ]
+        },
+        "author_id": "1699421377520951296",
+        "conversation_id": "2022268288156524738",
+        "created_at": "2026-02-13T11:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022268288156524738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WQ9zS4GNrP",
+              "end": 44,
+              "expanded_url": "https://x.com/Maorou_K8M/status/2022268288156524738/video/1",
+              "media_key": "13_2022268129565646848",
+              "start": 21,
+              "url": "https://t.co/WQ9zS4GNrP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022268288156524738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 854,
+          "like_count": 156,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "⚈  ̫ ⚈！\n今天想对我做些什么呢？！ https://t.co/WQ9zS4GNrP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 83,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 526
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T13:56:58.000Z",
+        "description": "本人只有这一个账号！！其他均为骗子， 请叫我民子 人体改造/自私/穿刺/分舌/药物依赖/纹身/焦虑/畏惧死亡/埋钉/身高172 ➕lx🚪998zfb口令红包带姓 私信只回复门槛💗只接绿色线下陪玩 一日女友～～～～本人只玩X/ins 除了此账号 其他账号开通任何需要付费链接都是骗子！！不玩抖音等软件",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.me/maorou_k8m",
+                "end": 23,
+                "expanded_url": "https://link.me/maorou_k8m",
+                "start": 0,
+                "url": "https://t.co/bvlwJ8SJKp"
+              }
+            ]
+          }
+        },
+        "id": "1699421377520951296",
+        "location": "所有本人账户在这里→",
+        "name": "樁山民子",
+        "pinned_tweet_id": "1861940185799462977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005527085700534272/SO1uhKhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264118,
+          "following_count": 44,
+          "like_count": 552,
+          "listed_count": 686,
+          "media_count": 573,
+          "tweet_count": 3707
+        },
+        "url": "https://t.co/bvlwJ8SJKp",
+        "username": "Maorou_K8M",
+        "verified": true
+      }
+    ]
+  }
+}

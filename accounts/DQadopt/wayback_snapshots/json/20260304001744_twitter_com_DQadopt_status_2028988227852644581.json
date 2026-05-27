@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2028887147487608849",
+    "created_at": "2026-03-04T00:17:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T01:17:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028988227852644581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1988667386212544513",
+          "start": 0,
+          "username": "NeowTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028988227852644581",
+    "in_reply_to_user_id": "1988667386212544513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028891841018642569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeowTvT 属性不一定要和经历挂钩，在我的过往情感经历中，我都是担任着“主导者、照顾对方”的责任并乐在其中，并且我也深知自己无法接受下位者的身份，所以给自己的定位是1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2028887147487608849",
+        "created_at": "2026-03-04T00:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T01:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028988227852644581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1988667386212544513",
+              "start": 0,
+              "username": "NeowTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028988227852644581",
+        "in_reply_to_user_id": "1988667386212544513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028891841018642569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeowTvT 属性不一定要和经历挂钩，在我的过往情感经历中，我都是担任着“主导者、照顾对方”的责任并乐在其中，并且我也深知自己无法接受下位者的身份，所以给自己的定位是1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988667386212544513",
+        "conversation_id": "2028887147487608849",
+        "created_at": "2026-03-03T17:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028891841018642569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028891841018642569",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028887147487608849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 我想知道是以往也没有尝试过和女友do吗 既然不敢做爱那主页的简介的1是从何得出的结论呀 还是说这个1有别的意思 我没有恶意宝宝就是有点好奇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 158,
+          "like_count": 790,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1081
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-12T17:57:15.000Z",
+        "description": "我什么都不知道呀我只是一只在路边路过的普通猫猫 可以不要对我有恶意吗ᴛ ω ᴛ",
+        "id": "1988667386212544513",
+        "name": "嗜睡黄色小猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004305442617569280/jANXKRt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 22,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "username": "NeowTvT",
+        "verified": false
+      }
+    ]
+  }
+}

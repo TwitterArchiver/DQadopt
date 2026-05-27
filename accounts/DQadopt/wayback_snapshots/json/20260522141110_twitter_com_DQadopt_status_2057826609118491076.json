@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2057276483538997590",
+    "created_at": "2026-05-22T14:11:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T15:11:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057826609118491076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1739471714029821953",
+          "start": 0,
+          "username": "WinterUnde49532"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057826609118491076",
+    "in_reply_to_user_id": "1739471714029821953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057808882861527094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WinterUnde49532 没有，在啃小鸟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2057276483538997590",
+        "created_at": "2026-05-22T14:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057826609118491076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1739471714029821953",
+              "start": 0,
+              "username": "WinterUnde49532"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057826609118491076",
+        "in_reply_to_user_id": "1739471714029821953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057808882861527094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WinterUnde49532 没有，在啃小鸟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739471714029821953",
+        "conversation_id": "2057276483538997590",
+        "created_at": "2026-05-22T13:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057808882861527094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057808882861527094",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057276483538997590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 🤔老师这是在炒菜的另一个说法吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2322,
+          "following_count": 341,
+          "like_count": 3425,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 4097
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T02:22:44.000Z",
+        "description": "崇拜女性主义（自定义的词），接受度还行啥圈子都爱看点，sw属性，痴迷精瘦身体，以及骨节分明的青筋手中……大奶肥臀是好文明😋",
+        "id": "1739471714029821953",
+        "location": "贵州",
+        "name": "meighs",
+        "pinned_tweet_id": "2050699282425254172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040363084175544320/wi8a-Fz9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 160,
+          "like_count": 965,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 385
+        },
+        "username": "WinterUnde49532",
+        "verified": false
+      }
+    ]
+  }
+}

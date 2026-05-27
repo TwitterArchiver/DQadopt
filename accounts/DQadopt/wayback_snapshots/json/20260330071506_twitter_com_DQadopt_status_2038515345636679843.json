@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038515335650054144",
+        "3_2038515335717150720",
+        "3_2038515335742345216",
+        "3_2038515335813586944"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2038515345636679843",
+    "created_at": "2026-03-30T07:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T08:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038515345636679843"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rdo617HVpC",
+          "end": 168,
+          "expanded_url": "https://x.com/DQadopt/status/2038515345636679843/photo/1",
+          "media_key": "3_2038515335650054144",
+          "start": 145,
+          "url": "https://t.co/Rdo617HVpC"
+        },
+        {
+          "display_url": "pic.x.com/Rdo617HVpC",
+          "end": 168,
+          "expanded_url": "https://x.com/DQadopt/status/2038515345636679843/photo/1",
+          "media_key": "3_2038515335717150720",
+          "start": 145,
+          "url": "https://t.co/Rdo617HVpC"
+        },
+        {
+          "display_url": "pic.x.com/Rdo617HVpC",
+          "end": 168,
+          "expanded_url": "https://x.com/DQadopt/status/2038515345636679843/photo/1",
+          "media_key": "3_2038515335742345216",
+          "start": 145,
+          "url": "https://t.co/Rdo617HVpC"
+        },
+        {
+          "display_url": "pic.x.com/Rdo617HVpC",
+          "end": 168,
+          "expanded_url": "https://x.com/DQadopt/status/2038515345636679843/photo/1",
+          "media_key": "3_2038515335813586944",
+          "start": 145,
+          "url": "https://t.co/Rdo617HVpC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038515345636679843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "经济压力天大，我每天都在看自己的余额，因为手做了手术可能三个月画不了画（其实我感觉半年都。。。）反正我活的非常累，想要收入高一点我就只能压榨我的下班时间，月收入2w那个月我基本上除了睡觉上班都在画画\n愁啊，开销的地方太多了，我每个月花在自己身上的钱控制在1200以内\n压力大到想下班去兼职 https://t.co/Rdo617HVpC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2038515335650054144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpC5bKbkAAJV6L.jpg",
+        "width": 1419
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2038515335717150720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpC5babYAAmq9C.jpg",
+        "width": 1419
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2038515335742345216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpC5bgb0AAlGMc.jpg",
+        "width": 946
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2038515335813586944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpC5bxa4AAwTAv.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038515335650054144",
+            "3_2038515335717150720",
+            "3_2038515335742345216",
+            "3_2038515335813586944"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038515345636679843",
+        "created_at": "2026-03-30T07:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T08:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038515345636679843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rdo617HVpC",
+              "end": 168,
+              "expanded_url": "https://x.com/DQadopt/status/2038515345636679843/photo/1",
+              "media_key": "3_2038515335650054144",
+              "start": 145,
+              "url": "https://t.co/Rdo617HVpC"
+            },
+            {
+              "display_url": "pic.x.com/Rdo617HVpC",
+              "end": 168,
+              "expanded_url": "https://x.com/DQadopt/status/2038515345636679843/photo/1",
+              "media_key": "3_2038515335717150720",
+              "start": 145,
+              "url": "https://t.co/Rdo617HVpC"
+            },
+            {
+              "display_url": "pic.x.com/Rdo617HVpC",
+              "end": 168,
+              "expanded_url": "https://x.com/DQadopt/status/2038515345636679843/photo/1",
+              "media_key": "3_2038515335742345216",
+              "start": 145,
+              "url": "https://t.co/Rdo617HVpC"
+            },
+            {
+              "display_url": "pic.x.com/Rdo617HVpC",
+              "end": 168,
+              "expanded_url": "https://x.com/DQadopt/status/2038515345636679843/photo/1",
+              "media_key": "3_2038515335813586944",
+              "start": 145,
+              "url": "https://t.co/Rdo617HVpC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038515345636679843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经济压力天大，我每天都在看自己的余额，因为手做了手术可能三个月画不了画（其实我感觉半年都。。。）反正我活的非常累，想要收入高一点我就只能压榨我的下班时间，月收入2w那个月我基本上除了睡觉上班都在画画\n愁啊，开销的地方太多了，我每个月花在自己身上的钱控制在1200以内\n压力大到想下班去兼职 https://t.co/Rdo617HVpC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 266,
+          "like_count": 2302,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 2577
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

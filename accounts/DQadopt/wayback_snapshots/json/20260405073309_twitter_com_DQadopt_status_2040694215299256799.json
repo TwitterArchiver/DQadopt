@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2040458865989562837",
+    "created_at": "2026-04-05T07:33:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T08:33:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040694215299256799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1844379421270212612",
+          "start": 0,
+          "username": "AliceLin912"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040694215299256799",
+    "in_reply_to_user_id": "1844379421270212612",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040689825628795143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AliceLin912 啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2040458865989562837",
+        "created_at": "2026-04-05T07:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T08:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040694215299256799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844379421270212612",
+              "start": 0,
+              "username": "AliceLin912"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040694215299256799",
+        "in_reply_to_user_id": "1844379421270212612",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040689825628795143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AliceLin912 啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844379421270212612",
+        "conversation_id": "2040458865989562837",
+        "created_at": "2026-04-05T07:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T08:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040689825628795143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040689825628795143",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040458865989562837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 好甜啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 269,
+          "like_count": 2399,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 2800
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T14:08:38.000Z",
+        "description": "享 受 自 由 ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/alalalalalin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/alalalalalin",
+                "start": 0,
+                "url": "https://t.co/ko0bwXMG2q"
+              }
+            ]
+          }
+        },
+        "id": "1844379421270212612",
+        "location": "hangzhou",
+        "name": "Añaña",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036144860986744834/WTxmBvVF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 93,
+          "like_count": 448,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 112
+        },
+        "url": "https://t.co/ko0bwXMG2q",
+        "username": "AliceLin912",
+        "verified": false
+      }
+    ]
+  }
+}

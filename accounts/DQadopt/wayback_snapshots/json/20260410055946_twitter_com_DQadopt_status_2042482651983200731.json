@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042482643032494080"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2042482651983200731",
+    "created_at": "2026-04-10T05:59:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T06:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042482651983200731"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nSySxRZdFD",
+          "end": 167,
+          "expanded_url": "https://x.com/DQadopt/status/2042482651983200731/photo/1",
+          "media_key": "3_2042482643032494080",
+          "start": 144,
+          "url": "https://t.co/nSySxRZdFD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042482651983200731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "参与不了任何t竞\n本人一没建模，二没身材，三没钱，四没学历，五没涵养，六还是个精神病\n其余好难，当下只能多读书丰富一下知识面了属于是，然后这个月开始和小鸟每天晚上挂电话，导致根本没心思看书一页书都没读过😇😇😇\n微信读书500本读完目标遥遥无期，原本计划这个月就可以的，也好医生喊我别看书 https://t.co/nSySxRZdFD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 564,
+        "media_key": "3_2042482643032494080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhbJG3aUAAL1Gc.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042482643032494080"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2042482651983200731",
+        "created_at": "2026-04-10T05:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042482651983200731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nSySxRZdFD",
+              "end": 167,
+              "expanded_url": "https://x.com/DQadopt/status/2042482651983200731/photo/1",
+              "media_key": "3_2042482643032494080",
+              "start": 144,
+              "url": "https://t.co/nSySxRZdFD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042482651983200731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "参与不了任何t竞\n本人一没建模，二没身材，三没钱，四没学历，五没涵养，六还是个精神病\n其余好难，当下只能多读书丰富一下知识面了属于是，然后这个月开始和小鸟每天晚上挂电话，导致根本没心思看书一页书都没读过😇😇😇\n微信读书500本读完目标遥遥无期，原本计划这个月就可以的，也好医生喊我别看书 https://t.co/nSySxRZdFD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1844,
+          "following_count": 313,
+          "like_count": 2762,
+          "listed_count": 0,
+          "media_count": 316,
+          "tweet_count": 3126
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

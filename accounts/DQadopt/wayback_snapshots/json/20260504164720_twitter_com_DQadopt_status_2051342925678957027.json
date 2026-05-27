@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051342888689389571"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051342925678957027",
+    "created_at": "2026-05-04T16:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T17:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051342925678957027"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/X2EAiUDt9n",
+          "end": 129,
+          "expanded_url": "https://x.com/DQadopt/status/2051342925678957027/photo/1",
+          "media_key": "3_2051342888689389571",
+          "start": 106,
+          "url": "https://t.co/X2EAiUDt9n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051342925678957027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "恭喜小鸟刷异色很快就刷出来了！\n希望小鸟刷异色粉星仔也可以快快刷出来\n给小鸟吹头发她说好舒服，看到小鸟擦脸我说你感冒了吗，小鸟说在流眼泪\n吹完头发我们抱抱了\n我会在我有限的生命里无限地爱你珍惜你\n谢谢你，我爱你 https://t.co/X2EAiUDt9n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051342888689389571",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHfVfSDa0AMomLi.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051342888689389571"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051342925678957027",
+        "created_at": "2026-05-04T16:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T17:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051342925678957027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X2EAiUDt9n",
+              "end": 129,
+              "expanded_url": "https://x.com/DQadopt/status/2051342925678957027/photo/1",
+              "media_key": "3_2051342888689389571",
+              "start": 106,
+              "url": "https://t.co/X2EAiUDt9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051342925678957027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜小鸟刷异色很快就刷出来了！\n希望小鸟刷异色粉星仔也可以快快刷出来\n给小鸟吹头发她说好舒服，看到小鸟擦脸我说你感冒了吗，小鸟说在流眼泪\n吹完头发我们抱抱了\n我会在我有限的生命里无限地爱你珍惜你\n谢谢你，我爱你 https://t.co/X2EAiUDt9n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2231,
+          "following_count": 340,
+          "like_count": 3253,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 3822
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

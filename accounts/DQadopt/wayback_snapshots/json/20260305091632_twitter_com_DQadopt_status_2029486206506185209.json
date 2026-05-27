@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029486194824982528"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2028823625894343116",
+    "created_at": "2026-03-05T09:16:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T10:16:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029486206506185209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1955590810030014464",
+          "start": 0,
+          "username": "Liang_hui_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/heuzuyNAVO",
+          "end": 67,
+          "expanded_url": "https://x.com/DQadopt/status/2029486206506185209/photo/1",
+          "media_key": "3_2029486194824982528",
+          "start": 44,
+          "url": "https://t.co/heuzuyNAVO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029486206506185209",
+    "in_reply_to_user_id": "1955590810030014464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029483930391601289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liang_hui_ 我很久之前也会频繁惊恐发作，吃了药以后好多了，我吃了很多镇静剂 https://t.co/heuzuyNAVO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2029486194824982528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCou8QcaMAAUszI.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029486194824982528"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028823625894343116",
+        "created_at": "2026-03-05T09:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T10:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029486206506185209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1955590810030014464",
+              "start": 0,
+              "username": "Liang_hui_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/heuzuyNAVO",
+              "end": 67,
+              "expanded_url": "https://x.com/DQadopt/status/2029486206506185209/photo/1",
+              "media_key": "3_2029486194824982528",
+              "start": 44,
+              "url": "https://t.co/heuzuyNAVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029486206506185209",
+        "in_reply_to_user_id": "1955590810030014464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029483930391601289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liang_hui_ 我很久之前也会频繁惊恐发作，吃了药以后好多了，我吃了很多镇静剂 https://t.co/heuzuyNAVO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955590810030014464",
+        "conversation_id": "2028823625894343116",
+        "created_at": "2026-03-05T09:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T10:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029483930391601289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029483930391601289",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029479758359347640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 我在努力。我自己试了DBT比较经典的疗法，就是惊恐发作的时候数东西和感受冰块。结果我没办法数下去，而且冰块在手里的感觉让我更崩溃。所以我吞了很多个冰块，然后腹胀。好吧，我真的会去看医生的，尽量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 176,
+          "like_count": 988,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1235
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T11:22:50.000Z",
+        "description": "lesbian🏳️‍🌈/sub/m/0.3\n此账号纯用来发牢骚和记录生活。请多关照。",
+        "id": "1955590810030014464",
+        "name": "Liang.. :-I",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955602082251309056/gVgo6kCo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 49,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 35
+        },
+        "username": "Liang_hui_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046515125327470593"
+      ],
+      "media_source_tweet_id": [
+        "2046515132436820077"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2046528550975725801",
+    "created_at": "2026-04-21T09:56:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T10:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046528550975725801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1472219833261772801",
+          "start": 3,
+          "username": "xxx_jjkk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V2mWhm5oVv",
+          "end": 92,
+          "expanded_url": "https://x.com/xxx_jjkk/status/2046515132436820077/photo/1",
+          "media_key": "3_2046515125327470593",
+          "start": 69,
+          "url": "https://t.co/V2mWhm5oVv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046528550975725801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046515132436820077",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxx_jjkk: 警察叔叔你不能误会好人啊\n我不知道什么方舟健客 什么1药网 什么叮当快药 什么京东买药啊 我的手机都是这样的 https://t.co/V2mWhm5oVv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2226,
+        "media_key": "3_2046515125327470593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGauqeCboAExEqq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046515125327470593"
+          ],
+          "media_source_tweet_id": [
+            "2046515132436820077"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2046528550975725801",
+        "created_at": "2026-04-21T09:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046528550975725801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1472219833261772801",
+              "start": 3,
+              "username": "xxx_jjkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V2mWhm5oVv",
+              "end": 92,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2046515132436820077/photo/1",
+              "media_key": "3_2046515125327470593",
+              "start": 69,
+              "url": "https://t.co/V2mWhm5oVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046528550975725801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046515132436820077",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxx_jjkk: 警察叔叔你不能误会好人啊\n我不知道什么方舟健客 什么1药网 什么叮当快药 什么京东买药啊 我的手机都是这样的 https://t.co/V2mWhm5oVv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046515125327470593"
+          ]
+        },
+        "author_id": "1472219833261772801",
+        "conversation_id": "2046515132436820077",
+        "created_at": "2026-04-21T09:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046515132436820077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V2mWhm5oVv",
+              "end": 78,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2046515132436820077/photo/1",
+              "media_key": "3_2046515125327470593",
+              "start": 55,
+              "url": "https://t.co/V2mWhm5oVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046515132436820077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "警察叔叔你不能误会好人啊\n我不知道什么方舟健客 什么1药网 什么叮当快药 什么京东买药啊 我的手机都是这样的 https://t.co/V2mWhm5oVv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2079,
+          "following_count": 335,
+          "like_count": 3046,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 3670
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我把一生都存进这小小的屏幕里\n当我离去\n这里至少还留有我曾活过的痕迹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/yz1Ew7xhf4"
+              }
+            ]
+          }
+        },
+        "id": "1472219833261772801",
+        "location": "🚪",
+        "name": "旖旎",
+        "pinned_tweet_id": "2045469984315658626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 449,
+          "like_count": 11126,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1681
+        },
+        "url": "https://t.co/yz1Ew7xhf4",
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

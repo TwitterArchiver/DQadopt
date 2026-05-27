@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048273035665575936"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2047958635951861957",
+    "created_at": "2026-04-26T05:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T06:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048273049938726933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2013321876224057344",
+          "start": 0,
+          "username": "OTxiashu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/21vvvrR7HM",
+          "end": 33,
+          "expanded_url": "https://x.com/DQadopt/status/2048273049938726933/photo/1",
+          "media_key": "3_2048273035665575936",
+          "start": 10,
+          "url": "https://t.co/21vvvrR7HM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048273049938726933",
+    "in_reply_to_user_id": "2013321876224057344",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047958635951861957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OTxiashu https://t.co/21vvvrR7HM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2048273035665575936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzteUXbkAAvuNB.jpg",
+        "width": 736
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047958633355612160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvPhsfbEAAWKPh.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048273035665575936"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2047958635951861957",
+        "created_at": "2026-04-26T05:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048273049938726933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2013321876224057344",
+              "start": 0,
+              "username": "OTxiashu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/21vvvrR7HM",
+              "end": 33,
+              "expanded_url": "https://x.com/DQadopt/status/2048273049938726933/photo/1",
+              "media_key": "3_2048273035665575936",
+              "start": 10,
+              "url": "https://t.co/21vvvrR7HM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048273049938726933",
+        "in_reply_to_user_id": "2013321876224057344",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047958635951861957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OTxiashu https://t.co/21vvvrR7HM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047958633355612160"
+          ]
+        },
+        "author_id": "2013321876224057344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2047958635951861957",
+        "created_at": "2026-04-25T08:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T09:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047958635951861957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/80iBIg8dKk",
+              "end": 50,
+              "expanded_url": "https://x.com/OTxiashu/status/2047958635951861957/photo/1",
+              "media_key": "3_2047958633355612160",
+              "start": 27,
+              "url": "https://t.co/80iBIg8dKk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047958635951861957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2955,
+          "like_count": 83,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "习近平能不能带着你的机器人滚 这些人脑子被坦克压了吗 https://t.co/80iBIg8dKk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2127,
+          "following_count": 339,
+          "like_count": 3164,
+          "listed_count": 1,
+          "media_count": 352,
+          "tweet_count": 3778
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T18:46:10.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/RFlA1XtlG6"
+              }
+            ]
+          }
+        },
+        "id": "2013321876224057344",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2045458839068356985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041015244408119296/bvU7l2hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 461,
+          "like_count": 9097,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 3580
+        },
+        "url": "https://t.co/RFlA1XtlG6",
+        "username": "OTxiashu",
+        "verified": false
+      }
+    ]
+  }
+}

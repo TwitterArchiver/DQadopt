@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2053014896414196082",
+    "created_at": "2026-05-09T07:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T08:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053014896414196082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1909266536604512256",
+          "start": 3,
+          "username": "xun404214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053014896414196082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052797943053508776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xun404214: 好羡慕那些感情淡淡的人啊，还有说断就断的，咋这么牛逼，我要是有这个心态人生烦恼减少80%。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2053014896414196082",
+        "created_at": "2026-05-09T07:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053014896414196082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1909266536604512256",
+              "start": 3,
+              "username": "xun404214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053014896414196082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052797943053508776",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xun404214: 好羡慕那些感情淡淡的人啊，还有说断就断的，咋这么牛逼，我要是有这个心态人生烦恼减少80%。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909266536604512256",
+        "conversation_id": "2052797943053508776",
+        "created_at": "2026-05-08T17:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052797943053508776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052797943053508776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 9798,
+          "like_count": 268,
+          "quote_count": 5,
+          "reply_count": 36,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "好羡慕那些感情淡淡的人啊，还有说断就断的，咋这么牛逼，我要是有这个心态人生烦恼减少80%。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2272,
+          "following_count": 342,
+          "like_count": 3381,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 3975
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T15:26:40.000Z",
+        "description": "🌈|les|0.5|dom",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xun40421453166",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xun40421453166",
+                "start": 0,
+                "url": "https://t.co/BwKNjBbg24"
+              }
+            ]
+          }
+        },
+        "id": "1909266536604512256",
+        "location": "距离你0.5km",
+        "name": "玄",
+        "pinned_tweet_id": "2009211803260309517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052067307544023040/bTSz1_8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10810,
+          "following_count": 335,
+          "like_count": 6120,
+          "listed_count": 8,
+          "media_count": 199,
+          "tweet_count": 9202
+        },
+        "url": "https://t.co/BwKNjBbg24",
+        "username": "xun404214",
+        "verified": false
+      }
+    ]
+  }
+}

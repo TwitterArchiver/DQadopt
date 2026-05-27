@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "1983196415313752421",
+    "created_at": "2026-02-11T05:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T06:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021455846967038456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1802741871380488192",
+          "start": 0,
+          "username": "lhz18845"
+        },
+        {
+          "end": 18,
+          "id": "1816489710682030080",
+          "start": 10,
+          "username": "keaiiea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021455846967038456",
+    "in_reply_to_user_id": "1802741871380488192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020306328540123488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lhz18845 @keaiiea 你的嘛死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "1983196415313752421",
+        "created_at": "2026-02-11T05:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T06:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021455846967038456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1802741871380488192",
+              "start": 0,
+              "username": "lhz18845"
+            },
+            {
+              "end": 18,
+              "id": "1816489710682030080",
+              "start": 10,
+              "username": "keaiiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021455846967038456",
+        "in_reply_to_user_id": "1802741871380488192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020306328540123488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lhz18845 @keaiiea 你的嘛死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802741871380488192",
+        "conversation_id": "1983196415313752421",
+        "created_at": "2026-02-08T01:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T02:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020306328540123488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1816489710682030080",
+              "start": 0,
+              "username": "keaiiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020306328540123488",
+        "in_reply_to_user_id": "1816489710682030080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983196415313752421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keaiiea 看你长那个逼样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 84,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 449
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T16:35:39.000Z",
+        "description": "",
+        "id": "1802741871380488192",
+        "name": "啦啦哥",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 52,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 29
+        },
+        "username": "lhz18845",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T15:04:46.000Z",
+        "description": "我是jonas\n我需要钱",
+        "id": "1816489710682030080",
+        "location": "🚪88  入门槛免费观看手冲视频",
+        "name": "人生有梦磕药撸管886",
+        "pinned_tweet_id": "1983196415313752421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983194484243640320/zM9EhOUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 381,
+          "like_count": 19681,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 1444
+        },
+        "username": "keaiiea",
+        "verified": false
+      }
+    ]
+  }
+}

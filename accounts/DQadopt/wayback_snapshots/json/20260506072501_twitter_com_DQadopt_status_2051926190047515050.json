@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2051730384434639356",
+    "created_at": "2026-05-06T07:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T08:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051926190047515050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1517900846117359616",
+          "start": 0,
+          "username": "sakuyaLuv01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051926190047515050",
+    "in_reply_to_user_id": "1517900846117359616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051730384434639356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakuyaLuv01 天下第一傻逼男子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1266,
+        "media_key": "3_2051730374867472384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHk158ja0AAOwgO.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2051730384434639356",
+        "created_at": "2026-05-06T07:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T08:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051926190047515050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1517900846117359616",
+              "start": 0,
+              "username": "sakuyaLuv01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051926190047515050",
+        "in_reply_to_user_id": "1517900846117359616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051730384434639356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakuyaLuv01 天下第一傻逼男子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051730374867472384"
+          ]
+        },
+        "author_id": "1517900846117359616",
+        "conversation_id": "2051730384434639356",
+        "created_at": "2026-05-05T18:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T19:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051730384434639356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uvyBNJmJ6C",
+              "end": 55,
+              "expanded_url": "https://x.com/sakuyaLuv01/status/2051730384434639356/photo/1",
+              "media_key": "3_2051730374867472384",
+              "start": 32,
+              "url": "https://t.co/uvyBNJmJ6C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051730384434639356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5019,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友送个口红还要被嘴啊好可怜啊没被朋友送过东西吧？多恶臭的嘴脸 https://t.co/uvyBNJmJ6C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2258,
+          "following_count": 342,
+          "like_count": 3325,
+          "listed_count": 1,
+          "media_count": 359,
+          "tweet_count": 3860
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-23T16:19:09.000Z",
+        "description": "非口令不回复",
+        "id": "1517900846117359616",
+        "name": "R",
+        "pinned_tweet_id": "2040685695610892674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022022033958486016/tYGNlakS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15065,
+          "following_count": 165,
+          "like_count": 2328,
+          "listed_count": 61,
+          "media_count": 965,
+          "tweet_count": 5864
+        },
+        "username": "sakuyaLuv01",
+        "verified": false
+      }
+    ]
+  }
+}

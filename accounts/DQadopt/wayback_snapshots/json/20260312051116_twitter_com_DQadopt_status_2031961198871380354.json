@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2031632747291447600",
+    "created_at": "2026-03-12T05:11:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T06:11:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031961198871380354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1580605606414557184",
+          "start": 0,
+          "username": "snu36055232"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031961198871380354",
+    "in_reply_to_user_id": "1580605606414557184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031950568613085355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snu36055232 算是接受度最高的吧毕竟只是喝掉东西而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2031632747291447600",
+        "created_at": "2026-03-12T05:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T06:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031961198871380354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1580605606414557184",
+              "start": 0,
+              "username": "snu36055232"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031961198871380354",
+        "in_reply_to_user_id": "1580605606414557184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031950568613085355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snu36055232 算是接受度最高的吧毕竟只是喝掉东西而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580605606414557184",
+        "conversation_id": "2031632747291447600",
+        "created_at": "2026-03-12T04:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T05:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031950568613085355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031950568613085355",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031632747291447600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 为啥非要喝药自杀呢？我发现推理好多人都喝药自杀可以去蹦极啊，爬到最高的山顶，直接跳下去就行了🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 234,
+          "like_count": 1418,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 1737
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T17:05:47.000Z",
+        "description": "一心想研究事业的畜生",
+        "id": "1580605606414557184",
+        "location": "一心想爱你的畜生",
+        "name": "梅菜扣肉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010341567786090496/40y_31lh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 25,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 201
+        },
+        "username": "snu36055232",
+        "verified": false
+      }
+    ]
+  }
+}

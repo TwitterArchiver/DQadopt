@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046167951028764672"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2046167969005465648",
+    "created_at": "2026-04-20T10:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T11:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046167969005465648"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/l0K3Ayikgu",
+          "end": 165,
+          "expanded_url": "https://x.com/DQadopt/status/2046167969005465648/photo/1",
+          "media_key": "3_2046167951028764672",
+          "start": 142,
+          "url": "https://t.co/l0K3Ayikgu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046167969005465648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是你的女朋友啊，我和她们的区别是什么，你的泪水你的快乐你的痛苦你的喘息可以和我绑定在一起吗，你的三千青丝每一根都只能是我的，好想掐着你的脸告诉你我有多想撕碎你，烦死了，你不会明白的，你只会不知不觉引诱我\n打出这段话我都在咬着牙\n灼烧感在我体内烧\n算了，哪怕被你吞噬殆尽也是我的极乐 https://t.co/l0K3Ayikgu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1020,
+        "media_key": "3_2046167951028764672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGVy6Q_bwAAmoyB.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046167951028764672"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2046167969005465648",
+        "created_at": "2026-04-20T10:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046167969005465648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l0K3Ayikgu",
+              "end": 165,
+              "expanded_url": "https://x.com/DQadopt/status/2046167969005465648/photo/1",
+              "media_key": "3_2046167951028764672",
+              "start": 142,
+              "url": "https://t.co/l0K3Ayikgu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046167969005465648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是你的女朋友啊，我和她们的区别是什么，你的泪水你的快乐你的痛苦你的喘息可以和我绑定在一起吗，你的三千青丝每一根都只能是我的，好想掐着你的脸告诉你我有多想撕碎你，烦死了，你不会明白的，你只会不知不觉引诱我\n打出这段话我都在咬着牙\n灼烧感在我体内烧\n算了，哪怕被你吞噬殆尽也是我的极乐 https://t.co/l0K3Ayikgu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2046,
+          "following_count": 329,
+          "like_count": 3006,
+          "listed_count": 0,
+          "media_count": 340,
+          "tweet_count": 3585
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027277452998021120"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2027040781421412478",
+    "created_at": "2026-02-27T06:59:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T07:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027277461701161329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1721208231509495808",
+          "start": 0,
+          "username": "zuo369"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/enbeh4SqsZ",
+          "end": 80,
+          "expanded_url": "https://x.com/DQadopt/status/2027277461701161329/photo/1",
+          "media_key": "3_2027277452998021120",
+          "start": 57,
+          "url": "https://t.co/enbeh4SqsZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027277461701161329",
+    "in_reply_to_user_id": "1721208231509495808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027269344192074235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuo369 之前看佛教书的时候写的感想！您对此有什么见解呢，我对死亡本身不感到恐惧，只不过有太多放不下的感情 https://t.co/enbeh4SqsZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027277452998021120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJWGj8bEAA7N0d.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027277452998021120"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2027040781421412478",
+        "created_at": "2026-02-27T06:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T07:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027277461701161329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1721208231509495808",
+              "start": 0,
+              "username": "zuo369"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/enbeh4SqsZ",
+              "end": 80,
+              "expanded_url": "https://x.com/DQadopt/status/2027277461701161329/photo/1",
+              "media_key": "3_2027277452998021120",
+              "start": 57,
+              "url": "https://t.co/enbeh4SqsZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027277461701161329",
+        "in_reply_to_user_id": "1721208231509495808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027269344192074235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuo369 之前看佛教书的时候写的感想！您对此有什么见解呢，我对死亡本身不感到恐惧，只不过有太多放不下的感情 https://t.co/enbeh4SqsZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721208231509495808",
+        "conversation_id": "2027040781421412478",
+        "created_at": "2026-02-27T06:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T07:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027269344192074235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027269344192074235",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027040781421412478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 死前如果有机会可以去看一本书叫做《西藏生死书》然后再去看一点佛法的基础理论~然后再去看《杂阿含经》多读读基本就可以解决死亡的恐惧了~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 129,
+          "like_count": 480,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 903
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T16:50:05.000Z",
+        "description": "为幻而幻/极乐成仙//精神人格分裂/欢迎互粉/        五年精通六门佛法/试药师",
+        "id": "1721208231509495808",
+        "name": "無戒禁の玄牝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014098476372815872/N_30Mz4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 172,
+          "like_count": 625,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 245
+        },
+        "username": "zuo369",
+        "verified": false
+      }
+    ]
+  }
+}

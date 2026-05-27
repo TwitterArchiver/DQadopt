@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2021058549338734880",
+    "created_at": "2026-02-10T03:08:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T04:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021058549338734880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1881295527763128320",
+          "start": 3,
+          "username": "M1ku_02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021058549338734880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020816261450527136",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @M1ku_02: 我的人生从知道两个女的也可以在一起的那一刻就变了（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2021058549338734880",
+        "created_at": "2026-02-10T03:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T04:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021058549338734880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1881295527763128320",
+              "start": 3,
+              "username": "M1ku_02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021058549338734880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020816261450527136",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @M1ku_02: 我的人生从知道两个女的也可以在一起的那一刻就变了（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881295527763128320",
+        "conversation_id": "2020816261450527136",
+        "created_at": "2026-02-09T11:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T12:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020816261450527136"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020816261450527136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10426,
+          "like_count": 186,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "我的人生从知道两个女的也可以在一起的那一刻就变了（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 79,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 413
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T10:59:49.000Z",
+        "description": "Aqours, shining!",
+        "id": "1881295527763128320",
+        "location": "Kyoto-shi Kita, Kyoto",
+        "name": "ちかっち",
+        "pinned_tweet_id": "1998063076537737711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021028810398072832/gquaf_bf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 167,
+          "like_count": 2020,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 558
+        },
+        "username": "M1ku_02",
+        "verified": false
+      }
+    ]
+  }
+}

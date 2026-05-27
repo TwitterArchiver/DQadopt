@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2020312102427324732",
+    "created_at": "2026-02-08T01:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T02:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020312102427324732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1859942695726465025",
+          "start": 3,
+          "username": "XiangouB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020312102427324732",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020113312768471338",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiangouB: 每次一刷到女人的小腹 胸 小逼 腿就被迷到不行…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2020312102427324732",
+        "created_at": "2026-02-08T01:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T02:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020312102427324732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1859942695726465025",
+              "start": 3,
+              "username": "XiangouB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020312102427324732",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020113312768471338",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XiangouB: 每次一刷到女人的小腹 胸 小逼 腿就被迷到不行…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859942695726465025",
+        "conversation_id": "2020113312768471338",
+        "created_at": "2026-02-07T12:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T13:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020113312768471338"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020113312768471338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5460,
+          "like_count": 108,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "每次一刷到女人的小腹 胸 小逼 腿就被迷到不行…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 74,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 360
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-22T12:51:20.000Z",
+        "description": "长发纯1/dom 暂不接推广 谢谢喜欢 身材控颜控｜互关老师们请找我玩 没有对象 ｜私信查主页内容 随机更新 这里是雾的匿名信箱📪；https://t.co/AmyZi1ZGGu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%97%B6%E5%B…",
+                "end": 89,
+                "expanded_url": "https://ngl.link/%E6%97%B6%E5%B4%8E",
+                "start": 66,
+                "url": "https://t.co/AmyZi1ZGGu"
+              }
+            ]
+          }
+        },
+        "id": "1859942695726465025",
+        "location": "你身边",
+        "name": "雾",
+        "pinned_tweet_id": "1916044673996722652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010187632060530688/4VKjUPRU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6166,
+          "following_count": 54,
+          "like_count": 1504,
+          "listed_count": 4,
+          "media_count": 73,
+          "tweet_count": 316
+        },
+        "username": "XiangouB",
+        "verified": false
+      }
+    ]
+  }
+}

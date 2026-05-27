@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2045244318445625772",
+    "created_at": "2026-04-18T06:08:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T07:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045383914072727913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1413049477871677442",
+          "start": 0,
+          "username": "DoroHeDoroPS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045383914072727913",
+    "in_reply_to_user_id": "1413049477871677442",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045244318445625772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DoroHeDoroPS so cute"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2045244149822099456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGIqt9UXkAA5w7i.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2045244162673405952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGIqutMW8AA5qcq.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2045244181409308672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGIqvy_WIAA8mXH.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2045244197335121920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGIqwuUWwAApV-1.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2045244318445625772",
+        "created_at": "2026-04-18T06:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045383914072727913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1413049477871677442",
+              "start": 0,
+              "username": "DoroHeDoroPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045383914072727913",
+        "in_reply_to_user_id": "1413049477871677442",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045244318445625772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DoroHeDoroPS so cute"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045244149822099456",
+            "3_2045244162673405952",
+            "3_2045244181409308672",
+            "3_2045244197335121920"
+          ]
+        },
+        "author_id": "1413049477871677442",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045244318445625772",
+        "created_at": "2026-04-17T20:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T21:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045244318445625772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hQgZx3pQrY",
+              "end": 37,
+              "expanded_url": "https://x.com/DoroHeDoroPS/status/2045244318445625772/photo/1",
+              "media_key": "3_2045244149822099456",
+              "start": 14,
+              "url": "https://t.co/hQgZx3pQrY"
+            },
+            {
+              "display_url": "pic.x.com/hQgZx3pQrY",
+              "end": 37,
+              "expanded_url": "https://x.com/DoroHeDoroPS/status/2045244318445625772/photo/1",
+              "media_key": "3_2045244162673405952",
+              "start": 14,
+              "url": "https://t.co/hQgZx3pQrY"
+            },
+            {
+              "display_url": "pic.x.com/hQgZx3pQrY",
+              "end": 37,
+              "expanded_url": "https://x.com/DoroHeDoroPS/status/2045244318445625772/photo/1",
+              "media_key": "3_2045244181409308672",
+              "start": 14,
+              "url": "https://t.co/hQgZx3pQrY"
+            },
+            {
+              "display_url": "pic.x.com/hQgZx3pQrY",
+              "end": 37,
+              "expanded_url": "https://x.com/DoroHeDoroPS/status/2045244318445625772/photo/1",
+              "media_key": "3_2045244197335121920",
+              "start": 14,
+              "url": "https://t.co/hQgZx3pQrY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045244318445625772",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 4929,
+          "like_count": 588,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "the best girl https://t.co/hQgZx3pQrY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1963,
+          "following_count": 314,
+          "like_count": 2936,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 3486
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T08:17:19.000Z",
+        "description": "screen caps of one of my fav animes                       https://t.co/BIg4k1Ufuz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "myanimelist.net/profile/CoreyF…",
+                "end": 81,
+                "expanded_url": "https://myanimelist.net/profile/CoreyFeldman",
+                "start": 58,
+                "url": "https://t.co/BIg4k1Ufuz"
+              }
+            ]
+          }
+        },
+        "id": "1413049477871677442",
+        "location": "The Hole",
+        "name": "Dorohedoro Perfect Shots",
+        "pinned_tweet_id": "2030615864194502660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1432604748021121026/60cjKPCH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2970,
+          "following_count": 61,
+          "like_count": 10941,
+          "listed_count": 10,
+          "media_count": 388,
+          "tweet_count": 799
+        },
+        "username": "DoroHeDoroPS",
+        "verified": false
+      }
+    ]
+  }
+}

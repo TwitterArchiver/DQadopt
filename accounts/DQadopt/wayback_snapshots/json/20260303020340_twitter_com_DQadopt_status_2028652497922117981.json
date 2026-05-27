@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028652402996633601",
+        "3_2028652403009134593",
+        "3_2028652402996596736"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2028652497922117981",
+    "created_at": "2026-03-03T02:03:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T03:03:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028652497922117981"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qcjb71RhgW",
+          "end": 157,
+          "expanded_url": "https://x.com/DQadopt/status/2028652497922117981/photo/1",
+          "media_key": "3_2028652402996633601",
+          "start": 134,
+          "url": "https://t.co/Qcjb71RhgW"
+        },
+        {
+          "display_url": "pic.x.com/Qcjb71RhgW",
+          "end": 157,
+          "expanded_url": "https://x.com/DQadopt/status/2028652497922117981/photo/1",
+          "media_key": "3_2028652403009134593",
+          "start": 134,
+          "url": "https://t.co/Qcjb71RhgW"
+        },
+        {
+          "display_url": "pic.x.com/Qcjb71RhgW",
+          "end": 157,
+          "expanded_url": "https://x.com/DQadopt/status/2028652497922117981/photo/1",
+          "media_key": "3_2028652402996596736",
+          "start": 134,
+          "url": "https://t.co/Qcjb71RhgW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028652497922117981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1⃣️知道这件事情的只有推友和一个现实朋友，偶尔会提起2⃣️可能吧，总之我不想掰弯她，同性恋不容易3⃣️暂时没想好，可能影片美伽4⃣️没有5⃣️和她一直都是网友哦，十年网友6⃣️😇😇😇这算是向我开战吗，女人，我肯定是没结果的，因为我大概永远无法以恋人的身份站在她身边 https://t.co/Qcjb71RhgW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1081,
+        "media_key": "3_2028652402996633601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCc4nL1bYAEIbGU.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028652403009134593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCc4nL4aIAEpazP.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028652402996596736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCc4nL1a0AAcjdW.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028652402996633601",
+            "3_2028652403009134593",
+            "3_2028652402996596736"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2028652497922117981",
+        "created_at": "2026-03-03T02:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T03:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028652497922117981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qcjb71RhgW",
+              "end": 157,
+              "expanded_url": "https://x.com/DQadopt/status/2028652497922117981/photo/1",
+              "media_key": "3_2028652402996633601",
+              "start": 134,
+              "url": "https://t.co/Qcjb71RhgW"
+            },
+            {
+              "display_url": "pic.x.com/Qcjb71RhgW",
+              "end": 157,
+              "expanded_url": "https://x.com/DQadopt/status/2028652497922117981/photo/1",
+              "media_key": "3_2028652403009134593",
+              "start": 134,
+              "url": "https://t.co/Qcjb71RhgW"
+            },
+            {
+              "display_url": "pic.x.com/Qcjb71RhgW",
+              "end": 157,
+              "expanded_url": "https://x.com/DQadopt/status/2028652497922117981/photo/1",
+              "media_key": "3_2028652402996596736",
+              "start": 134,
+              "url": "https://t.co/Qcjb71RhgW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028652497922117981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1⃣️知道这件事情的只有推友和一个现实朋友，偶尔会提起2⃣️可能吧，总之我不想掰弯她，同性恋不容易3⃣️暂时没想好，可能影片美伽4⃣️没有5⃣️和她一直都是网友哦，十年网友6⃣️😇😇😇这算是向我开战吗，女人，我肯定是没结果的，因为我大概永远无法以恋人的身份站在她身边 https://t.co/Qcjb71RhgW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 149,
+          "like_count": 756,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1022
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

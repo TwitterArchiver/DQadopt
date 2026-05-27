@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035403270966120448"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2035403281351295152",
+    "created_at": "2026-03-21T17:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T18:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035403281351295152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/b8HIbB0dhR",
+          "end": 105,
+          "expanded_url": "https://x.com/DQadopt/status/2035403281351295152/photo/1",
+          "media_key": "3_2035403270966120448",
+          "start": 82,
+          "url": "https://t.co/b8HIbB0dhR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035403281351295152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又看完了一本卡夫卡，感想如下\n好笑的是我写的东西并不代表我认可，我只是观察一切，发现并描述它们\n所以哪天你发现我写的东西自相矛盾也不必惊讶，因为我根本看不清我自己 https://t.co/b8HIbB0dhR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035403270966120448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD80fayakAA6tjm.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035403270966120448"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2035403281351295152",
+        "created_at": "2026-03-21T17:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T18:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035403281351295152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b8HIbB0dhR",
+              "end": 105,
+              "expanded_url": "https://x.com/DQadopt/status/2035403281351295152/photo/1",
+              "media_key": "3_2035403270966120448",
+              "start": 82,
+              "url": "https://t.co/b8HIbB0dhR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035403281351295152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又看完了一本卡夫卡，感想如下\n好笑的是我写的东西并不代表我认可，我只是观察一切，发现并描述它们\n所以哪天你发现我写的东西自相矛盾也不必惊讶，因为我根本看不清我自己 https://t.co/b8HIbB0dhR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 256,
+          "like_count": 2009,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 2377
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

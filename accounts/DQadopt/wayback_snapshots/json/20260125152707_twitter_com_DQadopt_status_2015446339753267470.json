@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2015051461424742631",
+    "created_at": "2026-01-25T15:27:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T16:27:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015446339753267470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1507587547370770432",
+          "start": 0,
+          "username": "iPhone1988_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015446339753267470",
+    "in_reply_to_user_id": "1507587547370770432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015051461424742631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iPhone1988_ 宝宝你好萌呀！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015051449739206656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_bmngnXYAAUwnc.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2015051449500344320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_bmnfuaoAAQF2v.jpg",
+        "width": 1279
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015051449500332032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_bmnfuacAA1K8Y.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2015051461424742631",
+        "created_at": "2026-01-25T15:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T16:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015446339753267470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1507587547370770432",
+              "start": 0,
+              "username": "iPhone1988_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015446339753267470",
+        "in_reply_to_user_id": "1507587547370770432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015051461424742631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iPhone1988_ 宝宝你好萌呀！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015051449739206656",
+            "3_2015051449500344320",
+            "3_2015051449500332032"
+          ]
+        },
+        "author_id": "1507587547370770432",
+        "conversation_id": "2015051461424742631",
+        "created_at": "2026-01-24T13:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T14:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015051461424742631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JEjXGYU6xQ",
+              "end": 53,
+              "expanded_url": "https://x.com/iPhone1988_/status/2015051461424742631/photo/1",
+              "media_key": "3_2015051449739206656",
+              "start": 30,
+              "url": "https://t.co/JEjXGYU6xQ"
+            },
+            {
+              "display_url": "pic.x.com/JEjXGYU6xQ",
+              "end": 53,
+              "expanded_url": "https://x.com/iPhone1988_/status/2015051461424742631/photo/1",
+              "media_key": "3_2015051449500344320",
+              "start": 30,
+              "url": "https://t.co/JEjXGYU6xQ"
+            },
+            {
+              "display_url": "pic.x.com/JEjXGYU6xQ",
+              "end": 53,
+              "expanded_url": "https://x.com/iPhone1988_/status/2015051461424742631/photo/1",
+              "media_key": "3_2015051449500332032",
+              "start": 30,
+              "url": "https://t.co/JEjXGYU6xQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015051461424742631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 147260,
+          "like_count": 552,
+          "quote_count": 1,
+          "reply_count": 40,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "不知道啊 门槛哥带我去吃饭 吃到一半突然让我换上这样的衣服 https://t.co/JEjXGYU6xQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我重生了，这一次我要夺回属于我的一切丨23le🌈1丨喜欢和可爱漂亮的女生互动🥰🥰🥰丨有喜欢的人不色色丨自伤碎碎念集中地",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8euxG"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 51,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 148
+        },
+        "url": "https://t.co/nFHbt8euxG",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T05:17:48.000Z",
+        "description": "喜欢可爱事物爱搞点涩涩的普通胖女孩 现生刷到请当做没看到 阿里嘎多 小女孩互关请私 喜欢的话请投喂 有🚪 喜欢有礼貌的人",
+        "id": "1507587547370770432",
+        "location": "上海",
+        "name": "盐焗蟑螂脆片",
+        "pinned_tweet_id": "2011750578079301919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011426507688996865/2sPPzwVB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2039,
+          "following_count": 74,
+          "like_count": 295,
+          "listed_count": 5,
+          "media_count": 23,
+          "tweet_count": 138
+        },
+        "username": "iPhone1988_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2052651635449675969",
+    "created_at": "2026-05-08T07:54:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T08:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052658358742835581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2030250921402535938",
+          "start": 0,
+          "username": "Yepwithyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052658358742835581",
+    "in_reply_to_user_id": "2030250921402535938",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052658034565124174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yepwithyou 唉，被管教好幸福的吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2052651635449675969",
+        "created_at": "2026-05-08T07:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052658358742835581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2030250921402535938",
+              "start": 0,
+              "username": "Yepwithyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052658358742835581",
+        "in_reply_to_user_id": "2030250921402535938",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052658034565124174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yepwithyou 唉，被管教好幸福的吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030250921402535938",
+        "conversation_id": "2052651635449675969",
+        "created_at": "2026-05-08T07:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052658034565124174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052658034565124174",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052651635449675969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 幸福的爱，管控中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2267,
+          "following_count": 343,
+          "like_count": 3367,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 3954
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T11:56:02.000Z",
+        "description": "心里总是下小雨 🚪18888（购买我的爱）",
+        "id": "2030250921402535938",
+        "location": "always by your side",
+        "name": "椰",
+        "pinned_tweet_id": "2040201177053233387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031992162141999104/aGlsuHS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 81,
+          "like_count": 3646,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 469
+        },
+        "username": "Yepwithyou",
+        "verified": false
+      }
+    ]
+  }
+}

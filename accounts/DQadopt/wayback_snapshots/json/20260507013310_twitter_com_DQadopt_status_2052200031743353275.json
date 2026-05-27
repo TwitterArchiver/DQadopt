@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2052110788777877864",
+    "created_at": "2026-05-07T01:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T02:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052200031743353275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1575765089030139905",
+          "start": 0,
+          "username": "wodanggangqiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052200031743353275",
+    "in_reply_to_user_id": "1575765089030139905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052110788777877864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wodanggangqiang 这群猪尼玛的没救了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1504,
+        "media_key": "3_2052110679851872256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHqPynBbMAAXdgf.jpg",
+        "width": 1002
+      },
+      {
+        "height": 1504,
+        "media_key": "3_2052110699028197376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHqPzudasAA8kiE.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2052110788777877864",
+        "created_at": "2026-05-07T01:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T02:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052200031743353275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1575765089030139905",
+              "start": 0,
+              "username": "wodanggangqiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052200031743353275",
+        "in_reply_to_user_id": "1575765089030139905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052110788777877864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wodanggangqiang 这群猪尼玛的没救了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052110679851872256",
+            "3_2052110699028197376"
+          ]
+        },
+        "author_id": "1575765089030139905",
+        "conversation_id": "2052110788777877864",
+        "created_at": "2026-05-06T19:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T20:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052110788777877864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Mp9bmz8Yu",
+              "end": 44,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2052110788777877864/photo/1",
+              "media_key": "3_2052110679851872256",
+              "start": 21,
+              "url": "https://t.co/8Mp9bmz8Yu"
+            },
+            {
+              "display_url": "pic.x.com/8Mp9bmz8Yu",
+              "end": 44,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2052110788777877864/photo/1",
+              "media_key": "3_2052110699028197376",
+              "start": 21,
+              "url": "https://t.co/8Mp9bmz8Yu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052110788777877864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3967,
+          "like_count": 193,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "警惕家暴娱乐化，婚女真是女的脑子发昏了。 https://t.co/8Mp9bmz8Yu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2266,
+          "following_count": 341,
+          "like_count": 3342,
+          "listed_count": 1,
+          "media_count": 360,
+          "tweet_count": 3902
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:31:04.000Z",
+        "description": "独立而自由的灵魂，才是幸福之源。做自己，比任何事情都重要。",
+        "id": "1575765089030139905",
+        "location": "Japan",
+        "name": "我当刚强壮胆",
+        "pinned_tweet_id": "1824841439647515059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961052065981194240/mj8Sddub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28995,
+          "following_count": 561,
+          "like_count": 35395,
+          "listed_count": 90,
+          "media_count": 9992,
+          "tweet_count": 27369
+        },
+        "url": "",
+        "username": "wodanggangqiang",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2017203325389926652",
+    "created_at": "2026-01-30T11:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T12:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017203325389926652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1865279228893335552",
+          "start": 3,
+          "username": "catmin233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017203325389926652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001136975550816388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @catmin233: 【给套上美丽的枷锁】\n拿到手真的有美到我！(˵¯͒〰¯͒˵)\n\n三只小狐狸上面都会有红宝石镶嵌，质感是略沉的！夹夹的大小也非常的合适，夹上去松紧合适，会有比较明显的痛感~\n\n感觉奶子变成艺术品了一样！(*´v`*)\n\n乳夹：【索迹·赤瞳灵狐提拉乳夹…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2017203325389926652].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2017203325389926652",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2017203325389926652"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 125133,
+        "height": 720,
+        "media_key": "7_2001136804809056256",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2001136804809056256/pu/img/CIbriSxWQqD_usWL.jpg",
+        "public_metrics": {
+          "view_count": 17993
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2001136804809056256/pu/vid/avc1/480x270/GuWEkRLCsJrWwCFp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2001136804809056256/pu/vid/avc1/640x360/M1ljRDoimxXJFIPf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2001136804809056256/pu/vid/avc1/1280x720/4Gk5Pltqll33Xsqd.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2001136804809056256/pu/pl/zTW9H0lzDRERwDIw.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2001136804809056256"
+          ]
+        },
+        "author_id": "1865279228893335552",
+        "conversation_id": "2001136975550816388",
+        "created_at": "2025-12-17T03:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T04:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001136975550816388"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "le"
+            },
+            {
+              "end": 156,
+              "start": 151,
+              "tag": "女同性恋"
+            },
+            {
+              "end": 160,
+              "start": 157,
+              "tag": "索迹"
+            },
+            {
+              "end": 164,
+              "start": 161,
+              "tag": "女同"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 144,
+              "id": "1344473074394046464",
+              "start": 128,
+              "username": "LockinkOfficial"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EClxSCAzaB",
+              "end": 188,
+              "expanded_url": "https://x.com/catmin233/status/2001136975550816388/video/1",
+              "media_key": "7_2001136804809056256",
+              "start": 165,
+              "url": "https://t.co/EClxSCAzaB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001136975550816388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 251,
+          "impression_count": 51933,
+          "like_count": 907,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "【给套上美丽的枷锁】\n拿到手真的有美到我！(˵¯͒〰¯͒˵)\n\n三只小狐狸上面都会有红宝石镶嵌，质感是略沉的！夹夹的大小也非常的合适，夹上去松紧合适，会有比较明显的痛感~\n\n感觉奶子变成艺术品了一样！(*´v`*)\n\n乳夹：【索迹·赤瞳灵狐提拉乳夹】来自：@LockinkOfficial \n\n#le #女同性恋 #索迹 #女同 https://t.co/EClxSCAzaB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 58,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 203
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T06:16:46.000Z",
+        "description": "视频系列01-03按需购买/魅魔0天天都想做/纯躺枕头公主/情侣博主/🈲一切墙内/🈲男/🈲偷视频引流赚钱/le6年情侣/bdsm/轻度sp/1v1干净主奴关系/宝宝是我亲手调教的女友（关评为广，推广自辫）\n\n【接定制视频，有购视频需求直接看置顶】\n【姐姐是纯1，温柔s/账号@yyfish520】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 137,
+                "username": "yyfish520"
+              }
+            ]
+          }
+        },
+        "id": "1865279228893335552",
+        "location": "推广寄拍有意私聊",
+        "name": "小猫酱啊(女同)",
+        "pinned_tweet_id": "2012733124170670498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918309101999886336/N2DRmx5b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12472,
+          "following_count": 55,
+          "like_count": 92,
+          "listed_count": 26,
+          "media_count": 99,
+          "tweet_count": 314
+        },
+        "username": "catmin233",
+        "verified": false
+      }
+    ]
+  }
+}

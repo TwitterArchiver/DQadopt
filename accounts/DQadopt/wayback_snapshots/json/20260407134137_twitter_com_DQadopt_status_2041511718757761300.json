@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2041126179886059584",
+    "created_at": "2026-04-07T13:41:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T14:41:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041511718757761300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1575765089030139905",
+          "start": 0,
+          "username": "wodanggangqiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041511718757761300",
+    "in_reply_to_user_id": "1575765089030139905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041126179886059584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wodanggangqiang 好难过"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 521,
+        "media_key": "3_2041126175897260032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOJcVAbkAATVfH.jpg",
+        "width": 1093
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2041126179886059584",
+        "created_at": "2026-04-07T13:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041511718757761300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1575765089030139905",
+              "start": 0,
+              "username": "wodanggangqiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041511718757761300",
+        "in_reply_to_user_id": "1575765089030139905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041126179886059584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wodanggangqiang 好难过"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041126175897260032"
+          ]
+        },
+        "author_id": "1575765089030139905",
+        "conversation_id": "2041126179886059584",
+        "created_at": "2026-04-06T12:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041126179886059584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jp400f4Op8",
+              "end": 88,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2041126179886059584/photo/1",
+              "media_key": "3_2041126175897260032",
+              "start": 65,
+              "url": "https://t.co/jp400f4Op8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041126179886059584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 167351,
+          "like_count": 3473,
+          "quote_count": 9,
+          "reply_count": 146,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "请正视所有劳动人民的正常生理诉求，请尊重所有劳动人民的正常人格，请改善所有遭到不公对待的劳动人民的待遇，劳动人民不是劳动力工具。 https://t.co/jp400f4Op8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1746,
+          "following_count": 305,
+          "like_count": 2520,
+          "listed_count": 0,
+          "media_count": 303,
+          "tweet_count": 2947
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:31:04.000Z",
+        "description": "独立而自由的灵魂，才是幸福之源。做自己，比任何事情都重要。",
+        "id": "1575765089030139905",
+        "location": "Japan",
+        "name": "我当刚强壮胆",
+        "pinned_tweet_id": "1824841439647515059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961052065981194240/mj8Sddub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28224,
+          "following_count": 561,
+          "like_count": 34463,
+          "listed_count": 91,
+          "media_count": 9790,
+          "tweet_count": 26761
+        },
+        "username": "wodanggangqiang",
+        "verified": true
+      }
+    ]
+  }
+}

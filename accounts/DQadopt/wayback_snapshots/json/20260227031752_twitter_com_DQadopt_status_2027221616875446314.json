@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027221607727665152"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2027221616875446314",
+    "created_at": "2026-02-27T03:17:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T04:17:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027221616875446314"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EcJYxfFmCj",
+          "end": 155,
+          "expanded_url": "https://x.com/DQadopt/status/2027221616875446314/photo/1",
+          "media_key": "3_2027221607727665152",
+          "start": 132,
+          "url": "https://t.co/EcJYxfFmCj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027221616875446314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在每个月要给家里2000，每年还要给福利院钱，唉压力真的好大啊，3月份开始我要控制自己了必须要开始画画赚钱了不能再摆烂了，我至少得回到1月份的工作强度，这个月收入才5500，我必须要挣很多钱才可以，我现在对她根本就不算好，差太多了，我才23岁我还可以赚很多钱 https://t.co/EcJYxfFmCj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 844,
+        "media_key": "3_2027221607727665152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIjT8GakAA4en_.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027221607727665152"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2027221616875446314",
+        "created_at": "2026-02-27T03:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T04:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027221616875446314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EcJYxfFmCj",
+              "end": 155,
+              "expanded_url": "https://x.com/DQadopt/status/2027221616875446314/photo/1",
+              "media_key": "3_2027221607727665152",
+              "start": 132,
+              "url": "https://t.co/EcJYxfFmCj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027221616875446314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在每个月要给家里2000，每年还要给福利院钱，唉压力真的好大啊，3月份开始我要控制自己了必须要开始画画赚钱了不能再摆烂了，我至少得回到1月份的工作强度，这个月收入才5500，我必须要挣很多钱才可以，我现在对她根本就不算好，差太多了，我才23岁我还可以赚很多钱 https://t.co/EcJYxfFmCj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 128,
+          "like_count": 457,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 889
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

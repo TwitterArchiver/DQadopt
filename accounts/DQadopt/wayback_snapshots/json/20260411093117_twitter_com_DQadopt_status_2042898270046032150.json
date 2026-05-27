@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2042898270046032150",
+    "created_at": "2026-04-11T09:31:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T10:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042898270046032150"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_forab/status/…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/_forab/status/2042815154627518622",
+          "start": 49,
+          "url": "https://t.co/2Twhgxypxy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042898270046032150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042815154627518622",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好好好到时候我用这个，qq和微信还有tg不熟悉的人不方便加，这个好用的话以后你们想加可以加我这个 https://t.co/2Twhgxypxy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1348,
+        "media_key": "3_2042814585875632134",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmJCuUakAY3x3v.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1051,
+        "media_key": "3_2042814613595787266",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmJEVlakAIApn7.jpg",
+        "width": 1051
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2042898270046032150",
+        "created_at": "2026-04-11T09:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042898270046032150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_forab/status/…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/_forab/status/2042815154627518622",
+              "start": 49,
+              "url": "https://t.co/2Twhgxypxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042898270046032150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042815154627518622",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好好好到时候我用这个，qq和微信还有tg不熟悉的人不方便加，这个好用的话以后你们想加可以加我这个 https://t.co/2Twhgxypxy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042814585875632134",
+            "3_2042814613595787266"
+          ]
+        },
+        "author_id": "4848269835",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042815154627518622",
+        "created_at": "2026-04-11T04:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042815154627518622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ht6uuLPkP4",
+              "end": 173,
+              "expanded_url": "https://x.com/_FORAB/status/2042815154627518622/photo/1",
+              "media_key": "3_2042814585875632134",
+              "start": 150,
+              "url": "https://t.co/Ht6uuLPkP4"
+            },
+            {
+              "display_url": "pic.x.com/Ht6uuLPkP4",
+              "end": 173,
+              "expanded_url": "https://x.com/_FORAB/status/2042815154627518622/photo/1",
+              "media_key": "3_2042814613595787266",
+              "start": 150,
+              "url": "https://t.co/Ht6uuLPkP4"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "451617631d24d98c"
+        },
+        "id": "2042815154627518622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 368,
+          "impression_count": 323495,
+          "like_count": 1150,
+          "quote_count": 34,
+          "reply_count": 255,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "马斯克最后还是做社交了，各地区的苹果商店，已经上架 X Chat 应用下载预定，它支持\n\n• 端到端加密聊天\n• 阻止屏幕截图和录制\n• 可删除所有人的消息\n• 跨设备语音或视频通话\n• 聊天阅后即焚或自动消失\n• 数百人的大型群聊，支持 X 账号\n\n简直是一个大型的隐私聊天应用，TG 这下完了。 https://t.co/Ht6uuLPkP4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1852,
+          "following_count": 315,
+          "like_count": 2811,
+          "listed_count": 0,
+          "media_count": 319,
+          "tweet_count": 3202
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "location": "🇯🇵 Tokyo , Japan",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114122,
+          "following_count": 595,
+          "like_count": 9976,
+          "listed_count": 1886,
+          "media_count": 3053,
+          "tweet_count": 13905
+        },
+        "username": "_FORAB",
+        "verified": true
+      }
+    ]
+  }
+}

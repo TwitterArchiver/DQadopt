@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042589241142841345",
+        "3_2042589241142870016",
+        "3_2042589241239285760",
+        "3_2042589241147035649"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042589255302811735",
+    "created_at": "2026-04-10T13:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T14:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042589255302811735"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p7vyfAgibM",
+          "end": 95,
+          "expanded_url": "https://x.com/DQadopt/status/2042589255302811735/photo/1",
+          "media_key": "3_2042589241142841345",
+          "start": 72,
+          "url": "https://t.co/p7vyfAgibM"
+        },
+        {
+          "display_url": "pic.x.com/p7vyfAgibM",
+          "end": 95,
+          "expanded_url": "https://x.com/DQadopt/status/2042589255302811735/photo/1",
+          "media_key": "3_2042589241142870016",
+          "start": 72,
+          "url": "https://t.co/p7vyfAgibM"
+        },
+        {
+          "display_url": "pic.x.com/p7vyfAgibM",
+          "end": 95,
+          "expanded_url": "https://x.com/DQadopt/status/2042589255302811735/photo/1",
+          "media_key": "3_2042589241239285760",
+          "start": 72,
+          "url": "https://t.co/p7vyfAgibM"
+        },
+        {
+          "display_url": "pic.x.com/p7vyfAgibM",
+          "end": 95,
+          "expanded_url": "https://x.com/DQadopt/status/2042589255302811735/photo/1",
+          "media_key": "3_2042589241147035649",
+          "start": 72,
+          "url": "https://t.co/p7vyfAgibM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042589255302811735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小鸟和我蛮像的，也有很多差异🤔🤔\n比如想法上她偏好一刀切，非黑即白，没有中间值，我的话，认为万事万物都不绝对，世界不是非黑即白而是一道精致的灰 https://t.co/p7vyfAgibM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2042589241142841345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFi8F7xakAEBOV6.jpg",
+        "width": 1419
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2042589241142870016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFi8F7xbAAAfXFF.jpg",
+        "width": 1419
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2042589241239285760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFi8F8IaMAA7i6C.jpg",
+        "width": 1419
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2042589241147035649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFi8F7yakAEzaAH.jpg",
+        "width": 1419
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042589241142841345",
+            "3_2042589241142870016",
+            "3_2042589241239285760",
+            "3_2042589241147035649"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042589255302811735",
+        "created_at": "2026-04-10T13:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042589255302811735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p7vyfAgibM",
+              "end": 95,
+              "expanded_url": "https://x.com/DQadopt/status/2042589255302811735/photo/1",
+              "media_key": "3_2042589241142841345",
+              "start": 72,
+              "url": "https://t.co/p7vyfAgibM"
+            },
+            {
+              "display_url": "pic.x.com/p7vyfAgibM",
+              "end": 95,
+              "expanded_url": "https://x.com/DQadopt/status/2042589255302811735/photo/1",
+              "media_key": "3_2042589241142870016",
+              "start": 72,
+              "url": "https://t.co/p7vyfAgibM"
+            },
+            {
+              "display_url": "pic.x.com/p7vyfAgibM",
+              "end": 95,
+              "expanded_url": "https://x.com/DQadopt/status/2042589255302811735/photo/1",
+              "media_key": "3_2042589241239285760",
+              "start": 72,
+              "url": "https://t.co/p7vyfAgibM"
+            },
+            {
+              "display_url": "pic.x.com/p7vyfAgibM",
+              "end": 95,
+              "expanded_url": "https://x.com/DQadopt/status/2042589255302811735/photo/1",
+              "media_key": "3_2042589241147035649",
+              "start": 72,
+              "url": "https://t.co/p7vyfAgibM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042589255302811735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小鸟和我蛮像的，也有很多差异🤔🤔\n比如想法上她偏好一刀切，非黑即白，没有中间值，我的话，认为万事万物都不绝对，世界不是非黑即白而是一道精致的灰 https://t.co/p7vyfAgibM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1845,
+          "following_count": 313,
+          "like_count": 2783,
+          "listed_count": 0,
+          "media_count": 318,
+          "tweet_count": 3162
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

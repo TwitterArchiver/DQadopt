@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2019317241129627919",
+    "created_at": "2026-02-05T12:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T13:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019388633263010027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1959688702088945664",
+          "start": 0,
+          "username": "SPYDER_AIO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019388633263010027",
+    "in_reply_to_user_id": "1959688702088945664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019317241129627919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SPYDER_AIO 亚硝酸钠的诱惑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019317228580356096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAYOUhJbwAADek0.jpg",
+        "width": 1004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2019317241129627919",
+        "created_at": "2026-02-05T12:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T13:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019388633263010027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1959688702088945664",
+              "start": 0,
+              "username": "SPYDER_AIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019388633263010027",
+        "in_reply_to_user_id": "1959688702088945664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019317241129627919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SPYDER_AIO 亚硝酸钠的诱惑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019317228580356096"
+          ]
+        },
+        "author_id": "1959688702088945664",
+        "conversation_id": "2019317241129627919",
+        "created_at": "2026-02-05T07:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T08:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019317241129627919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BnTRZEwb1t",
+              "end": 153,
+              "expanded_url": "https://x.com/SPYDER_AIO/status/2019317241129627919/photo/1",
+              "media_key": "3_2019317228580356096",
+              "start": 130,
+              "url": "https://t.co/BnTRZEwb1t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019317241129627919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4070,
+          "like_count": 43,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "在这里我给大家爆个大瓜\nN55 那天就是我报警给她送进精神病院的\n就是我报警导致了后续一系列破事\n那天她药物过量我报的警\n报警通话记录删了\n附图为我当时假借给她亚硝酸钠骗出来她地址的过程（地址已隐去）\n我也算是 yn 圈历史上重大事件的一个推手了\n唉…对不起 https://t.co/BnTRZEwb1t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 68,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 315
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T18:46:20.000Z",
+        "description": "以色列SPYDER AIO防空系统是以色列拉斐尔先进防御系统公司与以色列航空工业公司联合研制的机动防空平台。\n配备exMHR雷达，该雷达工作在F波段，由四个非旋转雷达组成，每个覆盖90度扇区，可提供360度全向覆盖，最大射程达110公里，且具备自动识别大多数 飞机的能力\n可发射怪蛇-5、I-DERBY SR等制导飞弹.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rafael.co.il",
+                "end": 23,
+                "expanded_url": "http://www.rafael.co.il/",
+                "start": 0,
+                "url": "https://t.co/7B2Q6w7p87"
+              }
+            ]
+          }
+        },
+        "id": "1959688702088945664",
+        "location": "רפאל-מערכות לחימה מתקדמות בע",
+        "name": "SPYDER AIO SPAA SYSTEM🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1959977502295929152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959988780779405312/ISyppMCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 465,
+          "like_count": 869,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 81
+        },
+        "url": "https://t.co/7B2Q6w7p87",
+        "username": "SPYDER_AIO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2009199531930603894",
+    "created_at": "2026-01-08T09:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T10:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009199531930603894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qwq61018008/st…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/qwq61018008/status/2009018399700210121",
+          "start": 41,
+          "url": "https://t.co/2cMaeIxcZe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009199531930603894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009018399700210121",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好可怜一堆人对着账号是皮下男的ai图艾特ai脱ai图的衣，男的怎么这么可怜😭😭😭 https://t.co/2cMaeIxcZe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2009018392825532416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-F3lYOXkAAt0wu.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2009199531930603894",
+        "created_at": "2026-01-08T09:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T10:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009199531930603894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qwq61018008/st…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/qwq61018008/status/2009018399700210121",
+              "start": 41,
+              "url": "https://t.co/2cMaeIxcZe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009199531930603894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009018399700210121",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好可怜一堆人对着账号是皮下男的ai图艾特ai脱ai图的衣，男的怎么这么可怜😭😭😭 https://t.co/2cMaeIxcZe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009018392825532416"
+          ]
+        },
+        "author_id": "1396280949495590913",
+        "conversation_id": "2009018399700210121",
+        "created_at": "2026-01-07T21:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T22:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009018399700210121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1720665183188922368",
+              "start": 11,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJWkHgsp8Z",
+              "end": 40,
+              "expanded_url": "https://x.com/qwq61018008/status/2009018399700210121/photo/1",
+              "media_key": "3_2009018392825532416",
+              "start": 17,
+              "url": "https://t.co/jJWkHgsp8Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009018399700210121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8202,
+          "impression_count": 711230,
+          "like_count": 20768,
+          "quote_count": 14,
+          "reply_count": 368,
+          "retweet_count": 555
+        },
+        "reply_settings": "everyone",
+        "text": "可以做你的仙子师父吗\n@grok https://t.co/jJWkHgsp8Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我重生了，这一次我要夺回属于我的一切丨23le🌈1丨喜欢和可爱漂亮的女生互动🥰🥰🥰丨有喜欢的人不色色丨自伤化学原料滥用碎碎念集中地",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8euxG"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 37,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 64
+        },
+        "url": "https://t.co/nFHbt8euxG",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-23T01:45:03.000Z",
+        "description": "射屏可以发我哦",
+        "id": "1396280949495590913",
+        "name": "茶警官",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1396281153602998274/Y5pw-ruP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8840,
+          "following_count": 88,
+          "like_count": 1137,
+          "listed_count": 36,
+          "media_count": 62,
+          "tweet_count": 184
+        },
+        "username": "qwq61018008",
+        "verified": false
+      }
+    ]
+  }
+}

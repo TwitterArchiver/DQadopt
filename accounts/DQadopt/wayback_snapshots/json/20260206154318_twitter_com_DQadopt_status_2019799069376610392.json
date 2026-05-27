@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2019739689373294801",
+    "created_at": "2026-02-06T15:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T16:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019799069376610392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1892556625350930432",
+          "start": 0,
+          "username": "mydearlittlep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019799069376610392",
+    "in_reply_to_user_id": "1892556625350930432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019739689373294801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mydearlittlep 有点懵逼有点醉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2019739689373294801",
+        "created_at": "2026-02-06T15:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T16:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019799069376610392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1892556625350930432",
+              "start": 0,
+              "username": "mydearlittlep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019799069376610392",
+        "in_reply_to_user_id": "1892556625350930432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019739689373294801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mydearlittlep 有点懵逼有点醉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892556625350930432",
+        "conversation_id": "2019739689373294801",
+        "created_at": "2026-02-06T11:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T12:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019739689373294801"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019739689373294801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 958,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "17年是蓝瘦香菇 18年是丧 19年是自闭 20年是网抑 21年是emo 22年是破防了 23年是玉玉了 24年是俺不中了 25年是心理委员我不得劲 26年呢 互联网用什么来形容姐的悲伤呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 71,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 333
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-20T12:47:27.000Z",
+        "description": "pray for me please",
+        "id": "1892556625350930432",
+        "location": "2km",
+        "name": "喵",
+        "pinned_tweet_id": "2019756677877113007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013269040135806976/uJsXvhEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4610,
+          "following_count": 401,
+          "like_count": 9253,
+          "listed_count": 31,
+          "media_count": 1942,
+          "tweet_count": 10653
+        },
+        "username": "mydearlittlep",
+        "verified": false
+      }
+    ]
+  }
+}

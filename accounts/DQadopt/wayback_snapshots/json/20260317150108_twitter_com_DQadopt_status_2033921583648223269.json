@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2033855801325126041",
+    "created_at": "2026-03-17T15:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T16:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033921583648223269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1606550349569216512",
+          "start": 0,
+          "username": "zangshiyilang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033921583648223269",
+    "in_reply_to_user_id": "1606550349569216512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033914177849594007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zangshiyilang 不用说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2033855801325126041",
+        "created_at": "2026-03-17T15:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T16:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033921583648223269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1606550349569216512",
+              "start": 0,
+              "username": "zangshiyilang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033921583648223269",
+        "in_reply_to_user_id": "1606550349569216512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033914177849594007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zangshiyilang 不用说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1606550349569216512",
+        "conversation_id": "2033855801325126041",
+        "created_at": "2026-03-17T14:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T15:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033914177849594007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033914177849594007",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033855801325126041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 尼玛，真的假的？这也……这不是你的错，可是……操。🆗怎么说呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 243,
+          "like_count": 1809,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 2133
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-24T07:20:45.000Z",
+        "description": "随时疯狂",
+        "id": "1606550349569216512",
+        "location": "0.001cm",
+        "name": "唔诶、",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891512415411728384/lWOmZX6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 104,
+          "like_count": 443,
+          "listed_count": 3,
+          "media_count": 275,
+          "tweet_count": 9223
+        },
+        "username": "zangshiyilang",
+        "verified": false
+      }
+    ]
+  }
+}

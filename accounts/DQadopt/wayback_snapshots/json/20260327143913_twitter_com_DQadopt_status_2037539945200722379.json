@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037539886644023297"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2037539945200722379",
+    "created_at": "2026-03-27T14:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T15:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037539945200722379"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 25,
+          "tag": "女同性恋"
+        },
+        {
+          "end": 35,
+          "start": 31,
+          "tag": "wlw"
+        },
+        {
+          "end": 41,
+          "start": 37,
+          "tag": "les"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EtZMdUK7XE",
+          "end": 65,
+          "expanded_url": "https://x.com/DQadopt/status/2037539945200722379/photo/1",
+          "media_key": "3_2037539886644023297",
+          "start": 42,
+          "url": "https://t.co/EtZMdUK7XE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037539945200722379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谈吗，分手国道互砍，算了直接互砍吧，不想经历分手\n#女同性恋 #wlw  #les https://t.co/EtZMdUK7XE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1431,
+        "media_key": "3_2037539886644023297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEbLu0cbUAE3Xzn.jpg",
+        "width": 1164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037539886644023297"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2037539945200722379",
+        "created_at": "2026-03-27T14:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037539945200722379"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "女同性恋"
+            },
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "wlw"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "les"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EtZMdUK7XE",
+              "end": 65,
+              "expanded_url": "https://x.com/DQadopt/status/2037539945200722379/photo/1",
+              "media_key": "3_2037539886644023297",
+              "start": 42,
+              "url": "https://t.co/EtZMdUK7XE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037539945200722379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谈吗，分手国道互砍，算了直接互砍吧，不想经历分手\n#女同性恋 #wlw  #les https://t.co/EtZMdUK7XE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是明恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1493,
+          "following_count": 264,
+          "like_count": 2251,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 2502
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2034232293607539060",
+    "created_at": "2026-03-20T08:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T09:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034904614064287866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1550451714028756992",
+          "start": 0,
+          "username": "404PrtiLe000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034904614064287866",
+    "in_reply_to_user_id": "1550451714028756992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034902597401026713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@404PrtiLe000 我要吃逼！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2034232293607539060",
+        "created_at": "2026-03-20T08:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T09:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034904614064287866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1550451714028756992",
+              "start": 0,
+              "username": "404PrtiLe000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034904614064287866",
+        "in_reply_to_user_id": "1550451714028756992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034902597401026713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@404PrtiLe000 我要吃逼！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550451714028756992",
+        "conversation_id": "2034232293607539060",
+        "created_at": "2026-03-20T07:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T08:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034902597401026713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034902597401026713",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034232293607539060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 赤壁就是享福。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1376,
+          "following_count": 250,
+          "like_count": 1935,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 2267
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T12:04:41.000Z",
+        "description": "#le #brat",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "le"
+              },
+              {
+                "end": 9,
+                "start": 4,
+                "tag": "brat"
+              }
+            ]
+          }
+        },
+        "id": "1550451714028756992",
+        "location": "China",
+        "name": "R",
+        "pinned_tweet_id": "2022241730427498807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027161283725012992/UvnfhRt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 56,
+          "like_count": 254,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 69
+        },
+        "username": "404PrtiLe000",
+        "verified": false
+      }
+    ]
+  }
+}

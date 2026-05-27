@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2032027597308379163",
+    "created_at": "2026-03-12T11:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T12:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032063853870399790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2002704128808722432",
+          "start": 0,
+          "username": "elie330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032063853870399790",
+    "in_reply_to_user_id": "2002704128808722432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032063211093057759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elie330 老师啊啊啊啊啊啊啊你别这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2032027597308379163",
+        "created_at": "2026-03-12T11:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T12:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032063853870399790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2002704128808722432",
+              "start": 0,
+              "username": "elie330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032063853870399790",
+        "in_reply_to_user_id": "2002704128808722432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032063211093057759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elie330 老师啊啊啊啊啊啊啊你别这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002704128808722432",
+        "conversation_id": "2032027597308379163",
+        "created_at": "2026-03-12T11:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T12:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032063211093057759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032063211093057759",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032027597308379163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 对不起૮₍ っ ̫-₎ა 我学历浅薄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 234,
+          "like_count": 1444,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 1773
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T11:34:23.000Z",
+        "description": "#le #wlw 恬恬的日记/开心了瞎写写不开心也瞎写写ʚ ˃ ᵕ ˂ ɞ/止于推/想了解更多或者互fo的请私信我吧₍^˶-𖥦-˵^₎੭/🚪52 匿名投稿在下面 ˃̶͈ ꇴ ˂̶͈ /不约哦（次抛考虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "le"
+              },
+              {
+                "end": 8,
+                "start": 4,
+                "tag": "wlw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%81%B6%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%81%B6%E5%8A%A31",
+                "start": 0,
+                "url": "https://t.co/kn89CTzcjr"
+              }
+            ]
+          }
+        },
+        "id": "2002704128808722432",
+        "location": "˶ᵔ ᵕ ᵔ˶",
+        "name": "我幸福的话谁痛苦都可以",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026496595999473665/eCtuzIT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 72,
+          "like_count": 1359,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 288
+        },
+        "url": "https://t.co/kn89CTzcjr",
+        "username": "elie330",
+        "verified": false
+      }
+    ]
+  }
+}

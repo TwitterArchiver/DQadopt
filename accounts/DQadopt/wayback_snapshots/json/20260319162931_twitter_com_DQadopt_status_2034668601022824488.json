@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2034668601022824488",
+    "created_at": "2026-03-19T16:29:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T17:29:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034668601022824488"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maeve10000/sta…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/maeve10000/status/2015049494514278409",
+          "start": 52,
+          "url": "https://t.co/47KcbFa2SX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034668601022824488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015049494514278409",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "乖乖掰开等着被玩也太听话了，好次好次，乖➕毛➕白浆完美戳中xp，好次好次，诚邀查家军的女同粉丝都来品鉴 https://t.co/47KcbFa2SX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 83666,
+        "height": 978,
+        "media_key": "13_2015049345218084864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015049345218084864/img/jiCC1UFQaLUjj6z8.jpg",
+        "public_metrics": {
+          "view_count": 72902
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015049345218084864/vid/avc1/320x434/D1VtrzcrrQuj7BsX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015049345218084864/vid/avc1/480x652/ilS98Wtj9Y7owLwu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015049345218084864/vid/avc1/720x978/ng-7gQP894aAUu79.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015049345218084864/pl/S-p2aZ0KDO0aXbne.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2034668601022824488",
+        "created_at": "2026-03-19T16:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T17:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034668601022824488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maeve10000/sta…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/maeve10000/status/2015049494514278409",
+              "start": 52,
+              "url": "https://t.co/47KcbFa2SX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034668601022824488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015049494514278409",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "乖乖掰开等着被玩也太听话了，好次好次，乖➕毛➕白浆完美戳中xp，好次好次，诚邀查家军的女同粉丝都来品鉴 https://t.co/47KcbFa2SX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015049345218084864"
+          ]
+        },
+        "author_id": "1401530888400293889",
+        "conversation_id": "2015049494514278409",
+        "created_at": "2026-01-24T13:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T14:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015049494514278409"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "女同"
+            },
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "wlw"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "le"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Keo0BuLs8y",
+              "end": 64,
+              "expanded_url": "https://x.com/Maeve10000/status/2015049494514278409/video/1",
+              "media_key": "13_2015049345218084864",
+              "start": 41,
+              "url": "https://t.co/Keo0BuLs8y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015049494514278409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 622,
+          "impression_count": 165549,
+          "like_count": 1764,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "吃上饭了，内含高潮控制、扇逼、白浆等未成年拉拉不宜情节。#女同 #wlw #le https://t.co/Keo0BuLs8y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1379,
+          "following_count": 250,
+          "like_count": 1890,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 2239
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-06T13:26:35.000Z",
+        "description": "🌈被主人养成中的贱狗 les m/sub （也可能变成switch😋）欢迎女性私信📮—顺直男死远点🈲️",
+        "id": "1401530888400293889",
+        "location": "日本",
+        "name": "小齿🦷的养成日记",
+        "pinned_tweet_id": "1786772869042561081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796936090454040576/dbzoNTMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5474,
+          "following_count": 293,
+          "like_count": 558,
+          "listed_count": 12,
+          "media_count": 24,
+          "tweet_count": 479
+        },
+        "username": "Maeve10000",
+        "verified": false
+      }
+    ]
+  }
+}

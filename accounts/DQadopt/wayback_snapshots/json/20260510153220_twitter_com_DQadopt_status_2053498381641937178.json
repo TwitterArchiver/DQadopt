@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2053498381641937178",
+    "created_at": "2026-05-10T15:32:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T16:32:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053498381641937178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1476452594608336901",
+          "start": 0,
+          "username": "huxin66759348"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/zxy1473129/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/zxy1473129/status/2053136143408148982",
+          "start": 15,
+          "url": "https://t.co/75bXNYa1Su"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053498381641937178",
+    "in_reply_to_user_id": "1476452594608336901",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053136143408148982",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huxin66759348 https://t.co/75bXNYa1Su"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2053498381641937178",
+        "created_at": "2026-05-10T15:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053498381641937178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1476452594608336901",
+              "start": 0,
+              "username": "huxin66759348"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/zxy1473129/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/zxy1473129/status/2053136143408148982",
+              "start": 15,
+              "url": "https://t.co/75bXNYa1Su"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053498381641937178",
+        "in_reply_to_user_id": "1476452594608336901",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053136143408148982",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huxin66759348 https://t.co/75bXNYa1Su"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858042250158358528",
+        "conversation_id": "2053136143408148982",
+        "created_at": "2026-05-09T15:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T16:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053136143408148982"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053136143408148982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2785,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "你可以只爱我一个人吗？只和我一个人聊天，散步，牵手，拥抱吗？永远永远只和我一个人在一起吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2269,
+          "following_count": 339,
+          "like_count": 3379,
+          "listed_count": 1,
+          "media_count": 364,
+          "tweet_count": 3986
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-30T07:18:45.000Z",
+        "description": "呀，老年人不会用推\n草稿狂魔，喜欢囤草图，慎关慎关\n主坑异兽魔都开曼二阶堂相关，公嬷一体机且杂食",
+        "id": "1476452594608336901",
+        "name": "焦鸟||极地烧烤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718139003395043328/9gIsmTYS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 208,
+          "like_count": 6834,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1268
+        },
+        "username": "huxin66759348",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T06:59:36.000Z",
+        "description": "|07|无门槛|纯吐槽|怨气很大|绿色玩家|\n觉得我有趣可以给我money而不是选择骚扰我 ꒦ິ^꒦ິ\n（骚扰我骂你全家你就受着吧）",
+        "id": "1858042250158358528",
+        "location": "神仙国",
+        "name": "Ruruuuuu",
+        "pinned_tweet_id": "2052685427602321444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051259844838207488/auq7BQZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 16,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 130
+        },
+        "username": "zxy1473129",
+        "verified": false
+      }
+    ]
+  }
+}

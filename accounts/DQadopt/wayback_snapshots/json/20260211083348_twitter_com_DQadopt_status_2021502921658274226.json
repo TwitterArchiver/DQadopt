@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021502911524765704"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2021502921658274226",
+    "created_at": "2026-02-11T08:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T09:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021502921658274226"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GMHOS64drz",
+          "end": 110,
+          "expanded_url": "https://x.com/DQadopt/status/2021502921658274226/photo/1",
+          "media_key": "3_2021502911524765704",
+          "start": 87,
+          "url": "https://t.co/GMHOS64drz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021502921658274226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🤔🤔🤔我很少戴假发上班没有戴过，出去玩和朋友拍照的话会戴，其实头发看起来没有特别少，我11岁～13岁焦虑大爆发拔到只能带帽子，近几年都有在控制拔头发频率，我是2003年生👍 https://t.co/GMHOS64drz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021502911524765704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3SMAnaAAglp64.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021502911524765704"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2021502921658274226",
+        "created_at": "2026-02-11T08:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021502921658274226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GMHOS64drz",
+              "end": 110,
+              "expanded_url": "https://x.com/DQadopt/status/2021502921658274226/photo/1",
+              "media_key": "3_2021502911524765704",
+              "start": 87,
+              "url": "https://t.co/GMHOS64drz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021502921658274226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤔🤔🤔我很少戴假发上班没有戴过，出去玩和朋友拍照的话会戴，其实头发看起来没有特别少，我11岁～13岁焦虑大爆发拔到只能带帽子，近几年都有在控制拔头发频率，我是2003年生👍 https://t.co/GMHOS64drz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 84,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 453
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

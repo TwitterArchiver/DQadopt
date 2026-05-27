@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2042198153764684259",
+    "created_at": "2026-04-09T11:34:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T12:34:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042204398353625560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2036687341251915776",
+          "start": 0,
+          "username": "yuvucat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042204398353625560",
+    "in_reply_to_user_id": "2036687341251915776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042198153764684259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuvucat 好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042198143929106432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdYZFHbQAA8KZW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042198143933259776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdYZFIaoAAHlkP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2042198153764684259",
+        "created_at": "2026-04-09T11:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042204398353625560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2036687341251915776",
+              "start": 0,
+              "username": "yuvucat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042204398353625560",
+        "in_reply_to_user_id": "2036687341251915776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042198153764684259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuvucat 好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042198143929106432",
+            "3_2042198143933259776"
+          ]
+        },
+        "author_id": "2036687341251915776",
+        "conversation_id": "2042198153764684259",
+        "created_at": "2026-04-09T11:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042198153764684259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/soPed5YBs4",
+              "end": 33,
+              "expanded_url": "https://x.com/yuvucat/status/2042198153764684259/photo/1",
+              "media_key": "3_2042198143929106432",
+              "start": 10,
+              "url": "https://t.co/soPed5YBs4"
+            },
+            {
+              "display_url": "pic.x.com/soPed5YBs4",
+              "end": 33,
+              "expanded_url": "https://x.com/yuvucat/status/2042198153764684259/photo/1",
+              "media_key": "3_2042198143933259776",
+              "start": 10,
+              "url": "https://t.co/soPed5YBs4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042198153764684259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此人qqny商极高 https://t.co/soPed5YBs4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1795,
+          "following_count": 312,
+          "like_count": 2713,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 3077
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T06:11:42.000Z",
+        "description": "女同/sub/梦到什么发什么/神经病/当狗好痛苦哦哦/刻薄兔/这是一个她不知道的角落",
+        "id": "2036687341251915776",
+        "name": "雨淅淅沥沥",
+        "pinned_tweet_id": "2037466911462785193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036868755280846850/OHOFlQDZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 47,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 409
+        },
+        "username": "yuvucat",
+        "verified": false
+      }
+    ]
+  }
+}

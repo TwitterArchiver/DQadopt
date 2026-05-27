@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026566023651250176",
+        "3_2026566023655337986",
+        "3_2026566023655428096",
+        "3_2026566023659560960"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2026566032882807133",
+    "created_at": "2026-02-25T07:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T08:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026566032882807133"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bo0IoX8wFa",
+          "end": 122,
+          "expanded_url": "https://x.com/DQadopt/status/2026566032882807133/photo/1",
+          "media_key": "3_2026566023651250176",
+          "start": 99,
+          "url": "https://t.co/Bo0IoX8wFa"
+        },
+        {
+          "display_url": "pic.x.com/Bo0IoX8wFa",
+          "end": 122,
+          "expanded_url": "https://x.com/DQadopt/status/2026566032882807133/photo/1",
+          "media_key": "3_2026566023655337986",
+          "start": 99,
+          "url": "https://t.co/Bo0IoX8wFa"
+        },
+        {
+          "display_url": "pic.x.com/Bo0IoX8wFa",
+          "end": 122,
+          "expanded_url": "https://x.com/DQadopt/status/2026566032882807133/photo/1",
+          "media_key": "3_2026566023655428096",
+          "start": 99,
+          "url": "https://t.co/Bo0IoX8wFa"
+        },
+        {
+          "display_url": "pic.x.com/Bo0IoX8wFa",
+          "end": 122,
+          "expanded_url": "https://x.com/DQadopt/status/2026566032882807133/photo/1",
+          "media_key": "3_2026566023659560960",
+          "start": 99,
+          "url": "https://t.co/Bo0IoX8wFa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026566032882807133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1⃣️这个问题很无聊，摘下最喜欢的麦穗，闭着眼睛穿过整片麦田，她不用多好，我喜欢就好2⃣️被在意被监督好舒服啊可以的话手机都放对方那更舒服了3⃣️4⃣️怎么祝北欧这个老词都来了，我没死，人活的挺好 https://t.co/Bo0IoX8wFa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026566023651250176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB_PD7Gb0AAvbbv.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026566023655337986",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB_PD7HaMAI52Hx.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026566023655428096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB_PD7HbkAAd2vP.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026566023659560960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB_PD7IaoAAroWc.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026566023651250176",
+            "3_2026566023655337986",
+            "3_2026566023655428096",
+            "3_2026566023659560960"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2026566032882807133",
+        "created_at": "2026-02-25T07:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T08:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026566032882807133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bo0IoX8wFa",
+              "end": 122,
+              "expanded_url": "https://x.com/DQadopt/status/2026566032882807133/photo/1",
+              "media_key": "3_2026566023651250176",
+              "start": 99,
+              "url": "https://t.co/Bo0IoX8wFa"
+            },
+            {
+              "display_url": "pic.x.com/Bo0IoX8wFa",
+              "end": 122,
+              "expanded_url": "https://x.com/DQadopt/status/2026566032882807133/photo/1",
+              "media_key": "3_2026566023655337986",
+              "start": 99,
+              "url": "https://t.co/Bo0IoX8wFa"
+            },
+            {
+              "display_url": "pic.x.com/Bo0IoX8wFa",
+              "end": 122,
+              "expanded_url": "https://x.com/DQadopt/status/2026566032882807133/photo/1",
+              "media_key": "3_2026566023655428096",
+              "start": 99,
+              "url": "https://t.co/Bo0IoX8wFa"
+            },
+            {
+              "display_url": "pic.x.com/Bo0IoX8wFa",
+              "end": 122,
+              "expanded_url": "https://x.com/DQadopt/status/2026566032882807133/photo/1",
+              "media_key": "3_2026566023659560960",
+              "start": 99,
+              "url": "https://t.co/Bo0IoX8wFa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026566032882807133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1⃣️这个问题很无聊，摘下最喜欢的麦穗，闭着眼睛穿过整片麦田，她不用多好，我喜欢就好2⃣️被在意被监督好舒服啊可以的话手机都放对方那更舒服了3⃣️4⃣️怎么祝北欧这个老词都来了，我没死，人活的挺好 https://t.co/Bo0IoX8wFa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 110,
+          "like_count": 355,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 812
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

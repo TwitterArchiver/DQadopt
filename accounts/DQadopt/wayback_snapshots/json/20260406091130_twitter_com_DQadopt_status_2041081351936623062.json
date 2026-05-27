@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2041081351936623062",
+    "created_at": "2026-04-06T09:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T10:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041081351936623062"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041081351936623062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我第一次爱一个人，想要为她活下去，想要为她戒掉自残od好好生活，第一次这么想和一个人一起生活一起做爱因为想要变得更亲密更贴合，这种情感在我以前的女朋友里都没有，感觉一辈子网恋也行，只是喜欢\n甚至和五年前喜欢小鸟的情感也不一样\n喜欢和爱的区别，我明白了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2041081351936623062",
+        "created_at": "2026-04-06T09:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T10:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041081351936623062"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041081351936623062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我第一次爱一个人，想要为她活下去，想要为她戒掉自残od好好生活，第一次这么想和一个人一起生活一起做爱因为想要变得更亲密更贴合，这种情感在我以前的女朋友里都没有，感觉一辈子网恋也行，只是喜欢\n甚至和五年前喜欢小鸟的情感也不一样\n喜欢和爱的区别，我明白了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1726,
+          "following_count": 304,
+          "like_count": 2444,
+          "listed_count": 1,
+          "media_count": 298,
+          "tweet_count": 2862
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

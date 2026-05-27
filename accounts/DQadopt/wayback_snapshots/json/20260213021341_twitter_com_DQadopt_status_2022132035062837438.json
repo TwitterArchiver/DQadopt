@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021808539761881089"
+      ],
+      "media_source_tweet_id": [
+        "2021808545759670361"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166410125994708993",
+          "name": "Directors, producers & writers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      }
+    ],
+    "conversation_id": "2022132035062837438",
+    "created_at": "2026-02-13T02:13:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T03:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022132035062837438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "359920470",
+          "start": 3,
+          "username": "ming_0h"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X1BovozT6L",
+          "end": 124,
+          "expanded_url": "https://x.com/ming_0h/status/2021808545759670361/photo/1",
+          "media_key": "3_2021808539761881089",
+          "start": 101,
+          "url": "https://t.co/X1BovozT6L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022132035062837438",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 724
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021808545759670361",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ming_0h: 지엘 홍콩영화 여해부평범 포스터. 마카오 출신 여성감독 연출작으로 3.5일 홍콩개봉. 10.20.30대 삼대 커플별,세곳의 도시(홍콩 마카오 대만)배경 영화 https://t.co/X1BovozT6L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021808539761881089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA7oJ6hbsAES7cf.jpg",
+        "width": 1456
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021808539761881089"
+          ],
+          "media_source_tweet_id": [
+            "2021808545759670361"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166410125994708993",
+              "name": "Directors, producers & writers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          }
+        ],
+        "conversation_id": "2022132035062837438",
+        "created_at": "2026-02-13T02:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T03:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022132035062837438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "359920470",
+              "start": 3,
+              "username": "ming_0h"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X1BovozT6L",
+              "end": 124,
+              "expanded_url": "https://x.com/ming_0h/status/2021808545759670361/photo/1",
+              "media_key": "3_2021808539761881089",
+              "start": 101,
+              "url": "https://t.co/X1BovozT6L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022132035062837438",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 724
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021808545759670361",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ming_0h: 지엘 홍콩영화 여해부평범 포스터. 마카오 출신 여성감독 연출작으로 3.5일 홍콩개봉. 10.20.30대 삼대 커플별,세곳의 도시(홍콩 마카오 대만)배경 영화 https://t.co/X1BovozT6L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021808539761881089"
+          ]
+        },
+        "author_id": "359920470",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166410125994708993",
+              "name": "Directors, producers & writers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          }
+        ],
+        "conversation_id": "2021808545759670361",
+        "created_at": "2026-02-12T04:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T05:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021808545759670361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X1BovozT6L",
+              "end": 111,
+              "expanded_url": "https://x.com/ming_0h/status/2021808545759670361/photo/1",
+              "media_key": "3_2021808539761881089",
+              "start": 88,
+              "url": "https://t.co/X1BovozT6L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021808545759670361",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 759,
+          "impression_count": 66569,
+          "like_count": 2031,
+          "quote_count": 115,
+          "reply_count": 1,
+          "retweet_count": 724
+        },
+        "reply_settings": "everyone",
+        "text": "지엘 홍콩영화 여해부평범 포스터. 마카오 출신 여성감독 연출작으로 3.5일 홍콩개봉. 10.20.30대 삼대 커플별,세곳의 도시(홍콩 마카오 대만)배경 영화 https://t.co/X1BovozT6L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女孩子可以来找我互fo，女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 83,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 510
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-22T11:46:11.000Z",
+        "description": "nn년 덕질인생. 덕질 잡담.요즘은 nn년만에 다시 중궈 덕질중.웨보 덕후.추억의 중영과 잼있는 중드 캐릭터 덕질. 짤이나 영상 출처는 웨이보. 비공 계정은 수시로 차단.링크 이동 트윗글 이동 금지",
+        "id": "359920470",
+        "name": "ming oh",
+        "pinned_tweet_id": "1535554666863337472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803442060269330432/gQWhT1aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3521,
+          "following_count": 303,
+          "like_count": 52452,
+          "listed_count": 33,
+          "media_count": 49180,
+          "tweet_count": 151936
+        },
+        "username": "ming_0h",
+        "verified": false
+      }
+    ]
+  }
+}

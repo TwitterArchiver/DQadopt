@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2008501368664060060",
+    "created_at": "2026-01-07T14:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T15:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008909745613385850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1035884911004135424",
+          "start": 0,
+          "username": "Linjiaxiaoyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008909745613385850",
+    "in_reply_to_user_id": "1035884911004135424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008501368664060060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Linjiaxiaoyi 男编男信"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1352,
+        "media_key": "3_2008501361839927299",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9-hWNtbcAMGvoa.jpg",
+        "width": 1125
+      },
+      {
+        "height": 1071,
+        "media_key": "3_2008501361814761474",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9-hWNnbcAIHBt2.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2008501368664060060",
+        "created_at": "2026-01-07T14:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T15:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008909745613385850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1035884911004135424",
+              "start": 0,
+              "username": "Linjiaxiaoyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008909745613385850",
+        "in_reply_to_user_id": "1035884911004135424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008501368664060060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linjiaxiaoyi 男编男信"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008501361839927299",
+            "3_2008501361814761474"
+          ]
+        },
+        "author_id": "1035884911004135424",
+        "conversation_id": "2008501368664060060",
+        "created_at": "2026-01-06T11:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T12:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008501368664060060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HvaRlEm8jX",
+              "end": 33,
+              "expanded_url": "https://x.com/Linjiaxiaoyi/status/2008501368664060060/photo/1",
+              "media_key": "3_2008501361839927299",
+              "start": 10,
+              "url": "https://t.co/HvaRlEm8jX"
+            },
+            {
+              "display_url": "pic.x.com/HvaRlEm8jX",
+              "end": 33,
+              "expanded_url": "https://x.com/Linjiaxiaoyi/status/2008501368664060060/photo/1",
+              "media_key": "3_2008501361814761474",
+              "start": 10,
+              "url": "https://t.co/HvaRlEm8jX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008501368664060060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 970,
+          "impression_count": 968098,
+          "like_count": 4458,
+          "quote_count": 2,
+          "reply_count": 241,
+          "retweet_count": 144
+        },
+        "reply_settings": "everyone",
+        "text": "还是学生玩的花👍🏻 https://t.co/HvaRlEm8jX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我重生了，这一次我要夺回属于我的一切丨le🌈1丨喜欢和可爱漂亮的女生互动🥰🥰🥰丨有喜欢的人不色色丨自伤化学原料滥用碎碎念集中地",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8euxG"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 33,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 35
+        },
+        "url": "https://t.co/nFHbt8euxG",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-01T13:39:43.000Z",
+        "description": "喜欢日常分享碎碎念| 树洞吐槽",
+        "id": "1035884911004135424",
+        "name": "邻家小姨",
+        "pinned_tweet_id": "2006329524334813405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996212135383408640/HpuxcQxU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14612,
+          "following_count": 17,
+          "like_count": 58,
+          "listed_count": 28,
+          "media_count": 82,
+          "tweet_count": 115
+        },
+        "username": "Linjiaxiaoyi",
+        "verified": true
+      }
+    ]
+  }
+}

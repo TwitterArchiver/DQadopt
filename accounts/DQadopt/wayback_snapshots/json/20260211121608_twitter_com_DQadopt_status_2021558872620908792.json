@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2016501204420002211",
+    "created_at": "2026-02-11T12:16:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T13:16:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021558872620908792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362456318372675592",
+          "start": 0,
+          "username": "gimmeallluv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021558872620908792",
+    "in_reply_to_user_id": "1362456318372675592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016501204420002211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gimmeallluv 疤痕和纹身太性感了我的天啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016501184522301440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wNJLibMAAuYsk.jpg",
+        "width": 1598
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2016501204420002211",
+        "created_at": "2026-02-11T12:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T13:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021558872620908792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362456318372675592",
+              "start": 0,
+              "username": "gimmeallluv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021558872620908792",
+        "in_reply_to_user_id": "1362456318372675592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016501204420002211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gimmeallluv 疤痕和纹身太性感了我的天啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016501184522301440"
+          ]
+        },
+        "author_id": "1362456318372675592",
+        "conversation_id": "2016501204420002211",
+        "created_at": "2026-01-28T13:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T14:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016501204420002211"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "les"
+            },
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "女同性恋"
+            },
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "WLW"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/58pg7TW4fm",
+              "end": 39,
+              "expanded_url": "https://x.com/gimmeallluv/status/2016501204420002211/photo/1",
+              "media_key": "3_2016501184522301440",
+              "start": 16,
+              "url": "https://t.co/58pg7TW4fm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016501204420002211",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#les #女同性恋 #WLW https://t.co/58pg7TW4fm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 86,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 466
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-18T17:38:04.000Z",
+        "description": "Les🌈 ｜p/0/m｜有switch傾向的sub｜喜歡錢｜該號主具有較強烈的自毀傾向｜男人別關注我速速退散。",
+        "id": "1362456318372675592",
+        "name": "這種時候該叫媽媽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017693144146751488/WbpeJ5pU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 29,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 89
+        },
+        "username": "gimmeallluv",
+        "verified": false
+      }
+    ]
+  }
+}

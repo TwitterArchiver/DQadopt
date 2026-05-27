@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020865214510718976",
+        "3_2020865214472998913"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2020865230205514029",
+    "created_at": "2026-02-09T14:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T15:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020865230205514029"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DRpWe7YKbF",
+          "end": 124,
+          "expanded_url": "https://x.com/DQadopt/status/2020865230205514029/photo/1",
+          "media_key": "3_2020865214510718976",
+          "start": 101,
+          "url": "https://t.co/DRpWe7YKbF"
+        },
+        {
+          "display_url": "pic.x.com/DRpWe7YKbF",
+          "end": 124,
+          "expanded_url": "https://x.com/DQadopt/status/2020865230205514029/photo/1",
+          "media_key": "3_2020865214472998913",
+          "start": 101,
+          "url": "https://t.co/DRpWe7YKbF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020865230205514029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可以看出来我根本不拿推友当外人\n但我高二谈过男生，17岁开始性取向就固定是女生了\n你这个问题好巧！我昨天还是前天才和心选姐谈起这个，不过我当然只说了一点嗯对。\n我是soft dom不是s，我对sm无感 https://t.co/DRpWe7YKbF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020865214510718976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAuONKHa4AAkS6L.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020865214472998913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAuONJ-bUAEQSxJ.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020865214510718976",
+            "3_2020865214472998913"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2020865230205514029",
+        "created_at": "2026-02-09T14:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T15:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020865230205514029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DRpWe7YKbF",
+              "end": 124,
+              "expanded_url": "https://x.com/DQadopt/status/2020865230205514029/photo/1",
+              "media_key": "3_2020865214510718976",
+              "start": 101,
+              "url": "https://t.co/DRpWe7YKbF"
+            },
+            {
+              "display_url": "pic.x.com/DRpWe7YKbF",
+              "end": 124,
+              "expanded_url": "https://x.com/DQadopt/status/2020865230205514029/photo/1",
+              "media_key": "3_2020865214472998913",
+              "start": 101,
+              "url": "https://t.co/DRpWe7YKbF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020865230205514029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以看出来我根本不拿推友当外人\n但我高二谈过男生，17岁开始性取向就固定是女生了\n你这个问题好巧！我昨天还是前天才和心选姐谈起这个，不过我当然只说了一点嗯对。\n我是soft dom不是s，我对sm无感 https://t.co/DRpWe7YKbF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 78,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 406
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

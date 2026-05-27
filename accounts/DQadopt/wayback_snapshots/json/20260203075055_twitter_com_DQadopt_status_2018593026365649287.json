@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2018593026365649287",
+    "created_at": "2026-02-03T07:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T08:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018593026365649287"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ijiandan11/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/ijiandan11/status/2018048865472233549",
+          "start": 6,
+          "url": "https://t.co/vil8wsj7Vb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018593026365649287",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018048865472233549",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我黄的可怕 https://t.co/vil8wsj7Vb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2018593026365649287",
+        "created_at": "2026-02-03T07:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T08:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018593026365649287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ijiandan11/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ijiandan11/status/2018048865472233549",
+              "start": 6,
+              "url": "https://t.co/vil8wsj7Vb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018593026365649287",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018048865472233549",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我黄的可怕 https://t.co/vil8wsj7Vb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888631961930891264",
+        "conversation_id": "2018048865472233549",
+        "created_at": "2026-02-01T19:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T20:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018048865472233549"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018048865472233549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 64360,
+          "like_count": 883,
+          "quote_count": 23,
+          "reply_count": 84,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "难以想象内心很黄很暴力的我还是处子之身"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 62,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 262
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T16:52:16.000Z",
+        "description": "盗图死全家｜推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=H6r9Dts9",
+                "start": 0,
+                "url": "https://t.co/jqvVwqSPx8"
+              }
+            ]
+          }
+        },
+        "id": "1888631961930891264",
+        "location": "自用vpn",
+        "name": "一颗粪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991750043326640128/KfUtTu68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13184,
+          "following_count": 407,
+          "like_count": 17913,
+          "listed_count": 25,
+          "media_count": 72,
+          "tweet_count": 5077
+        },
+        "url": "https://t.co/jqvVwqSPx8",
+        "username": "ijiandan11",
+        "verified": false
+      }
+    ]
+  }
+}

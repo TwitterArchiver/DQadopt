@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021508703451787264"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2021508712117215634",
+    "created_at": "2026-02-11T08:56:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T09:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021508712117215634"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NYpYV75G5z",
+          "end": 131,
+          "expanded_url": "https://x.com/DQadopt/status/2021508712117215634/photo/1",
+          "media_key": "3_2021508703451787264",
+          "start": 108,
+          "url": "https://t.co/NYpYV75G5z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021508712117215634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自残，除此之外没有什么爱好，只是一些为了特定目的而进行的行为，为了钞票画画，为了明白不明白的看书，为了表达出来写随笔，就这些不够纯粹的东西\n如果所有条件允许的话，我会很热衷于爬山吧，绿绿的山，可是我现在只是一个社畜 https://t.co/NYpYV75G5z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021508703451787264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3XdJOasAAV5k1.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021508703451787264"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2021508712117215634",
+        "created_at": "2026-02-11T08:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021508712117215634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NYpYV75G5z",
+              "end": 131,
+              "expanded_url": "https://x.com/DQadopt/status/2021508712117215634/photo/1",
+              "media_key": "3_2021508703451787264",
+              "start": 108,
+              "url": "https://t.co/NYpYV75G5z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021508712117215634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自残，除此之外没有什么爱好，只是一些为了特定目的而进行的行为，为了钞票画画，为了明白不明白的看书，为了表达出来写随笔，就这些不够纯粹的东西\n如果所有条件允许的话，我会很热衷于爬山吧，绿绿的山，可是我现在只是一个社畜 https://t.co/NYpYV75G5z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 84,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 457
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2047553805349511246",
+    "created_at": "2026-04-24T05:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047553805349511246"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bugsiover/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/bugsiover/status/2046955542791266532",
+          "start": 6,
+          "url": "https://t.co/ElOdwoBUkt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047553805349511246",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046955542791266532",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "漫画夯爆了 https://t.co/ElOdwoBUkt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 612,
+        "media_key": "3_2046955469650919424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGg_J4eWAAAzJ5j.jpg",
+        "width": 1047
+      },
+      {
+        "height": 848,
+        "media_key": "3_2046955507290644480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGg_MEsWoAA_uEL.jpg",
+        "width": 958
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2047553805349511246",
+        "created_at": "2026-04-24T05:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047553805349511246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bugsiover/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/bugsiover/status/2046955542791266532",
+              "start": 6,
+              "url": "https://t.co/ElOdwoBUkt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047553805349511246",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046955542791266532",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "漫画夯爆了 https://t.co/ElOdwoBUkt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046955469650919424",
+            "3_2046955507290644480"
+          ]
+        },
+        "author_id": "1264533143522086913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10058164147",
+              "name": "ドロヘドロ"
+            }
+          }
+        ],
+        "conversation_id": "2046955542791266532",
+        "created_at": "2026-04-22T14:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046955542791266532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WJGasPtC0o",
+              "end": 45,
+              "expanded_url": "https://x.com/bugsIover/status/2046955542791266532/photo/1",
+              "media_key": "3_2046955469650919424",
+              "start": 22,
+              "url": "https://t.co/WJGasPtC0o"
+            },
+            {
+              "display_url": "pic.x.com/WJGasPtC0o",
+              "end": 45,
+              "expanded_url": "https://x.com/bugsIover/status/2046955542791266532/photo/1",
+              "media_key": "3_2046955507290644480",
+              "start": 22,
+              "url": "https://t.co/WJGasPtC0o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046955542791266532",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 25902,
+          "like_count": 1419,
+          "quote_count": 16,
+          "reply_count": 1,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "(dorohedoro spoilers) https://t.co/WJGasPtC0o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 336,
+          "like_count": 3108,
+          "listed_count": 0,
+          "media_count": 347,
+          "tweet_count": 3710
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-24T12:26:20.000Z",
+        "description": "22 y/o\nfuturo calvo enano \nDorohedoro & Dai Dark y ahora Paranatural",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/LOeL7WHFuiA?is…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/LOeL7WHFuiA?is=Qhy4uJX9VWT3t3bX",
+                "start": 0,
+                "url": "https://t.co/gWF0sKw5zM"
+              }
+            ]
+          }
+        },
+        "id": "1264533143522086913",
+        "name": "𓆤𓆣𓁿𓂏𓁿𓆣𓆤",
+        "pinned_tweet_id": "1589033367043215360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858961144343302144/OPhAu_Lx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1763,
+          "following_count": 275,
+          "like_count": 337033,
+          "listed_count": 4,
+          "media_count": 8373,
+          "tweet_count": 31725
+        },
+        "url": "https://t.co/gWF0sKw5zM",
+        "username": "bugsIover",
+        "verified": false
+      }
+    ]
+  }
+}

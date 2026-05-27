@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032291455721742336"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2032291464957608246",
+    "created_at": "2026-03-13T03:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T04:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032291464957608246"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LNS2YPgNn2",
+          "end": 52,
+          "expanded_url": "https://x.com/DQadopt/status/2032291464957608246/photo/1",
+          "media_key": "3_2032291455721742336",
+          "start": 29,
+          "url": "https://t.co/LNS2YPgNn2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032291464957608246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被她训好爽啊真的好爽啊有人懂吗\n要是每天都能被她训就好了 https://t.co/LNS2YPgNn2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1290,
+        "media_key": "3_2032291455721742336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDQmT7pbIAAYas4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032291455721742336"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2032291464957608246",
+        "created_at": "2026-03-13T03:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T04:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032291464957608246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LNS2YPgNn2",
+              "end": 52,
+              "expanded_url": "https://x.com/DQadopt/status/2032291464957608246/photo/1",
+              "media_key": "3_2032291455721742336",
+              "start": 29,
+              "url": "https://t.co/LNS2YPgNn2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032291464957608246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被她训好爽啊真的好爽啊有人懂吗\n要是每天都能被她训就好了 https://t.co/LNS2YPgNn2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 234,
+          "like_count": 1507,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 1814
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

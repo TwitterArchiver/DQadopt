@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2008548594467696930",
+    "created_at": "2026-01-08T06:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T07:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009149575979061312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "257397742",
+          "start": 0,
+          "username": "yuhualiu"
+        },
+        {
+          "end": 24,
+          "id": "1258409534046924800",
+          "start": 10,
+          "username": "allen27410505"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009149575979061312",
+    "in_reply_to_user_id": "257397742",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008638246591623560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuhualiu @allen27410505 你的妈死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2008548594467696930",
+        "created_at": "2026-01-08T06:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T07:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009149575979061312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "257397742",
+              "start": 0,
+              "username": "yuhualiu"
+            },
+            {
+              "end": 24,
+              "id": "1258409534046924800",
+              "start": 10,
+              "username": "allen27410505"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009149575979061312",
+        "in_reply_to_user_id": "257397742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008638246591623560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuhualiu @allen27410505 你的妈死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257397742",
+        "conversation_id": "2008548594467696930",
+        "created_at": "2026-01-06T20:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T21:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008638246591623560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1258409534046924800",
+              "start": 0,
+              "username": "allen27410505"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008638246591623560",
+        "in_reply_to_user_id": "1258409534046924800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74554,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008548594467696930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allen27410505 这种炫耀很恶毒，是诱惑大家都象她们一样染病，这才心理平衡，也是一种共产主义思想😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我重生了，这一次我要夺回属于我的一切丨23le🌈1丨喜欢和可爱漂亮的女生互动🥰🥰🥰丨有喜欢的人不色色丨自伤化学原料滥用碎碎念集中地",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8euxG"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 36,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 47
+        },
+        "url": "https://t.co/nFHbt8euxG",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-25T09:58:00.000Z",
+        "description": "真的，咕冬！ 拉倒，拉倒！ https://t.co/J6atpXyw1k   https://t.co/jZi7vdr9KV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "davidykx.blogspot.com",
+                "end": 37,
+                "expanded_url": "http://davidykx.blogspot.com",
+                "start": 14,
+                "url": "https://t.co/J6atpXyw1k"
+              },
+              {
+                "display_url": "laoluoboke.blogspot.com",
+                "end": 63,
+                "expanded_url": "http://laoluoboke.blogspot.com",
+                "start": 40,
+                "url": "https://t.co/jZi7vdr9KV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/settings/profi…",
+                "end": 23,
+                "expanded_url": "https://twitter.com/settings/profile",
+                "start": 0,
+                "url": "https://t.co/J22hjC0hMj"
+              }
+            ]
+          }
+        },
+        "id": "257397742",
+        "location": "你在世界上什么地方? 问你呢！乌鸦嘴！",
+        "name": "luogan",
+        "pinned_tweet_id": "1990290649644728648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655005690417790977/QRR1mC4N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6298,
+          "following_count": 5173,
+          "like_count": 3126,
+          "listed_count": 43,
+          "media_count": 542,
+          "tweet_count": 24377
+        },
+        "url": "https://t.co/J22hjC0hMj",
+        "username": "yuhualiu",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-07T14:53:21.000Z",
+        "description": "Love China,Love the world.\n一起正能量，一起愛國，一起講好中國故事。共同傳遞中國聲音。（allen唯一賬號）",
+        "id": "1258409534046924800",
+        "name": "allen",
+        "pinned_tweet_id": "1594204327270236160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995284793043660801/9uWsm8C8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213220,
+          "following_count": 314,
+          "like_count": 41912,
+          "listed_count": 241,
+          "media_count": 5910,
+          "tweet_count": 8752
+        },
+        "username": "allen27410505",
+        "verified": false
+      }
+    ]
+  }
+}

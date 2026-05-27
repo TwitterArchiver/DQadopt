@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2018584344529686607",
+    "created_at": "2026-02-03T15:37:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T16:37:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018710325747388896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1654822680263282688",
+          "start": 0,
+          "username": "ButterInnerSide"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018710325747388896",
+    "in_reply_to_user_id": "1654822680263282688",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018584344529686607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ButterInnerSide 😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2018584323310718976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HANzv0QbkAAyBa4.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2018584344529686607",
+        "created_at": "2026-02-03T15:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T16:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018710325747388896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1654822680263282688",
+              "start": 0,
+              "username": "ButterInnerSide"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018710325747388896",
+        "in_reply_to_user_id": "1654822680263282688",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018584344529686607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ButterInnerSide 😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018584323310718976"
+          ]
+        },
+        "author_id": "1654822680263282688",
+        "conversation_id": "2018584344529686607",
+        "created_at": "2026-02-03T07:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T08:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018584344529686607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CIGr36QZpU",
+              "end": 29,
+              "expanded_url": "https://x.com/ButterInnerSide/status/2018584344529686607/photo/1",
+              "media_key": "3_2018584323310718976",
+              "start": 6,
+              "url": "https://t.co/CIGr36QZpU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018584344529686607",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 48944,
+          "like_count": 276,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "和朋友面基 https://t.co/CIGr36QZpU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 62,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 272
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-06T12:18:10.000Z",
+        "description": "灰色的雪 和未被祝福的我                                                                                     我的文明与憧憬: @3C3AHuangyou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 106,
+                "username": "3C3AHuangyou"
+              }
+            ]
+          }
+        },
+        "id": "1654822680263282688",
+        "location": "X Malkuth",
+        "name": "共矽波",
+        "pinned_tweet_id": "1887780011459125360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762657546773696512/KxRMt8G6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 1429,
+          "like_count": 13920,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1874
+        },
+        "username": "ButterInnerSide",
+        "verified": false
+      }
+    ]
+  }
+}

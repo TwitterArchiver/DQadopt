@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2047228585820434455",
+    "created_at": "2026-04-23T09:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T10:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047252173260734622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1921008767036256258",
+          "start": 0,
+          "username": "JercyJ43187"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047252173260734622",
+    "in_reply_to_user_id": "1921008767036256258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047248718605557827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JercyJ43187 已被歧视"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2047228585820434455",
+        "created_at": "2026-04-23T09:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047252173260734622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1921008767036256258",
+              "start": 0,
+              "username": "JercyJ43187"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047252173260734622",
+        "in_reply_to_user_id": "1921008767036256258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047248718605557827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JercyJ43187 已被歧视"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921008767036256258",
+        "conversation_id": "2047228585820434455",
+        "created_at": "2026-04-23T09:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047248718605557827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047248718605557827",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047228585820434455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 一直很畏惧“拉圈”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2100,
+          "following_count": 336,
+          "like_count": 3090,
+          "listed_count": 0,
+          "media_count": 346,
+          "tweet_count": 3703
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T01:06:08.000Z",
+        "description": "les｜有时候不是互关但确实很想评论，如果冒犯了真的不好意思😥",
+        "id": "1921008767036256258",
+        "name": "Jercy",
+        "pinned_tweet_id": "2039205378202943970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987737816546398209/i3pOCHRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 328,
+          "like_count": 3475,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 536
+        },
+        "username": "JercyJ43187",
+        "verified": false
+      }
+    ]
+  }
+}

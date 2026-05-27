@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2045097449782727076",
+    "created_at": "2026-04-17T11:10:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T12:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045097449782727076"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045097449782727076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不接受当0，不喜欢自己被掌控，不可控的感受好反感，从小到大我就是被打压被控制成了一个精神病，从高中开始就想快点出社会自己工作掌握人生，感情里也是这样，如果我不能看到并把握走向那太令我不安了，但是我不舍不得在生活里控制她\n不过小鸟自己想被我绑起来好好被爱护，我会很高兴的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2045097449782727076",
+        "created_at": "2026-04-17T11:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045097449782727076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045097449782727076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不接受当0，不喜欢自己被掌控，不可控的感受好反感，从小到大我就是被打压被控制成了一个精神病，从高中开始就想快点出社会自己工作掌握人生，感情里也是这样，如果我不能看到并把握走向那太令我不安了，但是我不舍不得在生活里控制她\n不过小鸟自己想被我绑起来好好被爱护，我会很高兴的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951,
+          "following_count": 313,
+          "like_count": 2928,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 3461
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

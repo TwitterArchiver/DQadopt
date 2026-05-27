@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024105776189767681",
+        "3_2024105776181338112"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2024105790324515211",
+    "created_at": "2026-02-18T12:56:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T13:56:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024105790324515211"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/baRwW3qODF",
+          "end": 165,
+          "expanded_url": "https://x.com/DQadopt/status/2024105790324515211/photo/1",
+          "media_key": "3_2024105776189767681",
+          "start": 142,
+          "url": "https://t.co/baRwW3qODF"
+        },
+        {
+          "display_url": "pic.x.com/baRwW3qODF",
+          "end": 165,
+          "expanded_url": "https://x.com/DQadopt/status/2024105790324515211/photo/1",
+          "media_key": "3_2024105776181338112",
+          "start": 142,
+          "url": "https://t.co/baRwW3qODF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024105790324515211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1⃣️男性称呼（老公、爸爸什么的），冷暴力拒绝沟通，原则性问题（聊骚约炮裸聊恶意撒谎，我真的被搞怕了）\n2⃣️她小红书收藏了一堆亚文化但是她实际穿搭风格很日常，心选姐是头发都自己剪的神奇的女孩子，以及我亚文化衣服大概只有四件上衣三条裤子（？）我只有拍照才穿，平时都是和她一样的日常风 https://t.co/baRwW3qODF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024105776189767681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcRerGbgAEWC7k.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024105776181338112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcRerEa4AA-oHy.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024105776189767681",
+            "3_2024105776181338112"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2024105790324515211",
+        "created_at": "2026-02-18T12:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T13:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024105790324515211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/baRwW3qODF",
+              "end": 165,
+              "expanded_url": "https://x.com/DQadopt/status/2024105790324515211/photo/1",
+              "media_key": "3_2024105776189767681",
+              "start": 142,
+              "url": "https://t.co/baRwW3qODF"
+            },
+            {
+              "display_url": "pic.x.com/baRwW3qODF",
+              "end": 165,
+              "expanded_url": "https://x.com/DQadopt/status/2024105790324515211/photo/1",
+              "media_key": "3_2024105776181338112",
+              "start": 142,
+              "url": "https://t.co/baRwW3qODF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024105790324515211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1⃣️男性称呼（老公、爸爸什么的），冷暴力拒绝沟通，原则性问题（聊骚约炮裸聊恶意撒谎，我真的被搞怕了）\n2⃣️她小红书收藏了一堆亚文化但是她实际穿搭风格很日常，心选姐是头发都自己剪的神奇的女孩子，以及我亚文化衣服大概只有四件上衣三条裤子（？）我只有拍照才穿，平时都是和她一样的日常风 https://t.co/baRwW3qODF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 91,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 658
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

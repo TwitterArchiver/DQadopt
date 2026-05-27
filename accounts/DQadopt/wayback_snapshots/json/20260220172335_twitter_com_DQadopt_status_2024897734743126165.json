@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2024811194104819895",
+    "created_at": "2026-02-20T17:23:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T18:23:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024897734743126165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1488885306929860608",
+          "start": 0,
+          "username": "Y_224J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024897734743126165",
+    "in_reply_to_user_id": "1488885306929860608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024811194104819895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y_224J 我们看到的应该是同一条"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2024811194104819895",
+        "created_at": "2026-02-20T17:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T18:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024897734743126165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1488885306929860608",
+              "start": 0,
+              "username": "Y_224J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024897734743126165",
+        "in_reply_to_user_id": "1488885306929860608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024811194104819895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y_224J 我们看到的应该是同一条"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488885306929860608",
+        "conversation_id": "2024811194104819895",
+        "created_at": "2026-02-20T11:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024811194104819895"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024811194104819895",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 434,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女同bdsm也叫daddy真的好恐怖尼玛我要回家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 91,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 696
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-02T14:41:50.000Z",
+        "description": "偶尔在@valer1111a   超级拧巴人   狗和我都是生理女性 🐕‍🦺🐈   提问箱：https://t.co/1poVZ6wj2l       男的关注会被拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "valer1111a"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/valerrrii1a",
+                "end": 69,
+                "expanded_url": "https://ngl.link/valerrrii1a",
+                "start": 46,
+                "url": "https://t.co/1poVZ6wj2l"
+              }
+            ]
+          }
+        },
+        "id": "1488885306929860608",
+        "name": "Valeriiii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535065131738025984/90hKyrHW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 1903,
+          "like_count": 27409,
+          "listed_count": 3,
+          "media_count": 1120,
+          "tweet_count": 13097
+        },
+        "username": "Y_224J",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026916620611067904",
+        "3_2026916620619362304",
+        "3_2026916620606816256"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2026916630098489660",
+    "created_at": "2026-02-26T07:05:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T08:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026916630098489660"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/owf4TK7DxI",
+          "end": 142,
+          "expanded_url": "https://x.com/DQadopt/status/2026916630098489660/photo/1",
+          "media_key": "3_2026916620611067904",
+          "start": 119,
+          "url": "https://t.co/owf4TK7DxI"
+        },
+        {
+          "display_url": "pic.x.com/owf4TK7DxI",
+          "end": 142,
+          "expanded_url": "https://x.com/DQadopt/status/2026916630098489660/photo/1",
+          "media_key": "3_2026916620619362304",
+          "start": 119,
+          "url": "https://t.co/owf4TK7DxI"
+        },
+        {
+          "display_url": "pic.x.com/owf4TK7DxI",
+          "end": 142,
+          "expanded_url": "https://x.com/DQadopt/status/2026916630098489660/photo/1",
+          "media_key": "3_2026916620606816256",
+          "start": 119,
+          "url": "https://t.co/owf4TK7DxI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026916630098489660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "咋说，说不出来啊，她是直女还是纸性恋（我是不是特别惨），我俩彻底没可能，所以只能当朋友，所以我没表白，四五年前表白就失败了，她现在大概喜欢做梦梦到的一个粉色头发哥哥\n纯爱之王吗😇😇😇那是我没招了，喜欢上直女我真的没招了\n别磕啊真的会BE https://t.co/owf4TK7DxI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026916620611067904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEN7WjboAAnjRr.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026916620619362304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEN7WlaMAAb07Y.jpg",
+        "width": 746
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026916620606816256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEN7WiawAAOhwQ.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026916620611067904",
+            "3_2026916620619362304",
+            "3_2026916620606816256"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026916630098489660",
+        "created_at": "2026-02-26T07:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T08:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026916630098489660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/owf4TK7DxI",
+              "end": 142,
+              "expanded_url": "https://x.com/DQadopt/status/2026916630098489660/photo/1",
+              "media_key": "3_2026916620611067904",
+              "start": 119,
+              "url": "https://t.co/owf4TK7DxI"
+            },
+            {
+              "display_url": "pic.x.com/owf4TK7DxI",
+              "end": 142,
+              "expanded_url": "https://x.com/DQadopt/status/2026916630098489660/photo/1",
+              "media_key": "3_2026916620619362304",
+              "start": 119,
+              "url": "https://t.co/owf4TK7DxI"
+            },
+            {
+              "display_url": "pic.x.com/owf4TK7DxI",
+              "end": 142,
+              "expanded_url": "https://x.com/DQadopt/status/2026916630098489660/photo/1",
+              "media_key": "3_2026916620606816256",
+              "start": 119,
+              "url": "https://t.co/owf4TK7DxI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026916630098489660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咋说，说不出来啊，她是直女还是纸性恋（我是不是特别惨），我俩彻底没可能，所以只能当朋友，所以我没表白，四五年前表白就失败了，她现在大概喜欢做梦梦到的一个粉色头发哥哥\n纯爱之王吗😇😇😇那是我没招了，喜欢上直女我真的没招了\n别磕啊真的会BE https://t.co/owf4TK7DxI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 111,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 829
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

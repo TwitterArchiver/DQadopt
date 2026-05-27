@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2027271408137703580",
+    "created_at": "2026-02-27T07:21:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T08:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027282853718048870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1773714073676652544",
+          "start": 0,
+          "username": "9jy6op"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027282853718048870",
+    "in_reply_to_user_id": "1773714073676652544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027271408137703580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9jy6op 啥味道"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027271398180458496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJQmH_bEAAGgDn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2027271408137703580",
+        "created_at": "2026-02-27T07:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027282853718048870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1773714073676652544",
+              "start": 0,
+              "username": "9jy6op"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027282853718048870",
+        "in_reply_to_user_id": "1773714073676652544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027271408137703580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9jy6op 啥味道"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027271398180458496"
+          ]
+        },
+        "author_id": "1773714073676652544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2027271408137703580",
+        "created_at": "2026-02-27T06:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T07:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027271408137703580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fPxyqKwWCW",
+              "end": 40,
+              "expanded_url": "https://x.com/9jy6op/status/2027271408137703580/photo/1",
+              "media_key": "3_2027271398180458496",
+              "start": 17,
+              "url": "https://t.co/fPxyqKwWCW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027271408137703580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "dq大米味儿\n里面是有加稀饭吗？ https://t.co/fPxyqKwWCW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 132,
+          "like_count": 482,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 909
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T14:09:39.000Z",
+        "description": "les！南京北京0～0.9/游戏机属性，黑长发白皮淡妆小p/短剧导演旁边打杂的后期/成年了/没有做1️⃣过 ，坏猫，恶趣味的人，最爱美强惨",
+        "id": "1773714073676652544",
+        "location": "学电影学的",
+        "name": "甜美商务猫",
+        "pinned_tweet_id": "2024655157448073527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014567207083122688/kob0_au0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 656,
+          "like_count": 7660,
+          "listed_count": 4,
+          "media_count": 1076,
+          "tweet_count": 22857
+        },
+        "username": "9jy6op",
+        "verified": false
+      }
+    ]
+  }
+}

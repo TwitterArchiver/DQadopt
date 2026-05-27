@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024110069361889280",
+        "3_2024110069366095872"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2024110087036649831",
+    "created_at": "2026-02-18T13:13:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T14:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024110087036649831"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 121,
+          "start": 117,
+          "tag": "les"
+        },
+        {
+          "end": 126,
+          "start": 122,
+          "tag": "wlw"
+        },
+        {
+          "end": 132,
+          "start": 127,
+          "tag": "女同性恋"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zX3t3mLnMK",
+          "end": 156,
+          "expanded_url": "https://x.com/DQadopt/status/2024110087036649831/photo/1",
+          "media_key": "3_2024110069361889280",
+          "start": 133,
+          "url": "https://t.co/zX3t3mLnMK"
+        },
+        {
+          "display_url": "pic.x.com/zX3t3mLnMK",
+          "end": 156,
+          "expanded_url": "https://x.com/DQadopt/status/2024110087036649831/photo/1",
+          "media_key": "3_2024110069366095872",
+          "start": 133,
+          "url": "https://t.co/zX3t3mLnMK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024110087036649831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "河南我小看你了，我被冷到发抖，后天就可以回到温暖的大四川抱我的小猫咪了\n今天去了心选姐家楼下，站了十多分钟，去附近小卖部花了两块钱买了个打火机，也许她也在那里买过东西\n点了一根两个星期都没抽的烟，我只带了那一根烟，被揣到发皱的一根烟\n#les #wlw #女同性恋 https://t.co/zX3t3mLnMK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1758,
+        "media_key": "3_2024110069361889280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcVYkabUAA-lUJ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024110069366095872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcVYkbbgAA04hv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024110069361889280",
+            "3_2024110069366095872"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2024110087036649831",
+        "created_at": "2026-02-18T13:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024110087036649831"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "les"
+            },
+            {
+              "end": 126,
+              "start": 122,
+              "tag": "wlw"
+            },
+            {
+              "end": 132,
+              "start": 127,
+              "tag": "女同性恋"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zX3t3mLnMK",
+              "end": 156,
+              "expanded_url": "https://x.com/DQadopt/status/2024110087036649831/photo/1",
+              "media_key": "3_2024110069361889280",
+              "start": 133,
+              "url": "https://t.co/zX3t3mLnMK"
+            },
+            {
+              "display_url": "pic.x.com/zX3t3mLnMK",
+              "end": 156,
+              "expanded_url": "https://x.com/DQadopt/status/2024110087036649831/photo/1",
+              "media_key": "3_2024110069366095872",
+              "start": 133,
+              "url": "https://t.co/zX3t3mLnMK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024110087036649831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "河南我小看你了，我被冷到发抖，后天就可以回到温暖的大四川抱我的小猫咪了\n今天去了心选姐家楼下，站了十多分钟，去附近小卖部花了两块钱买了个打火机，也许她也在那里买过东西\n点了一根两个星期都没抽的烟，我只带了那一根烟，被揣到发皱的一根烟\n#les #wlw #女同性恋 https://t.co/zX3t3mLnMK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 91,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 659
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

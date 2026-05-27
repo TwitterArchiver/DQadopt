@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024143590583312384",
+        "3_2024143590222712832"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2024143600452239767",
+    "created_at": "2026-02-18T15:26:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T16:26:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024143600452239767"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4Hk8yZtUf0",
+          "end": 54,
+          "expanded_url": "https://x.com/DQadopt/status/2024143600452239767/photo/1",
+          "media_key": "3_2024143590583312384",
+          "start": 31,
+          "url": "https://t.co/4Hk8yZtUf0"
+        },
+        {
+          "display_url": "pic.x.com/4Hk8yZtUf0",
+          "end": 54,
+          "expanded_url": "https://x.com/DQadopt/status/2024143600452239767/photo/1",
+          "media_key": "3_2024143590222712832",
+          "start": 31,
+          "url": "https://t.co/4Hk8yZtUf0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024143600452239767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉我好崩溃就不能直接说吗我只是个未曾谋面的网友，我不是蛔虫啊 https://t.co/4Hk8yZtUf0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1872,
+        "media_key": "3_2024143590583312384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcz3wsaIAAPSkq.jpg",
+        "width": 990
+      },
+      {
+        "height": 1856,
+        "media_key": "3_2024143590222712832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcz3vWb0AAAWGp.jpg",
+        "width": 988
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024143590583312384",
+            "3_2024143590222712832"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2024143600452239767",
+        "created_at": "2026-02-18T15:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T16:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024143600452239767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Hk8yZtUf0",
+              "end": 54,
+              "expanded_url": "https://x.com/DQadopt/status/2024143600452239767/photo/1",
+              "media_key": "3_2024143590583312384",
+              "start": 31,
+              "url": "https://t.co/4Hk8yZtUf0"
+            },
+            {
+              "display_url": "pic.x.com/4Hk8yZtUf0",
+              "end": 54,
+              "expanded_url": "https://x.com/DQadopt/status/2024143600452239767/photo/1",
+              "media_key": "3_2024143590222712832",
+              "start": 31,
+              "url": "https://t.co/4Hk8yZtUf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024143600452239767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我好崩溃就不能直接说吗我只是个未曾谋面的网友，我不是蛔虫啊 https://t.co/4Hk8yZtUf0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 91,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 662
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

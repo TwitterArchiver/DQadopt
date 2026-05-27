@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2043605061365100622",
+    "created_at": "2026-04-13T08:19:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T09:19:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043605061365100622"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043605061365100622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "性幻想小鸟总会觉得愧疚，我一直在用不可能发生的事情亵渎她，光是脑内意淫就很羞愧了，每次想着她自慰完，躺床上放空大脑，那种悔恨那种不愿再冲的感觉，我发誓再也不想着她自慰了最后甚至第二天又继续\n知道了她哭泣和说话的声音所以越来越具体了，我操啊，和她见面完我感觉性幻想会直接要了我的命🏳️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2043605061365100622",
+        "created_at": "2026-04-13T08:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T09:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043605061365100622"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043605061365100622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "性幻想小鸟总会觉得愧疚，我一直在用不可能发生的事情亵渎她，光是脑内意淫就很羞愧了，每次想着她自慰完，躺床上放空大脑，那种悔恨那种不愿再冲的感觉，我发誓再也不想着她自慰了最后甚至第二天又继续\n知道了她哭泣和说话的声音所以越来越具体了，我操啊，和她见面完我感觉性幻想会直接要了我的命🏳️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1887,
+          "following_count": 314,
+          "like_count": 2847,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 3303
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

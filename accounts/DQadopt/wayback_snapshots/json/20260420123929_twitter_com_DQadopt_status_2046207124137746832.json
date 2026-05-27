@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2046157715337351563",
+    "created_at": "2026-04-20T12:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T13:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046207124137746832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1568178364141416448",
+          "start": 0,
+          "username": "Arapa1magigas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046207124137746832",
+    "in_reply_to_user_id": "1568178364141416448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046157715337351563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arapa1magigas 太棒了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2896,
+        "media_key": "3_2046157472772341760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGVpYWcbQAAPMFD.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2046157715337351563",
+        "created_at": "2026-04-20T12:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046207124137746832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1568178364141416448",
+              "start": 0,
+              "username": "Arapa1magigas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046207124137746832",
+        "in_reply_to_user_id": "1568178364141416448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046157715337351563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arapa1magigas 太棒了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046157472772341760"
+          ]
+        },
+        "author_id": "1568178364141416448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1404838450520465412",
+              "name": "Danganronpa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404838450520465412",
+              "name": "Danganronpa"
+            }
+          }
+        ],
+        "conversation_id": "2046157715337351563",
+        "created_at": "2026-04-20T09:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T10:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046157715337351563"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "ダンガンロンパ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5hEORQgeCV",
+              "end": 32,
+              "expanded_url": "https://x.com/Arapa1magigas/status/2046157715337351563/photo/1",
+              "media_key": "3_2046157472772341760",
+              "start": 9,
+              "url": "https://t.co/5hEORQgeCV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046157715337351563",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 388,
+          "impression_count": 41841,
+          "like_count": 3870,
+          "quote_count": 25,
+          "reply_count": 8,
+          "retweet_count": 571
+        },
+        "reply_settings": "everyone",
+        "text": "#ダンガンロンパ https://t.co/5hEORQgeCV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2050,
+          "following_count": 329,
+          "like_count": 3024,
+          "listed_count": 0,
+          "media_count": 341,
+          "tweet_count": 3606
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-09T10:03:58.000Z",
+        "description": "like weird things.\n@arapa2ma\narapa2magigas@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "arapa2ma"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/63940128",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/63940128",
+                "start": 0,
+                "url": "https://t.co/uyoK82NWdp"
+              }
+            ]
+          }
+        },
+        "id": "1568178364141416448",
+        "location": "🍮",
+        "name": "pirarucu",
+        "pinned_tweet_id": "1954412197691752694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863035161702518784/9vxUIsZT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37003,
+          "following_count": 444,
+          "like_count": 8187,
+          "listed_count": 199,
+          "media_count": 142,
+          "tweet_count": 1068
+        },
+        "url": "https://t.co/uyoK82NWdp",
+        "username": "Arapa1magigas",
+        "verified": true
+      }
+    ]
+  }
+}

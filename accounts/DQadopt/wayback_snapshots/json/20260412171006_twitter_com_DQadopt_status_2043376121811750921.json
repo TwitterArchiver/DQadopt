@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2043249109096669460",
+    "created_at": "2026-04-12T17:10:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T18:10:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043376121811750921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1314825923753988096",
+          "start": 0,
+          "username": "2049androids"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043376121811750921",
+    "in_reply_to_user_id": "1314825923753988096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043249109096669460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2049androids 美味海汇源"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2043248936178126848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsUFPSXkAArUS6.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2043248941114748928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsUFhrWcAAorqU.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2043249109096669460",
+        "created_at": "2026-04-12T17:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043376121811750921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1314825923753988096",
+              "start": 0,
+              "username": "2049androids"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043376121811750921",
+        "in_reply_to_user_id": "1314825923753988096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043249109096669460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2049androids 美味海汇源"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043248936178126848",
+            "3_2043248941114748928"
+          ]
+        },
+        "author_id": "1314825923753988096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2043249109096669460",
+        "created_at": "2026-04-12T08:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043249109096669460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aF3AGPvnOl",
+              "end": 34,
+              "expanded_url": "https://x.com/2049androids/status/2043249109096669460/photo/1",
+              "media_key": "3_2043248936178126848",
+              "start": 11,
+              "url": "https://t.co/aF3AGPvnOl"
+            },
+            {
+              "display_url": "pic.x.com/aF3AGPvnOl",
+              "end": 34,
+              "expanded_url": "https://x.com/2049androids/status/2043249109096669460/photo/1",
+              "media_key": "3_2043248941114748928",
+              "start": 11,
+              "url": "https://t.co/aF3AGPvnOl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043249109096669460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2611,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "来乐山买了十几笼烧麦 https://t.co/aF3AGPvnOl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1883,
+          "following_count": 317,
+          "like_count": 2842,
+          "listed_count": 0,
+          "media_count": 324,
+          "tweet_count": 3278
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-10T07:12:18.000Z",
+        "description": "惜缘随缘不攀缘，来看看情绪涨落，也看看风浪和烟火",
+        "id": "1314825923753988096",
+        "location": "四海为家",
+        "name": "笑一个",
+        "pinned_tweet_id": "1965739017082994917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039600246075138048/2t7nUf7U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2218,
+          "following_count": 469,
+          "like_count": 59488,
+          "listed_count": 5,
+          "media_count": 553,
+          "tweet_count": 2795
+        },
+        "username": "2049androids",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2021505033880338525",
+    "created_at": "2026-02-11T08:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T09:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021505033880338525"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021505033880338525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "工作好忙，我还有好多事情没有计划好，烦死了，这个月画画计划赚钱计划，还有四天就要去河南的计划，酒店啥也没定估计天价吧随便了，她生日信的计划怎么过生日的计划，我不做计划我不能准确看到未来几天该做的事我就会焦虑的要死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2021505033880338525",
+        "created_at": "2026-02-11T08:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021505033880338525"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021505033880338525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "工作好忙，我还有好多事情没有计划好，烦死了，这个月画画计划赚钱计划，还有四天就要去河南的计划，酒店啥也没定估计天价吧随便了，她生日信的计划怎么过生日的计划，我不做计划我不能准确看到未来几天该做的事我就会焦虑的要死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，有喜欢的人不聊骚，本质是暗恋日记和自残日记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2009109277068415195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 84,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 454
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

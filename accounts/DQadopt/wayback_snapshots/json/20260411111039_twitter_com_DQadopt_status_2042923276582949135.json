@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042923238423171077"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2042923276582949135",
+    "created_at": "2026-04-11T11:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T12:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042923276582949135"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AtBNmEgsxX",
+          "end": 23,
+          "expanded_url": "https://x.com/DQadopt/status/2042923276582949135/photo/1",
+          "media_key": "3_2042923238423171077",
+          "start": 0,
+          "url": "https://t.co/AtBNmEgsxX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042923276582949135",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/AtBNmEgsxX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042923238423171077",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnr3ImakAUrKTr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042923238423171077"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2042923276582949135",
+        "created_at": "2026-04-11T11:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T12:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042923276582949135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AtBNmEgsxX",
+              "end": 23,
+              "expanded_url": "https://x.com/DQadopt/status/2042923276582949135/photo/1",
+              "media_key": "3_2042923238423171077",
+              "start": 0,
+              "url": "https://t.co/AtBNmEgsxX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042923276582949135",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AtBNmEgsxX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1855,
+          "following_count": 316,
+          "like_count": 2813,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 3205
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

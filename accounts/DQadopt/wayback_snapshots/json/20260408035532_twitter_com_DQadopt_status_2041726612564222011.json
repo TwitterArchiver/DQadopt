@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2041717750117306689",
+    "created_at": "2026-04-08T03:55:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T04:55:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041726612564222011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1984994990679023618",
+          "start": 0,
+          "username": "CcNan328"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041726612564222011",
+    "in_reply_to_user_id": "1984994990679023618",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041717750117306689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CcNan328 好萌呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041717741342879745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFWjd-Ba8AEfhFg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2041717750117306689",
+        "created_at": "2026-04-08T03:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T04:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041726612564222011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1984994990679023618",
+              "start": 0,
+              "username": "CcNan328"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041726612564222011",
+        "in_reply_to_user_id": "1984994990679023618",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041717750117306689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CcNan328 好萌呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041717741342879745"
+          ]
+        },
+        "author_id": "1984994990679023618",
+        "conversation_id": "2041717750117306689",
+        "created_at": "2026-04-08T03:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T04:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041717750117306689"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "wlw"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "les"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tEg7NXadrz",
+              "end": 42,
+              "expanded_url": "https://x.com/CcNan328/status/2041717750117306689/photo/1",
+              "media_key": "3_2041717741342879745",
+              "start": 19,
+              "url": "https://t.co/tEg7NXadrz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041717750117306689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把头发给剪了…… #wlw #les https://t.co/tEg7NXadrz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 306,
+          "like_count": 2563,
+          "listed_count": 0,
+          "media_count": 303,
+          "tweet_count": 2987
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T14:44:35.000Z",
+        "description": "06🌈t0m 只是随心发发 女生可以给我发私信 我很友好 ᶻz ₍^_ ̫ _^₎ 男性、熟人麻烦绕路 谢谢泥们！🙏❤️",
+        "id": "1984994990679023618",
+        "location": "🇲🇴",
+        "name": "Yi²",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040724692370415616/I2vCQXBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 43,
+          "like_count": 886,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 44
+        },
+        "username": "CcNan328",
+        "verified": false
+      }
+    ]
+  }
+}

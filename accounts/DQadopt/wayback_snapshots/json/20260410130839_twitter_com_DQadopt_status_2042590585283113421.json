@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2042492425466495202",
+    "created_at": "2026-04-10T13:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T14:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042590585283113421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1573939488564604928",
+          "start": 0,
+          "username": "Really59763582"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042590585283113421",
+    "in_reply_to_user_id": "1573939488564604928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042492425466495202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Really59763582 我操好想去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042492414141874176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhkB3FbQAAtNS9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042492414137679872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhkB3EbQAAl6La.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042492414125088768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhkB3BbIAAWOqG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042492414150262784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhkB3HbQAAjSdW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2042492425466495202",
+        "created_at": "2026-04-10T13:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042590585283113421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1573939488564604928",
+              "start": 0,
+              "username": "Really59763582"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042590585283113421",
+        "in_reply_to_user_id": "1573939488564604928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042492425466495202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Really59763582 我操好想去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042492414141874176",
+            "3_2042492414137679872",
+            "3_2042492414125088768",
+            "3_2042492414150262784"
+          ]
+        },
+        "author_id": "1573939488564604928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042492425466495202",
+        "created_at": "2026-04-10T06:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042492425466495202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Z38jqtaYe",
+              "end": 55,
+              "expanded_url": "https://x.com/Really59763582/status/2042492425466495202/photo/1",
+              "media_key": "3_2042492414141874176",
+              "start": 32,
+              "url": "https://t.co/1Z38jqtaYe"
+            },
+            {
+              "display_url": "pic.x.com/1Z38jqtaYe",
+              "end": 55,
+              "expanded_url": "https://x.com/Really59763582/status/2042492425466495202/photo/1",
+              "media_key": "3_2042492414137679872",
+              "start": 32,
+              "url": "https://t.co/1Z38jqtaYe"
+            },
+            {
+              "display_url": "pic.x.com/1Z38jqtaYe",
+              "end": 55,
+              "expanded_url": "https://x.com/Really59763582/status/2042492425466495202/photo/1",
+              "media_key": "3_2042492414125088768",
+              "start": 32,
+              "url": "https://t.co/1Z38jqtaYe"
+            },
+            {
+              "display_url": "pic.x.com/1Z38jqtaYe",
+              "end": 55,
+              "expanded_url": "https://x.com/Really59763582/status/2042492425466495202/photo/1",
+              "media_key": "3_2042492414150262784",
+              "start": 32,
+              "url": "https://t.co/1Z38jqtaYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042492425466495202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9512,
+          "like_count": 146,
+          "quote_count": 0,
+          "reply_count": 52,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在赶集\n好便宜\n蓝莓25一斤 花十块钱 粉4块 \n我想定居了 https://t.co/1Z38jqtaYe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 313,
+          "like_count": 2786,
+          "listed_count": 0,
+          "media_count": 318,
+          "tweet_count": 3164
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T07:37:06.000Z",
+        "description": "骂我反弹/不会骂人/推广自辨 /不线下不约/匿名：https://t.co/Hz6mCp3WqJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/really597635821",
+                "end": 48,
+                "expanded_url": "https://ngl.link/really597635821",
+                "start": 25,
+                "url": "https://t.co/Hz6mCp3WqJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=CUqFwt8R",
+                "start": 0,
+                "url": "https://t.co/AokdvU8kFI"
+              }
+            ]
+          }
+        },
+        "id": "1573939488564604928",
+        "location": "🚪520自用✈️⬇️",
+        "name": "芋泥麻薯蛋挞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017653933800644608/o5GAj2yk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15233,
+          "following_count": 191,
+          "like_count": 4086,
+          "listed_count": 30,
+          "media_count": 111,
+          "tweet_count": 2276
+        },
+        "url": "https://t.co/AokdvU8kFI",
+        "username": "Really59763582",
+        "verified": false
+      }
+    ]
+  }
+}

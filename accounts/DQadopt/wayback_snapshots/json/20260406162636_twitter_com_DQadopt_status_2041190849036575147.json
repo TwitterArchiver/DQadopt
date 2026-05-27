@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2041190849036575147",
+    "created_at": "2026-04-06T16:26:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T17:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041190849036575147"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041190849036575147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哈哈，想引诱下个月小鸟见面扇我耳光失败了，因为她痛恨以前的我，不管是我想被她打的欲望还是她能解气的欲望，我都想被她扇耳光，小鸟说她没有这个癖好，我说好吧\n好吧其实我是一个M1啊，生理痛只接受扇耳光，更喜欢精神上的疼痛啊，以前爱小鸟爱的心脏痛的爽爽的，现在甜甜的也好爽，爱你小鸟明天见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2041190849036575147",
+        "created_at": "2026-04-06T16:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041190849036575147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041190849036575147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈，想引诱下个月小鸟见面扇我耳光失败了，因为她痛恨以前的我，不管是我想被她打的欲望还是她能解气的欲望，我都想被她扇耳光，小鸟说她没有这个癖好，我说好吧\n好吧其实我是一个M1啊，生理痛只接受扇耳光，更喜欢精神上的疼痛啊，以前爱小鸟爱的心脏痛的爽爽的，现在甜甜的也好爽，爱你小鸟明天见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1734,
+          "following_count": 304,
+          "like_count": 2487,
+          "listed_count": 1,
+          "media_count": 299,
+          "tweet_count": 2889
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

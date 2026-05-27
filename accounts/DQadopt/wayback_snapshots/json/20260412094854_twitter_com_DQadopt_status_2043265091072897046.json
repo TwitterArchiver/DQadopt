@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2043258652086481232",
+    "created_at": "2026-04-12T09:48:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T10:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043265091072897046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982801475991724032",
+          "start": 0,
+          "username": "moonnyxxx996"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043265091072897046",
+    "in_reply_to_user_id": "1982801475991724032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043262797661020572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moonnyxxx996 嗯嗯，我就是劝自己想开点，至少她还有可能更喜欢我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2043258652086481232",
+        "created_at": "2026-04-12T09:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043265091072897046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982801475991724032",
+              "start": 0,
+              "username": "moonnyxxx996"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043265091072897046",
+        "in_reply_to_user_id": "1982801475991724032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043262797661020572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonnyxxx996 嗯嗯，我就是劝自己想开点，至少她还有可能更喜欢我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982801475991724032",
+        "conversation_id": "2043258652086481232",
+        "created_at": "2026-04-12T09:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043262797661020572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043262797661020572",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043258652086481232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 唉 被爱是要回应的 我甚至给不出来回应 爱和被爱我都不行😔   还有就是 不要往沉重的地方想，你对小鸟的爱太深，但对她来说，她对你的爱还有得提升呢，不要想太极端呀……朋友这个吧，感觉更看缘分，如果聊得来，就自然而然成朋友了，反而不会目的性很强"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1878,
+          "following_count": 318,
+          "like_count": 2831,
+          "listed_count": 0,
+          "media_count": 323,
+          "tweet_count": 3256
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-27T13:28:29.000Z",
+        "description": "🌈 les0.5m 短发微胖 水瓶intj 女权主义/厌男反婚 死宅二次元小画师 （）乱七八糟碎碎念的空间 就当我性压抑吧等个聊绿的聊得来的天降炮友 ip辽宁 我爱不动 不谈不纠缠",
+        "id": "1982801475991724032",
+        "name": "桃丸丸ᰔ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033622138603892736/aD9T0FFd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 305,
+          "like_count": 4863,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 974
+        },
+        "username": "moonnyxxx996",
+        "verified": false
+      }
+    ]
+  }
+}

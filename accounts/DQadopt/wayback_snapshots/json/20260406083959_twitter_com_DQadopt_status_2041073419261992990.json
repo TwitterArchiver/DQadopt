@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041073385166577664"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2041073419261992990",
+    "created_at": "2026-04-06T08:39:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T09:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041073419261992990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rEfFs0p8ou",
+          "end": 164,
+          "expanded_url": "https://x.com/DQadopt/status/2041073419261992990/photo/1",
+          "media_key": "3_2041073385166577664",
+          "start": 141,
+          "url": "https://t.co/rEfFs0p8ou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041073419261992990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "非常不接受….我喜欢的人如果能接受我就不会再爱她，我不想评价其他人我感觉现在的社会这样也蛮正常，但并不代表我接受，你要是关注我足够久的话应该就不会有这个疑问了哈哈哈哈（没有恶意）\n但其实因为我现实社交圈子有太多吸毒滥交的人，小鸟以前担心过我会不会滥交）我会用时间和行动来证明hhh https://t.co/rEfFs0p8ou"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041073385166577664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNZbgNboAAnjQy.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041073385166577664"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2041073419261992990",
+        "created_at": "2026-04-06T08:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041073419261992990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rEfFs0p8ou",
+              "end": 164,
+              "expanded_url": "https://x.com/DQadopt/status/2041073419261992990/photo/1",
+              "media_key": "3_2041073385166577664",
+              "start": 141,
+              "url": "https://t.co/rEfFs0p8ou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041073419261992990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非常不接受….我喜欢的人如果能接受我就不会再爱她，我不想评价其他人我感觉现在的社会这样也蛮正常，但并不代表我接受，你要是关注我足够久的话应该就不会有这个疑问了哈哈哈哈（没有恶意）\n但其实因为我现实社交圈子有太多吸毒滥交的人，小鸟以前担心过我会不会滥交）我会用时间和行动来证明hhh https://t.co/rEfFs0p8ou"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1726,
+          "following_count": 304,
+          "like_count": 2444,
+          "listed_count": 1,
+          "media_count": 298,
+          "tweet_count": 2861
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

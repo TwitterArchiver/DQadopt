@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989965282799226880",
+    "conversation_id": "2033855801325126041",
+    "created_at": "2026-03-17T15:00:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T16:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033921474780877177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1839658906538442753",
+          "start": 0,
+          "username": "Bakuya0000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033921474780877177",
+    "in_reply_to_user_id": "1839658906538442753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033921317305782660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bakuya0000 希望那些人能得到惩罚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2033855801325126041",
+        "created_at": "2026-03-17T15:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T16:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033921474780877177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1839658906538442753",
+              "start": 0,
+              "username": "Bakuya0000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033921474780877177",
+        "in_reply_to_user_id": "1839658906538442753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033921317305782660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bakuya0000 希望那些人能得到惩罚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839658906538442753",
+        "conversation_id": "2033855801325126041",
+        "created_at": "2026-03-17T15:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T16:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033921317305782660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033921317305782660",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033855801325126041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 欠下的债终归还是要还的，命债更是如此"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 243,
+          "like_count": 1809,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 2131
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-27T13:31:01.000Z",
+        "description": "✨ バクヤ |生命在于折腾",
+        "id": "1839658906538442753",
+        "name": "墨冶",
+        "pinned_tweet_id": "1961455391017243112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004566049124212736/49YUtb3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 273,
+          "like_count": 34,
+          "listed_count": 1,
+          "media_count": 322,
+          "tweet_count": 2346
+        },
+        "username": "Bakuya0000",
+        "verified": false
+      }
+    ]
+  }
+}

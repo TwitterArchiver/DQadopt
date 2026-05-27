@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041429500173643776"
+      ]
+    },
+    "author_id": "1989965282799226880",
+    "conversation_id": "2041429512198791382",
+    "created_at": "2026-04-07T08:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T09:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041429512198791382"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ywQ46XX7LD",
+          "end": 166,
+          "expanded_url": "https://x.com/DQadopt/status/2041429512198791382/photo/1",
+          "media_key": "3_2041429500173643776",
+          "start": 143,
+          "url": "https://t.co/ywQ46XX7LD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041429512198791382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天跟我妈吵她又掐着我的脸问我要不要一起去死了，说出去玩一圈就不要再回来了去跳楼，这几天老板又一直否定我打压我，今天给小鸟买中午饭也是非常不顺利，小鸟不开心了，我觉得我的人生就这样了，不会再有好的起色了\n愁啊，惆怅，还是死了好，死了就不去烦恼这么多了，100g亚硝酸钠没死成真是遗憾啊 https://t.co/ywQ46XX7LD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2041429500173643776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSdUH_acAAZJXb.jpg",
+        "width": 778
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041429500173643776"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2041429512198791382",
+        "created_at": "2026-04-07T08:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T09:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041429512198791382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ywQ46XX7LD",
+              "end": 166,
+              "expanded_url": "https://x.com/DQadopt/status/2041429512198791382/photo/1",
+              "media_key": "3_2041429500173643776",
+              "start": 143,
+              "url": "https://t.co/ywQ46XX7LD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041429512198791382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天跟我妈吵她又掐着我的脸问我要不要一起去死了，说出去玩一圈就不要再回来了去跳楼，这几天老板又一直否定我打压我，今天给小鸟买中午饭也是非常不顺利，小鸟不开心了，我觉得我的人生就这样了，不会再有好的起色了\n愁啊，惆怅，还是死了好，死了就不去烦恼这么多了，100g亚硝酸钠没死成真是遗憾啊 https://t.co/ywQ46XX7LD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 305,
+          "like_count": 2492,
+          "listed_count": 1,
+          "media_count": 300,
+          "tweet_count": 2920
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}
