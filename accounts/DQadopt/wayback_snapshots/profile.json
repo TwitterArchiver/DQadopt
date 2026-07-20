@@ -3,18 +3,9 @@
   "username": "@DQadopt",
   "bio": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
   "location": "千百次孤独",
-  "link": "",
+  "link": "https://ngl.link/dqadopt",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
-  "bio_entities": {
-    "urls": [
-      {
-        "display_url": "vgen.co/silent1111",
-        "end": 65,
-        "expanded_url": "https://vgen.co/silent1111",
-        "start": 42,
-        "url": "https://t.co/FQ0CpCByCI"
-      }
-    ]
-  }
+  "bio_entities": {},
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg"
 }
